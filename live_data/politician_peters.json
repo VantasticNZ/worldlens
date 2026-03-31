@@ -1,0 +1,85 @@
+{
+  "id": "peters",
+  "type": "politician",
+  "lie_count": 1,
+  "lies": [
+    {
+      "date": "March 2026",
+      "claim": "Peters' tweet misrepresents international health regulation changes",
+      "reality": "The changes were not as Peters described",
+      "source": "Newsroom, 25 March 2026",
+      "severity": "med",
+      "platform": "twitter",
+      "_id": "683f8fef",
+      "_crawled": "2026-03-31T20:43:56.549522Z"
+    }
+  ],
+  "social_posts": [
+    {
+      "platform": "twitter",
+      "date": "2026",
+      "text": "We ...",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Peters' account corrected Christopher Luxon's tweet about a trade deal",
+        "source": "NZ Herald",
+        "severity": "low"
+      },
+      "_id": "e760f884",
+      "_crawled": "2026-03-31T20:43:56.549522Z"
+    }
+  ],
+  "votes": [],
+  "recent_events": [
+    {
+      "year": 2026,
+      "title": "Winston Peters to visit Cook Islands",
+      "desc": "Peters will visit the Cook Islands for talks with Prime Minister Mark Brown",
+      "type": "neutral",
+      "source": "RNZ",
+      "_id": "0d2b2ce0",
+      "_crawled": "2026-03-31T20:43:56.549522Z"
+    },
+    {
+      "year": 2026,
+      "title": "Peters meets with Mexican ambassador after 'racist' comments",
+      "desc": "Peters met with the Mexican ambassador after being accused of making racist comments",
+      "type": "negative",
+      "source": "RNZ",
+      "_id": "622e7447",
+      "_crawled": "2026-03-31T20:43:56.549522Z"
+    }
+  ],
+  "score_adjustments": {
+    "2026-03-31T20:43:56.549522Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' misrepresentation of international health regulation changes and his history of controversial comments"
+    }
+  },
+  "summary_updates": [
+    {
+      "date": "2026-03-31T20:43:56.549522Z",
+      "text": "Winston Peters' recent activities and statements have raised concerns about his integrity and judgment."
+    }
+  ],
+  "crawl_log": [
+    {
+      "date": "2026-03-31T20:43:56.549522Z",
+      "notes": "Peters' social media activity and public statements require continued monitoring for potential discrepancies and misrepresentations.",
+      "new_items": true
+    }
+  ],
+  "sources_log": [
+    {
+      "date": "2026-03-31T20:43:56.549576Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
+    }
+  ],
+  "last_updated": "2026-03-31T20:43:56.549594Z"
+}

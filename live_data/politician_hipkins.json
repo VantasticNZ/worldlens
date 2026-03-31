@@ -1,0 +1,29 @@
+{
+  "id": "hipkins",
+  "type": "politician",
+  "lie_count": 0,
+  "lies": [],
+  "social_posts": [],
+  "votes": [],
+  "recent_events": [],
+  "score_adjustments": {},
+  "summary_updates": [],
+  "crawl_log": [
+    {
+      "date": "2026-03-31T20:46:36.427893Z",
+      "notes": "No significant new findings",
+      "new_items": false
+    }
+  ],
+  "sources_log": [
+    {
+      "date": "2026-03-31T20:46:36.427904Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
+    }
+  ],
+  "last_updated": "2026-03-31T20:46:36.427922Z"
+}

@@ -1,0 +1,118 @@
+{
+  "generated": "2026-03-31T20:48:17.028016Z",
+  "files": {
+    "politician_bishop": {
+      "last_updated": "2026-03-31T20:46:01.001134Z",
+      "lie_count": 0,
+      "event_count": 0,
+      "post_count": 0,
+      "vote_count": 0,
+      "sources": []
+    },
+    "politician_willis": {
+      "last_updated": "2026-03-31T20:45:24.893431Z",
+      "lie_count": 0,
+      "event_count": 0,
+      "post_count": 0,
+      "vote_count": 0,
+      "sources": []
+    },
+    "politician_trump_us": {
+      "last_updated": "2026-03-31T20:47:30.684632Z",
+      "lie_count": 0,
+      "event_count": 0,
+      "post_count": 0,
+      "vote_count": 0,
+      "sources": []
+    },
+    "politician_peters": {
+      "last_updated": "2026-03-31T20:43:56.549594Z",
+      "lie_count": 1,
+      "event_count": 2,
+      "post_count": 1,
+      "vote_count": 0,
+      "sources": [
+        [
+          "RSS (1 articles from NZ/intl media)",
+          "Tavily: Winston Peters NZ First contradiction 20",
+          "Tavily: Winston Peters tweet statement 2026"
+        ]
+      ]
+    },
+    "politician_seymour": {
+      "last_updated": "2026-03-31T20:44:26.147157Z",
+      "lie_count": 0,
+      "event_count": 0,
+      "post_count": 0,
+      "vote_count": 0,
+      "sources": [
+        [
+          "RSS (1 articles from NZ/intl media)",
+          "Tavily: David Seymour ACT contradiction fact che",
+          "Tavily: David Seymour statement 2026"
+        ]
+      ]
+    },
+    "politician_hipkins": {
+      "last_updated": "2026-03-31T20:46:36.427922Z",
+      "lie_count": 0,
+      "event_count": 0,
+      "post_count": 0,
+      "vote_count": 0,
+      "sources": [
+        [
+          "RSS (1 articles from NZ/intl media)",
+          "Tavily: Chris Hipkins Labour statement 2026",
+          "Tavily: Chris Hipkins contradiction 2026"
+        ]
+      ]
+    },
+    "politician_luxon": {
+      "last_updated": "2026-03-31T20:43:28.991186Z",
+      "lie_count": 0,
+      "event_count": 2,
+      "post_count": 0,
+      "vote_count": 0,
+      "sources": [
+        [
+          "RSS (1 articles from NZ/intl media)",
+          "GDELT global news database",
+          "Tavily: Christopher Luxon lie contradiction 2026",
+          "Tavily: Christopher Luxon statement tweet social"
+        ]
+      ]
+    },
+    "politician_starmer_uk": {
+      "last_updated": "2026-03-31T20:48:16.027746Z",
+      "lie_count": 0,
+      "event_count": 0,
+      "post_count": 0,
+      "vote_count": 0,
+      "sources": []
+    },
+    "politician_albanese_au": {
+      "last_updated": "2026-03-31T20:47:51.604268Z",
+      "lie_count": 0,
+      "event_count": 0,
+      "post_count": 0,
+      "vote_count": 0,
+      "sources": []
+    },
+    "politician_jones": {
+      "last_updated": "2026-03-31T20:44:55.607023Z",
+      "lie_count": 0,
+      "event_count": 0,
+      "post_count": 0,
+      "vote_count": 0,
+      "sources": []
+    },
+    "politician_swarbrick": {
+      "last_updated": "2026-03-31T20:46:59.925722Z",
+      "lie_count": 0,
+      "event_count": 0,
+      "post_count": 0,
+      "vote_count": 0,
+      "sources": []
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "luxon",
+  "type": "politician",
+  "lie_count": 0,
+  "lies": [],
+  "social_posts": [],
+  "votes": [],
+  "recent_events": [
+    {
+      "year": 2026,
+      "title": "Cabinet Reshuffle",
+      "desc": "Christopher Luxon's election-year Cabinet reshuffle",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "9b473b04",
+      "_crawled": "2026-03-31T20:43:28.991133Z"
+    },
+    {
+      "year": 2026,
+      "title": "Matai Title Controversy",
+      "desc": "Controversy over Christopher Luxon being bestowed the Tuisinavemauluomoto’otua title by the village of Apia",
+      "type": "negative",
+      "source": "RNZ",
+      "_id": "0905b582",
+      "_crawled": "2026-03-31T20:43:28.991133Z"
+    }
+  ],
+  "score_adjustments": {},
+  "summary_updates": [],
+  "crawl_log": [
+    {
+      "date": "2026-03-31T20:43:28.991133Z",
+      "notes": "New events and controversies related to Christopher Luxon",
+      "new_items": true
+    }
+  ],
+  "sources_log": [
+    {
+      "date": "2026-03-31T20:43:28.991168Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
+    }
+  ],
+  "last_updated": "2026-03-31T20:43:28.991186Z"
+}

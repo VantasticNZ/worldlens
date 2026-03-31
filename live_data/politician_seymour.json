@@ -1,0 +1,29 @@
+{
+  "id": "seymour",
+  "type": "politician",
+  "lie_count": 0,
+  "lies": [],
+  "social_posts": [],
+  "votes": [],
+  "recent_events": [],
+  "score_adjustments": {},
+  "summary_updates": [],
+  "crawl_log": [
+    {
+      "date": "2026-03-31T20:44:26.147131Z",
+      "notes": "No significant new findings",
+      "new_items": false
+    }
+  ],
+  "sources_log": [
+    {
+      "date": "2026-03-31T20:44:26.147140Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
+    }
+  ],
+  "last_updated": "2026-03-31T20:44:26.147157Z"
+}
