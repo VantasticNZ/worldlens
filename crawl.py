@@ -5,7 +5,7 @@ WorldLens Multi-Source Automated Crawler
 Runs via GitHub Actions. Uses 7 data sources — most free with no key required.
 
 REQUIRED GitHub Secrets (only these two need keys):
-  ANTHROPIC_API_KEY   — console.anthropic.com (pay per use, ~$3-8/month)
+  GROQ_API_KEY   — console.groq.com (free)
   TAVILY_API_KEY      — tavily.com (free, 1000 searches/month)
 
 FREE sources requiring NO key:
@@ -29,14 +29,14 @@ from urllib.parse import urlencode, quote_plus
 import requests
 
 # ── CONFIG ──
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-TAVILY_API_KEY    = os.environ.get("TAVILY_API_KEY", "")
-NEWSAPI_KEY       = os.environ.get("NEWSAPI_KEY", "")   # optional
-CLAUDE_MODEL      = "claude-sonnet-4-20250514"
-DATA_DIR          = Path(__file__).parent.parent / "live_data"
+GROQ_API_KEY   = os.environ.get("GROQ_API_KEY", "")
+TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY", "")
+NEWSAPI_KEY    = os.environ.get("NEWSAPI_KEY", "")   # optional
+GROQ_MODEL     = "llama-3.3-70b-versatile"           # free, fast, capable
+DATA_DIR       = Path(__file__).parent.parent / "live_data"
 DATA_DIR.mkdir(exist_ok=True)
 
-ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 TODAY         = datetime.date.today().isoformat()
 THIS_YEAR     = datetime.date.today().year
 
@@ -360,12 +360,12 @@ def beehive_search(name: str) -> list[dict]:
 
 
 # ══════════════════════════════════════════════════════════════
-# CLAUDE EXTRACTION
+# GROQ EXTRACTION
 # ══════════════════════════════════════════════════════════════
-def claude_extract(context: str, entity_name: str, entity_type: str,
-                   existing_data: dict, sources_used: list[str]) -> dict | None:
-    if not ANTHROPIC_API_KEY:
-        print("  [SKIP] No Anthropic key")
+def groq_extract(context: str, entity_name: str, entity_type: str,
+                  existing_data: dict, sources_used: list[str]) -> dict | None:
+    if not GROQ_API_KEY:
+        print("  [SKIP] No Groq key")
         return None
 
     existing_summary = json.dumps({
@@ -379,22 +379,22 @@ def claude_extract(context: str, entity_name: str, entity_type: str,
 
 Entity: {entity_name} ({entity_type})
 Today: {TODAY}
-Sources used this crawl: {', '.join(sources_used)}
+Sources used: {', '.join(sources_used)}
 
 EXISTING DATA — do NOT repeat these, only add NEW findings:
 {existing_summary}
 
-SEARCH RESULTS FROM MULTIPLE SOURCES:
+SEARCH RESULTS:
 {context}
 
-Extract ONLY genuinely new, verifiable, notable findings. Be strict — only include findings clearly supported by the results above. Do not hallucinate sources.
+Extract ONLY new, verifiable findings supported by the results. Do not hallucinate sources.
 
-Return JSON only (no markdown fences):
+Return ONLY valid JSON, no markdown, no explanation:
 {{
   "new_lies": [
     {{
       "date": "Month YYYY",
-      "claim": "exact quote or close paraphrase",
+      "claim": "exact quote or paraphrase",
       "reality": "what actually happened",
       "source": "publication and date",
       "severity": "high|med|low",
@@ -403,14 +403,14 @@ Return JSON only (no markdown fences):
   ],
   "new_social_posts": [
     {{
-      "platform": "twitter|facebook|instagram|linkedin|youtube|press",
+      "platform": "twitter|facebook|instagram|linkedin|press",
       "date": "Month YYYY",
       "text": "post text",
       "verified_by": "source",
       "discrepancy": {{
-        "type": "contradicts_vote|contradicts_policy|contradicts_statement|contradicts_action|misleading_stat|deleted_post",
+        "type": "contradicts_vote|contradicts_policy|contradicts_statement|contradicts_action|misleading_stat",
         "detail": "specific contradiction",
-        "source": "source for contradiction",
+        "source": "source",
         "severity": "high|med|low"
       }}
     }}
@@ -439,38 +439,38 @@ Return JSON only (no markdown fences):
     "corruption_risk_delta": 0,
     "reasoning": "explanation if non-zero"
   }},
-  "summary_update": "1-2 sentence update, only if significant",
-  "crawl_notes": "context for human reviewer"
+  "summary_update": "1-2 sentence update if significant, else empty string",
+  "crawl_notes": "brief notes for reviewer"
 }}
 
-Rules:
-- Only include findings supported by evidence in the results
-- Do not invent sources
-- If nothing notable: return {{"crawl_notes": "No significant new findings"}}
-- Severity 'high' = clear documented contradiction with strong sourcing
-- Small score adjustments only: -5 to +5 range"""
+If nothing notable found, return: {{"crawl_notes": "No significant new findings"}}"""
 
     try:
-        r = SESSION.post(ANTHROPIC_URL, headers={
+        r = SESSION.post(GROQ_URL, headers={
             "Content-Type": "application/json",
-            "x-api-key": ANTHROPIC_API_KEY,
-            "anthropic-version": "2023-06-01",
+            "Authorization": f"Bearer {GROQ_API_KEY}",
         }, json={
-            "model": CLAUDE_MODEL,
-            "max_tokens": 1800,
-            "messages": [{"role": "user", "content": prompt}],
-        }, timeout=90)
+            "model": GROQ_MODEL,
+            "messages": [
+                {"role": "system", "content": "You are a political intelligence analyst. Always respond with valid JSON only. No markdown fences, no explanation, just the JSON object."},
+                {"role": "user", "content": prompt},
+            ],
+            "temperature": 0.1,
+            "max_tokens": 2000,
+        }, timeout=60)
         r.raise_for_status()
-        raw = r.json()["content"][0]["text"].strip()
+
+        raw = r.json()["choices"][0]["message"]["content"].strip()
         # Strip any accidental markdown fences
         raw = re.sub(r"^```(?:json)?\s*", "", raw)
         raw = re.sub(r"\s*```$", "", raw).strip()
         return json.loads(raw)
+
     except json.JSONDecodeError as e:
-        print(f"  [WARN] Claude non-JSON: {e}")
+        print(f"  [WARN] Groq returned non-JSON: {e}")
         return None
     except Exception as e:
-        print(f"  [ERROR] Claude: {e}")
+        print(f"  [ERROR] Groq: {e}")
         return None
 
 
@@ -698,7 +698,7 @@ def crawl_politician(target: dict):
     context = _format_context(all_results)
 
     print(f"  [Claude] Extracting findings…")
-    findings = claude_extract(context, name, "politician", existing, sources_used)
+    findings = groq_extract(context, name, "politician", existing, sources_used)
 
     if not findings:
         save_live(eid, "politician", existing)
@@ -757,7 +757,7 @@ def crawl_company(target: dict):
         return
 
     context = _format_context(all_results)
-    findings = claude_extract(context, name, "company", existing, sources_used)
+    findings = groq_extract(context, name, "company", existing, sources_used)
 
     if not findings:
         save_live(eid, "company", existing)
@@ -795,7 +795,7 @@ def crawl_country(target: dict):
         return
 
     context = _format_context(all_results)
-    findings = claude_extract(context, name, "country", existing, sources_used)
+    findings = groq_extract(context, name, "country", existing, sources_used)
     if not findings:
         save_live(eid, "country", existing)
         return
@@ -857,8 +857,8 @@ def main():
     print(f"WorldLens Multi-Source Crawler — {datetime.datetime.utcnow().isoformat()}Z")
     print(f"{'#'*60}")
 
-    if not ANTHROPIC_API_KEY:
-        print("\n[FATAL] ANTHROPIC_API_KEY not set — add as GitHub Secret")
+    if not GROQ_API_KEY:
+        print("\n[FATAL] GROQ_API_KEY not set — add as GitHub Secret")
         return
 
     sources_available = ["NZ Parliament API (free)", "Beehive RSS (free)",
