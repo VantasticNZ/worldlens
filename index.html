@@ -3,525 +3,1317 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>WorldLens — Global Intelligence Platform</title>
-<meta name="description" content="Heatmaps of NZ politicians, countries, companies and workplaces. Transparency through data.">
+<title>Peoples Platform — Community Digital Charity</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Space+Mono:wght@400;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
-<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=Instrument+Serif:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --ink: #0d0f0c;
+    --ink-2: #3a3d38;
+    --ink-3: #6b6f68;
+    --paper: #f7f5f0;
+    --paper-2: #edeae2;
+    --paper-3: #e0ddd4;
+    --green: #1a5c36;
+    --green-2: #2a7d4f;
+    --green-light: #d6edd9;
+    --green-pale: #eef6ef;
+    --amber: #c45a00;
+    --amber-light: #fdefd8;
+    --teal: #0f5f6e;
+    --teal-light: #d4f0f5;
+    --coral: #c13a2b;
+    --coral-light: #fde8e5;
+    --radius: 12px;
+    --radius-sm: 6px;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    font-size: 16px;
+    line-height: 1.6;
+    overflow-x: hidden;
+  }
+
+  /* NAV */
+  nav {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 100;
+    background: rgba(247,245,240,0.92);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--paper-3);
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+  }
+
+  .nav-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+  }
+
+  .nav-logo-mark {
+    width: 34px;
+    height: 34px;
+    background: var(--green);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .nav-logo-mark svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .nav-wordmark {
+    font-family: 'Syne', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--ink);
+    letter-spacing: -0.3px;
+    line-height: 1.2;
+  }
+
+  .nav-wordmark span {
+    display: block;
+    font-size: 10px;
+    font-weight: 400;
+    color: var(--ink-3);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  }
+
+  .nav-links {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    list-style: none;
+  }
+
+  .nav-links a {
+    font-size: 14px;
+    color: var(--ink-2);
+    text-decoration: none;
+    font-weight: 400;
+    transition: color 0.2s;
+  }
+
+  .nav-links a:hover { color: var(--green); }
+
+  .nav-cta {
+    background: var(--green) !important;
+    color: #fff !important;
+    padding: 8px 18px;
+    border-radius: var(--radius-sm);
+    font-weight: 500 !important;
+    transition: background 0.2s !important;
+  }
+
+  .nav-cta:hover { background: var(--green-2) !important; }
+
+  /* HERO */
+  .hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 100px 2rem 60px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+
+  .hero-bg-circle {
+    position: absolute;
+    border-radius: 50%;
+    background: var(--green-light);
+    opacity: 0.4;
+  }
+
+  .hero-content {
+    max-width: 1100px;
+    margin: 0 auto;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+  }
+
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--green-pale);
+    border: 1px solid var(--green-light);
+    color: var(--green);
+    font-size: 12px;
+    font-weight: 500;
+    padding: 5px 12px;
+    border-radius: 20px;
+    margin-bottom: 1.5rem;
+    letter-spacing: 0.3px;
+  }
+
+  .hero-badge::before {
+    content: '';
+    width: 6px;
+    height: 6px;
+    background: var(--green);
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .hero h1 {
+    font-family: 'Syne', sans-serif;
+    font-size: clamp(2.8rem, 5vw, 4.2rem);
+    font-weight: 800;
+    line-height: 1.08;
+    letter-spacing: -2px;
+    color: var(--ink);
+    margin-bottom: 1.5rem;
+  }
+
+  .hero h1 em {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    color: var(--green);
+    font-weight: 400;
+  }
+
+  .hero-desc {
+    font-size: 17px;
+    color: var(--ink-2);
+    line-height: 1.7;
+    margin-bottom: 2.5rem;
+    max-width: 480px;
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .btn-primary {
+    background: var(--green);
+    color: #fff;
+    padding: 13px 26px;
+    border-radius: var(--radius-sm);
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.15s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .btn-primary:hover { background: var(--green-2); transform: translateY(-1px); }
+
+  .btn-secondary {
+    background: transparent;
+    color: var(--ink);
+    padding: 13px 26px;
+    border-radius: var(--radius-sm);
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    border: 1.5px solid var(--paper-3);
+    cursor: pointer;
+    transition: border-color 0.2s, background 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .btn-secondary:hover { border-color: var(--ink-3); background: var(--paper-2); }
+
+  .hero-right {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  .stat-card {
+    background: #fff;
+    border: 1px solid var(--paper-3);
+    border-radius: var(--radius);
+    padding: 1.5rem 1.25rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .stat-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+  }
+
+  .stat-card.green::before { background: var(--green); }
+  .stat-card.amber::before { background: var(--amber); }
+  .stat-card.teal::before { background: var(--teal); }
+  .stat-card.coral::before { background: var(--coral); }
+
+  .stat-card-num {
+    font-family: 'Syne', sans-serif;
+    font-size: 2.4rem;
+    font-weight: 800;
+    line-height: 1;
+    color: var(--ink);
+    margin-bottom: 4px;
+  }
+
+  .stat-card-label {
+    font-size: 12px;
+    color: var(--ink-3);
+    font-weight: 400;
+    letter-spacing: 0.2px;
+  }
+
+  /* SECTION SHARED */
+  section {
+    padding: 6rem 2rem;
+  }
+
+  .section-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .section-tag {
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--green);
+    margin-bottom: 1rem;
+  }
+
+  .section-title {
+    font-family: 'Syne', sans-serif;
+    font-size: clamp(1.8rem, 3vw, 2.6rem);
+    font-weight: 700;
+    letter-spacing: -1px;
+    line-height: 1.15;
+    color: var(--ink);
+    margin-bottom: 1rem;
+  }
+
+  .section-sub {
+    font-size: 17px;
+    color: var(--ink-2);
+    line-height: 1.7;
+    max-width: 560px;
+  }
+
+  /* MISSION */
+  .mission {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 6rem 2rem;
+  }
+
+  .mission .section-tag { color: var(--green-light); }
+  .mission .section-title { color: var(--paper); }
+  .mission .section-sub { color: #a0a89c; }
+
+  .mission-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    margin-top: 3rem;
+    align-items: start;
+  }
+
+  .mission-pillars {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .pillar {
+    display: flex;
+    gap: 1.25rem;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+
+  .pillar:last-child { border-bottom: none; }
+
+  .pillar-icon {
+    width: 40px;
+    height: 40px;
+    background: rgba(255,255,255,0.06);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 18px;
+  }
+
+  .pillar-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--paper);
+    margin-bottom: 4px;
+  }
+
+  .pillar-desc {
+    font-size: 14px;
+    color: #888f84;
+    line-height: 1.6;
+  }
+
+  .mission-quote-block {
+    position: sticky;
+    top: 80px;
+  }
+
+  .mission-quote {
+    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-left: 3px solid var(--green-2);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    padding: 2rem;
+  }
+
+  .mission-quote-text {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: var(--paper);
+    margin-bottom: 1rem;
+  }
+
+  .mission-quote-attr {
+    font-size: 13px;
+    color: #666d62;
+  }
+
+  /* PROJECTS */
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+    margin-top: 3rem;
+  }
+
+  .project-card {
+    background: #fff;
+    border: 1px solid var(--paper-3);
+    border-radius: var(--radius);
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 32px rgba(0,0,0,0.08);
+  }
+
+  .project-card-header {
+    padding: 1.5rem 1.5rem 1rem;
+    border-bottom: 1px solid var(--paper-2);
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .project-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    flex-shrink: 0;
+  }
+
+  .project-status {
+    font-size: 11px;
+    font-weight: 500;
+    padding: 4px 10px;
+    border-radius: 20px;
+    white-space: nowrap;
+  }
+
+  .status-live {
+    background: var(--green-pale);
+    color: var(--green);
+    border: 1px solid var(--green-light);
+  }
+
+  .project-card-body {
+    padding: 1.25rem 1.5rem;
+    flex: 1;
+  }
+
+  .project-name {
+    font-family: 'Syne', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 6px;
+    letter-spacing: -0.3px;
+  }
+
+  .project-desc {
+    font-size: 14px;
+    color: var(--ink-2);
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  .project-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .tag {
+    font-size: 11px;
+    font-weight: 500;
+    padding: 3px 9px;
+    border-radius: 20px;
+    background: var(--paper-2);
+    color: var(--ink-3);
+    border: 1px solid var(--paper-3);
+  }
+
+  .project-card-footer {
+    padding: 1rem 1.5rem;
+    border-top: 1px solid var(--paper-2);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .project-link {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--green);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: gap 0.2s;
+  }
+
+  .project-link:hover { gap: 8px; }
+
+  .project-type {
+    font-size: 11px;
+    color: var(--ink-3);
+  }
+
+  /* HOW WE WORK */
+  .how {
+    background: var(--paper-2);
+  }
+
+  .process-steps {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+    margin-top: 3rem;
+    position: relative;
+  }
+
+  .process-steps::before {
+    content: '';
+    position: absolute;
+    top: 24px;
+    left: 12.5%;
+    right: 12.5%;
+    height: 1px;
+    background: var(--paper-3);
+    z-index: 0;
+  }
+
+  .step {
+    padding: 0 1rem;
+    position: relative;
+    z-index: 1;
+  }
+
+  .step-num {
+    width: 48px;
+    height: 48px;
+    background: #fff;
+    border: 1.5px solid var(--paper-3);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Syne', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--green);
+    margin-bottom: 1.5rem;
+  }
+
+  .step:first-child .step-num { background: var(--green); color: #fff; border-color: var(--green); }
+
+  .step-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 6px;
+    letter-spacing: -0.2px;
+  }
+
+  .step-desc {
+    font-size: 13px;
+    color: var(--ink-3);
+    line-height: 1.6;
+  }
+
+  /* GET INVOLVED */
+  .involve-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-top: 3rem;
+  }
+
+  .involve-card {
+    background: #fff;
+    border: 1px solid var(--paper-3);
+    border-radius: var(--radius);
+    padding: 2rem;
+  }
+
+  .involve-card-icon {
+    width: 52px;
+    height: 52px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    margin-bottom: 1.25rem;
+  }
+
+  .involve-card h3 {
+    font-family: 'Syne', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 8px;
+    letter-spacing: -0.3px;
+  }
+
+  .involve-card p {
+    font-size: 14px;
+    color: var(--ink-2);
+    line-height: 1.65;
+    margin-bottom: 1.5rem;
+  }
+
+  /* CONTACT */
+  .contact {
+    background: var(--green);
+    color: #fff;
+    padding: 5rem 2rem;
+    text-align: center;
+  }
+
+  .contact .section-title { color: #fff; }
+  .contact .section-sub { color: rgba(255,255,255,0.75); margin: 1rem auto 2.5rem; }
+
+  .contact-form {
+    display: flex;
+    gap: 0.75rem;
+    max-width: 480px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .contact-form input {
+    flex: 1;
+    min-width: 200px;
+    padding: 12px 16px;
+    border-radius: var(--radius-sm);
+    border: 1.5px solid rgba(255,255,255,0.25);
+    background: rgba(255,255,255,0.12);
+    color: #fff;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .contact-form input::placeholder { color: rgba(255,255,255,0.5); }
+  .contact-form input:focus { border-color: rgba(255,255,255,0.6); }
+
+  .contact-form button {
+    background: #fff;
+    color: var(--green);
+    border: none;
+    padding: 12px 22px;
+    border-radius: var(--radius-sm);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+
+  .contact-form button:hover { opacity: 0.9; }
+
+  /* FOOTER */
+  footer {
+    background: #0a0c09;
+    color: #888f84;
+    padding: 3rem 2rem 2rem;
+  }
+
+  .footer-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    flex-wrap: wrap;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+
+  .footer-logo {
+    font-family: 'Syne', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .footer-links {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    flex-wrap: wrap;
+  }
+
+  .footer-links a {
+    font-size: 13px;
+    color: #666d62;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .footer-links a:hover { color: #fff; }
+
+  .footer-bottom {
+    max-width: 1100px;
+    margin: 1.5rem auto 0;
+    font-size: 12px;
+    color: #444d40;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  /* DONATE */
+  .donate {
+    background: var(--paper-2);
+    padding: 6rem 2rem;
+  }
+
+  .donate-inner {
+    max-width: 860px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .donate-inner .section-sub {
+    margin: 0 auto 3rem;
+  }
+
+  .donate-tiers {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .donate-tier {
+    background: #fff;
+    border: 1.5px solid var(--paper-3);
+    border-radius: var(--radius);
+    padding: 2rem 1.5rem;
+    cursor: pointer;
+    transition: border-color 0.2s, transform 0.15s;
+    position: relative;
+  }
+
+  .donate-tier:hover {
+    border-color: var(--green);
+    transform: translateY(-2px);
+  }
+
+  .donate-tier.featured {
+    border-color: var(--green);
+    border-width: 2px;
+  }
+
+  .donate-tier-badge {
+    position: absolute;
+    top: -11px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--green);
+    color: #fff;
+    font-size: 10px;
+    font-weight: 500;
+    padding: 3px 12px;
+    border-radius: 20px;
+    white-space: nowrap;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  }
+
+  .donate-tier-amount {
+    font-family: 'Syne', sans-serif;
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--ink);
+    letter-spacing: -1px;
+    margin-bottom: 4px;
+  }
+
+  .donate-tier-label {
+    font-size: 13px;
+    color: var(--ink-3);
+    margin-bottom: 1rem;
+  }
+
+  .donate-tier-desc {
+    font-size: 13px;
+    color: var(--ink-2);
+    line-height: 1.55;
+  }
+
+  .donate-actions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .donate-custom {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    border: 1.5px solid var(--paper-3);
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+    background: #fff;
+  }
+
+  .donate-custom span {
+    padding: 10px 12px;
+    font-size: 14px;
+    color: var(--ink-3);
+    background: var(--paper-2);
+    border-right: 1.5px solid var(--paper-3);
+    font-weight: 500;
+  }
+
+  .donate-custom input {
+    border: none;
+    outline: none;
+    padding: 10px 12px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    color: var(--ink);
+    width: 100px;
+    background: #fff;
+  }
+
+  .bmc-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #FFDD00;
+    color: #1a1a1a;
+    padding: 11px 20px;
+    border-radius: var(--radius-sm);
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.2s, transform 0.15s;
+  }
+
+  .bmc-link:hover { opacity: 0.88; transform: translateY(-1px); }
+
+  @media (max-width: 768px) {
+    .donate-tiers { grid-template-columns: 1fr; }
+  }
+
+  /* ANIMATE */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .fade-up {
+    opacity: 0;
+    animation: fadeUp 0.7s ease forwards;
+  }
+
+  .delay-1 { animation-delay: 0.1s; }
+  .delay-2 { animation-delay: 0.2s; }
+  .delay-3 { animation-delay: 0.35s; }
+  .delay-4 { animation-delay: 0.5s; }
+
+  /* RESPONSIVE */
+  @media (max-width: 768px) {
+    .hero-content { grid-template-columns: 1fr; }
+    .hero-right { display: none; }
+    .mission-grid { grid-template-columns: 1fr; }
+    .mission-quote-block { display: none; }
+    .process-steps { grid-template-columns: 1fr 1fr; }
+    .process-steps::before { display: none; }
+    .involve-grid { grid-template-columns: 1fr; }
+    .nav-links { display: none; }
+  }
+</style>
 </head>
 <body>
-<div id="app">
 
-  <!-- Global Search Bar -->
-  <div id="global-search-bar">
-    <div class="global-search-wrap">
-      <span style="color:#555d72;font-size:16px">🔍</span>
-      <input type="text" id="global-search-input" placeholder="Search politicians, countries, companies, workplaces…" autocomplete="off">
+<!-- NAV -->
+<nav>
+  <a href="#" class="nav-logo">
+    <div class="nav-logo-mark">
+      <svg viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="9" cy="6" r="3" fill="white"/>
+        <path d="M3 15c0-3.314 2.686-6 6-6s6 2.686 6 6" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
     </div>
-    <div id="global-search-results"></div>
+    <div class="nav-wordmark">
+      Peoples Platform
+      <span>Community Digital Charity</span>
+    </div>
+  </a>
+  <ul class="nav-links">
+    <li><a href="#mission">Mission</a></li>
+    <li><a href="#projects">Our Projects</a></li>
+    <li><a href="#how">How We Work</a></li>
+    <li><a href="#involve">Get Involved</a></li>
+    <li><a href="#donate">Donate</a></li>
+    <li><a href="#contact" class="nav-cta">Partner With Us</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-bg">
+    <div class="hero-bg-circle" style="width:600px;height:600px;top:-200px;right:-150px;"></div>
+    <div class="hero-bg-circle" style="width:300px;height:300px;bottom:-100px;left:-80px;opacity:0.2;"></div>
   </div>
-
-  <aside id="sidebar">
-    <div class="logo"><span class="logo-icon">◈</span><span class="logo-text">WorldLens</span></div>
-    <div class="logo-sub">Global Intelligence Platform</div>
-    <nav>
-      <div class="nav-group-label">🇳🇿 New Zealand</div>
-      <button class="nav-btn active" data-view="nz"><span class="nav-icon">🏛</span><span>NZ Politicians</span></button>
-      <button class="nav-btn" data-view="network"><span class="nav-icon">◈</span><span>Conflict Network</span></button>
-      <div class="nav-group-label" style="margin-top:8px">🌍 Global</div>
-      <button class="nav-btn" data-view="countries"><span class="nav-icon">🌍</span><span>Countries</span></button>
-      <button class="nav-btn" data-view="politicians"><span class="nav-icon">🏛</span><span>Politicians</span></button>
-      <button class="nav-btn" data-view="companies"><span class="nav-icon">🏢</span><span>Companies</span></button>
-      <button class="nav-btn" data-view="workplace"><span class="nav-icon">👔</span><span>Workplaces & CEOs</span></button>
-      <div class="nav-group-label" style="margin-top:8px">📋 Platform</div>
-      <button class="nav-btn" data-view="submit"><span class="nav-icon">📤</span><span>Submit Info</span></button>
-      <button class="nav-btn" data-view="methodology"><span class="nav-icon">📋</span><span>Methodology</span></button>
-    </nav>
-    <div class="sidebar-footer">
-      <div class="data-badge">Official Sources Only</div>
-      <div class="data-badge">AI Deep-Dives</div>
-      <div class="data-badge">Community Verified</div>
-      <div id="crawler-status" style="margin-top:8px;padding:6px 8px;background:rgba(34,197,94,0.06);border:1px solid rgba(34,197,94,0.12);border-radius:6px;font-size:10px;line-height:1.4">
-        <span style="color:#555d72;font-size:10px">◌ Checking for live updates…</span>
+  <div class="hero-content">
+    <div>
+      <div class="hero-badge fade-up">Registered Charity · Aotearoa New Zealand</div>
+      <h1 class="fade-up delay-1">Digital tools<br>built for <em>people,</em><br>not profit.</h1>
+      <p class="hero-desc fade-up delay-2">
+        Peoples Platform designs, builds, and maintains websites, apps, and digital initiatives that empower communities — freely and sustainably.
+      </p>
+      <div class="hero-actions fade-up delay-3">
+        <a href="#projects" class="btn-primary">
+          See Our Projects
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 7h10M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <a href="#involve" class="btn-secondary">Get Involved</a>
       </div>
     </div>
-  </aside>
-
-  <main id="main">
-
-    <!-- ══ NZ POLITICIANS ══ -->
-    <div id="view-nz" class="view active">
-      <div class="view-header">
-        <div>
-          <h1>🇳🇿 NZ Politician Profiler</h1>
-          <p class="subtitle">Current government · opposition · historical · lie tracker · network · watchlist</p>
-        </div>
-        <div class="header-controls">
-          <select id="nz-party-filter" class="ctrl-select">
-            <option value="all">All Parties</option>
-            <option value="National">National</option>
-            <option value="ACT">ACT</option>
-            <option value="NZFirst">NZ First</option>
-            <option value="Labour">Labour</option>
-            <option value="Greens">Greens</option>
-          </select>
-          <select id="nz-sort" class="ctrl-select">
-            <option value="integrity">Sort: Integrity</option>
-            <option value="lie_count">Sort: Lie Count</option>
-            <option value="corruption">Sort: Corruption Risk</option>
-            <option value="name">Sort: Name</option>
-          </select>
-          <input type="text" id="nz-search-filter" placeholder="Search name, party, role…" class="search-input" style="width:200px">
-        </div>
+    <div class="hero-right fade-up delay-4">
+      <div class="stat-card green">
+        <div class="stat-card-num">5</div>
+        <div class="stat-card-label">Live projects hosted</div>
       </div>
-
-      <!-- Watchlist -->
-      <div class="card watchlist-card">
-        <div class="card-header">
-          <span>★ Your Watchlist</span>
-          <span style="font-size:12px;color:#555d72">Bookmarks saved locally · click ☆ on any profile to watch</span>
-        </div>
-        <div id="watchlist-items"><div style="color:#555d72;font-size:13px">No politicians on your watchlist yet.</div></div>
+      <div class="stat-card amber">
+        <div class="stat-card-num">100%</div>
+        <div class="stat-card-label">Free to community</div>
       </div>
+      <div class="stat-card teal">
+        <div class="stat-card-num">0</div>
+        <div class="stat-card-label">Ads. Ever.</div>
+      </div>
+      <div class="stat-card coral">
+        <div class="stat-card-num">∞</div>
+        <div class="stat-card-label">Community impact</div>
+      </div>
+    </div>
+  </div>
+</section>
 
-      <!-- Grid -->
-      <div class="card">
-        <div class="card-header">
-          <span>Politician Heatmap</span>
-          <div class="heatmap-legend-row">
-            <span class="legend-dot" style="background:#22c55e"></span><span>High integrity</span>
-            <span class="legend-dot" style="background:#f59e0b"></span><span>Mixed</span>
-            <span class="legend-dot" style="background:#e74c3c"></span><span>Red flags</span>
+<!-- MISSION -->
+<section class="mission" id="mission">
+  <div class="section-inner">
+    <div class="section-tag">Our Mission</div>
+    <h2 class="section-title">Every community deserves<br>world-class digital tools.</h2>
+    <p class="section-sub">We close the digital divide by giving grassroots groups, watchdog initiatives, and social enterprises the same technology advantages as large organisations — at no cost.</p>
+
+    <div class="mission-grid">
+      <div class="mission-pillars">
+        <div class="pillar">
+          <div class="pillar-icon">🌐</div>
+          <div>
+            <div class="pillar-title">Build</div>
+            <div class="pillar-desc">We design and develop fully custom websites, web apps, and digital platforms tailored to each community's needs.</div>
           </div>
         </div>
-        <div id="nz-pol-grid" class="pol-grid"></div>
-      </div>
-
-      <!-- Compare panel -->
-      <div id="nz-compare-panel" class="card" style="display:none">
-        <div class="card-header">
-          <span>Comparison</span>
-          <button class="mini-btn" id="close-nz-compare">✕ Clear</button>
-        </div>
-        <div id="nz-compare-content"></div>
-      </div>
-
-      <!-- Detail panel -->
-      <div id="nz-pol-detail" class="card" style="display:none">
-        <div class="card-header">
-          <span id="nz-pol-detail-name">—</span>
-          <button class="mini-btn" id="close-nz-detail">✕</button>
-        </div>
-        <div id="nz-pol-detail-content"></div>
-      </div>
-
-      <!-- AI panel -->
-      <div id="nz-ai-panel" class="card ai-panel" style="display:none">
-        <div class="card-header">
-          <span>AI Intelligence Brief</span>
-          <button class="mini-btn" id="close-nz-ai">✕</button>
-        </div>
-        <div id="nz-ai-content" class="ai-content"></div>
-      </div>
-    </div>
-
-    <!-- ══ CONFLICT NETWORK ══ -->
-    <div id="view-network" class="view">
-      <div class="view-header">
-        <div>
-          <h1>Conflict of Interest Network</h1>
-          <p class="subtitle">Who funds who · board overlaps · ideological ties · employment flows</p>
-        </div>
-        <div class="header-controls">
-          <select id="network-edge-filter" class="ctrl-select">
-            <option value="all">All connections</option>
-            <option value="funding">Funding only</option>
-            <option value="employment">Employment</option>
-            <option value="ideological">Ideological</option>
-            <option value="coalition">Coalition</option>
-            <option value="policy">Policy alignment</option>
-          </select>
-          <input type="text" id="network-search" placeholder="Highlight node…" class="search-input" style="width:160px">
-        </div>
-      </div>
-      <div class="card network-card">
-        <div class="card-header">
-          <span>NZ Political Influence Map</span>
-          <div class="heatmap-legend-row">
-            <span class="legend-dot" style="background:#00529f"></span><span>National</span>
-            <span class="legend-dot" style="background:#ffd700"></span><span>ACT</span>
-            <span class="legend-dot" style="background:#2c3e50"></span><span>NZ First</span>
-            <span class="legend-dot" style="background:#cc0000"></span><span>Labour</span>
-            <span class="legend-dot" style="background:#008a00"></span><span>Greens</span>
-            <span class="legend-dot" style="background:#7b5cf0"></span><span>Org</span>
-            <span class="legend-dot" style="background:#ef4444"></span><span>Funding</span>
+        <div class="pillar">
+          <div class="pillar-icon">🔧</div>
+          <div>
+            <div class="pillar-title">Maintain</div>
+            <div class="pillar-desc">We keep projects running, updated, and secure — so communities can focus on their mission, not infrastructure.</div>
           </div>
         </div>
-        <div class="network-edge-legend">
-          <span style="color:#f59e0b">—</span> Employment &nbsp;
-          <span style="color:#7b5cf0">—</span> Ideological &nbsp;
-          <span style="color:#ef4444">—</span> Funding &nbsp;
-          <span style="color:#4f8ef7">—</span> Coalition &nbsp;
-          <span style="color:#22c55e">—</span> Party &nbsp;
-          <span style="color:#f97316">—</span> Policy
+        <div class="pillar">
+          <div class="pillar-icon">🤝</div>
+          <div>
+            <div class="pillar-title">Empower</div>
+            <div class="pillar-desc">We train community members to own and grow their digital presence independently over time.</div>
+          </div>
         </div>
-        <div id="network-graph" style="width:100%;height:560px"></div>
-        <div style="font-size:11px;color:#555d72;margin-top:8px">Drag nodes · Scroll to zoom · Hover to highlight · Click politicians to open profile</div>
+        <div class="pillar">
+          <div class="pillar-icon">🔍</div>
+          <div>
+            <div class="pillar-title">Advocate</div>
+            <div class="pillar-desc">We champion transparency, civic accountability, and open access to information through every platform we build.</div>
+          </div>
+        </div>
       </div>
-      <div id="network-node-panel" class="card" style="display:none;max-width:360px">
-        <div class="card-header">
-          <span>Node Detail</span>
-          <button class="mini-btn" id="close-network-panel">✕</button>
+
+      <div class="mission-quote-block">
+        <div class="mission-quote">
+          <div class="mission-quote-text">"The internet should be a place that strengthens communities — not one that extracts from them."</div>
+          <div class="mission-quote-attr">— Peoples Platform founding principle</div>
         </div>
-        <div id="network-node-content"></div>
       </div>
     </div>
+  </div>
+</section>
 
-    <!-- ══ COUNTRIES ══ -->
-    <div id="view-countries" class="view">
-      <div class="view-header">
-        <div><h1>Country Intelligence</h1><p class="subtitle">35 countries · 12 dimensions · official data sources</p></div>
-        <div class="header-controls">
-          <select id="metric-select" class="ctrl-select">
-            <option value="overall">Overall Score</option>
-            <option value="gdp">GDP per Capita</option>
-            <option value="quality_of_life">Quality of Life</option>
-            <option value="freedom">Freedom Index</option>
-            <option value="safety">Safety / Low Crime</option>
-            <option value="cost_of_living">Cost of Living</option>
-            <option value="healthcare">Healthcare</option>
-            <option value="education">Education</option>
-            <option value="environment">Environment</option>
-            <option value="equality">Equality</option>
-            <option value="corruption">Low Corruption</option>
-            <option value="press_freedom">Press Freedom</option>
-          </select>
-          <button class="ctrl-btn" id="compare-btn">Compare Mode</button>
+<!-- PROJECTS -->
+<section id="projects">
+  <div class="section-inner">
+    <div class="section-tag">Our Work</div>
+    <h2 class="section-title">Platforms we've built & host</h2>
+    <p class="section-sub">Every project below was built pro-bono for community benefit, and is actively maintained by our volunteer team.</p>
+
+    <div class="projects-grid">
+
+      <!-- 1 -->
+      <div class="project-card">
+        <div class="project-card-header">
+          <div class="project-icon" style="background:#eef6ef;">☀️</div>
+          <span class="project-status status-live">Live</span>
+        </div>
+        <div class="project-card-body">
+          <div class="project-name">Solar & EV Savings Calculator</div>
+          <div class="project-desc">An interactive calculator helping households estimate real savings from switching to solar power and electric vehicles — making green choices clearer and more accessible.</div>
+          <div class="project-tags">
+            <span class="tag">Sustainability</span>
+            <span class="tag">Solar</span>
+            <span class="tag">EV</span>
+            <span class="tag">Calculator</span>
+          </div>
+        </div>
+        <div class="project-card-footer">
+          <a href="https://claude.ai/public/artifacts/35ab8baf-bf00-4ebd-bfae-9b32c451a518" target="_blank" class="project-link">
+            Visit project →
+          </a>
+          <span class="project-type">Web App</span>
         </div>
       </div>
-      <div class="countries-layout">
-        <div class="map-container card">
-          <div class="card-header"><span>World Heatmap</span><span class="metric-label" id="map-metric-label">Overall Score</span></div>
-          <div id="world-map"></div>
-          <div class="map-legend"><span class="legend-label">Low</span><div class="legend-gradient"></div><span class="legend-label">High</span></div>
+
+      <!-- 2 -->
+      <div class="project-card">
+        <div class="project-card-header">
+          <div class="project-icon" style="background:#fdefd8;">🚗</div>
+          <span class="project-status status-live">Live</span>
         </div>
-        <div class="rankings-panel card">
-          <div class="card-header"><span>Rankings</span><input type="text" id="country-search" placeholder="Search…" class="search-input" style="width:110px"></div>
-          <div id="country-list" class="country-list"></div>
+        <div class="project-card-body">
+          <div class="project-name">Vehicle Classification Tool</div>
+          <div class="project-desc">A free tool that helps users identify and classify vehicles by type, category, and attributes — useful for insurers, buyers, fleet managers, and car enthusiasts alike.</div>
+          <div class="project-tags">
+            <span class="tag">Vehicles</span>
+            <span class="tag">Classification</span>
+            <span class="tag">Reference Tool</span>
+          </div>
+        </div>
+        <div class="project-card-footer">
+          <a href="https://claude.ai/public/artifacts/541745b5-d3ec-46de-a4bc-c09c40109b5f" target="_blank" class="project-link">
+            Visit project →
+          </a>
+          <span class="project-type">Web App</span>
         </div>
       </div>
-      <div class="charts-row">
-        <div class="card chart-card">
-          <div class="card-header"><span id="radar-title">Select a country</span><button class="mini-btn" id="deep-dive-btn" style="display:none">AI Deep Dive ↗</button></div>
-          <canvas id="radar-chart" height="280"></canvas>
+
+      <!-- 3 -->
+      <div class="project-card">
+        <div class="project-card-header">
+          <div class="project-icon" style="background:#d4f0f5;">🔧</div>
+          <span class="project-status status-live">Live</span>
         </div>
-        <div class="card chart-card">
-          <div class="card-header"><span>Heatmap Matrix — Top 20</span></div>
-          <div id="heatmap-matrix" class="heatmap-matrix"></div>
+        <div class="project-card-body">
+          <div class="project-name">Community Tool #3</div>
+          <div class="project-desc">A free community resource built and hosted by Peoples Platform. Visit the project to explore what it offers.</div>
+          <div class="project-tags">
+            <span class="tag">Community</span>
+            <span class="tag">Free Tool</span>
+          </div>
+        </div>
+        <div class="project-card-footer">
+          <a href="https://claude.ai/public/artifacts/ff3db34e-7103-40f1-b908-108bb5c3aca9" target="_blank" class="project-link">
+            Visit project →
+          </a>
+          <span class="project-type">Web App</span>
         </div>
       </div>
-      <div id="compare-panel" class="card" style="display:none">
-        <div class="card-header"><span>Country Comparison</span><button class="mini-btn" id="close-compare">✕</button></div>
-        <div id="compare-content"></div>
+
+      <!-- 4 -->
+      <div class="project-card">
+        <div class="project-card-header">
+          <div class="project-icon" style="background:#eef6ef;">🏘️</div>
+          <span class="project-status status-live">Live</span>
+        </div>
+        <div class="project-card-body">
+          <div class="project-name">NeighbourWatch NZ</div>
+          <div class="project-desc">A community safety network empowering New Zealand neighbourhoods to connect, share local safety updates, and look out for one another — free for all community members.</div>
+          <div class="project-tags">
+            <span class="tag">Safety</span>
+            <span class="tag">NZ Community</span>
+            <span class="tag">Neighbourhood</span>
+          </div>
+        </div>
+        <div class="project-card-footer">
+          <a href="https://neighbourhood-watch-eta.vercel.app/auth/signup" target="_blank" class="project-link">
+            Visit project →
+          </a>
+          <span class="project-type">Platform</span>
+        </div>
       </div>
-      <div id="country-ai-panel" class="card ai-panel" style="display:none">
-        <div class="card-header"><span>AI Intelligence Report</span><button class="mini-btn" id="close-ai-country">✕</button></div>
-        <div id="country-ai-content" class="ai-content"></div>
+
+      <!-- 5 -->
+      <div class="project-card">
+        <div class="project-card-header">
+          <div class="project-icon" style="background:#fde8e5;">🌍</div>
+          <span class="project-status status-live">Live</span>
+        </div>
+        <div class="project-card-body">
+          <div class="project-name">WorldLens</div>
+          <div class="project-desc">A global intelligence platform tracking politicians, governments, and companies across 35 countries — using official sources, AI deep-dives, and community verification to promote transparency.</div>
+          <div class="project-tags">
+            <span class="tag">Transparency</span>
+            <span class="tag">Politics</span>
+            <span class="tag">Global</span>
+            <span class="tag">Accountability</span>
+          </div>
+        </div>
+        <div class="project-card-footer">
+          <a href="https://vantasticnz.github.io/worldlens/" target="_blank" class="project-link">
+            Visit project →
+          </a>
+          <span class="project-type">Intelligence Platform</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- HOW WE WORK -->
+<section class="how" id="how">
+  <div class="section-inner">
+    <div class="section-tag">How We Work</div>
+    <h2 class="section-title">From idea to live platform</h2>
+    <p class="section-sub">We follow a proven, community-first process that keeps your project on track and your people in control.</p>
+
+    <div class="process-steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-title">Discover</div>
+        <div class="step-desc">We meet with you to understand your community's needs, goals, and the people you serve.</div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-title">Design</div>
+        <div class="step-desc">Our team designs a solution that is accessible, purposeful, and built around real user needs.</div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-title">Build</div>
+        <div class="step-desc">We develop and test your platform, involving your community throughout for feedback and validation.</div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-title">Sustain</div>
+        <div class="step-desc">We host, maintain, and support your project long-term — and train you to grow it yourself.</div>
       </div>
     </div>
+  </div>
+</section>
 
-    <!-- ══ GLOBAL POLITICIANS ══ -->
-    <div id="view-politicians" class="view">
-      <div class="view-header">
-        <div><h1>Global Politicians</h1><p class="subtitle">International profiles · lie tracker · funding · corruption signals</p></div>
-        <div class="header-controls">
-          <select id="pol-country-filter" class="ctrl-select">
-            <option value="all">All Countries</option>
-            <option value="AU">Australia</option>
-            <option value="US">United States</option>
-            <option value="UK">United Kingdom</option>
-            <option value="CA">Canada</option>
-            <option value="FR">France</option>
-            <option value="IN">India</option>
-          </select>
-          <select id="pol-sort" class="ctrl-select">
-            <option value="integrity">Sort: Integrity</option>
-            <option value="lie_count">Sort: Lie Count</option>
-            <option value="corruption">Sort: Corruption Risk</option>
-          </select>
-          <input type="text" id="pol-search" placeholder="Search…" class="search-input" style="width:130px">
-        </div>
+<!-- GET INVOLVED -->
+<section id="involve">
+  <div class="section-inner">
+    <div class="section-tag">Get Involved</div>
+    <h2 class="section-title">Join the platform</h2>
+    <p class="section-sub">Whether you have a project idea, a skill to share, or just want to support the mission — there's a place for you here.</p>
+
+    <div class="involve-grid">
+      <div class="involve-card">
+        <div class="involve-card-icon" style="background:var(--green-pale);">🌱</div>
+        <h3>Submit a Project</h3>
+        <p>Have an idea for a community platform, app, or website? Tell us about it. If it genuinely serves people and can't afford commercial development, we want to help.</p>
+        <a href="#contact" class="btn-primary" style="font-size:13px; padding:9px 18px;">Pitch your project →</a>
       </div>
-      <div class="pol-heatmap card">
-        <div class="card-header"><span>Politician Heatmap</span></div>
-        <div id="pol-grid" class="pol-grid"></div>
+      <div class="involve-card">
+        <div class="involve-card-icon" style="background:var(--amber-light);">🛠️</div>
+        <h3>Volunteer Your Skills</h3>
+        <p>Developers, designers, copywriters, researchers — we welcome all. Even a few hours a month makes a real difference to the communities we serve.</p>
+        <a href="#contact" class="btn-secondary" style="font-size:13px; padding:9px 18px;">Volunteer →</a>
       </div>
-      <div id="pol-detail" class="card pol-detail-card" style="display:none">
-        <div class="card-header"><span id="pol-detail-name">—</span><button class="mini-btn" id="close-pol-detail">✕</button></div>
-        <div id="pol-detail-content"></div>
-      </div>
-      <div id="pol-ai-panel" class="card ai-panel" style="display:none">
-        <div class="card-header"><span>AI Intelligence Brief</span><button class="mini-btn" id="close-pol-ai">✕</button></div>
-        <div id="pol-ai-content" class="ai-content"></div>
+      <div class="involve-card">
+        <div class="involve-card-icon" style="background:var(--teal-light);">💛</div>
+        <h3>Support Us</h3>
+        <p>Peoples Platform runs entirely on donations and grants. Every contribution keeps our platforms online and funds the next community project.</p>
+        <a href="#contact" class="btn-secondary" style="font-size:13px; padding:9px 18px;">Make a donation →</a>
       </div>
     </div>
+  </div>
+</section>
 
-    <!-- ══ COMPANIES ══ -->
-    <div id="view-companies" class="view">
-      <div class="view-header">
-        <div><h1>Company Scorecard</h1><p class="subtitle">Ethics · impact · transparency · worker treatment</p></div>
-        <div class="header-controls">
-          <select id="comp-sector" class="ctrl-select">
-            <option value="all">All Sectors</option>
-            <option value="tech">Technology</option>
-            <option value="energy">Energy</option>
-            <option value="finance">Finance</option>
-            <option value="pharma">Pharma</option>
-            <option value="retail">Retail</option>
-            <option value="transport">Transport</option>
-            <option value="construction">Construction</option>
-            <option value="hospitality">Hospitality</option>
-          </select>
-          <select id="comp-sort" class="ctrl-select">
-            <option value="ethics">Sort: Ethics</option>
-            <option value="worker">Sort: Workers</option>
-            <option value="env">Sort: Environment</option>
-          </select>
-          <input type="text" id="comp-search" placeholder="Search…" class="search-input" style="width:130px">
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header"><span>Company Ethics Heatmap — Global + NZ</span></div>
-        <div id="comp-heatmap" class="comp-heatmap"></div>
-      </div>
-      <div id="comp-detail" class="card" style="display:none">
-        <div class="card-header"><span id="comp-detail-name">—</span><button class="mini-btn" id="close-comp-detail">✕</button></div>
-        <div id="comp-detail-content"></div>
-      </div>
-      <div id="comp-ai-panel" class="card ai-panel" style="display:none">
-        <div class="card-header"><span>AI Company Analysis</span><button class="mini-btn" id="close-comp-ai">✕</button></div>
-        <div id="comp-ai-content" class="ai-content"></div>
-      </div>
-    </div>
+<!-- DONATE -->
+<section class="donate" id="donate">
+  <div class="donate-inner">
+    <div class="section-tag">Support the Mission</div>
+    <h2 class="section-title">Keep the internet free<br>for everyone.</h2>
+    <p class="section-sub">Peoples Platform runs on zero commercial revenue. Every donation goes directly to hosting, development, and building the next free community tool.</p>
 
-    <!-- ══ WORKPLACES ══ -->
-    <div id="view-workplace" class="view">
-      <div class="view-header">
-        <div><h1>Workplaces &amp; CEOs</h1><p class="subtitle">Rate bosses · review workplaces · track executive behaviour</p></div>
-        <div class="header-controls">
-          <select id="wp-sector" class="ctrl-select">
-            <option value="all">All Sectors</option>
-            <option value="tech">Technology</option>
-            <option value="finance">Finance</option>
-            <option value="retail">Retail</option>
-            <option value="government">Government</option>
-          </select>
-          <select id="wp-sort" class="ctrl-select">
-            <option value="overall">Sort: Overall</option>
-            <option value="ceo_rating">Sort: CEO Rating</option>
-            <option value="review_count">Sort: Most Reviews</option>
-          </select>
-          <input type="text" id="wp-search" placeholder="Search company or CEO…" class="search-input" style="width:190px">
-          <button class="ctrl-btn" id="add-workplace-btn">+ Rate a Workplace</button>
-        </div>
+    <div class="donate-tiers">
+      <div class="donate-tier">
+        <div class="donate-tier-amount">$5</div>
+        <div class="donate-tier-label">A coffee ☕</div>
+        <div class="donate-tier-desc">Keeps one platform online for a week. Every little bit counts.</div>
       </div>
-      <div class="info-banner">
-        <span class="info-icon">ℹ</span>
-        <span>Official data = regulatory/court/news records. Community submissions reviewed before publishing. <strong>Verified</strong> = cross-referenced. <strong>Official</strong> = regulatory record.</span>
+      <div class="donate-tier featured">
+        <div class="donate-tier-badge">Most popular</div>
+        <div class="donate-tier-amount">$20</div>
+        <div class="donate-tier-label">A month of hosting 🌐</div>
+        <div class="donate-tier-desc">Covers server costs for one of our community platforms for a full month.</div>
       </div>
-      <div class="card">
-        <div class="card-header"><span>CEO / Leadership Ratings</span></div>
-        <div id="ceo-grid" class="pol-grid"></div>
-      </div>
-      <div class="card">
-        <div class="card-header"><span>Workplace Reviews</span><span id="wp-count" style="font-size:12px;color:#8b92a8"></span></div>
-        <div id="wp-list" class="wp-list"></div>
-      </div>
-      <div id="wp-detail" class="card" style="display:none">
-        <div class="card-header"><span id="wp-detail-name">—</span><button class="mini-btn" id="close-wp-detail">✕</button></div>
-        <div id="wp-detail-content"></div>
+      <div class="donate-tier">
+        <div class="donate-tier-amount">$50</div>
+        <div class="donate-tier-label">Fund a feature 🛠️</div>
+        <div class="donate-tier-desc">Helps us build and launch a meaningful new feature for a community project.</div>
       </div>
     </div>
 
-    <!-- ══ SUBMIT ══ -->
-    <div id="view-submit" class="view">
-      <div class="view-header">
-        <div><h1>Submit Information</h1><p class="subtitle">All submissions reviewed before publishing · official sources required</p></div>
+    <div class="donate-actions">
+      <a href="https://buymeacoffee.com" target="_blank" class="bmc-link">
+        ☕ Buy us a coffee
+      </a>
+      <div class="donate-custom">
+        <span>$</span>
+        <input type="number" placeholder="Custom" min="1">
       </div>
-      <div class="submit-grid">
-        <div class="card submit-info-card">
-          <div class="card-header"><span>How It Works</span></div>
-          <div class="how-it-works">
-            <div class="how-step"><div class="how-num">1</div><div><strong>Fill in the form</strong><p>Opens a pre-filled GitHub Issue. No account needed.</p></div></div>
-            <div class="how-step"><div class="how-num">2</div><div><strong>Provide a verifiable source</strong><p>Hansard, court filing, news article, regulatory ruling.</p></div></div>
-            <div class="how-step"><div class="how-num">3</div><div><strong>Review queue</strong><p>Moderator verifies source. Usually within 48 hours.</p></div></div>
-            <div class="how-step"><div class="how-num">4</div><div><strong>Published with badge</strong><p>Approved = <span class="badge-verified">✓ Verified</span>. Pending = <span class="badge-pending">⏳ Pending</span>.</p></div></div>
-          </div>
-          <div class="source-types">
-            <div class="pol-section-title" style="margin-top:16px">Accepted Sources</div>
-            <div class="source-grid">
-              <div class="source-chip">📰 News articles</div>
-              <div class="source-chip">⚖️ Court records</div>
-              <div class="source-chip">📋 Hansard</div>
-              <div class="source-chip">📊 Financial filings</div>
-              <div class="source-chip">🏛 Govt databases</div>
-              <div class="source-chip">📹 Official transcripts</div>
-              <div class="source-chip">🔬 Academic research</div>
-              <div class="source-chip">📑 Regulatory rulings</div>
-            </div>
-          </div>
-          <div class="source-types" style="margin-top:12px">
-            <div class="pol-section-title">Not Accepted</div>
-            <div class="source-grid">
-              <div class="source-chip" style="opacity:0.4">❌ Anonymous blogs</div>
-              <div class="source-chip" style="opacity:0.4">❌ Social media</div>
-              <div class="source-chip" style="opacity:0.4">❌ Hearsay</div>
-              <div class="source-chip" style="opacity:0.4">❌ Unverifiable</div>
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-header"><span>Submission Form</span></div>
-          <div class="form-group">
-            <label class="form-label">Submission Type *</label>
-            <select id="sub-type" class="ctrl-select" style="width:100%" onchange="toggleWorkplaceFields()">
-              <option value="">Select type…</option>
-              <option value="politician_lie">Politician — Documented lie / contradiction</option>
-              <option value="politician_funding">Politician — Funding / donation source</option>
-              <option value="politician_vote">Politician — Voting record</option>
-              <option value="politician_investment">Politician — Investment / conflict of interest</option>
-              <option value="company_misconduct">Company — Misconduct / fine / legal action</option>
-              <option value="company_worker">Company — Worker treatment</option>
-              <option value="company_env">Company — Environmental violation</option>
-              <option value="company_tax">Company — Tax record</option>
-              <option value="workplace_review">Workplace — Culture / CEO rating</option>
-              <option value="country_data">Country — Data update</option>
-              <option value="other">Other</option>
-            </select>
-          </div>
-          <div class="form-group">
-            <label class="form-label">Subject Name *</label>
-            <input type="text" id="sub-subject" class="form-input" placeholder="e.g. Winston Peters, Amazon, Reserve Bank of NZ…">
-          </div>
-          <div class="form-group">
-            <label class="form-label">Country / Region</label>
-            <input type="text" id="sub-country" class="form-input" placeholder="e.g. New Zealand">
-          </div>
-          <div class="form-group">
-            <label class="form-label">Summary of claim *</label>
-            <textarea id="sub-claim" class="form-textarea" rows="3" placeholder="Factual, specific description."></textarea>
-          </div>
-          <div class="form-group">
-            <label class="form-label">Source URL * <span style="color:#8b92a8;font-weight:400">(must be verifiable)</span></label>
-            <input type="url" id="sub-source" class="form-input" placeholder="https://…">
-          </div>
-          <div class="form-group">
-            <label class="form-label">Source type</label>
-            <select id="sub-source-type" class="ctrl-select" style="width:100%">
-              <option value="news">News article</option>
-              <option value="court">Court record / legal filing</option>
-              <option value="parliament">Parliamentary record (Hansard)</option>
-              <option value="financial">Financial filing / register</option>
-              <option value="government">Government database / official report</option>
-              <option value="regulatory">Regulatory decision</option>
-              <option value="other">Other official source</option>
-            </select>
-          </div>
-          <div class="form-group">
-            <label class="form-label">Date of event</label>
-            <input type="date" id="sub-date" class="form-input">
-          </div>
-          <div id="workplace-fields" style="display:none">
-            <div class="form-divider">Workplace Rating Fields</div>
-            <div class="form-group">
-              <label class="form-label">Company *</label>
-              <input type="text" id="sub-company" class="form-input" placeholder="Company name…">
-            </div>
-            <div class="form-group">
-              <label class="form-label">CEO / Manager <span style="color:#8b92a8;font-weight:400">(optional)</span></label>
-              <input type="text" id="sub-ceo" class="form-input" placeholder="Leave blank to rate workplace only">
-            </div>
-            <div class="ratings-row" id="sub-ratings">
-              <div class="rating-item"><label class="form-label">Overall</label><div class="star-rating" data-field="r-overall"></div></div>
-              <div class="rating-item"><label class="form-label">Culture</label><div class="star-rating" data-field="r-culture"></div></div>
-              <div class="rating-item"><label class="form-label">CEO</label><div class="star-rating" data-field="r-ceo"></div></div>
-              <div class="rating-item"><label class="form-label">Balance</label><div class="star-rating" data-field="r-balance"></div></div>
-              <div class="rating-item"><label class="form-label">Pay</label><div class="star-rating" data-field="r-pay"></div></div>
-              <div class="rating-item"><label class="form-label">Psych. Safety</label><div class="star-rating" data-field="r-psych"></div></div>
-            </div>
-            <div class="form-group">
-              <label class="form-label">Your role <span style="color:#8b92a8;font-weight:400">(optional, anonymous)</span></label>
-              <input type="text" id="sub-role" class="form-input" placeholder="e.g. Software Engineer…">
-            </div>
-          </div>
-          <div class="form-group">
-            <label class="form-label">Additional context <span style="color:#8b92a8;font-weight:400">(optional)</span></label>
-            <textarea id="sub-context" class="form-textarea" rows="2" placeholder="Any additional context…"></textarea>
-          </div>
-          <div class="privacy-note">
-            <span>🔒</span>
-            <span>Submissions open as public GitHub Issues. Do not include personal identifying information about yourself.</span>
-          </div>
-          <button class="ctrl-btn submit-btn" onclick="handleSubmit()">Submit via GitHub Issues ↗</button>
-          <div id="submit-feedback" style="margin-top:12px;display:none"></div>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <span>Live Submission Queue</span>
-          <button class="mini-btn" onclick="loadPendingIssues()">Load from GitHub ↻</button>
-        </div>
-        <div id="pending-list"><div style="color:#555d72;font-size:13px;padding:8px 0">Click "Load from GitHub" to see pending community submissions.</div></div>
-      </div>
+      <a href="#contact" class="btn-primary" style="font-size:14px;">Donate →</a>
     </div>
+  </div>
+</section>
 
-    <!-- ══ METHODOLOGY ══ -->
-    <div id="view-methodology" class="view">
-      <div class="view-header">
-        <div><h1>Methodology & Sources</h1><p class="subtitle">How we score · what sources we use · dispute process</p></div>
-      </div>
-      <div class="card">
-        <div id="methodology-content" class="method-content"></div>
-      </div>
+<!-- CONTACT -->
+<section class="contact" id="contact">
+  <div class="section-inner">
+    <div class="section-tag" style="color:rgba(255,255,255,0.6);">Contact</div>
+    <h2 class="section-title">Let's build something together.</h2>
+    <p class="section-sub">Drop us your email and we'll be in touch. No spam — just real conversations about real impact.</p>
+    <div class="contact-form">
+      <input type="email" placeholder="Your email address">
+      <button type="button">Get in touch</button>
     </div>
+  </div>
+</section>
 
-  </main>
-</div>
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <a href="#" class="footer-logo">Peoples Platform</a>
+    <ul class="footer-links">
+      <li><a href="#mission">Mission</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#how">How We Work</a></li>
+      <li><a href="#involve">Volunteer</a></li>
+      <li><a href="#donate">Donate</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2025 Peoples Platform. Registered Charity. Aotearoa New Zealand.</span>
+    <span>Built with ❤️ for the community.</span>
+  </div>
+</footer>
 
-<div id="map-tooltip" class="map-tooltip" style="display:none"></div>
-
-<script src="data.js"></script>
-<script src="nz_politicians.js"></script>
-<script src="workplaces.js"></script>
-<script src="social_media.js"></script>
-<script src="live_data_loader.js"></script>
-<script src="map.js"></script>
-<script src="nz_view.js"></script>
-<script src="network.js"></script>
-<script src="app.js"></script>
 <script>
-  // Wire nav
-  document.querySelectorAll('.nav-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const view = btn.dataset.view;
-      document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
-      document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
-      btn.classList.add('active');
-      document.getElementById('view-' + view).classList.add('active');
-      if (view === 'network') { setTimeout(initNetworkGraph, 100); }
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.style.opacity = '1';
+        entry.target.style.transform = 'translateY(0)';
+      }
     });
+  }, { threshold: 0.1 });
+
+  document.querySelectorAll('.project-card, .pillar, .step, .involve-card').forEach(el => {
+    el.style.opacity = '0';
+    el.style.transform = 'translateY(20px)';
+    el.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+    observer.observe(el);
   });
-  // Init all views
-  initNZView();
-  initCountriesView();
-  initPoliticiansView();
-  initCompaniesView();
-  initWorkplaceView();
-  initStarRatings();
-  renderMethodology();
 </script>
+
 </body>
 </html>
