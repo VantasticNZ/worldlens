@@ -291,7 +291,7 @@ const POLITICIANS = [
       { topic: 'Economic development', position: 'for' },
     ],
     lies: [
-      { date: '2014', claim: 'Will eliminate corruption entirely in 100 days', reality: 'India's corruption perception index worsened under BJP tenure', severity: 'high' },
+      { date: '2014', claim: 'Will eliminate corruption entirely in 100 days', reality: "India's corruption perception index worsened under BJP tenure", severity: 'high' },
       { date: '2016', claim: 'Demonetisation will end black money', reality: '99.3% of all notes returned; no significant black money recovery', severity: 'high' },
     ],
     funding: [

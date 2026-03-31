@@ -504,9 +504,12 @@ Use <div class="highlight"> for the most important facts. Be analytical and hone
 }
 
 // ── COMPANIES VIEW ──
-function initCompaniesView() {
-  renderCompanyHeatmap(COMPANIES);
+function getAllCompanies() {
+  return [...COMPANIES, ...(window.NZ_COMPANIES || [])];
+}
 
+function initCompaniesView() {
+  renderCompanyHeatmap(getAllCompanies());
   document.getElementById('comp-sector').addEventListener('change', filterCompanies);
   document.getElementById('comp-sort').addEventListener('change', filterCompanies);
   document.getElementById('comp-search').addEventListener('input', filterCompanies);
@@ -523,7 +526,7 @@ function filterCompanies() {
   const sort = document.getElementById('comp-sort').value;
   const q = document.getElementById('comp-search').value.toLowerCase();
 
-  let filtered = COMPANIES.filter(c => {
+  let filtered = getAllCompanies().filter(c => {
     const matchSector = sector === 'all' || c.sector === sector;
     const matchSearch = !q || c.name.toLowerCase().includes(q);
     return matchSector && matchSearch;
@@ -714,51 +717,10 @@ Use <div class="highlight"> for critical facts. Be factual, direct, cite specifi
   }
 }
 
-// ── INIT ──
-initCountriesView();
-initPoliticiansView();
-initCompaniesView();
-
-// ── WIRE WORKPLACE & SUBMIT VIEW ──
-initWorkplaceView();
-initStarRatings();
-
-// ── MERGE NZ COMPANIES INTO COMPANIES VIEW ──
-const ALL_COMPANIES = [...COMPANIES, ...(window.NZ_COMPANIES || [])];
-
-function initCompaniesView() {
-  renderCompanyHeatmap(ALL_COMPANIES);
-  document.getElementById('comp-sector').addEventListener('change', filterCompanies);
-  document.getElementById('comp-sort').addEventListener('change', filterCompanies);
-  document.getElementById('comp-search').addEventListener('input', filterCompanies);
-  document.getElementById('close-comp-detail').addEventListener('click', () => {
-    document.getElementById('comp-detail').style.display = 'none';
-  });
-  document.getElementById('close-comp-ai').addEventListener('click', () => {
-    document.getElementById('comp-ai-panel').style.display = 'none';
-  });
-}
-
-function filterCompanies() {
-  const sector = document.getElementById('comp-sector').value;
-  const sort = document.getElementById('comp-sort').value;
-  const q = document.getElementById('comp-search').value.toLowerCase();
-  let filtered = ALL_COMPANIES.filter(c => {
-    const matchSector = sector === 'all' || c.sector === sector;
-    const matchSearch = !q || c.name.toLowerCase().includes(q);
-    return matchSector && matchSearch;
-  });
-  filtered.sort((a, b) => {
-    if (sort === 'worker') return b.worker - a.worker;
-    if (sort === 'env') return b.environmental - a.environmental;
-    if (sort === 'transparency') return b.transparency - a.transparency;
-    return b.ethics - a.ethics;
-  });
-  renderCompanyHeatmap(filtered);
-}
+// ALL_COMPANIES available via getAllCompanies() above
 
 window.openCompany = function(id) {
-  const c = ALL_COMPANIES.find(c => c.id === id);
+  const c = getAllCompanies().find(c => c.id === id);
   if (!c) return;
   document.getElementById('comp-detail-name').textContent = `${c.logo} ${c.name} — Ethics Scorecard`;
   document.getElementById('comp-detail').style.display = 'block';

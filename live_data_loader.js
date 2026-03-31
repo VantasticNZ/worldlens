@@ -191,7 +191,8 @@ async function initLiveData() {
   const promises = [];
 
   // Load all politician live data
-  for (const pol of [...NZ_POLITICIANS, ...POLITICIANS]) {
+  const allPols = [...(window.NZ_POLITICIANS || []), ...(window.POLITICIANS || [])];
+  for (const pol of allPols) {
     const fileKey = `politician_${pol.id}`;
     if (manifest.files[fileKey]) {
       promises.push(mergeLivePolitician(pol.id));
@@ -199,7 +200,7 @@ async function initLiveData() {
   }
 
   // Load all company live data
-  const allCompanies = [...COMPANIES, ...(window.NZ_COMPANIES || [])];
+  const allCompanies = [...(window.COMPANIES || []), ...(window.NZ_COMPANIES || [])];
   for (const comp of allCompanies) {
     const fileKey = `company_${comp.id}`;
     if (manifest.files[fileKey]) {
@@ -213,15 +214,14 @@ async function initLiveData() {
   showCrawlerStatus('ready', manifest.generated, totalUpdated);
 
   // Re-render grids to show updated scores + NEW badges
-  if (typeof renderNZGrid === 'function') {
+  if (typeof renderNZGrid === 'function' && window.NZ_POLITICIANS) {
     renderNZGrid(NZ_POLITICIANS);
   }
-  if (typeof renderPoliticianGrid === 'function') {
+  if (typeof renderPoliticianGrid === 'function' && window.POLITICIANS) {
     renderPoliticianGrid(POLITICIANS);
   }
   if (typeof renderCompanyHeatmap === 'function') {
-    const ALL_COMPANIES = [...COMPANIES, ...(window.NZ_COMPANIES || [])];
-    renderCompanyHeatmap(ALL_COMPANIES);
+    renderCompanyHeatmap([...(window.COMPANIES||[]), ...(window.NZ_COMPANIES||[])]);
   }
 
   console.log(`[LiveData] Loaded ${totalUpdated} live data files`);
