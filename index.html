@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WorldLens — Global Intelligence Platform</title>
+<meta name="description" content="Heatmaps of NZ politicians, countries, companies and workplaces. Transparency through data.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Space+Mono:wght@400;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- Global Search Bar -->
+  <div id="global-search-bar">
+    <div class="global-search-wrap">
+      <span style="color:#555d72;font-size:16px">🔍</span>
+      <input type="text" id="global-search-input" placeholder="Search politicians, countries, companies, workplaces…" autocomplete="off">
+    </div>
+    <div id="global-search-results"></div>
+  </div>
+
+  <aside id="sidebar">
+    <div class="logo"><span class="logo-icon">◈</span><span class="logo-text">WorldLens</span></div>
+    <div class="logo-sub">Global Intelligence Platform</div>
+    <nav>
+      <div class="nav-group-label">🇳🇿 New Zealand</div>
+      <button class="nav-btn active" data-view="nz"><span class="nav-icon">🏛</span><span>NZ Politicians</span></button>
+      <button class="nav-btn" data-view="network"><span class="nav-icon">◈</span><span>Conflict Network</span></button>
+      <div class="nav-group-label" style="margin-top:8px">🌍 Global</div>
+      <button class="nav-btn" data-view="countries"><span class="nav-icon">🌍</span><span>Countries</span></button>
+      <button class="nav-btn" data-view="politicians"><span class="nav-icon">🏛</span><span>Politicians</span></button>
+      <button class="nav-btn" data-view="companies"><span class="nav-icon">🏢</span><span>Companies</span></button>
+      <button class="nav-btn" data-view="workplace"><span class="nav-icon">👔</span><span>Workplaces & CEOs</span></button>
+      <div class="nav-group-label" style="margin-top:8px">📋 Platform</div>
+      <button class="nav-btn" data-view="submit"><span class="nav-icon">📤</span><span>Submit Info</span></button>
+      <button class="nav-btn" data-view="methodology"><span class="nav-icon">📋</span><span>Methodology</span></button>
+    </nav>
+    <div class="sidebar-footer">
+      <div class="data-badge">Official Sources Only</div>
+      <div class="data-badge">AI Deep-Dives</div>
+      <div class="data-badge">Community Verified</div>
+      <div id="crawler-status" style="margin-top:8px;padding:6px 8px;background:rgba(34,197,94,0.06);border:1px solid rgba(34,197,94,0.12);border-radius:6px;font-size:10px;line-height:1.4">
+        <span style="color:#555d72;font-size:10px">◌ Checking for live updates…</span>
+      </div>
+    </div>
+  </aside>
+
+  <main id="main">
+
+    <!-- ══ NZ POLITICIANS ══ -->
+    <div id="view-nz" class="view active">
+      <div class="view-header">
+        <div>
+          <h1>🇳🇿 NZ Politician Profiler</h1>
+          <p class="subtitle">Current government · opposition · historical · lie tracker · network · watchlist</p>
+        </div>
+        <div class="header-controls">
+          <select id="nz-party-filter" class="ctrl-select">
+            <option value="all">All Parties</option>
+            <option value="National">National</option>
+            <option value="ACT">ACT</option>
+            <option value="NZFirst">NZ First</option>
+            <option value="Labour">Labour</option>
+            <option value="Greens">Greens</option>
+          </select>
+          <select id="nz-sort" class="ctrl-select">
+            <option value="integrity">Sort: Integrity</option>
+            <option value="lie_count">Sort: Lie Count</option>
+            <option value="corruption">Sort: Corruption Risk</option>
+            <option value="name">Sort: Name</option>
+          </select>
+          <input type="text" id="nz-search-filter" placeholder="Search name, party, role…" class="search-input" style="width:200px">
+        </div>
+      </div>
+
+      <!-- Watchlist -->
+      <div class="card watchlist-card">
+        <div class="card-header">
+          <span>★ Your Watchlist</span>
+          <span style="font-size:12px;color:#555d72">Bookmarks saved locally · click ☆ on any profile to watch</span>
+        </div>
+        <div id="watchlist-items"><div style="color:#555d72;font-size:13px">No politicians on your watchlist yet.</div></div>
+      </div>
+
+      <!-- Grid -->
+      <div class="card">
+        <div class="card-header">
+          <span>Politician Heatmap</span>
+          <div class="heatmap-legend-row">
+            <span class="legend-dot" style="background:#22c55e"></span><span>High integrity</span>
+            <span class="legend-dot" style="background:#f59e0b"></span><span>Mixed</span>
+            <span class="legend-dot" style="background:#e74c3c"></span><span>Red flags</span>
+          </div>
+        </div>
+        <div id="nz-pol-grid" class="pol-grid"></div>
+      </div>
+
+      <!-- Compare panel -->
+      <div id="nz-compare-panel" class="card" style="display:none">
+        <div class="card-header">
+          <span>Comparison</span>
+          <button class="mini-btn" id="close-nz-compare">✕ Clear</button>
+        </div>
+        <div id="nz-compare-content"></div>
+      </div>
+
+      <!-- Detail panel -->
+      <div id="nz-pol-detail" class="card" style="display:none">
+        <div class="card-header">
+          <span id="nz-pol-detail-name">—</span>
+          <button class="mini-btn" id="close-nz-detail">✕</button>
+        </div>
+        <div id="nz-pol-detail-content"></div>
+      </div>
+
+      <!-- AI panel -->
+      <div id="nz-ai-panel" class="card ai-panel" style="display:none">
+        <div class="card-header">
+          <span>AI Intelligence Brief</span>
+          <button class="mini-btn" id="close-nz-ai">✕</button>
+        </div>
+        <div id="nz-ai-content" class="ai-content"></div>
+      </div>
+    </div>
+
+    <!-- ══ CONFLICT NETWORK ══ -->
+    <div id="view-network" class="view">
+      <div class="view-header">
+        <div>
+          <h1>Conflict of Interest Network</h1>
+          <p class="subtitle">Who funds who · board overlaps · ideological ties · employment flows</p>
+        </div>
+        <div class="header-controls">
+          <select id="network-edge-filter" class="ctrl-select">
+            <option value="all">All connections</option>
+            <option value="funding">Funding only</option>
+            <option value="employment">Employment</option>
+            <option value="ideological">Ideological</option>
+            <option value="coalition">Coalition</option>
+            <option value="policy">Policy alignment</option>
+          </select>
+          <input type="text" id="network-search" placeholder="Highlight node…" class="search-input" style="width:160px">
+        </div>
+      </div>
+      <div class="card network-card">
+        <div class="card-header">
+          <span>NZ Political Influence Map</span>
+          <div class="heatmap-legend-row">
+            <span class="legend-dot" style="background:#00529f"></span><span>National</span>
+            <span class="legend-dot" style="background:#ffd700"></span><span>ACT</span>
+            <span class="legend-dot" style="background:#2c3e50"></span><span>NZ First</span>
+            <span class="legend-dot" style="background:#cc0000"></span><span>Labour</span>
+            <span class="legend-dot" style="background:#008a00"></span><span>Greens</span>
+            <span class="legend-dot" style="background:#7b5cf0"></span><span>Org</span>
+            <span class="legend-dot" style="background:#ef4444"></span><span>Funding</span>
+          </div>
+        </div>
+        <div class="network-edge-legend">
+          <span style="color:#f59e0b">—</span> Employment &nbsp;
+          <span style="color:#7b5cf0">—</span> Ideological &nbsp;
+          <span style="color:#ef4444">—</span> Funding &nbsp;
+          <span style="color:#4f8ef7">—</span> Coalition &nbsp;
+          <span style="color:#22c55e">—</span> Party &nbsp;
+          <span style="color:#f97316">—</span> Policy
+        </div>
+        <div id="network-graph" style="width:100%;height:560px"></div>
+        <div style="font-size:11px;color:#555d72;margin-top:8px">Drag nodes · Scroll to zoom · Hover to highlight · Click politicians to open profile</div>
+      </div>
+      <div id="network-node-panel" class="card" style="display:none;max-width:360px">
+        <div class="card-header">
+          <span>Node Detail</span>
+          <button class="mini-btn" id="close-network-panel">✕</button>
+        </div>
+        <div id="network-node-content"></div>
+      </div>
+    </div>
+
+    <!-- ══ COUNTRIES ══ -->
+    <div id="view-countries" class="view">
+      <div class="view-header">
+        <div><h1>Country Intelligence</h1><p class="subtitle">35 countries · 12 dimensions · official data sources</p></div>
+        <div class="header-controls">
+          <select id="metric-select" class="ctrl-select">
+            <option value="overall">Overall Score</option>
+            <option value="gdp">GDP per Capita</option>
+            <option value="quality_of_life">Quality of Life</option>
+            <option value="freedom">Freedom Index</option>
+            <option value="safety">Safety / Low Crime</option>
+            <option value="cost_of_living">Cost of Living</option>
+            <option value="healthcare">Healthcare</option>
+            <option value="education">Education</option>
+            <option value="environment">Environment</option>
+            <option value="equality">Equality</option>
+            <option value="corruption">Low Corruption</option>
+            <option value="press_freedom">Press Freedom</option>
+          </select>
+          <button class="ctrl-btn" id="compare-btn">Compare Mode</button>
+        </div>
+      </div>
+      <div class="countries-layout">
+        <div class="map-container card">
+          <div class="card-header"><span>World Heatmap</span><span class="metric-label" id="map-metric-label">Overall Score</span></div>
+          <div id="world-map"></div>
+          <div class="map-legend"><span class="legend-label">Low</span><div class="legend-gradient"></div><span class="legend-label">High</span></div>
+        </div>
+        <div class="rankings-panel card">
+          <div class="card-header"><span>Rankings</span><input type="text" id="country-search" placeholder="Search…" class="search-input" style="width:110px"></div>
+          <div id="country-list" class="country-list"></div>
+        </div>
+      </div>
+      <div class="charts-row">
+        <div class="card chart-card">
+          <div class="card-header"><span id="radar-title">Select a country</span><button class="mini-btn" id="deep-dive-btn" style="display:none">AI Deep Dive ↗</button></div>
+          <canvas id="radar-chart" height="280"></canvas>
+        </div>
+        <div class="card chart-card">
+          <div class="card-header"><span>Heatmap Matrix — Top 20</span></div>
+          <div id="heatmap-matrix" class="heatmap-matrix"></div>
+        </div>
+      </div>
+      <div id="compare-panel" class="card" style="display:none">
+        <div class="card-header"><span>Country Comparison</span><button class="mini-btn" id="close-compare">✕</button></div>
+        <div id="compare-content"></div>
+      </div>
+      <div id="country-ai-panel" class="card ai-panel" style="display:none">
+        <div class="card-header"><span>AI Intelligence Report</span><button class="mini-btn" id="close-ai-country">✕</button></div>
+        <div id="country-ai-content" class="ai-content"></div>
+      </div>
+    </div>
+
+    <!-- ══ GLOBAL POLITICIANS ══ -->
+    <div id="view-politicians" class="view">
+      <div class="view-header">
+        <div><h1>Global Politicians</h1><p class="subtitle">International profiles · lie tracker · funding · corruption signals</p></div>
+        <div class="header-controls">
+          <select id="pol-country-filter" class="ctrl-select">
+            <option value="all">All Countries</option>
+            <option value="AU">Australia</option>
+            <option value="US">United States</option>
+            <option value="UK">United Kingdom</option>
+            <option value="CA">Canada</option>
+            <option value="FR">France</option>
+            <option value="IN">India</option>
+          </select>
+          <select id="pol-sort" class="ctrl-select">
+            <option value="integrity">Sort: Integrity</option>
+            <option value="lie_count">Sort: Lie Count</option>
+            <option value="corruption">Sort: Corruption Risk</option>
+          </select>
+          <input type="text" id="pol-search" placeholder="Search…" class="search-input" style="width:130px">
+        </div>
+      </div>
+      <div class="pol-heatmap card">
+        <div class="card-header"><span>Politician Heatmap</span></div>
+        <div id="pol-grid" class="pol-grid"></div>
+      </div>
+      <div id="pol-detail" class="card pol-detail-card" style="display:none">
+        <div class="card-header"><span id="pol-detail-name">—</span><button class="mini-btn" id="close-pol-detail">✕</button></div>
+        <div id="pol-detail-content"></div>
+      </div>
+      <div id="pol-ai-panel" class="card ai-panel" style="display:none">
+        <div class="card-header"><span>AI Intelligence Brief</span><button class="mini-btn" id="close-pol-ai">✕</button></div>
+        <div id="pol-ai-content" class="ai-content"></div>
+      </div>
+    </div>
+
+    <!-- ══ COMPANIES ══ -->
+    <div id="view-companies" class="view">
+      <div class="view-header">
+        <div><h1>Company Scorecard</h1><p class="subtitle">Ethics · impact · transparency · worker treatment</p></div>
+        <div class="header-controls">
+          <select id="comp-sector" class="ctrl-select">
+            <option value="all">All Sectors</option>
+            <option value="tech">Technology</option>
+            <option value="energy">Energy</option>
+            <option value="finance">Finance</option>
+            <option value="pharma">Pharma</option>
+            <option value="retail">Retail</option>
+            <option value="transport">Transport</option>
+            <option value="construction">Construction</option>
+            <option value="hospitality">Hospitality</option>
+          </select>
+          <select id="comp-sort" class="ctrl-select">
+            <option value="ethics">Sort: Ethics</option>
+            <option value="worker">Sort: Workers</option>
+            <option value="env">Sort: Environment</option>
+          </select>
+          <input type="text" id="comp-search" placeholder="Search…" class="search-input" style="width:130px">
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span>Company Ethics Heatmap — Global + NZ</span></div>
+        <div id="comp-heatmap" class="comp-heatmap"></div>
+      </div>
+      <div id="comp-detail" class="card" style="display:none">
+        <div class="card-header"><span id="comp-detail-name">—</span><button class="mini-btn" id="close-comp-detail">✕</button></div>
+        <div id="comp-detail-content"></div>
+      </div>
+      <div id="comp-ai-panel" class="card ai-panel" style="display:none">
+        <div class="card-header"><span>AI Company Analysis</span><button class="mini-btn" id="close-comp-ai">✕</button></div>
+        <div id="comp-ai-content" class="ai-content"></div>
+      </div>
+    </div>
+
+    <!-- ══ WORKPLACES ══ -->
+    <div id="view-workplace" class="view">
+      <div class="view-header">
+        <div><h1>Workplaces &amp; CEOs</h1><p class="subtitle">Rate bosses · review workplaces · track executive behaviour</p></div>
+        <div class="header-controls">
+          <select id="wp-sector" class="ctrl-select">
+            <option value="all">All Sectors</option>
+            <option value="tech">Technology</option>
+            <option value="finance">Finance</option>
+            <option value="retail">Retail</option>
+            <option value="government">Government</option>
+          </select>
+          <select id="wp-sort" class="ctrl-select">
+            <option value="overall">Sort: Overall</option>
+            <option value="ceo_rating">Sort: CEO Rating</option>
+            <option value="review_count">Sort: Most Reviews</option>
+          </select>
+          <input type="text" id="wp-search" placeholder="Search company or CEO…" class="search-input" style="width:190px">
+          <button class="ctrl-btn" id="add-workplace-btn">+ Rate a Workplace</button>
+        </div>
+      </div>
+      <div class="info-banner">
+        <span class="info-icon">ℹ</span>
+        <span>Official data = regulatory/court/news records. Community submissions reviewed before publishing. <strong>Verified</strong> = cross-referenced. <strong>Official</strong> = regulatory record.</span>
+      </div>
+      <div class="card">
+        <div class="card-header"><span>CEO / Leadership Ratings</span></div>
+        <div id="ceo-grid" class="pol-grid"></div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span>Workplace Reviews</span><span id="wp-count" style="font-size:12px;color:#8b92a8"></span></div>
+        <div id="wp-list" class="wp-list"></div>
+      </div>
+      <div id="wp-detail" class="card" style="display:none">
+        <div class="card-header"><span id="wp-detail-name">—</span><button class="mini-btn" id="close-wp-detail">✕</button></div>
+        <div id="wp-detail-content"></div>
+      </div>
+    </div>
+
+    <!-- ══ SUBMIT ══ -->
+    <div id="view-submit" class="view">
+      <div class="view-header">
+        <div><h1>Submit Information</h1><p class="subtitle">All submissions reviewed before publishing · official sources required</p></div>
+      </div>
+      <div class="submit-grid">
+        <div class="card submit-info-card">
+          <div class="card-header"><span>How It Works</span></div>
+          <div class="how-it-works">
+            <div class="how-step"><div class="how-num">1</div><div><strong>Fill in the form</strong><p>Opens a pre-filled GitHub Issue. No account needed.</p></div></div>
+            <div class="how-step"><div class="how-num">2</div><div><strong>Provide a verifiable source</strong><p>Hansard, court filing, news article, regulatory ruling.</p></div></div>
+            <div class="how-step"><div class="how-num">3</div><div><strong>Review queue</strong><p>Moderator verifies source. Usually within 48 hours.</p></div></div>
+            <div class="how-step"><div class="how-num">4</div><div><strong>Published with badge</strong><p>Approved = <span class="badge-verified">✓ Verified</span>. Pending = <span class="badge-pending">⏳ Pending</span>.</p></div></div>
+          </div>
+          <div class="source-types">
+            <div class="pol-section-title" style="margin-top:16px">Accepted Sources</div>
+            <div class="source-grid">
+              <div class="source-chip">📰 News articles</div>
+              <div class="source-chip">⚖️ Court records</div>
+              <div class="source-chip">📋 Hansard</div>
+              <div class="source-chip">📊 Financial filings</div>
+              <div class="source-chip">🏛 Govt databases</div>
+              <div class="source-chip">📹 Official transcripts</div>
+              <div class="source-chip">🔬 Academic research</div>
+              <div class="source-chip">📑 Regulatory rulings</div>
+            </div>
+          </div>
+          <div class="source-types" style="margin-top:12px">
+            <div class="pol-section-title">Not Accepted</div>
+            <div class="source-grid">
+              <div class="source-chip" style="opacity:0.4">❌ Anonymous blogs</div>
+              <div class="source-chip" style="opacity:0.4">❌ Social media</div>
+              <div class="source-chip" style="opacity:0.4">❌ Hearsay</div>
+              <div class="source-chip" style="opacity:0.4">❌ Unverifiable</div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header"><span>Submission Form</span></div>
+          <div class="form-group">
+            <label class="form-label">Submission Type *</label>
+            <select id="sub-type" class="ctrl-select" style="width:100%" onchange="toggleWorkplaceFields()">
+              <option value="">Select type…</option>
+              <option value="politician_lie">Politician — Documented lie / contradiction</option>
+              <option value="politician_funding">Politician — Funding / donation source</option>
+              <option value="politician_vote">Politician — Voting record</option>
+              <option value="politician_investment">Politician — Investment / conflict of interest</option>
+              <option value="company_misconduct">Company — Misconduct / fine / legal action</option>
+              <option value="company_worker">Company — Worker treatment</option>
+              <option value="company_env">Company — Environmental violation</option>
+              <option value="company_tax">Company — Tax record</option>
+              <option value="workplace_review">Workplace — Culture / CEO rating</option>
+              <option value="country_data">Country — Data update</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Subject Name *</label>
+            <input type="text" id="sub-subject" class="form-input" placeholder="e.g. Winston Peters, Amazon, Reserve Bank of NZ…">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Country / Region</label>
+            <input type="text" id="sub-country" class="form-input" placeholder="e.g. New Zealand">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Summary of claim *</label>
+            <textarea id="sub-claim" class="form-textarea" rows="3" placeholder="Factual, specific description."></textarea>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Source URL * <span style="color:#8b92a8;font-weight:400">(must be verifiable)</span></label>
+            <input type="url" id="sub-source" class="form-input" placeholder="https://…">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Source type</label>
+            <select id="sub-source-type" class="ctrl-select" style="width:100%">
+              <option value="news">News article</option>
+              <option value="court">Court record / legal filing</option>
+              <option value="parliament">Parliamentary record (Hansard)</option>
+              <option value="financial">Financial filing / register</option>
+              <option value="government">Government database / official report</option>
+              <option value="regulatory">Regulatory decision</option>
+              <option value="other">Other official source</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Date of event</label>
+            <input type="date" id="sub-date" class="form-input">
+          </div>
+          <div id="workplace-fields" style="display:none">
+            <div class="form-divider">Workplace Rating Fields</div>
+            <div class="form-group">
+              <label class="form-label">Company *</label>
+              <input type="text" id="sub-company" class="form-input" placeholder="Company name…">
+            </div>
+            <div class="form-group">
+              <label class="form-label">CEO / Manager <span style="color:#8b92a8;font-weight:400">(optional)</span></label>
+              <input type="text" id="sub-ceo" class="form-input" placeholder="Leave blank to rate workplace only">
+            </div>
+            <div class="ratings-row" id="sub-ratings">
+              <div class="rating-item"><label class="form-label">Overall</label><div class="star-rating" data-field="r-overall"></div></div>
+              <div class="rating-item"><label class="form-label">Culture</label><div class="star-rating" data-field="r-culture"></div></div>
+              <div class="rating-item"><label class="form-label">CEO</label><div class="star-rating" data-field="r-ceo"></div></div>
+              <div class="rating-item"><label class="form-label">Balance</label><div class="star-rating" data-field="r-balance"></div></div>
+              <div class="rating-item"><label class="form-label">Pay</label><div class="star-rating" data-field="r-pay"></div></div>
+              <div class="rating-item"><label class="form-label">Psych. Safety</label><div class="star-rating" data-field="r-psych"></div></div>
+            </div>
+            <div class="form-group">
+              <label class="form-label">Your role <span style="color:#8b92a8;font-weight:400">(optional, anonymous)</span></label>
+              <input type="text" id="sub-role" class="form-input" placeholder="e.g. Software Engineer…">
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Additional context <span style="color:#8b92a8;font-weight:400">(optional)</span></label>
+            <textarea id="sub-context" class="form-textarea" rows="2" placeholder="Any additional context…"></textarea>
+          </div>
+          <div class="privacy-note">
+            <span>🔒</span>
+            <span>Submissions open as public GitHub Issues. Do not include personal identifying information about yourself.</span>
+          </div>
+          <button class="ctrl-btn submit-btn" onclick="handleSubmit()">Submit via GitHub Issues ↗</button>
+          <div id="submit-feedback" style="margin-top:12px;display:none"></div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span>Live Submission Queue</span>
+          <button class="mini-btn" onclick="loadPendingIssues()">Load from GitHub ↻</button>
+        </div>
+        <div id="pending-list"><div style="color:#555d72;font-size:13px;padding:8px 0">Click "Load from GitHub" to see pending community submissions.</div></div>
+      </div>
+    </div>
+
+    <!-- ══ METHODOLOGY ══ -->
+    <div id="view-methodology" class="view">
+      <div class="view-header">
+        <div><h1>Methodology & Sources</h1><p class="subtitle">How we score · what sources we use · dispute process</p></div>
+      </div>
+      <div class="card">
+        <div id="methodology-content" class="method-content"></div>
+      </div>
+    </div>
+
+  </main>
+</div>
+
+<div id="map-tooltip" class="map-tooltip" style="display:none"></div>
+
+<script src="data.js"></script>
+<script src="nz_politicians.js"></script>
+<script src="workplaces.js"></script>
+<script src="social_media.js"></script>
+<script src="live_data_loader.js"></script>
+<script src="map.js"></script>
+<script src="nz_view.js"></script>
+<script src="network.js"></script>
+<script src="app.js"></script>
+<script>
+  // Wire nav
+  document.querySelectorAll('.nav-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const view = btn.dataset.view;
+      document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('view-' + view).classList.add('active');
+      if (view === 'network') { setTimeout(initNetworkGraph, 100); }
+    });
+  });
+  // Init all views
+  initNZView();
+  initCountriesView();
+  initPoliticiansView();
+  initCompaniesView();
+  initWorkplaceView();
+  initStarRatings();
+  renderMethodology();
+</script>
+</body>
+</html>

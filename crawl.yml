@@ -1,0 +1,141 @@
+name: WorldLens Automated Crawler
+
+on:
+  # Run on a schedule — stagger scopes to spread API cost across the day
+  schedule:
+    # Politicians — 6am, 12pm, 6pm, midnight NZT (UTC-13 in summer)
+    - cron: '0 17,5,23,11 * * *'   # politicians run 4x/day
+  
+  # Also allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: 'What to crawl'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - politicians
+          - companies
+          - countries
+      dry_run:
+        description: 'Dry run (search only, no Claude, no commit)'
+        required: false
+        default: 'false'
+        type: boolean
+
+  # Also run when someone pushes changes to the crawler itself
+  push:
+    paths:
+      - 'crawler/**'
+    branches:
+      - main
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    
+    # Prevent multiple crawls running simultaneously
+    concurrency:
+      group: crawler
+      cancel-in-progress: false
+
+    steps:
+      # ── 1. Checkout repo ──
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      # ── 2. Set up Python ──
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # ── 3. Install dependencies ──
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      # ── 4. Determine scope ──
+      # Rotate scope across scheduled runs to spread API cost
+      # Mon/Thu = politicians, Tue/Fri = companies, Wed/Sat = countries, Sun = all
+      - name: Determine crawl scope
+        id: scope
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "scope=${{ github.event.inputs.scope }}" >> $GITHUB_OUTPUT
+          else
+            DOW=$(date +%u)  # 1=Mon, 7=Sun
+            case $DOW in
+              1|4) echo "scope=politicians" >> $GITHUB_OUTPUT ;;
+              2|5) echo "scope=companies" >> $GITHUB_OUTPUT ;;
+              3|6) echo "scope=countries" >> $GITHUB_OUTPUT ;;
+              7)   echo "scope=all" >> $GITHUB_OUTPUT ;;
+              *)   echo "scope=politicians" >> $GITHUB_OUTPUT ;;
+            esac
+          fi
+          echo "Scope: $(cat $GITHUB_OUTPUT)"
+
+      # ── 5. Run the crawler ──
+      - name: Run crawler
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          CRAWL_SCOPE: ${{ steps.scope.outputs.scope }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: |
+          python crawler/crawl.py 2>&1 | tee crawler_output.log
+          echo "Exit code: $?"
+
+      # ── 6. Upload log as artifact (for debugging) ──
+      - name: Upload crawler log
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: crawler-log-${{ github.run_number }}
+          path: crawler_output.log
+          retention-days: 14
+
+      # ── 7. Check if anything changed ──
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet live_data/ && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+          echo "Files changed:"
+          git diff --name-only live_data/ || true
+
+      # ── 8. Commit and push updated data ──
+      - name: Commit live data
+        if: steps.changes.outputs.changed == 'true' && github.event.inputs.dry_run != 'true'
+        run: |
+          git config --local user.email "worldlens-bot@users.noreply.github.com"
+          git config --local user.name "WorldLens Crawler Bot"
+          git add live_data/
+          
+          # Count what changed
+          ADDED=$(git diff --cached --numstat | awk '{sum += $1} END {print sum+0}')
+          FILES=$(git diff --cached --name-only | wc -l | tr -d ' ')
+          
+          git commit -m "🤖 Auto-crawl: ${{ steps.scope.outputs.scope }} — ${FILES} files, ${ADDED} lines updated [skip ci]"
+          git push
+
+      # ── 9. Summary ──
+      - name: Job summary
+        if: always()
+        run: |
+          echo "## WorldLens Crawler Run" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Scope:** ${{ steps.scope.outputs.scope }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Changed:** ${{ steps.changes.outputs.changed }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Run:** #${{ github.run_number }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Time:** $(date -u)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Crawler Output (last 30 lines)" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          tail -30 crawler_output.log >> $GITHUB_STEP_SUMMARY 2>/dev/null || echo "No log"
+          echo '```' >> $GITHUB_STEP_SUMMARY
