@@ -8,7 +8,22 @@
   "recent_events": [],
   "score_adjustments": {},
   "summary_updates": [],
-  "crawl_log": [],
-  "sources_log": [],
-  "last_updated": "2026-03-31T20:45:24.893431Z"
+  "crawl_log": [
+    {
+      "date": "2026-04-01T06:23:00.242126Z",
+      "notes": "No significant new findings",
+      "new_items": false
+    }
+  ],
+  "sources_log": [
+    {
+      "date": "2026-04-01T06:23:00.242192Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
+    }
+  ],
+  "last_updated": "2026-04-01T06:23:00.242213Z"
 }

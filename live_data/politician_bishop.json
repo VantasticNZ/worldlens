@@ -5,10 +5,40 @@
   "lies": [],
   "social_posts": [],
   "votes": [],
-  "recent_events": [],
+  "recent_events": [
+    {
+      "year": 2026,
+      "title": "Auckland Housing Plan Changes",
+      "desc": "Housing Minister Chris Bishop announced changes to Auckland's housing density rules, including a reduction in the housing target for the city.",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "ec4ba2c1",
+      "_crawled": "2026-04-01T06:23:14.013958Z"
+    }
+  ],
   "score_adjustments": {},
-  "summary_updates": [],
-  "crawl_log": [],
-  "sources_log": [],
-  "last_updated": "2026-03-31T20:46:01.001134Z"
+  "summary_updates": [
+    {
+      "date": "2026-04-01T06:23:14.013958Z",
+      "text": "Housing Minister Chris Bishop announced changes to Auckland's housing density rules, sparking controversy and criticism."
+    }
+  ],
+  "crawl_log": [
+    {
+      "date": "2026-04-01T06:23:14.013958Z",
+      "notes": "Multiple sources reported on the changes to Auckland's housing plan, with some criticizing the government's decision to reduce the housing target.",
+      "new_items": true
+    }
+  ],
+  "sources_log": [
+    {
+      "date": "2026-04-01T06:23:14.013993Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
+    }
+  ],
+  "last_updated": "2026-04-01T06:23:14.014012Z"
 }

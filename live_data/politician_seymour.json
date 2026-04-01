@@ -5,7 +5,26 @@
   "lies": [],
   "social_posts": [],
   "votes": [],
-  "recent_events": [],
+  "recent_events": [
+    {
+      "year": 2026,
+      "title": "State of the Nation 2026",
+      "desc": "David Seymour delivered a speech at the State of the Nation event on February 15, 2026, discussing the state of the nation and outlining his vision.",
+      "type": "neutral",
+      "source": "ACT New Zealand",
+      "_id": "b03d89f7",
+      "_crawled": "2026-04-01T06:22:42.438507Z"
+    },
+    {
+      "year": 2026,
+      "title": "Deputy PM David Seymour outlines 5 lessons learned from Covid",
+      "desc": "David Seymour outlined five lessons learned from the Covid period in a speech to the Wellington Chamber of Commerce.",
+      "type": "neutral",
+      "source": "RNZ",
+      "_id": "52ed458b",
+      "_crawled": "2026-04-01T06:22:42.438507Z"
+    }
+  ],
   "score_adjustments": {},
   "summary_updates": [],
   "crawl_log": [
@@ -13,6 +32,11 @@
       "date": "2026-03-31T20:44:26.147131Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-01T06:22:42.438507Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but new events were found.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -23,7 +47,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-01T06:22:42.438553Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-03-31T20:44:26.147157Z"
+  "last_updated": "2026-04-01T06:22:42.438578Z"
 }

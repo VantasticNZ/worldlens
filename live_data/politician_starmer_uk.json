@@ -1,14 +1,95 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 0,
-  "lies": [],
-  "social_posts": [],
+  "lie_count": 2,
+  "lies": [
+    {
+      "date": "2026",
+      "claim": "defeat decline and division",
+      "reality": "has not provided clear plan to achieve this",
+      "source": "BBC, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "92e1b1c2",
+      "_crawled": "2026-04-01T06:24:12.948480Z"
+    },
+    {
+      "date": "2026",
+      "claim": "positive change in 2026",
+      "reality": "has not provided clear plan to achieve this",
+      "source": "BBC, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "46afd841",
+      "_crawled": "2026-04-01T06:24:12.948480Z"
+    }
+  ],
+  "social_posts": [
+    {
+      "platform": "press",
+      "date": "2026",
+      "text": "will defeat decline and division",
+      "verified_by": "BBC",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "previous statements on taxation",
+        "source": "BBC, 2026",
+        "severity": "med"
+      },
+      "_id": "98bc3e24",
+      "_crawled": "2026-04-01T06:24:12.948480Z"
+    }
+  ],
   "votes": [],
-  "recent_events": [],
-  "score_adjustments": {},
-  "summary_updates": [],
-  "crawl_log": [],
-  "sources_log": [],
-  "last_updated": "2026-03-31T20:48:16.027746Z"
+  "recent_events": [
+    {
+      "year": 2026,
+      "title": "Keir Starmer's new year message",
+      "desc": "promised to defeat decline and division, but did not provide clear plan",
+      "type": "neutral",
+      "source": "BBC",
+      "_id": "6df14ced",
+      "_crawled": "2026-04-01T06:24:12.948480Z"
+    },
+    {
+      "year": 2026,
+      "title": "Keir Starmer declines to rule out breaking manifesto tax pledges",
+      "desc": "raised concerns about his commitment to taxation policy",
+      "type": "negative",
+      "source": "BBC",
+      "_id": "ea704e34",
+      "_crawled": "2026-04-01T06:24:12.948480Z"
+    }
+  ],
+  "score_adjustments": {
+    "2026-04-01T06:24:12.948480Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "lack of clear plan to achieve promises and potential contradiction with previous statements"
+    }
+  },
+  "summary_updates": [
+    {
+      "date": "2026-04-01T06:24:12.948480Z",
+      "text": "Keir Starmer's new year message and recent statements have raised concerns about his commitment to policy and taxation."
+    }
+  ],
+  "crawl_log": [
+    {
+      "date": "2026-04-01T06:24:12.948480Z",
+      "notes": "review of recent statements and events",
+      "new_items": true
+    }
+  ],
+  "sources_log": [
+    {
+      "date": "2026-04-01T06:24:12.948538Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
+    }
+  ],
+  "last_updated": "2026-04-01T06:24:12.948553Z"
 }

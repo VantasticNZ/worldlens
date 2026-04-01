@@ -28,6 +28,20 @@
       },
       "_id": "e760f884",
       "_crawled": "2026-03-31T20:43:56.549522Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "2026",
+      "text": "We...",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Peters' account reshared an image with a singular pronoun, despite claiming to use collective pronouns",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "4f155999",
+      "_crawled": "2026-04-01T06:22:30.447541Z"
     }
   ],
   "votes": [],
@@ -49,6 +63,24 @@
       "source": "RNZ",
       "_id": "622e7447",
       "_crawled": "2026-03-31T20:43:56.549522Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters visits Cook Islands",
+      "desc": "Peters visits Cook Islands for the first time since a controversial deal with China",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "eef5ec38",
+      "_crawled": "2026-04-01T06:22:30.447541Z"
+    },
+    {
+      "year": 2026,
+      "title": "Peters-Brown forum in Cook Islands",
+      "desc": "Peters meets with officials in Cook Islands, expected to improve relations",
+      "type": "positive",
+      "source": "RNZ News",
+      "_id": "84f1c9b9",
+      "_crawled": "2026-04-01T06:22:30.447541Z"
     }
   ],
   "score_adjustments": {
@@ -56,18 +88,32 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' misrepresentation of international health regulation changes and his history of controversial comments"
+    },
+    "2026-04-01T06:22:30.447541Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' misrepresentation of international health regulation changes and contradictory statements on pronoun usage"
     }
   },
   "summary_updates": [
     {
       "date": "2026-03-31T20:43:56.549522Z",
       "text": "Winston Peters' recent activities and statements have raised concerns about his integrity and judgment."
+    },
+    {
+      "date": "2026-04-01T06:22:30.447541Z",
+      "text": "Winston Peters' recent activities and statements have raised concerns about his integrity and consistency."
     }
   ],
   "crawl_log": [
     {
       "date": "2026-03-31T20:43:56.549522Z",
       "notes": "Peters' social media activity and public statements require continued monitoring for potential discrepancies and misrepresentations.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-01T06:22:30.447541Z",
+      "notes": "Peters' tweet on international health regulation changes and his statement on pronoun usage were found to be contradictory or misleading.",
       "new_items": true
     }
   ],
@@ -79,7 +125,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-01T06:22:30.447605Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-03-31T20:43:56.549594Z"
+  "last_updated": "2026-04-01T06:22:30.447625Z"
 }

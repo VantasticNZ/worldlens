@@ -1,14 +1,80 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 0,
-  "lies": [],
+  "lie_count": 2,
+  "lies": [
+    {
+      "date": "January 2026",
+      "claim": "Drugs entering our country by sea are down 97%",
+      "reality": "This claim is false",
+      "source": "PolitiFact, January 29, 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "dc3c59d8",
+      "_crawled": "2026-04-01T06:23:46.209842Z"
+    },
+    {
+      "date": "March 1, 2026",
+      "claim": "The regime in Iran has now confessed that the (Islamic Revolutionary Guard Corps) mistakenly bombed an Iranian school yesterday",
+      "reality": "This claim is false",
+      "source": "PolitiFact, March 31, 2026",
+      "severity": "high",
+      "platform": "post",
+      "_id": "a1e85dcb",
+      "_crawled": "2026-04-01T06:23:46.209842Z"
+    }
+  ],
   "social_posts": [],
   "votes": [],
-  "recent_events": [],
-  "score_adjustments": {},
-  "summary_updates": [],
-  "crawl_log": [],
-  "sources_log": [],
-  "last_updated": "2026-03-31T20:47:30.684632Z"
+  "recent_events": [
+    {
+      "year": 2026,
+      "title": "Judge temporarily halts construction of Trump's White House ballroom",
+      "desc": "A judge has temporarily halted the construction of a ballroom at the White House",
+      "type": "negative",
+      "source": "BBC World",
+      "_id": "44613726",
+      "_crawled": "2026-04-01T06:23:46.209842Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump's contradictory statements on the Iran war",
+      "desc": "Trump has made contradictory statements about the Iran war, including its duration and goals",
+      "type": "negative",
+      "source": "AP News, The Guardian",
+      "_id": "c65a769c",
+      "_crawled": "2026-04-01T06:23:46.209842Z"
+    }
+  ],
+  "score_adjustments": {
+    "2026-04-01T06:23:46.209842Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's false claims and contradictory statements have negatively impacted his integrity score"
+    }
+  },
+  "summary_updates": [
+    {
+      "date": "2026-04-01T06:23:46.209842Z",
+      "text": "Trump's recent false claims and contradictory statements have raised concerns about his integrity and honesty"
+    }
+  ],
+  "crawl_log": [
+    {
+      "date": "2026-04-01T06:23:46.209842Z",
+      "notes": "Multiple sources confirm Trump's false claims and contradictory statements, including PolitiFact, AP News, and The Guardian",
+      "new_items": true
+    }
+  ],
+  "sources_log": [
+    {
+      "date": "2026-04-01T06:23:46.209896Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
+    }
+  ],
+  "last_updated": "2026-04-01T06:23:46.209912Z"
 }

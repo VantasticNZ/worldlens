@@ -1,9 +1,35 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 0,
-  "lies": [],
-  "social_posts": [],
+  "lie_count": 1,
+  "lies": [
+    {
+      "date": "2026",
+      "claim": "inconsistency between flowery rhetoric and necessary actions to keep warming below 1.5 degrees",
+      "reality": "Luxon's statement was inconsistent with necessary climate actions",
+      "source": "NZ Herald, no specific date",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "bacdccfd",
+      "_crawled": "2026-04-01T06:22:18.014044Z"
+    }
+  ],
+  "social_posts": [
+    {
+      "platform": "twitter",
+      "date": "2026",
+      "text": "Luxon's tweet about trade deal",
+      "verified_by": "Winston Peters' account",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Peters' account corrected Luxon's tweet",
+        "source": "NZ Herald, no specific date",
+        "severity": "low"
+      },
+      "_id": "916be936",
+      "_crawled": "2026-04-01T06:22:18.014044Z"
+    }
+  ],
   "votes": [],
   "recent_events": [
     {
@@ -23,14 +49,39 @@
       "source": "RNZ",
       "_id": "0905b582",
       "_crawled": "2026-03-31T20:43:28.991133Z"
+    },
+    {
+      "year": 2026,
+      "title": "Cabinet Reshuffle Analysis",
+      "desc": "RNZ News analyzes the winners and losers of Luxon's election-year Cabinet reshuffle",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "15ff8ad6",
+      "_crawled": "2026-04-01T06:22:18.014044Z"
     }
   ],
-  "score_adjustments": {},
-  "summary_updates": [],
+  "score_adjustments": {
+    "2026-04-01T06:22:18.014044Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistency on climate actions and Peters' correction of Luxon's tweet"
+    }
+  },
+  "summary_updates": [
+    {
+      "date": "2026-04-01T06:22:18.014044Z",
+      "text": "Luxon's integrity score takes a hit due to inconsistency on climate actions and correction of his tweet by Peters"
+    }
+  ],
   "crawl_log": [
     {
       "date": "2026-03-31T20:43:28.991133Z",
       "notes": "New events and controversies related to Christopher Luxon",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-01T06:22:18.014044Z",
+      "notes": "Multiple sources indicate Luxon's inconsistencies and controversies",
       "new_items": true
     }
   ],
@@ -43,7 +94,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-01T06:22:18.014103Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-03-31T20:43:28.991186Z"
+  "last_updated": "2026-04-01T06:22:18.014121Z"
 }

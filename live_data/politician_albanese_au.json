@@ -8,7 +8,22 @@
   "recent_events": [],
   "score_adjustments": {},
   "summary_updates": [],
-  "crawl_log": [],
-  "sources_log": [],
-  "last_updated": "2026-03-31T20:47:51.604268Z"
+  "crawl_log": [
+    {
+      "date": "2026-04-01T06:23:54.864043Z",
+      "notes": "No significant new findings",
+      "new_items": false
+    }
+  ],
+  "sources_log": [
+    {
+      "date": "2026-04-01T06:23:54.864057Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
+    }
+  ],
+  "last_updated": "2026-04-01T06:23:54.864075Z"
 }

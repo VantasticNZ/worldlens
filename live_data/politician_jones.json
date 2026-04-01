@@ -5,10 +5,44 @@
   "lies": [],
   "social_posts": [],
   "votes": [],
-  "recent_events": [],
+  "recent_events": [
+    {
+      "year": 2026,
+      "title": "Fisheries bill backlash",
+      "desc": "Shane Jones faced backlash over the removal of minimum fish size requirements for commercial operators, and was forced to abandon the plan",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "0fc9bccd",
+      "_crawled": "2026-04-01T06:22:51.924820Z"
+    },
+    {
+      "year": 2026,
+      "title": "IEA Declaration",
+      "desc": "New Zealand joined international leaders in committing to strengthen global co-operation on critical minerals",
+      "type": "neutral",
+      "source": "Beehive.govt.nz",
+      "_id": "842825e8",
+      "_crawled": "2026-04-01T06:22:51.924820Z"
+    }
+  ],
   "score_adjustments": {},
   "summary_updates": [],
-  "crawl_log": [],
-  "sources_log": [],
-  "last_updated": "2026-03-31T20:44:55.607023Z"
+  "crawl_log": [
+    {
+      "date": "2026-04-01T06:22:51.924820Z",
+      "notes": "Shane Jones' recent activities and statements have been controversial, particularly regarding the fisheries bill",
+      "new_items": true
+    }
+  ],
+  "sources_log": [
+    {
+      "date": "2026-04-01T06:22:51.924859Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
+    }
+  ],
+  "last_updated": "2026-04-01T06:22:51.924877Z"
 }
