@@ -58,6 +58,33 @@
       "source": "RNZ News",
       "_id": "15ff8ad6",
       "_crawled": "2026-04-01T06:22:18.014044Z"
+    },
+    {
+      "year": 2026,
+      "title": "Cabinet Reshuffle Analysis and Reactions",
+      "desc": "Chris Bishop was unceremoniously dumped as campaign chair in Luxon's Cabinet reshuffle, raising new leadership questions",
+      "type": "negative",
+      "source": "RNZ News, Newsroom",
+      "_id": "69e784a5",
+      "_crawled": "2026-04-02T06:07:07.750550Z"
+    },
+    {
+      "year": 2026,
+      "title": "Matai Title Controversy Update",
+      "desc": "Samoa's PM tells Luxon to ignore negativity on social media over matai title",
+      "type": "neutral",
+      "source": "www.nzherald.co.nz",
+      "_id": "dd5f91c1",
+      "_crawled": "2026-04-02T06:07:07.750550Z"
+    },
+    {
+      "year": 2026,
+      "title": "Election Date Announcement",
+      "desc": "New Zealand Prime Minister Christopher Luxon announces the 2026 election date as November 7",
+      "type": "neutral",
+      "source": "apnews.com",
+      "_id": "3d2a3180",
+      "_crawled": "2026-04-02T06:07:07.750550Z"
     }
   ],
   "score_adjustments": {
@@ -71,6 +98,10 @@
     {
       "date": "2026-04-01T06:22:18.014044Z",
       "text": "Luxon's integrity score takes a hit due to inconsistency on climate actions and correction of his tweet by Peters"
+    },
+    {
+      "date": "2026-04-02T06:07:07.750550Z",
+      "text": "Christopher Luxon's Cabinet reshuffle and matai title controversy continue to attract attention, while the election date has been set for November 7"
     }
   ],
   "crawl_log": [
@@ -82,6 +113,11 @@
     {
       "date": "2026-04-01T06:22:18.014044Z",
       "notes": "Multiple sources indicate Luxon's inconsistencies and controversies",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-02T06:07:07.750550Z",
+      "notes": "Multiple sources report on Luxon's Cabinet reshuffle and its implications, as well as the matai title controversy and election date announcement",
       "new_items": true
     }
   ],
@@ -102,7 +138,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-02T06:07:07.750633Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-01T06:22:18.014121Z"
+  "last_updated": "2026-04-02T06:07:07.750659Z"
 }

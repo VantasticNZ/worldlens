@@ -1,8 +1,19 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 0,
-  "lies": [],
+  "lie_count": 1,
+  "lies": [
+    {
+      "date": "April 2026",
+      "claim": "No actual change",
+      "reality": "Auckland's minimum housing capacity was cut from 1.6 million to 1.4 million",
+      "source": "RNZ News, thespinoff.co.nz",
+      "severity": "med",
+      "platform": "interview, press_release",
+      "_id": "cc4a7923",
+      "_crawled": "2026-04-02T06:09:37.013544Z"
+    }
+  ],
   "social_posts": [],
   "votes": [],
   "recent_events": [
@@ -14,19 +25,43 @@
       "source": "RNZ News",
       "_id": "ec4ba2c1",
       "_crawled": "2026-04-01T06:23:14.013958Z"
+    },
+    {
+      "year": 2026,
+      "title": "Cabinet Reshuffle",
+      "desc": "Chris Bishop was dumped as campaign chair in Luxon's Cabinet reshuffle, sparking leadership speculation",
+      "type": "negative",
+      "source": "RNZ News, Newsroom",
+      "_id": "9b473b04",
+      "_crawled": "2026-04-02T06:09:37.013544Z"
     }
   ],
-  "score_adjustments": {},
+  "score_adjustments": {
+    "2026-04-02T06:09:37.013544Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Housing Minister Chris Bishop's downplaying of the scaling down of Auckland's housing plans contradicts the actual change"
+    }
+  },
   "summary_updates": [
     {
       "date": "2026-04-01T06:23:14.013958Z",
       "text": "Housing Minister Chris Bishop announced changes to Auckland's housing density rules, sparking controversy and criticism."
+    },
+    {
+      "date": "2026-04-02T06:09:37.013544Z",
+      "text": "Chris Bishop faced criticism for his handling of Auckland's housing plans and was dumped as campaign chair in a Cabinet reshuffle"
     }
   ],
   "crawl_log": [
     {
       "date": "2026-04-01T06:23:14.013958Z",
       "notes": "Multiple sources reported on the changes to Auckland's housing plan, with some criticizing the government's decision to reduce the housing target.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-02T06:09:37.013544Z",
+      "notes": "Contradiction found between Chris Bishop's statement and actual change to Auckland's housing plans",
       "new_items": true
     }
   ],
@@ -38,7 +73,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-02T06:09:37.013602Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-01T06:23:14.014012Z"
+  "last_updated": "2026-04-02T06:09:37.013625Z"
 }

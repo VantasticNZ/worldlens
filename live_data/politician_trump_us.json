@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 2,
+  "lie_count": 7,
   "lies": [
     {
       "date": "January 2026",
@@ -22,6 +22,56 @@
       "platform": "post",
       "_id": "a1e85dcb",
       "_crawled": "2026-04-01T06:23:46.209842Z"
+    },
+    {
+      "date": "February 2026",
+      "claim": "The crime rate now is the lowest it's been since 1900. That's 125 years.",
+      "reality": "This claim is half-true, as the crime rate has fluctuated over the years and it's not entirely accurate to say it's the lowest since 1900.",
+      "source": "PolitiFact, February 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "5488be75",
+      "_crawled": "2026-04-02T06:10:54.421173Z"
+    },
+    {
+      "date": "January 2026",
+      "claim": "We right now have more factories and plants being built in our country than we've ever had before.",
+      "reality": "This claim is half-true, as while there has been an increase in factory and plant construction, it's not entirely accurate to say it's the most ever.",
+      "source": "PolitiFact, January 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "95c28df7",
+      "_crawled": "2026-04-02T06:10:54.421173Z"
+    },
+    {
+      "date": "February 2026",
+      "claim": "Crime in Minneapolis is down 25, 30% because we've removed thousands of criminals from the area.",
+      "reality": "This claim is barely-true, as while crime rates have decreased in Minneapolis, it's not entirely accurate to attribute it to the removal of thousands of criminals.",
+      "source": "PolitiFact, February 2026",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "dc1c919c",
+      "_crawled": "2026-04-02T06:10:54.421173Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "More Americans are working today than at any time in the history of our country.",
+      "reality": "This claim is half-true, as while the employment rate has increased, it's not entirely accurate to say it's the highest in history.",
+      "source": "PolitiFact, March 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "43f43677",
+      "_crawled": "2026-04-02T06:10:54.421173Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Mail-in voting means mail-in cheating.",
+      "reality": "This claim is false, as there is no evidence to suggest that mail-in voting leads to widespread cheating.",
+      "source": "PolitiFact, March 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "abb0ea3c",
+      "_crawled": "2026-04-02T06:10:54.421173Z"
     }
   ],
   "social_posts": [],
@@ -44,6 +94,33 @@
       "source": "AP News, The Guardian",
       "_id": "c65a769c",
       "_crawled": "2026-04-01T06:23:46.209842Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump addresses nation on Iran war",
+      "desc": "Trump gave a prime-time speech on the Iran war, marking his first address to the nation since launching strikes four weeks ago.",
+      "type": "neutral",
+      "source": "Philly Tribune",
+      "_id": "4996bbf4",
+      "_crawled": "2026-04-02T06:10:54.421173Z"
+    },
+    {
+      "year": 2026,
+      "title": "NATO chief to visit Washington",
+      "desc": "The NATO chief is set to visit Washington next week, amid tensions over Trump's threats to exit the alliance.",
+      "type": "negative",
+      "source": "The Hindu Business Line",
+      "_id": "539ce081",
+      "_crawled": "2026-04-02T06:10:54.421173Z"
+    },
+    {
+      "year": 2026,
+      "title": "Gold prices retreat as Trump threatens further attacks on Iran",
+      "desc": "Gold prices have retreated as Trump threatens further attacks on Iran, sparking concerns over the ongoing conflict.",
+      "type": "negative",
+      "source": "Marketscreener",
+      "_id": "5b447d30",
+      "_crawled": "2026-04-02T06:10:54.421173Z"
     }
   ],
   "score_adjustments": {
@@ -51,18 +128,32 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's false claims and contradictory statements have negatively impacted his integrity score"
+    },
+    "2026-04-02T06:10:54.421173Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The numerous half-true and false claims made by Trump have negatively impacted his integrity score."
     }
   },
   "summary_updates": [
     {
       "date": "2026-04-01T06:23:46.209842Z",
       "text": "Trump's recent false claims and contradictory statements have raised concerns about his integrity and honesty"
+    },
+    {
+      "date": "2026-04-02T06:10:54.421173Z",
+      "text": "Trump's recent statements on the Iran war and his claims about crime rates and employment have raised concerns over his integrity and truthfulness."
     }
   ],
   "crawl_log": [
     {
       "date": "2026-04-01T06:23:46.209842Z",
       "notes": "Multiple sources confirm Trump's false claims and contradictory statements, including PolitiFact, AP News, and The Guardian",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-02T06:10:54.421173Z",
+      "notes": "Multiple sources have fact-checked Trump's claims, revealing a pattern of half-truths and false statements.",
       "new_items": true
     }
   ],
@@ -74,7 +165,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-02T06:10:54.421330Z",
+      "sources": [
+        "RSS (6 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-01T06:23:46.209912Z"
+  "last_updated": "2026-04-02T06:10:54.421359Z"
 }

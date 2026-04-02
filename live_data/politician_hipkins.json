@@ -23,6 +23,24 @@
       "source": "NZ Herald",
       "_id": "b8f3f5b7",
       "_crawled": "2026-04-01T06:23:27.396299Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins faces renewed scrutiny",
+      "desc": "Labour leader Chris Hipkins faces renewed scrutiny after denying ex-wife's allegations",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "2b5ed4a6",
+      "_crawled": "2026-04-02T06:10:03.641471Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins' State of the Nation address",
+      "desc": "Chris Hipkins delivers the State of the Nation address, focusing on Labour's campaign values",
+      "type": "neutral",
+      "source": "Newsroom",
+      "_id": "2802249d",
+      "_crawled": "2026-04-02T06:10:03.641471Z"
     }
   ],
   "score_adjustments": {},
@@ -42,6 +60,11 @@
       "date": "2026-04-01T06:23:27.396299Z",
       "notes": "No significant new findings on lies, social posts, or votes.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-02T06:10:03.641471Z",
+      "notes": "No significant lies, social posts, or votes found",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -59,7 +82,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-02T06:10:03.641527Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-01T06:23:27.396367Z"
+  "last_updated": "2026-04-02T06:10:03.641548Z"
 }

@@ -32,6 +32,11 @@
       "date": "2026-04-01T06:22:51.924820Z",
       "notes": "Shane Jones' recent activities and statements have been controversial, particularly regarding the fisheries bill",
       "new_items": true
+    },
+    {
+      "date": "2026-04-02T06:08:33.024961Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -42,7 +47,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-02T06:08:33.024977Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-01T06:22:51.924877Z"
+  "last_updated": "2026-04-02T06:08:33.025000Z"
 }

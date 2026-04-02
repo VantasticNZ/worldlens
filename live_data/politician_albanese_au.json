@@ -5,7 +5,26 @@
   "lies": [],
   "social_posts": [],
   "votes": [],
-  "recent_events": [],
+  "recent_events": [
+    {
+      "year": 2026,
+      "title": "Fuel Crisis Speech",
+      "desc": "Albanese rejects fuel crisis speech backlash and addresses the nation on the Middle East crisis.",
+      "type": "neutral",
+      "source": "The Guardian, Eden Magnet",
+      "_id": "aab89428",
+      "_crawled": "2026-04-02T06:11:18.376062Z"
+    },
+    {
+      "year": 2026,
+      "title": "Gambling Reforms",
+      "desc": "Albanese's gambling reforms labeled underwhelming.",
+      "type": "negative",
+      "source": "Mirage News, Great Lakes Advocate, Braidwood Times",
+      "_id": "bfae8301",
+      "_crawled": "2026-04-02T06:11:18.376062Z"
+    }
+  ],
   "score_adjustments": {},
   "summary_updates": [],
   "crawl_log": [
@@ -13,6 +32,11 @@
       "date": "2026-04-01T06:23:54.864043Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-02T06:11:18.376062Z",
+      "notes": "Albanese's recent speeches and policy decisions have been met with mixed reactions.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -23,7 +47,16 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-02T06:11:18.376151Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-01T06:23:54.864075Z"
+  "last_updated": "2026-04-02T06:11:18.376169Z"
 }

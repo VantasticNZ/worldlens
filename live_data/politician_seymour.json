@@ -23,6 +23,42 @@
       "source": "RNZ",
       "_id": "52ed458b",
       "_crawled": "2026-04-01T06:22:42.438507Z"
+    },
+    {
+      "year": 2026,
+      "title": "Kura Toa charter school announcement",
+      "desc": "Associate Education Minister David Seymour announced that Kura Toa will open as an iwi-led charter school in Term 3 2026.",
+      "type": "neutral",
+      "source": "Beehive.govt.nz",
+      "_id": "325253fb",
+      "_crawled": "2026-04-02T06:08:04.801959Z"
+    },
+    {
+      "year": 2026,
+      "title": "New Zealand Performance Academy Aotearoa (NZPAA) announcement",
+      "desc": "Associate Education Minister David Seymour announced that the NZPAA will open as a charter school for athletes in Term 1 2026.",
+      "type": "neutral",
+      "source": "Beehive.govt.nz",
+      "_id": "47d7b06d",
+      "_crawled": "2026-04-02T06:08:04.801959Z"
+    },
+    {
+      "year": 2026,
+      "title": "Sisters United Academy announcement",
+      "desc": "Associate Education Minister David Seymour announced that Sisters United Academy will open in Term 1 2026 as a charter school.",
+      "type": "neutral",
+      "source": "Beehive.govt.nz",
+      "_id": "2b25fd06",
+      "_crawled": "2026-04-02T06:08:04.801959Z"
+    },
+    {
+      "year": 2026,
+      "title": "Waitangi Pōwhiri speech",
+      "desc": "David Seymour gave a speech at the Waitangi Pōwhiri on February 5th, discussing healthcare and education.",
+      "type": "neutral",
+      "source": "ACT.org.nz",
+      "_id": "d698d24e",
+      "_crawled": "2026-04-02T06:08:04.801959Z"
     }
   ],
   "score_adjustments": {},
@@ -36,6 +72,11 @@
     {
       "date": "2026-04-01T06:22:42.438507Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events were found.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-02T06:08:04.801959Z",
+      "notes": "New events and announcements from David Seymour",
       "new_items": true
     }
   ],
@@ -54,7 +95,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-02T06:08:04.802049Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-01T06:22:42.438578Z"
+  "last_updated": "2026-04-02T06:08:04.802105Z"
 }

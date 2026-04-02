@@ -59,6 +59,24 @@
       "source": "BBC",
       "_id": "ea704e34",
       "_crawled": "2026-04-01T06:24:12.948480Z"
+    },
+    {
+      "year": 2026,
+      "title": "UK gathers more than 30 countries to plot ways of reopening the Strait of Hormuz",
+      "desc": "The UK has gathered over 30 countries to discuss ways to reopen the Strait of Hormuz, amidst rising tensions in the region.",
+      "type": "neutral",
+      "source": "yakimaherald.com",
+      "_id": "ce752fdb",
+      "_crawled": "2026-04-02T06:11:46.165772Z"
+    },
+    {
+      "year": 2026,
+      "title": "Starmer seeks to carve out distinct UK approach to the conflict in the Middle East",
+      "desc": "Keir Starmer is seeking to establish a unique UK approach to the conflict in the Middle East, as the situation continues to unfold.",
+      "type": "neutral",
+      "source": "bbc.com",
+      "_id": "073287d8",
+      "_crawled": "2026-04-02T06:11:46.165772Z"
     }
   ],
   "score_adjustments": {
@@ -79,6 +97,11 @@
       "date": "2026-04-01T06:24:12.948480Z",
       "notes": "review of recent statements and events",
       "new_items": true
+    },
+    {
+      "date": "2026-04-02T06:11:46.165772Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but new events related to the Strait of Hormuz and the Middle East conflict have been identified.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -89,7 +112,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-02T06:11:46.165823Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-01T06:24:12.948553Z"
+  "last_updated": "2026-04-02T06:11:46.165844Z"
 }

@@ -5,14 +5,43 @@
   "lies": [],
   "social_posts": [],
   "votes": [],
-  "recent_events": [],
+  "recent_events": [
+    {
+      "year": 2026,
+      "title": "NZ Economic Forum",
+      "desc": "Nicola Willis spoke at the NZ Economic Forum, discussing the economic outlook amid the Iran war and the government's fiscal responsibility.",
+      "type": "neutral",
+      "source": "newsroom.co.nz",
+      "_id": "5efb3982",
+      "_crawled": "2026-04-02T06:08:57.217525Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fuel Crisis",
+      "desc": "Nicola Willis announced no new support for families hit by the fuel crisis, despite increased fuel costs.",
+      "type": "negative",
+      "source": "www.greens.org.nz",
+      "_id": "edc096b0",
+      "_crawled": "2026-04-02T06:08:57.217525Z"
+    }
+  ],
   "score_adjustments": {},
-  "summary_updates": [],
+  "summary_updates": [
+    {
+      "date": "2026-04-02T06:08:57.217525Z",
+      "text": "Nicola Willis spoke at the NZ Economic Forum and announced no new support for families hit by the fuel crisis."
+    }
+  ],
   "crawl_log": [
     {
       "date": "2026-04-01T06:23:00.242126Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-02T06:08:57.217525Z",
+      "notes": "No significant new lies or social posts found.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -23,7 +52,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-02T06:08:57.217568Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-01T06:23:00.242213Z"
+  "last_updated": "2026-04-02T06:08:57.217590Z"
 }

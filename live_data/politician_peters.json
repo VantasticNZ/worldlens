@@ -42,6 +42,20 @@
       },
       "_id": "4f155999",
       "_crawled": "2026-04-01T06:22:30.447541Z"
+    },
+    {
+      "platform": "X",
+      "date": "2026",
+      "text": "This is what happens when a bunch of unelected globalist bureaucrats are not accountable or responsible with worldwide taxpayers money",
+      "verified_by": "www.rnz.co.nz",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "Peters' statement about the US withdrawal from an international organization is misleading",
+        "source": "www.rnz.co.nz",
+        "severity": "med"
+      },
+      "_id": "c0d11197",
+      "_crawled": "2026-04-02T06:07:36.580030Z"
     }
   ],
   "votes": [],
@@ -81,6 +95,24 @@
       "source": "RNZ News",
       "_id": "84f1c9b9",
       "_crawled": "2026-04-01T06:22:30.447541Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters signs defence and security declaration with Cook Islands PM Mark Brown",
+      "desc": "Peters and Brown held an informal discussion in Auckland, but no deal was reached on key issues",
+      "type": "neutral",
+      "source": "www.rnz.co.nz",
+      "_id": "459d4cce",
+      "_crawled": "2026-04-02T06:07:36.580030Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters proclaims 'war on woke' in state of the nation address",
+      "desc": "Peters was heckled by pro-Palestine protesters during his speech in Christchurch",
+      "type": "negative",
+      "source": "www.stuff.co.nz",
+      "_id": "b0f4df83",
+      "_crawled": "2026-04-02T06:07:36.580030Z"
     }
   ],
   "score_adjustments": {
@@ -103,6 +135,10 @@
     {
       "date": "2026-04-01T06:22:30.447541Z",
       "text": "Winston Peters' recent activities and statements have raised concerns about his integrity and consistency."
+    },
+    {
+      "date": "2026-04-02T06:07:36.580030Z",
+      "text": "Winston Peters has made recent statements and taken actions that have sparked controversy and criticism"
     }
   ],
   "crawl_log": [
@@ -114,6 +150,11 @@
     {
       "date": "2026-04-01T06:22:30.447541Z",
       "notes": "Peters' tweet on international health regulation changes and his statement on pronoun usage were found to be contradictory or misleading.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-02T06:07:36.580030Z",
+      "notes": "Peters' social media post and recent events have been added to the database",
       "new_items": true
     }
   ],
@@ -133,7 +174,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-02T06:07:36.580120Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-01T06:22:30.447625Z"
+  "last_updated": "2026-04-02T06:07:36.580142Z"
 }
