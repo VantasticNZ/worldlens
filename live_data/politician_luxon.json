@@ -28,6 +28,20 @@
       },
       "_id": "916be936",
       "_crawled": "2026-04-01T06:22:18.014044Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "March 2026",
+      "text": "post about trade deal",
+      "verified_by": "Stuff",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "contradiction with Winston Peters' statement",
+        "source": "Stuff",
+        "severity": "med"
+      },
+      "_id": "9f456a9b",
+      "_crawled": "2026-04-03T06:07:39.693179Z"
     }
   ],
   "votes": [],
@@ -85,6 +99,15 @@
       "source": "apnews.com",
       "_id": "3d2a3180",
       "_crawled": "2026-04-02T06:07:07.750550Z"
+    },
+    {
+      "year": 2026,
+      "title": "Election-Year Cabinet Reshuffle",
+      "desc": "Luxon announces Cabinet reshuffle",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "a9ed5e97",
+      "_crawled": "2026-04-03T06:07:39.693179Z"
     }
   ],
   "score_adjustments": {
@@ -102,6 +125,10 @@
     {
       "date": "2026-04-02T06:07:07.750550Z",
       "text": "Christopher Luxon's Cabinet reshuffle and matai title controversy continue to attract attention, while the election date has been set for November 7"
+    },
+    {
+      "date": "2026-04-03T06:07:39.693179Z",
+      "text": "Luxon's Cabinet reshuffle sparks leadership questions"
     }
   ],
   "crawl_log": [
@@ -118,6 +145,11 @@
     {
       "date": "2026-04-02T06:07:07.750550Z",
       "notes": "Multiple sources report on Luxon's Cabinet reshuffle and its implications, as well as the matai title controversy and election date announcement",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-03T06:07:39.693179Z",
+      "notes": "Reshuffle and trade deal discrepancies noted",
       "new_items": true
     }
   ],
@@ -146,7 +178,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-03T06:07:39.693244Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-02T06:07:07.750659Z"
+  "last_updated": "2026-04-03T06:07:39.693263Z"
 }

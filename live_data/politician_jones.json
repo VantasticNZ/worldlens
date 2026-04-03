@@ -1,8 +1,19 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 0,
-  "lies": [],
+  "lie_count": 1,
+  "lies": [
+    {
+      "date": "March 2026",
+      "claim": "Recreational groups agreed to the commercial size-limit changes during 2022 reforms",
+      "reality": "No evidence of such agreement, and critics argue the changes were not widely known or agreed upon",
+      "source": "nzherald.co.nz",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "b3333d08",
+      "_crawled": "2026-04-03T06:08:59.039539Z"
+    }
+  ],
   "social_posts": [],
   "votes": [],
   "recent_events": [
@@ -23,10 +34,30 @@
       "source": "Beehive.govt.nz",
       "_id": "842825e8",
       "_crawled": "2026-04-01T06:22:51.924820Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fisheries Bill controversy",
+      "desc": "Shane Jones' Fisheries Bill has sparked controversy over proposed changes to commercial fishing regulations, with critics arguing it favors the industry over recreational fishers and the environment",
+      "type": "negative",
+      "source": "rnz.co.nz",
+      "_id": "9ba3c133",
+      "_crawled": "2026-04-03T06:08:59.039539Z"
     }
   ],
-  "score_adjustments": {},
-  "summary_updates": [],
+  "score_adjustments": {
+    "2026-04-03T06:08:59.039539Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Claim of recreational groups' agreement appears to be unsubstantiated"
+    }
+  },
+  "summary_updates": [
+    {
+      "date": "2026-04-03T06:08:59.039539Z",
+      "text": "Shane Jones' Fisheries Bill has sparked controversy, and his claim about recreational groups' agreement on commercial size-limit changes appears to be unsubstantiated"
+    }
+  ],
   "crawl_log": [
     {
       "date": "2026-04-01T06:22:51.924820Z",
@@ -37,6 +68,11 @@
       "date": "2026-04-02T06:08:33.024961Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-03T06:08:59.039539Z",
+      "notes": "Controversy surrounding Fisheries Bill and potential dishonesty from Shane Jones",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -54,7 +90,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-03T06:08:59.039588Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-02T06:08:33.025000Z"
+  "last_updated": "2026-04-03T06:08:59.039605Z"
 }

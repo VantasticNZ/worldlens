@@ -77,6 +77,15 @@
       "source": "bbc.com",
       "_id": "073287d8",
       "_crawled": "2026-04-02T06:11:46.165772Z"
+    },
+    {
+      "year": 2026,
+      "title": "UK meets with 35 nations to discuss reopening Strait of Hormuz",
+      "desc": "The UK has met with 35 other nations to find ways to reopen the Strait of Hormuz.",
+      "type": "neutral",
+      "source": "jamaicantimes.com",
+      "_id": "08d4867a",
+      "_crawled": "2026-04-03T06:11:45.055347Z"
     }
   ],
   "score_adjustments": {
@@ -102,6 +111,11 @@
       "date": "2026-04-02T06:11:46.165772Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to the Strait of Hormuz and the Middle East conflict have been identified.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-03T06:11:45.055347Z",
+      "notes": "Multiple sources confirm UK meeting with 35 nations to discuss reopening Strait of Hormuz.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -120,7 +134,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-03T06:11:45.055388Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-02T06:11:46.165844Z"
+  "last_updated": "2026-04-03T06:11:45.055404Z"
 }

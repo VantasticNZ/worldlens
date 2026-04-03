@@ -41,6 +41,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Housing Minister Chris Bishop's downplaying of the scaling down of Auckland's housing plans contradicts the actual change"
+    },
+    "2026-04-03T06:09:54.980338Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Bishop's claim of 'no actual change' contradicts the actual reduction in Auckland's minimum housing capacity"
     }
   },
   "summary_updates": [
@@ -51,6 +56,10 @@
     {
       "date": "2026-04-02T06:09:37.013544Z",
       "text": "Chris Bishop faced criticism for his handling of Auckland's housing plans and was dumped as campaign chair in a Cabinet reshuffle"
+    },
+    {
+      "date": "2026-04-03T06:09:54.980338Z",
+      "text": "Chris Bishop's integrity score has been adjusted downward due to a notable contradiction between his statement and actual events."
     }
   ],
   "crawl_log": [
@@ -62,6 +71,11 @@
     {
       "date": "2026-04-02T06:09:37.013544Z",
       "notes": "Contradiction found between Chris Bishop's statement and actual change to Auckland's housing plans",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-03T06:09:54.980338Z",
+      "notes": "Contradiction found between Chris Bishop's statement and actual events, affecting his integrity score",
       "new_items": true
     }
   ],
@@ -81,7 +95,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-03T06:09:54.980387Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-02T06:09:37.013625Z"
+  "last_updated": "2026-04-03T06:09:54.980408Z"
 }

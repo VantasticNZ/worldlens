@@ -41,6 +41,24 @@
       "source": "Newsroom",
       "_id": "2802249d",
       "_crawled": "2026-04-02T06:10:03.641471Z"
+    },
+    {
+      "year": 2026,
+      "title": "Labour leader Chris Hipkins faces renewed scrutiny",
+      "desc": "Chris Hipkins faces renewed scrutiny after denying ex-wife's allegations, and criticism of his State of the Nation speech",
+      "type": "negative",
+      "source": "nzherald.co.nz",
+      "_id": "8bef688e",
+      "_crawled": "2026-04-03T06:10:15.599837Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins lays out Labour's plan for 2026",
+      "desc": "Chris Hipkins outlines Labour's focus on basic cost-of-living issues, including jobs, health, and homes",
+      "type": "neutral",
+      "source": "thespinoff.co.nz",
+      "_id": "28559939",
+      "_crawled": "2026-04-03T06:10:15.599837Z"
     }
   ],
   "score_adjustments": {},
@@ -48,6 +66,10 @@
     {
       "date": "2026-04-01T06:23:27.396299Z",
       "text": "Chris Hipkins delivered his State of the Nation address and faced scrutiny after denying his ex-wife's allegations."
+    },
+    {
+      "date": "2026-04-03T06:10:15.599837Z",
+      "text": "Chris Hipkins faces renewed scrutiny, outlines Labour's plan for 2026"
     }
   ],
   "crawl_log": [
@@ -64,6 +86,11 @@
     {
       "date": "2026-04-02T06:10:03.641471Z",
       "notes": "No significant lies, social posts, or votes found",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-03T06:10:15.599837Z",
+      "notes": "No significant new lies or social posts found, but new events and summary update",
       "new_items": true
     }
   ],
@@ -89,7 +116,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-03T06:10:15.599935Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-02T06:10:03.641548Z"
+  "last_updated": "2026-04-03T06:10:15.599958Z"
 }

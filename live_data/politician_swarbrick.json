@@ -13,6 +13,11 @@
       "date": "2026-04-02T06:10:30.566322Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-03T06:10:35.408702Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -22,7 +27,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-04-03T06:10:35.408714Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-02T06:10:30.566357Z"
+  "last_updated": "2026-04-03T06:10:35.408733Z"
 }

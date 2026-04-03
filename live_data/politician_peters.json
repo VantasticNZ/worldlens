@@ -156,6 +156,11 @@
       "date": "2026-04-02T06:07:36.580030Z",
       "notes": "Peters' social media post and recent events have been added to the database",
       "new_items": true
+    },
+    {
+      "date": "2026-04-03T06:08:09.901717Z",
+      "notes": "Peters' recent statements and events reviewed, no significant new lies or contradictions found",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -182,7 +187,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-03T06:08:09.901760Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-02T06:07:36.580142Z"
+  "last_updated": "2026-04-03T06:08:09.901784Z"
 }

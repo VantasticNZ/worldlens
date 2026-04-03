@@ -59,6 +59,15 @@
       "source": "ACT.org.nz",
       "_id": "d698d24e",
       "_crawled": "2026-04-02T06:08:04.801959Z"
+    },
+    {
+      "year": 2026,
+      "title": "Seymour's balancing Act as party seeks second term in power",
+      "desc": "David Seymour seeks to spark a new culture war as Act seeks a second term in power.",
+      "type": "neutral",
+      "source": "Newsroom",
+      "_id": "c18b656e",
+      "_crawled": "2026-04-03T06:08:35.330598Z"
     }
   ],
   "score_adjustments": {},
@@ -77,6 +86,11 @@
     {
       "date": "2026-04-02T06:08:04.801959Z",
       "notes": "New events and announcements from David Seymour",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-03T06:08:35.330598Z",
+      "notes": "No significant new lies, social posts, or votes found",
       "new_items": true
     }
   ],
@@ -102,7 +116,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-03T06:08:35.330652Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-02T06:08:04.802105Z"
+  "last_updated": "2026-04-03T06:08:35.330671Z"
 }
