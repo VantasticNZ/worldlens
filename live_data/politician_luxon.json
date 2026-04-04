@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 1,
+  "lie_count": 2,
   "lies": [
     {
       "date": "2026",
@@ -12,6 +12,16 @@
       "platform": "speech",
       "_id": "bacdccfd",
       "_crawled": "2026-04-01T06:22:18.014044Z"
+    },
+    {
+      "date": "February 2024",
+      "claim": "supported the Crusaders since he was a little boy",
+      "reality": "the Crusaders played their first game in 1996, when Luxon was 25",
+      "source": "The Spinoff, 17 February 2026",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "9c8127cf",
+      "_crawled": "2026-04-04T05:50:51.941060Z"
     }
   ],
   "social_posts": [
@@ -108,6 +118,24 @@
       "source": "RNZ News",
       "_id": "a9ed5e97",
       "_crawled": "2026-04-03T06:07:39.693179Z"
+    },
+    {
+      "year": 2026,
+      "title": "Cabinet reshuffle",
+      "desc": "Chris Bishop was unceremoniously dumped as campaign chair",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "d3b24f87",
+      "_crawled": "2026-04-04T05:50:51.941060Z"
+    },
+    {
+      "year": 2026,
+      "title": "Matai title controversy",
+      "desc": "Luxon received a Matai title in Samoa, sparking controversy",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "4ceb50f3",
+      "_crawled": "2026-04-04T05:50:51.941060Z"
     }
   ],
   "score_adjustments": {
@@ -115,6 +143,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistency on climate actions and Peters' correction of Luxon's tweet"
+    },
+    "2026-04-04T05:50:51.941060Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistencies and controversies have raised concerns about his integrity"
     }
   },
   "summary_updates": [
@@ -129,6 +162,10 @@
     {
       "date": "2026-04-03T06:07:39.693179Z",
       "text": "Luxon's Cabinet reshuffle sparks leadership questions"
+    },
+    {
+      "date": "2026-04-04T05:50:51.941060Z",
+      "text": "Luxon's cabinet reshuffle and Matai title controversy have sparked criticism and raised questions about his leadership"
     }
   ],
   "crawl_log": [
@@ -150,6 +187,11 @@
     {
       "date": "2026-04-03T06:07:39.693179Z",
       "notes": "Reshuffle and trade deal discrepancies noted",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-04T05:50:51.941060Z",
+      "notes": "Multiple sources indicate Luxon's inconsistencies and controversies, affecting his integrity score",
       "new_items": true
     }
   ],
@@ -186,7 +228,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-04T05:50:51.941138Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-03T06:07:39.693263Z"
+  "last_updated": "2026-04-04T05:50:51.941158Z"
 }

@@ -1,10 +1,10 @@
 {
-  "generated": "2026-04-03T06:11:46.055887Z",
+  "generated": "2026-04-04T05:52:29.760838Z",
   "files": {
     "politician_bishop": {
-      "last_updated": "2026-04-03T06:09:54.980408Z",
+      "last_updated": "2026-04-04T05:51:46.614658Z",
       "lie_count": 1,
-      "event_count": 2,
+      "event_count": 4,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
@@ -16,9 +16,9 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-04-03T06:09:29.957450Z",
+      "last_updated": "2026-04-04T05:51:37.790484Z",
       "lie_count": 0,
-      "event_count": 2,
+      "event_count": 4,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
@@ -29,36 +29,35 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-04-03T06:10:59.344596Z",
-      "lie_count": 8,
-      "event_count": 7,
+      "last_updated": "2026-04-04T05:52:13.368603Z",
+      "lie_count": 11,
+      "event_count": 9,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (8 articles from NZ/intl media)",
-          "GDELT global news database",
+          "RSS (5 articles from NZ/intl media)",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-04-03T06:08:09.901784Z",
+      "last_updated": "2026-04-04T05:51:11.427463Z",
       "lie_count": 1,
-      "event_count": 6,
-      "post_count": 3,
+      "event_count": 8,
+      "post_count": 4,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Winston Peters NZ First contradiction 20",
           "Tavily: Winston Peters tweet statement 2026"
         ]
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-04-03T06:08:35.330671Z",
+      "last_updated": "2026-04-04T05:51:20.872144Z",
       "lie_count": 0,
       "event_count": 7,
       "post_count": 0,
@@ -71,9 +70,9 @@
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-04-03T06:10:15.599958Z",
+      "last_updated": "2026-04-04T05:51:55.049213Z",
       "lie_count": 0,
-      "event_count": 6,
+      "event_count": 9,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
@@ -84,35 +83,34 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-04-03T06:07:39.693263Z",
-      "lie_count": 1,
-      "event_count": 7,
+      "last_updated": "2026-04-04T05:50:51.941158Z",
+      "lie_count": 2,
+      "event_count": 9,
       "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (4 articles from NZ/intl media)",
+          "RSS (5 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_starmer_uk": {
-      "last_updated": "2026-04-03T06:11:45.055404Z",
-      "lie_count": 2,
-      "event_count": 5,
+      "last_updated": "2026-04-04T05:52:28.760356Z",
+      "lie_count": 3,
+      "event_count": 6,
       "post_count": 1,
       "vote_count": 0,
       "sources": [
         [
-          "GDELT global news database",
           "Tavily: Keir Starmer contradiction promise broke",
           "Tavily: Keir Starmer statement 2026"
         ]
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-04-03T06:11:18.827421Z",
+      "last_updated": "2026-04-04T05:52:19.776314Z",
       "lie_count": 0,
       "event_count": 2,
       "post_count": 0,
@@ -127,7 +125,7 @@
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-04-03T06:08:59.039605Z",
+      "last_updated": "2026-04-04T05:51:29.490020Z",
       "lie_count": 1,
       "event_count": 3,
       "post_count": 0,
@@ -140,7 +138,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-04-03T06:10:35.408733Z",
+      "last_updated": "2026-04-04T05:52:04.080417Z",
       "lie_count": 0,
       "event_count": 0,
       "post_count": 0,

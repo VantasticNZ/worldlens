@@ -56,6 +56,20 @@
       },
       "_id": "c0d11197",
       "_crawled": "2026-04-02T06:07:36.580030Z"
+    },
+    {
+      "platform": "speech",
+      "date": "2026",
+      "text": "Winston Peters proclaims 'war on woke'",
+      "verified_by": "Stuff.co.nz",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Peters' party voted in favour of DEI regulations",
+        "source": "Stuff.co.nz",
+        "severity": "med"
+      },
+      "_id": "84e3fbd8",
+      "_crawled": "2026-04-04T05:51:11.427368Z"
     }
   ],
   "votes": [],
@@ -113,6 +127,24 @@
       "source": "www.stuff.co.nz",
       "_id": "b0f4df83",
       "_crawled": "2026-04-02T06:07:36.580030Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters accuses BSA of being 'bordering on fascist'",
+      "desc": "Peters made the comment after a decision by the BSA",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "a31b59be",
+      "_crawled": "2026-04-04T05:51:11.427368Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins accuses Winston Peters of 'pure racism' in Parliament",
+      "desc": "The accusation was made after Peters singled out a Green MP for their Rarotongan heritage",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "fcd92345",
+      "_crawled": "2026-04-04T05:51:11.427368Z"
     }
   ],
   "score_adjustments": {
@@ -125,6 +157,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' misrepresentation of international health regulation changes and contradictory statements on pronoun usage"
+    },
+    "2026-04-04T05:51:11.427368Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' misrepresentation of international health regulation changes and his accusation of the BSA being 'bordering on fascist' raise concerns about his integrity"
     }
   },
   "summary_updates": [
@@ -139,6 +176,10 @@
     {
       "date": "2026-04-02T06:07:36.580030Z",
       "text": "Winston Peters has made recent statements and taken actions that have sparked controversy and criticism"
+    },
+    {
+      "date": "2026-04-04T05:51:11.427368Z",
+      "text": "Winston Peters has made several controversial statements, including misrepresenting international health regulation changes and accusing the BSA of being 'bordering on fascist'"
     }
   ],
   "crawl_log": [
@@ -161,6 +202,11 @@
       "date": "2026-04-03T06:08:09.901717Z",
       "notes": "Peters' recent statements and events reviewed, no significant new lies or contradictions found",
       "new_items": false
+    },
+    {
+      "date": "2026-04-04T05:51:11.427368Z",
+      "notes": "Peters' statements and actions continue to be a subject of controversy and scrutiny",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -195,7 +241,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-04T05:51:11.427444Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-03T06:08:09.901784Z"
+  "last_updated": "2026-04-04T05:51:11.427463Z"
 }

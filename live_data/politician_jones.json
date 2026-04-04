@@ -73,6 +73,11 @@
       "date": "2026-04-03T06:08:59.039539Z",
       "notes": "Controversy surrounding Fisheries Bill and potential dishonesty from Shane Jones",
       "new_items": true
+    },
+    {
+      "date": "2026-04-04T05:51:29.489987Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -97,7 +102,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-04T05:51:29.490001Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-03T06:08:59.039605Z"
+  "last_updated": "2026-04-04T05:51:29.490020Z"
 }

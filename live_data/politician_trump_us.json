@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 8,
+  "lie_count": 11,
   "lies": [
     {
       "date": "January 2026",
@@ -82,6 +82,36 @@
       "platform": "speech",
       "_id": "324758c8",
       "_crawled": "2026-04-03T06:10:59.344482Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Protesters against the federal immigration crackdown in Minnesota are conducting \"fake protests done by agitators and\"",
+      "reality": "No evidence of fake protests",
+      "source": "PolitiFact, April 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "c5519121",
+      "_crawled": "2026-04-04T05:52:13.368490Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "The 2015 Iran nuclear deal was \"a road to a nuclear weapon\" and the country \"would be sitting with a massive nuclear weapon three years ago\" if he hadn’t withdrawn the U.S. from the deal in 2018",
+      "reality": "Experts say Iran accelerated its uranium enrichment program after the U.S. withdrawal",
+      "source": "FactCheck.org, March 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "b22d5ae7",
+      "_crawled": "2026-04-04T05:52:13.368490Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Trump distorted the facts on the estate tax, soybean exports and more in a speech to farmers",
+      "reality": "Trump's statements were inaccurate",
+      "source": "FactCheck.org, April 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "4854a73a",
+      "_crawled": "2026-04-04T05:52:13.368490Z"
     }
   ],
   "social_posts": [],
@@ -149,6 +179,24 @@
       "source": "jamaicantimes.com",
       "_id": "bda641fa",
       "_crawled": "2026-04-03T06:10:59.344482Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
+      "desc": "Trump's budget proposal includes significant increases in defense spending",
+      "type": "neutral",
+      "source": "BBC World",
+      "_id": "94f086ce",
+      "_crawled": "2026-04-04T05:52:13.368490Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump removes US Attorney General Pam Bondi",
+      "desc": "Trump's decision to remove Bondi has raised questions about his motivations",
+      "type": "negative",
+      "source": "BBC World",
+      "_id": "ea00007b",
+      "_crawled": "2026-04-04T05:52:13.368490Z"
     }
   ],
   "score_adjustments": {
@@ -166,6 +214,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The new lie found in the search results has decreased the integrity score"
+    },
+    "2026-04-04T05:52:13.368490Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's repeated lies and distortions of facts have raised concerns about his integrity"
     }
   },
   "summary_updates": [
@@ -180,6 +233,10 @@
     {
       "date": "2026-04-03T06:10:59.344482Z",
       "text": "New lie found regarding the impact of the Strait of Hormuz shutdown on the US, and the US has vowed to target more Iranian infrastructure"
+    },
+    {
+      "date": "2026-04-04T05:52:13.368490Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity and honesty, with multiple fact-checking organizations calling out his lies and distortions."
     }
   ],
   "crawl_log": [
@@ -196,6 +253,11 @@
     {
       "date": "2026-04-03T06:10:59.344482Z",
       "notes": "New events and lie found, integrity score adjusted",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-04T05:52:13.368490Z",
+      "notes": "Multiple sources confirm Trump's pattern of dishonesty and contradictory statements",
       "new_items": true
     }
   ],
@@ -225,7 +287,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-04T05:52:13.368586Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-03T06:10:59.344596Z"
+  "last_updated": "2026-04-04T05:52:13.368603Z"
 }

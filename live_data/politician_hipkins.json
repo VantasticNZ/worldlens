@@ -59,6 +59,33 @@
       "source": "thespinoff.co.nz",
       "_id": "28559939",
       "_crawled": "2026-04-03T06:10:15.599837Z"
+    },
+    {
+      "year": 2026,
+      "title": "Labour leader Chris Hipkins faces criticism for lack of new policy",
+      "desc": "Chris Hipkins faced criticism from opponents for not offering new policy in his State of the Nation speech.",
+      "type": "negative",
+      "source": "RNZ",
+      "_id": "36680a16",
+      "_crawled": "2026-04-04T05:51:55.049137Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins considers stepping down as Labour leader",
+      "desc": "Chris Hipkins considered stepping down as Labour leader after comments made by his ex-wife.",
+      "type": "negative",
+      "source": "Stuff",
+      "_id": "fdd2617d",
+      "_crawled": "2026-04-04T05:51:55.049137Z"
+    },
+    {
+      "year": 2026,
+      "title": "Labour leader Chris Hipkins takes aim at government in first speech of election year",
+      "desc": "Chris Hipkins criticized the government in his first speech of the election year.",
+      "type": "neutral",
+      "source": "RNZ",
+      "_id": "5a620e98",
+      "_crawled": "2026-04-04T05:51:55.049137Z"
     }
   ],
   "score_adjustments": {},
@@ -92,6 +119,11 @@
       "date": "2026-04-03T06:10:15.599837Z",
       "notes": "No significant new lies or social posts found, but new events and summary update",
       "new_items": true
+    },
+    {
+      "date": "2026-04-04T05:51:55.049137Z",
+      "notes": "New events and criticisms of Chris Hipkins added",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -123,7 +155,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-04T05:51:55.049197Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-03T06:10:15.599958Z"
+  "last_updated": "2026-04-04T05:51:55.049213Z"
 }

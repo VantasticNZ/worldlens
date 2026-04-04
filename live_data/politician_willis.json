@@ -23,6 +23,24 @@
       "source": "www.greens.org.nz",
       "_id": "edc096b0",
       "_crawled": "2026-04-02T06:08:57.217525Z"
+    },
+    {
+      "year": 2026,
+      "title": "2026 Budget plans announcement",
+      "desc": "Nicola Willis announced plans to undo Labour's health reforms and sell assets as part of the 2026 budget.",
+      "type": "neutral",
+      "source": "NZ Herald",
+      "_id": "77e90162",
+      "_crawled": "2026-04-04T05:51:37.790424Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fuel crisis package criticism",
+      "desc": "The government's fuel crisis package has been criticized for being inadequate, with Nicola Willis's package being described as potentially ineffective.",
+      "type": "negative",
+      "source": "The Spinoff",
+      "_id": "7ce4c2be",
+      "_crawled": "2026-04-04T05:51:37.790424Z"
     }
   ],
   "score_adjustments": {},
@@ -30,6 +48,10 @@
     {
       "date": "2026-04-02T06:08:57.217525Z",
       "text": "Nicola Willis spoke at the NZ Economic Forum and announced no new support for families hit by the fuel crisis."
+    },
+    {
+      "date": "2026-04-04T05:51:37.790424Z",
+      "text": "Nicola Willis has announced plans for the 2026 budget and faced criticism for the government's fuel crisis package."
     }
   ],
   "crawl_log": [
@@ -41,6 +63,11 @@
     {
       "date": "2026-04-02T06:08:57.217525Z",
       "notes": "No significant new lies or social posts found.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-04T05:51:37.790424Z",
+      "notes": "Reviewed Tavily sources for Nicola Willis, found new events related to 2026 budget plans and fuel crisis package",
       "new_items": true
     }
   ],
@@ -59,7 +86,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-04T05:51:37.790465Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-03T06:09:29.957450Z"
+  "last_updated": "2026-04-04T05:51:37.790484Z"
 }

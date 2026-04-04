@@ -34,6 +34,24 @@
       "source": "RNZ News, Newsroom",
       "_id": "9b473b04",
       "_crawled": "2026-04-02T06:09:37.013544Z"
+    },
+    {
+      "year": 2026,
+      "title": "Cabinet Reshuffle: Chris Bishop demoted",
+      "desc": "Chris Bishop was demoted as campaign chair in the recent cabinet reshuffle, raising questions about his leadership and the government's housing policies.",
+      "type": "negative",
+      "source": "RNZ News, Newsroom",
+      "_id": "c9d49082",
+      "_crawled": "2026-04-04T05:51:46.614588Z"
+    },
+    {
+      "year": 2026,
+      "title": "Auckland Housing Target Reduction",
+      "desc": "The government is set to reduce the housing target for Auckland for the second time, sparking criticism about the government's handling of the housing crisis.",
+      "type": "negative",
+      "source": "The Spinoff",
+      "_id": "f5e9a2f9",
+      "_crawled": "2026-04-04T05:51:46.614588Z"
     }
   ],
   "score_adjustments": {
@@ -46,6 +64,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Bishop's claim of 'no actual change' contradicts the actual reduction in Auckland's minimum housing capacity"
+    },
+    "2026-04-04T05:51:46.614588Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Bishop's downplaying of the scaling back of Auckland's housing plans and his demotion in the cabinet reshuffle raise concerns about his integrity."
     }
   },
   "summary_updates": [
@@ -60,6 +83,10 @@
     {
       "date": "2026-04-03T06:09:54.980338Z",
       "text": "Chris Bishop's integrity score has been adjusted downward due to a notable contradiction between his statement and actual events."
+    },
+    {
+      "date": "2026-04-04T05:51:46.614588Z",
+      "text": "Chris Bishop's handling of the housing crisis and his demotion in the cabinet reshuffle have raised questions about his leadership and integrity."
     }
   ],
   "crawl_log": [
@@ -76,6 +103,11 @@
     {
       "date": "2026-04-03T06:09:54.980338Z",
       "notes": "Contradiction found between Chris Bishop's statement and actual events, affecting his integrity score",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-04T05:51:46.614588Z",
+      "notes": "Multiple sources indicate a pattern of contradictory statements and actions by Chris Bishop regarding the housing crisis.",
       "new_items": true
     }
   ],
@@ -103,7 +135,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-04T05:51:46.614640Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-03T06:09:54.980408Z"
+  "last_updated": "2026-04-04T05:51:46.614658Z"
 }

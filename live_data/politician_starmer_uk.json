@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 2,
+  "lie_count": 3,
   "lies": [
     {
       "date": "2026",
@@ -22,6 +22,16 @@
       "platform": "speech",
       "_id": "46afd841",
       "_crawled": "2026-04-01T06:24:12.948480Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "smash the gangs",
+      "reality": "failed to curb the number of people reaching the UK, with a 7% increase in 2026",
+      "source": "The Guardian, 31 March 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "e992c513",
+      "_crawled": "2026-04-04T05:52:28.760288Z"
     }
   ],
   "social_posts": [
@@ -86,6 +96,15 @@
       "source": "jamaicantimes.com",
       "_id": "08d4867a",
       "_crawled": "2026-04-03T06:11:45.055347Z"
+    },
+    {
+      "year": 2026,
+      "title": "UK-US relations strained",
+      "desc": "UK-US relations have been strained by the PM's refusal to be dragged further into the Iran war",
+      "type": "negative",
+      "source": "BBC News",
+      "_id": "0ef1d38f",
+      "_crawled": "2026-04-04T05:52:28.760288Z"
     }
   ],
   "score_adjustments": {
@@ -93,12 +112,21 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "lack of clear plan to achieve promises and potential contradiction with previous statements"
+    },
+    "2026-04-04T05:52:28.760288Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "failed to deliver on promise to curb people-smuggling gangs"
     }
   },
   "summary_updates": [
     {
       "date": "2026-04-01T06:24:12.948480Z",
       "text": "Keir Starmer's new year message and recent statements have raised concerns about his commitment to policy and taxation."
+    },
+    {
+      "date": "2026-04-04T05:52:28.760288Z",
+      "text": "Keir Starmer's integrity score has been adjusted downward due to his failure to deliver on his promise to smash people-smuggling gangs"
     }
   ],
   "crawl_log": [
@@ -115,6 +143,11 @@
     {
       "date": "2026-04-03T06:11:45.055347Z",
       "notes": "Multiple sources confirm UK meeting with 35 nations to discuss reopening Strait of Hormuz.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-04T05:52:28.760288Z",
+      "notes": "The Guardian and BBC News articles provided evidence of Starmer's failed promise and strained UK-US relations",
       "new_items": true
     }
   ],
@@ -142,7 +175,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-04T05:52:28.760339Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-03T06:11:45.055404Z"
+  "last_updated": "2026-04-04T05:52:28.760356Z"
 }
