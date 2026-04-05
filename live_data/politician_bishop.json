@@ -52,6 +52,15 @@
       "source": "The Spinoff",
       "_id": "f5e9a2f9",
       "_crawled": "2026-04-04T05:51:46.614588Z"
+    },
+    {
+      "year": 2026,
+      "title": "Cabinet Reshuffle: Chris Bishop Demoted",
+      "desc": "Chris Bishop was demoted in the cabinet reshuffle, raising questions about his leadership",
+      "type": "negative",
+      "source": "Newsroom",
+      "_id": "a5054b2c",
+      "_crawled": "2026-04-05T06:10:26.336427Z"
     }
   ],
   "score_adjustments": {
@@ -69,6 +78,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Bishop's downplaying of the scaling back of Auckland's housing plans and his demotion in the cabinet reshuffle raise concerns about his integrity."
+    },
+    "2026-04-05T06:10:26.336427Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Bishop's claim of 'no actual change' contradicts the reality of the reduced housing target"
     }
   },
   "summary_updates": [
@@ -87,6 +101,10 @@
     {
       "date": "2026-04-04T05:51:46.614588Z",
       "text": "Chris Bishop's handling of the housing crisis and his demotion in the cabinet reshuffle have raised questions about his leadership and integrity."
+    },
+    {
+      "date": "2026-04-05T06:10:26.336427Z",
+      "text": "Chris Bishop's integrity score takes a hit due to his misleading claim about the Auckland housing target reduction"
     }
   ],
   "crawl_log": [
@@ -108,6 +126,11 @@
     {
       "date": "2026-04-04T05:51:46.614588Z",
       "notes": "Multiple sources indicate a pattern of contradictory statements and actions by Chris Bishop regarding the housing crisis.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-05T06:10:26.336427Z",
+      "notes": "Reviewed RNZ and Newsroom articles, as well as Tavily sources, to extract new information on Chris Bishop",
       "new_items": true
     }
   ],
@@ -143,7 +166,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-05T06:10:26.336488Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-04T05:51:46.614658Z"
+  "last_updated": "2026-04-05T06:10:26.336509Z"
 }

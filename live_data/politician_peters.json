@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 1,
+  "lie_count": 2,
   "lies": [
     {
       "date": "March 2026",
@@ -12,6 +12,16 @@
       "platform": "twitter",
       "_id": "683f8fef",
       "_crawled": "2026-03-31T20:43:56.549522Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Peters' statement on Labour being 'woke', 'shallow', 'impotent' and to blame for the economy",
+      "reality": "The statement is misleading as it does not provide a clear or accurate representation of Labour's policies or their impact on the economy",
+      "source": "stuff.co.nz",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "859f1fb4",
+      "_crawled": "2026-04-05T06:09:46.601298Z"
     }
   ],
   "social_posts": [
@@ -145,6 +155,24 @@
       "source": "RNZ News",
       "_id": "fcd92345",
       "_crawled": "2026-04-04T05:51:11.427368Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters' state of the nation address",
+      "desc": "Peters was repeatedly heckled by pro-Palestine protesters as he made a fiery state of the nation address where he declared a 'war on woke'",
+      "type": "negative",
+      "source": "stuff.co.nz",
+      "_id": "e30d80bd",
+      "_crawled": "2026-04-05T06:09:46.601298Z"
+    },
+    {
+      "year": 2026,
+      "title": "BSA decision on The Platform",
+      "desc": "Peters accused the BSA of being 'bordering on fascist' after their decision on The Platform",
+      "type": "negative",
+      "source": "rnz.co.nz",
+      "_id": "a76e3658",
+      "_crawled": "2026-04-05T06:09:46.601298Z"
     }
   ],
   "score_adjustments": {
@@ -162,6 +190,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' misrepresentation of international health regulation changes and his accusation of the BSA being 'bordering on fascist' raise concerns about his integrity"
+    },
+    "2026-04-05T06:09:46.601298Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' misleading statement on Labour and his contradictory actions on pronoun usage have raised concerns about his integrity"
     }
   },
   "summary_updates": [
@@ -180,6 +213,10 @@
     {
       "date": "2026-04-04T05:51:11.427368Z",
       "text": "Winston Peters has made several controversial statements, including misrepresenting international health regulation changes and accusing the BSA of being 'bordering on fascist'"
+    },
+    {
+      "date": "2026-04-05T06:09:46.601298Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and honesty, with some of his claims being misleading or contradictory"
     }
   ],
   "crawl_log": [
@@ -206,6 +243,11 @@
     {
       "date": "2026-04-04T05:51:11.427368Z",
       "notes": "Peters' statements and actions continue to be a subject of controversy and scrutiny",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-05T06:09:46.601298Z",
+      "notes": "Peters' social media activity and public statements have been inconsistent and sometimes misleading, warranting further monitoring",
       "new_items": true
     }
   ],
@@ -249,7 +291,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-05T06:09:46.601381Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-04T05:51:11.427463Z"
+  "last_updated": "2026-04-05T06:09:46.601402Z"
 }

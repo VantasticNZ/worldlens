@@ -86,6 +86,24 @@
       "source": "RNZ",
       "_id": "5a620e98",
       "_crawled": "2026-04-04T05:51:55.049137Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins considers stepping down as Labour leader after ex-wife's allegations",
+      "desc": "Labour leader Chris Hipkins considered stepping down after his ex-wife made allegations against him, but he decided to stay on.",
+      "type": "negative",
+      "source": "Stuff",
+      "_id": "f28e7b62",
+      "_crawled": "2026-04-05T06:10:34.719819Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins to wait until after Budget 2026 to make policy commitments",
+      "desc": "Labour leader Chris Hipkins will wait until after the Budget to make policy commitments, citing a desire to be responsible and deliver on promises.",
+      "type": "neutral",
+      "source": "RNZ",
+      "_id": "3d38c6fe",
+      "_crawled": "2026-04-05T06:10:34.719819Z"
     }
   ],
   "score_adjustments": {},
@@ -97,6 +115,10 @@
     {
       "date": "2026-04-03T06:10:15.599837Z",
       "text": "Chris Hipkins faces renewed scrutiny, outlines Labour's plan for 2026"
+    },
+    {
+      "date": "2026-04-05T06:10:34.719819Z",
+      "text": "Chris Hipkins faces scrutiny over personal allegations and policy commitments."
     }
   ],
   "crawl_log": [
@@ -123,6 +145,11 @@
     {
       "date": "2026-04-04T05:51:55.049137Z",
       "notes": "New events and criticisms of Chris Hipkins added",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-05T06:10:34.719819Z",
+      "notes": "No significant lies or social post discrepancies found.",
       "new_items": true
     }
   ],
@@ -162,7 +189,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-05T06:10:34.719895Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-04T05:51:55.049213Z"
+  "last_updated": "2026-04-05T06:10:34.719916Z"
 }

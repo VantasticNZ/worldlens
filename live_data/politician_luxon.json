@@ -136,6 +136,15 @@
       "source": "NZ Herald",
       "_id": "4ceb50f3",
       "_crawled": "2026-04-04T05:50:51.941060Z"
+    },
+    {
+      "year": 2026,
+      "title": "Cabinet Reshuffle Controversy",
+      "desc": "Chris Bishop was unceremoniously dumped as campaign chair in Luxon's Cabinet reshuffle, raising new leadership questions.",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "8ede0cf7",
+      "_crawled": "2026-04-05T06:09:37.364791Z"
     }
   ],
   "score_adjustments": {
@@ -166,6 +175,10 @@
     {
       "date": "2026-04-04T05:50:51.941060Z",
       "text": "Luxon's cabinet reshuffle and Matai title controversy have sparked criticism and raised questions about his leadership"
+    },
+    {
+      "date": "2026-04-05T06:09:37.364791Z",
+      "text": "Luxon's Cabinet reshuffle and matai title controversy have raised concerns about his leadership."
     }
   ],
   "crawl_log": [
@@ -192,6 +205,11 @@
     {
       "date": "2026-04-04T05:50:51.941060Z",
       "notes": "Multiple sources indicate Luxon's inconsistencies and controversies, affecting his integrity score",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-05T06:09:37.364791Z",
+      "notes": "Multiple sources reported on Luxon's Cabinet reshuffle and matai title controversy, but no new lies or social posts were found.",
       "new_items": true
     }
   ],
@@ -236,7 +254,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-05T06:09:37.364852Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-04T05:50:51.941158Z"
+  "last_updated": "2026-04-05T06:09:37.364873Z"
 }

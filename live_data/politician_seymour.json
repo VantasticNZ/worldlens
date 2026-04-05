@@ -68,6 +68,15 @@
       "source": "Newsroom",
       "_id": "c18b656e",
       "_crawled": "2026-04-03T06:08:35.330598Z"
+    },
+    {
+      "year": 2026,
+      "title": "Waitangi Pōwhiri",
+      "desc": "David Seymour spoke at Waitangi Pōwhiri on February 5th, 2026",
+      "type": "neutral",
+      "source": "ACT New Zealand",
+      "_id": "b77c617e",
+      "_crawled": "2026-04-05T06:09:58.813508Z"
     }
   ],
   "score_adjustments": {},
@@ -97,6 +106,11 @@
       "date": "2026-04-04T05:51:20.872109Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-05T06:09:58.813508Z",
+      "notes": "Added new events from ACT New Zealand website",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -135,7 +149,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-05T06:09:58.813564Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-04T05:51:20.872144Z"
+  "last_updated": "2026-04-05T06:09:58.813636Z"
 }

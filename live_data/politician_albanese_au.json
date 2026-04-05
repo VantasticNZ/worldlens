@@ -23,6 +23,24 @@
       "source": "Mirage News, Great Lakes Advocate, Braidwood Times",
       "_id": "bfae8301",
       "_crawled": "2026-04-02T06:11:18.376062Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fuel Supply Assurance from Japan",
+      "desc": "Australia received fuel supply assurances as plans are made for a visit by Japan's prime minister.",
+      "type": "positive",
+      "source": "abc.net.au",
+      "_id": "2832d1fa",
+      "_crawled": "2026-04-05T06:11:04.421361Z"
+    },
+    {
+      "year": 2026,
+      "title": "Easter Sunday Celebrations",
+      "desc": "Multicultural mass, sermons, and egg hunts marked Easter Sunday across Australia.",
+      "type": "neutral",
+      "source": "abc.net.au",
+      "_id": "5f6eb3d1",
+      "_crawled": "2026-04-05T06:11:04.421361Z"
     }
   ],
   "score_adjustments": {},
@@ -42,6 +60,11 @@
       "date": "2026-04-03T06:11:18.827392Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-05T06:11:04.421361Z",
+      "notes": "No significant lies, social posts, or votes found.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -70,7 +93,16 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-05T06:11:04.421403Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-04T05:52:19.776314Z"
+  "last_updated": "2026-04-05T06:11:04.421420Z"
 }
