@@ -80,6 +80,20 @@
       },
       "_id": "84e3fbd8",
       "_crawled": "2026-04-04T05:51:11.427368Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "March 2026",
+      "text": "Peters' tweet on vaccine safety and international health regulation changes",
+      "verified_by": "Newsroom",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Peters' previous stance on vaccine support contradicts his current claims",
+        "source": "Newsroom, 25 March 2026",
+        "severity": "high"
+      },
+      "_id": "f5125d90",
+      "_crawled": "2026-04-06T06:25:58.545679Z"
     }
   ],
   "votes": [],
@@ -173,6 +187,15 @@
       "source": "rnz.co.nz",
       "_id": "a76e3658",
       "_crawled": "2026-04-05T06:09:46.601298Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters to meet US Secretary of State Marco Rubio",
+      "desc": "Foreign Minister Winston Peters is set to meet US Secretary of State Marco Rubio",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "a90aa057",
+      "_crawled": "2026-04-06T06:25:58.545679Z"
     }
   ],
   "score_adjustments": {
@@ -195,6 +218,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' misleading statement on Labour and his contradictory actions on pronoun usage have raised concerns about his integrity"
+    },
+    "2026-04-06T06:25:58.545679Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' misrepresentation of international health regulation changes on Twitter"
     }
   },
   "summary_updates": [
@@ -217,6 +245,10 @@
     {
       "date": "2026-04-05T06:09:46.601298Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and honesty, with some of his claims being misleading or contradictory"
+    },
+    {
+      "date": "2026-04-06T06:25:58.545679Z",
+      "text": "Winston Peters' recent tweet on vaccine safety and international health regulation changes has been found to be misleading, contradicting his previous stance on vaccine support."
     }
   ],
   "crawl_log": [
@@ -248,6 +280,11 @@
     {
       "date": "2026-04-05T06:09:46.601298Z",
       "notes": "Peters' social media activity and public statements have been inconsistent and sometimes misleading, warranting further monitoring",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-06T06:25:58.545679Z",
+      "notes": "Peters' meeting with US Secretary of State Marco Rubio and his visit to Cook Islands may be worth monitoring for future developments.",
       "new_items": true
     }
   ],
@@ -299,7 +336,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-06T06:25:58.545771Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-05T06:09:46.601402Z"
+  "last_updated": "2026-04-06T06:25:58.545794Z"
 }

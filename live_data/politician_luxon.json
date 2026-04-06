@@ -145,6 +145,24 @@
       "source": "RNZ News",
       "_id": "8ede0cf7",
       "_crawled": "2026-04-05T06:09:37.364791Z"
+    },
+    {
+      "year": 2026,
+      "title": "Cabinet reshuffle controversy",
+      "desc": "Chris Bishop was unceremoniously dumped as campaign chair in Luxon's Cabinet reshuffle",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "3f1b9550",
+      "_crawled": "2026-04-06T06:25:48.724105Z"
+    },
+    {
+      "year": 2026,
+      "title": "Coalition fracture on climate",
+      "desc": "Winston Peters and Christopher Luxon are at odds over climate policy",
+      "type": "negative",
+      "source": "Labour.org.nz",
+      "_id": "5dda5639",
+      "_crawled": "2026-04-06T06:25:48.724105Z"
     }
   ],
   "score_adjustments": {
@@ -157,6 +175,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistencies and controversies have raised concerns about his integrity"
+    },
+    "2026-04-06T06:25:48.724105Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistent statement about his support for the Crusaders and the controversy surrounding the Cabinet reshuffle have raised concerns about his integrity"
     }
   },
   "summary_updates": [
@@ -179,6 +202,10 @@
     {
       "date": "2026-04-05T06:09:37.364791Z",
       "text": "Luxon's Cabinet reshuffle and matai title controversy have raised concerns about his leadership."
+    },
+    {
+      "date": "2026-04-06T06:25:48.724105Z",
+      "text": "Luxon's leadership is facing challenges due to controversies surrounding his Cabinet reshuffle and climate policy"
     }
   ],
   "crawl_log": [
@@ -210,6 +237,11 @@
     {
       "date": "2026-04-05T06:09:37.364791Z",
       "notes": "Multiple sources reported on Luxon's Cabinet reshuffle and matai title controversy, but no new lies or social posts were found.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-06T06:25:48.724105Z",
+      "notes": "Reviewed 10 articles from various sources, including RNZ News, The Spinoff, and Labour.org.nz",
       "new_items": true
     }
   ],
@@ -262,7 +294,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-06T06:25:48.724204Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-05T06:09:37.364873Z"
+  "last_updated": "2026-04-06T06:25:48.724226Z"
 }

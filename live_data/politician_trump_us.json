@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 11,
+  "lie_count": 15,
   "lies": [
     {
       "date": "January 2026",
@@ -112,6 +112,46 @@
       "platform": "speech",
       "_id": "4854a73a",
       "_crawled": "2026-04-04T05:52:13.368490Z"
+    },
+    {
+      "date": "August 2025",
+      "claim": "We are now the only country in the world that uses mail-in voting.",
+      "reality": "This is false, as many countries use mail-in voting.",
+      "source": "PolitiFact, August 2025",
+      "severity": "high",
+      "platform": "Truth Social post",
+      "_id": "7abbfcd2",
+      "_crawled": "2026-04-06T06:27:29.180007Z"
+    },
+    {
+      "date": "August 2025",
+      "claim": "Washington, D.C., has 41 homicides per 100,000 people, No. 1 that we can find anywhere in the world.",
+      "reality": "This is false, as Washington, D.C. does not have the highest homicide rate in the world.",
+      "source": "PolitiFact, August 2025",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "c21b9832",
+      "_crawled": "2026-04-06T06:27:29.180007Z"
+    },
+    {
+      "date": "July 2025",
+      "claim": "Democrats paid Beyoncé $11 million for an endorsement.",
+      "reality": "This is false, as there is no evidence to support this claim.",
+      "source": "PolitiFact, July 2025",
+      "severity": "high",
+      "platform": "Truth Social post",
+      "_id": "6673df90",
+      "_crawled": "2026-04-06T06:27:29.180007Z"
+    },
+    {
+      "date": "2026",
+      "claim": "He inherited a stagnant economy with inflation at record levels.",
+      "reality": "This is false, as annual growth in real GDP was 2.5% or higher each year under former President Joe Biden.",
+      "source": "FactCheck.org, 2026",
+      "severity": "high",
+      "platform": "State of the Union Address",
+      "_id": "c9a2477c",
+      "_crawled": "2026-04-06T06:27:29.180007Z"
     }
   ],
   "social_posts": [],
@@ -197,6 +237,15 @@
       "source": "BBC World",
       "_id": "ea00007b",
       "_crawled": "2026-04-04T05:52:13.368490Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
+      "desc": "Trump declared victory after a rescue operation, but threats to US operations in Iran still exist.",
+      "type": "neutral",
+      "source": "BBC World",
+      "_id": "45180531",
+      "_crawled": "2026-04-06T06:27:29.180007Z"
     }
   ],
   "score_adjustments": {
@@ -219,6 +268,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's repeated lies and distortions of facts have raised concerns about his integrity"
+    },
+    "2026-04-06T06:27:29.180007Z": {
+      "integrity_delta": -2,
+      "corruption_risk_delta": 0,
+      "reasoning": "Multiple new lies and misleading claims were found, affecting the integrity score."
     }
   },
   "summary_updates": [
@@ -237,6 +291,10 @@
     {
       "date": "2026-04-04T05:52:13.368490Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and honesty, with multiple fact-checking organizations calling out his lies and distortions."
+    },
+    {
+      "date": "2026-04-06T06:27:29.180007Z",
+      "text": "Donald Trump has made multiple new false and misleading claims, including about mail-in voting, homicide rates, and the economy."
     }
   ],
   "crawl_log": [
@@ -258,6 +316,11 @@
     {
       "date": "2026-04-04T05:52:13.368490Z",
       "notes": "Multiple sources confirm Trump's pattern of dishonesty and contradictory statements",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-06T06:27:29.180007Z",
+      "notes": "Multiple new lies and misleading claims were found, primarily from PolitiFact and FactCheck.org.",
       "new_items": true
     }
   ],
@@ -295,7 +358,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-06T06:27:29.180128Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-05T06:10:50.491250Z"
+  "last_updated": "2026-04-06T06:27:29.180144Z"
 }

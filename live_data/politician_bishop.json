@@ -61,6 +61,15 @@
       "source": "Newsroom",
       "_id": "a5054b2c",
       "_crawled": "2026-04-05T06:10:26.336427Z"
+    },
+    {
+      "year": 2026,
+      "title": "Demotion as Campaign Chair",
+      "desc": "Chris Bishop was unceremoniously dumped as campaign chair in Luxon's Cabinet reshuffle",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "7c61be20",
+      "_crawled": "2026-04-06T06:26:56.002301Z"
     }
   ],
   "score_adjustments": {
@@ -105,6 +114,10 @@
     {
       "date": "2026-04-05T06:10:26.336427Z",
       "text": "Chris Bishop's integrity score takes a hit due to his misleading claim about the Auckland housing target reduction"
+    },
+    {
+      "date": "2026-04-06T06:26:56.002301Z",
+      "text": "Chris Bishop demoted as campaign chair in Cabinet reshuffle"
     }
   ],
   "crawl_log": [
@@ -131,6 +144,11 @@
     {
       "date": "2026-04-05T06:10:26.336427Z",
       "notes": "Reviewed RNZ and Newsroom articles, as well as Tavily sources, to extract new information on Chris Bishop",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-06T06:26:56.002301Z",
+      "notes": "No significant new lies or social posts found, but demotion as campaign chair is a notable event",
       "new_items": true
     }
   ],
@@ -174,7 +192,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-06T06:26:56.002346Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-05T06:10:26.336509Z"
+  "last_updated": "2026-04-06T06:26:56.002366Z"
 }

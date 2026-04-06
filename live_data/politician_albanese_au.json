@@ -3,7 +3,22 @@
   "type": "politician",
   "lie_count": 0,
   "lies": [],
-  "social_posts": [],
+  "social_posts": [
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "We are working to bring the price of fuel down. To make more fuel here and to keep it onshore.",
+      "verified_by": "The Guardian",
+      "discrepancy": {
+        "type": "none",
+        "detail": "",
+        "source": "",
+        "severity": ""
+      },
+      "_id": "bb1e42ab",
+      "_crawled": "2026-04-06T06:27:42.518718Z"
+    }
+  ],
   "votes": [],
   "recent_events": [
     {
@@ -41,10 +56,33 @@
       "source": "abc.net.au",
       "_id": "5f6eb3d1",
       "_crawled": "2026-04-05T06:11:04.421361Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fuel Security Plan",
+      "desc": "Albanese announced a four-stage fuel security plan to address the fuel crisis, with Australia currently on level two.",
+      "type": "neutral",
+      "source": "The Guardian",
+      "_id": "851189c1",
+      "_crawled": "2026-04-06T06:27:42.518718Z"
+    },
+    {
+      "year": 2026,
+      "title": "National Address on Middle East Crisis",
+      "desc": "Albanese addressed the nation on the Middle East crisis, warning of tough times ahead and soaring petrol prices.",
+      "type": "negative",
+      "source": "The Guardian",
+      "_id": "f1164aa3",
+      "_crawled": "2026-04-06T06:27:42.518718Z"
     }
   ],
   "score_adjustments": {},
-  "summary_updates": [],
+  "summary_updates": [
+    {
+      "date": "2026-04-06T06:27:42.518718Z",
+      "text": "Albanese addresses fuel crisis and Middle East crisis in national address."
+    }
+  ],
   "crawl_log": [
     {
       "date": "2026-04-01T06:23:54.864043Z",
@@ -64,6 +102,11 @@
     {
       "date": "2026-04-05T06:11:04.421361Z",
       "notes": "No significant lies, social posts, or votes found.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-06T06:27:42.518718Z",
+      "notes": "No significant lies or contradictions found.",
       "new_items": true
     }
   ],
@@ -102,7 +145,15 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-06T06:27:42.518783Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-05T06:11:04.421420Z"
+  "last_updated": "2026-04-06T06:27:42.518801Z"
 }

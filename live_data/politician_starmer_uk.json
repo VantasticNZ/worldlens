@@ -105,6 +105,24 @@
       "source": "BBC News",
       "_id": "0ef1d38f",
       "_crawled": "2026-04-04T05:52:28.760288Z"
+    },
+    {
+      "year": 2026,
+      "title": "UK to send more fighter jets to Middle East",
+      "desc": "The UK is sending more fighter jets to the Middle East and has confirmed the first repatriation flight for Britons in the region has taken off.",
+      "type": "neutral",
+      "source": "The Guardian",
+      "_id": "6343ff18",
+      "_crawled": "2026-04-06T06:27:51.905795Z"
+    },
+    {
+      "year": 2026,
+      "title": "UK seeks closer ties with EU in light of Iran war",
+      "desc": "The UK will seek closer ties with the EU in light of the Iran war, according to Prime Minister Keir Starmer.",
+      "type": "neutral",
+      "source": "BBC",
+      "_id": "9e82c9d5",
+      "_crawled": "2026-04-06T06:27:51.905795Z"
     }
   ],
   "score_adjustments": {
@@ -149,6 +167,11 @@
       "date": "2026-04-04T05:52:28.760288Z",
       "notes": "The Guardian and BBC News articles provided evidence of Starmer's failed promise and strained UK-US relations",
       "new_items": true
+    },
+    {
+      "date": "2026-04-06T06:27:51.905795Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but new events related to UK foreign policy",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -182,7 +205,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-06T06:27:51.905848Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-05T06:11:12.138189Z"
+  "last_updated": "2026-04-06T06:27:51.905864Z"
 }

@@ -41,6 +41,42 @@
       "source": "The Spinoff",
       "_id": "7ce4c2be",
       "_crawled": "2026-04-04T05:51:37.790424Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fuel tax rise decision",
+      "desc": "Finance Minister Nicola Willis stated that a 12-cent fuel tax rise is very unlikely to go ahead",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "d61cc6db",
+      "_crawled": "2026-04-06T06:26:39.010892Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fiscal responsibility legislation",
+      "desc": "Legislation to prevent future governments from concealing fiscal risks in government accounts has been passed",
+      "type": "positive",
+      "source": "National Party",
+      "_id": "2e69fc2e",
+      "_crawled": "2026-04-06T06:26:39.010892Z"
+    },
+    {
+      "year": 2026,
+      "title": "Budget date announcement",
+      "desc": "The 2026 Budget will be delivered on 28 May, focusing on supporting core public services",
+      "type": "neutral",
+      "source": "Beehive.govt.nz",
+      "_id": "1c796609",
+      "_crawled": "2026-04-06T06:26:39.010892Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fuel crisis response criticism",
+      "desc": "The Government's response to the fuel crisis has been criticized for lacking support for families",
+      "type": "negative",
+      "source": "Green Party",
+      "_id": "96028241",
+      "_crawled": "2026-04-06T06:26:39.010892Z"
     }
   ],
   "score_adjustments": {},
@@ -69,6 +105,11 @@
       "date": "2026-04-04T05:51:37.790424Z",
       "notes": "Reviewed Tavily sources for Nicola Willis, found new events related to 2026 budget plans and fuel crisis package",
       "new_items": true
+    },
+    {
+      "date": "2026-04-06T06:26:39.010892Z",
+      "notes": "New events and updates related to Nicola Willis and the current government",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -93,7 +134,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-06T06:26:39.010958Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-05T06:10:17.750145Z"
+  "last_updated": "2026-04-06T06:26:39.010976Z"
 }
