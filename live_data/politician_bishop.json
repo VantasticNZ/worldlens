@@ -70,6 +70,15 @@
       "source": "RNZ News",
       "_id": "7c61be20",
       "_crawled": "2026-04-06T06:26:56.002301Z"
+    },
+    {
+      "year": 2026,
+      "title": "Demotion as Campaign Chair and Housing Minister Controversy",
+      "desc": "Chris Bishop was demoted as campaign chair and faced controversy over his handling of housing issues, including a backtrack on Auckland housing plans.",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "77b84f83",
+      "_crawled": "2026-04-07T06:16:16.262095Z"
     }
   ],
   "score_adjustments": {
@@ -118,6 +127,10 @@
     {
       "date": "2026-04-06T06:26:56.002301Z",
       "text": "Chris Bishop demoted as campaign chair in Cabinet reshuffle"
+    },
+    {
+      "date": "2026-04-07T06:16:16.262095Z",
+      "text": "Chris Bishop faced controversy over his handling of housing issues and was demoted as campaign chair."
     }
   ],
   "crawl_log": [
@@ -149,6 +162,11 @@
     {
       "date": "2026-04-06T06:26:56.002301Z",
       "notes": "No significant new lies or social posts found, but demotion as campaign chair is a notable event",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-07T06:16:16.262095Z",
+      "notes": "Multiple sources reported on Chris Bishop's demotion and housing controversy, but no new lies or social posts were found.",
       "new_items": true
     }
   ],
@@ -200,7 +218,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-07T06:16:16.262134Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-06T06:26:56.002366Z"
+  "last_updated": "2026-04-07T06:16:16.262151Z"
 }

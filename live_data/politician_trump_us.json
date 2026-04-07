@@ -246,6 +246,24 @@
       "source": "BBC World",
       "_id": "45180531",
       "_crawled": "2026-04-06T06:27:29.180007Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump's Iran threats escalate",
+      "desc": "Winston Peters heads to Washington as Trump's Iran threats escalate",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "a39fd000",
+      "_crawled": "2026-04-07T06:17:24.329456Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
+      "desc": "Trump endorses Steve Hilton for California governor",
+      "type": "neutral",
+      "source": "BBC World",
+      "_id": "e779f827",
+      "_crawled": "2026-04-07T06:17:24.329456Z"
     }
   ],
   "score_adjustments": {
@@ -322,6 +340,11 @@
       "date": "2026-04-06T06:27:29.180007Z",
       "notes": "Multiple new lies and misleading claims were found, primarily from PolitiFact and FactCheck.org.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-07T06:17:24.329456Z",
+      "notes": "New lies and events related to Trump's Iran policy and endorsements",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -366,7 +389,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-07T06:17:24.329542Z",
+      "sources": [
+        "RSS (6 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-06T06:27:29.180144Z"
+  "last_updated": "2026-04-07T06:17:24.329559Z"
 }

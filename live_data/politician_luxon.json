@@ -163,6 +163,15 @@
       "source": "Labour.org.nz",
       "_id": "5dda5639",
       "_crawled": "2026-04-06T06:25:48.724105Z"
+    },
+    {
+      "year": 2026,
+      "title": "Call to Replace Minister Goldsmith",
+      "desc": "Call to replace Minister Goldsmith over Te Urewera land decision",
+      "type": "negative",
+      "source": "Scoop.co.nz",
+      "_id": "a4850c54",
+      "_crawled": "2026-04-07T06:14:28.749270Z"
     }
   ],
   "score_adjustments": {
@@ -180,6 +189,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistent statement about his support for the Crusaders and the controversy surrounding the Cabinet reshuffle have raised concerns about his integrity"
+    },
+    "2026-04-07T06:14:28.749270Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistency between rhetoric and actions on climate change and the controversy surrounding his cabinet reshuffle"
     }
   },
   "summary_updates": [
@@ -206,6 +220,10 @@
     {
       "date": "2026-04-06T06:25:48.724105Z",
       "text": "Luxon's leadership is facing challenges due to controversies surrounding his Cabinet reshuffle and climate policy"
+    },
+    {
+      "date": "2026-04-07T06:14:28.749270Z",
+      "text": "Luxon's actions and statements continue to spark controversy and criticism, raising concerns about his integrity and leadership"
     }
   ],
   "crawl_log": [
@@ -242,6 +260,11 @@
     {
       "date": "2026-04-06T06:25:48.724105Z",
       "notes": "Reviewed 10 articles from various sources, including RNZ News, The Spinoff, and Labour.org.nz",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-07T06:14:28.749270Z",
+      "notes": "Multiple sources report on Luxon's controversies and criticisms",
       "new_items": true
     }
   ],
@@ -302,7 +325,16 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-07T06:14:28.749348Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-06T06:25:48.724226Z"
+  "last_updated": "2026-04-07T06:14:28.749368Z"
 }

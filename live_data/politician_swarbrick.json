@@ -5,7 +5,35 @@
   "lies": [],
   "social_posts": [],
   "votes": [],
-  "recent_events": [],
+  "recent_events": [
+    {
+      "year": 2026,
+      "title": "Green Party releases initial candidate list for 2026 General Election",
+      "desc": "The Green Party has released its initial candidate list for the 2026 General Election, with a diverse range of candidates.",
+      "type": "neutral",
+      "source": "www.greens.org.nz",
+      "_id": "c525d0bd",
+      "_crawled": "2026-04-07T06:17:01.010630Z"
+    },
+    {
+      "year": 2026,
+      "title": "Green Party anticipates Prime Minister Luxon's State of the Nation speech",
+      "desc": "The Green Party has anticipated the Prime Minister's State of the Nation speech, predicting the facts and data that would be presented.",
+      "type": "neutral",
+      "source": "www.greens.org.nz",
+      "_id": "f2e768ad",
+      "_crawled": "2026-04-07T06:17:01.010630Z"
+    },
+    {
+      "year": 2026,
+      "title": "Greens announce plan to end homelessness and fix housing crisis",
+      "desc": "The Green Party has announced a new campaign to end homelessness and fix the housing crisis, calling for a decent home for everybody.",
+      "type": "positive",
+      "source": "www.greens.org.nz",
+      "_id": "21de471e",
+      "_crawled": "2026-04-07T06:17:01.010630Z"
+    }
+  ],
   "score_adjustments": {},
   "summary_updates": [],
   "crawl_log": [
@@ -33,6 +61,11 @@
       "date": "2026-04-06T06:27:21.122629Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-07T06:17:01.010630Z",
+      "notes": "New events and announcements from the Green Party",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -70,7 +103,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-04-07T06:17:01.010711Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-06T06:27:21.122664Z"
+  "last_updated": "2026-04-07T06:17:01.010730Z"
 }

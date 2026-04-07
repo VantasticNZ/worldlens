@@ -1,9 +1,45 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 0,
-  "lies": [],
-  "social_posts": [],
+  "lie_count": 2,
+  "lies": [
+    {
+      "date": "February 2026",
+      "claim": "NZ is on a path to surplus",
+      "reality": "Treasury's long term fiscal forecasts show out-of-control deficits due to pensions and health-care spending from an ageing population",
+      "source": "www.stuff.co.nz",
+      "severity": "high",
+      "platform": "press",
+      "_id": "93e937f5",
+      "_crawled": "2026-04-07T06:15:53.784540Z"
+    },
+    {
+      "date": "2026",
+      "claim": "Working for Families top up of $7 a week",
+      "reality": "won't come in for another year",
+      "source": "www.labour.org.nz",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "442691bc",
+      "_crawled": "2026-04-07T06:15:53.784540Z"
+    }
+  ],
+  "social_posts": [
+    {
+      "platform": "press",
+      "date": "February 2026",
+      "text": "Finance Minister Nicola Willis speaks at the NZ Economic Forum at the University of Waikato",
+      "verified_by": "newsroom.co.nz",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "sense of impatience ran through the first day of the New Zealand Economics Forum, as business leaders, economists and politicians alike voiced frustration over sluggish recovery and a lack of long-term vision",
+        "source": "newsroom.co.nz",
+        "severity": "med"
+      },
+      "_id": "9fcbc7f5",
+      "_crawled": "2026-04-07T06:15:53.784540Z"
+    }
+  ],
   "votes": [],
   "recent_events": [
     {
@@ -79,7 +115,13 @@
       "_crawled": "2026-04-06T06:26:39.010892Z"
     }
   ],
-  "score_adjustments": {},
+  "score_adjustments": {
+    "2026-04-07T06:15:53.784540Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Finance Minister Nicola Willis' claims were contradicted by Treasury's long term fiscal forecasts and her own statement on Working for Families top up"
+    }
+  },
   "summary_updates": [
     {
       "date": "2026-04-02T06:08:57.217525Z",
@@ -88,6 +130,10 @@
     {
       "date": "2026-04-04T05:51:37.790424Z",
       "text": "Nicola Willis has announced plans for the 2026 budget and faced criticism for the government's fuel crisis package."
+    },
+    {
+      "date": "2026-04-07T06:15:53.784540Z",
+      "text": "Finance Minister Nicola Willis' credibility has taken a hit due to contradictions in her claims and statements."
     }
   ],
   "crawl_log": [
@@ -109,6 +155,11 @@
     {
       "date": "2026-04-06T06:26:39.010892Z",
       "notes": "New events and updates related to Nicola Willis and the current government",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-07T06:15:53.784540Z",
+      "notes": "Notable discrepancies found in Nicola Willis' statements and claims, affecting her integrity score.",
       "new_items": true
     }
   ],
@@ -142,7 +193,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-07T06:15:53.784591Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-06T06:26:39.010976Z"
+  "last_updated": "2026-04-07T06:15:53.784607Z"
 }

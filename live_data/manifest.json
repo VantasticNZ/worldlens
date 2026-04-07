@@ -1,10 +1,10 @@
 {
-  "generated": "2026-04-06T06:27:52.906472Z",
+  "generated": "2026-04-07T06:18:00.030065Z",
   "files": {
     "politician_bishop": {
-      "last_updated": "2026-04-06T06:26:56.002366Z",
+      "last_updated": "2026-04-07T06:16:16.262151Z",
       "lie_count": 1,
-      "event_count": 6,
+      "event_count": 7,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
@@ -16,10 +16,10 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-04-06T06:26:39.010976Z",
-      "lie_count": 0,
+      "last_updated": "2026-04-07T06:15:53.784607Z",
+      "lie_count": 2,
       "event_count": 8,
-      "post_count": 0,
+      "post_count": 1,
       "vote_count": 0,
       "sources": [
         [
@@ -30,37 +30,39 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-04-06T06:27:29.180144Z",
+      "last_updated": "2026-04-07T06:17:24.329559Z",
       "lie_count": 15,
-      "event_count": 10,
+      "event_count": 12,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
+          "RSS (6 articles from NZ/intl media)",
+          "GDELT global news database",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-04-06T06:25:58.545794Z",
+      "last_updated": "2026-04-07T06:14:58.248456Z",
       "lie_count": 2,
-      "event_count": 11,
+      "event_count": 12,
       "post_count": 5,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
+          "RSS (2 articles from NZ/intl media)",
+          "GDELT global news database",
           "Tavily: Winston Peters NZ First contradiction 20",
           "Tavily: Winston Peters tweet statement 2026"
         ]
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-04-06T06:26:12.051116Z",
+      "last_updated": "2026-04-07T06:15:19.377582Z",
       "lie_count": 0,
-      "event_count": 8,
+      "event_count": 11,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
@@ -71,9 +73,9 @@
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-04-06T06:27:08.465746Z",
+      "last_updated": "2026-04-07T06:16:37.443683Z",
       "lie_count": 0,
-      "event_count": 11,
+      "event_count": 13,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
@@ -84,23 +86,24 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-04-06T06:25:48.724226Z",
+      "last_updated": "2026-04-07T06:14:28.749368Z",
       "lie_count": 2,
-      "event_count": 12,
+      "event_count": 13,
       "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (3 articles from NZ/intl media)",
+          "RSS (4 articles from NZ/intl media)",
+          "GDELT global news database",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_starmer_uk": {
-      "last_updated": "2026-04-06T06:27:51.905864Z",
-      "lie_count": 3,
-      "event_count": 8,
+      "last_updated": "2026-04-07T06:17:59.029494Z",
+      "lie_count": 5,
+      "event_count": 9,
       "post_count": 1,
       "vote_count": 0,
       "sources": [
@@ -111,7 +114,7 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-04-06T06:27:42.518801Z",
+      "last_updated": "2026-04-07T06:17:40.990992Z",
       "lie_count": 0,
       "event_count": 6,
       "post_count": 1,
@@ -125,7 +128,7 @@
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-04-06T06:26:21.656328Z",
+      "last_updated": "2026-04-07T06:15:33.570767Z",
       "lie_count": 2,
       "event_count": 3,
       "post_count": 0,
@@ -138,9 +141,9 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-04-06T06:27:21.122664Z",
+      "last_updated": "2026-04-07T06:17:01.010730Z",
       "lie_count": 0,
-      "event_count": 0,
+      "event_count": 3,
       "post_count": 0,
       "vote_count": 0,
       "sources": [

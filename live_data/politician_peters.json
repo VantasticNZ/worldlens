@@ -196,6 +196,15 @@
       "source": "RNZ News",
       "_id": "a90aa057",
       "_crawled": "2026-04-06T06:25:58.545679Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters meets Cook Islands PM",
+      "desc": "Peters met with Cook Islands PM Mark Brown, despite initial claims that no meeting was planned",
+      "type": "neutral",
+      "source": "RNZ",
+      "_id": "9775b4bd",
+      "_crawled": "2026-04-07T06:14:58.248363Z"
     }
   ],
   "score_adjustments": {
@@ -223,6 +232,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' misrepresentation of international health regulation changes on Twitter"
+    },
+    "2026-04-07T06:14:58.248363Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' misrepresentation of international health regulation changes and contradictory statements on pronoun usage"
     }
   },
   "summary_updates": [
@@ -249,6 +263,10 @@
     {
       "date": "2026-04-06T06:25:58.545679Z",
       "text": "Winston Peters' recent tweet on vaccine safety and international health regulation changes has been found to be misleading, contradicting his previous stance on vaccine support."
+    },
+    {
+      "date": "2026-04-07T06:14:58.248363Z",
+      "text": "Winston Peters' recent actions and statements have raised concerns about his integrity, including misrepresenting international health regulation changes and making contradictory statements on pronoun usage"
     }
   ],
   "crawl_log": [
@@ -285,6 +303,11 @@
     {
       "date": "2026-04-06T06:25:58.545679Z",
       "notes": "Peters' meeting with US Secretary of State Marco Rubio and his visit to Cook Islands may be worth monitoring for future developments.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-07T06:14:58.248363Z",
+      "notes": "Peters' meeting with Cook Islands PM and defence declaration signing may indicate a shift in his foreign policy stance",
       "new_items": true
     }
   ],
@@ -344,7 +367,16 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-07T06:14:58.248436Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-06T06:25:58.545794Z"
+  "last_updated": "2026-04-07T06:14:58.248456Z"
 }

@@ -77,6 +77,33 @@
       "source": "ACT New Zealand",
       "_id": "b77c617e",
       "_crawled": "2026-04-05T06:09:58.813508Z"
+    },
+    {
+      "year": 2026,
+      "title": "Air New Zealand operating loss",
+      "desc": "Air New Zealand reported a loss before taxation of $59 million for the first half of the 2026 financial year. The leaders of ACT and New Zealand First are at odds over Air New Zealand’s operating loss.",
+      "type": "neutral",
+      "source": "stuff.co.nz",
+      "_id": "c856c314",
+      "_crawled": "2026-04-07T06:15:19.377487Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fuel crisis and work-from-home expectations",
+      "desc": "David Seymour stated that the public service should have the same work-from-home expectations as the rest of New Zealand, and that the fuel crisis should not revive COVID-era working from home.",
+      "type": "neutral",
+      "source": "act.org.nz",
+      "_id": "72188a9f",
+      "_crawled": "2026-04-07T06:15:19.377487Z"
+    },
+    {
+      "year": 2026,
+      "title": "New Zealand Performance Academy Aotearoa (NZPAA) opening",
+      "desc": "Associate Education Minister David Seymour announced that the New Zealand Performance Academy Aotearoa (NZPAA) will open as a charter school for athletes in Term 1 2026.",
+      "type": "positive",
+      "source": "beehive.govt.nz",
+      "_id": "43d5b290",
+      "_crawled": "2026-04-07T06:15:19.377487Z"
     }
   ],
   "score_adjustments": {},
@@ -116,6 +143,11 @@
       "date": "2026-04-06T06:26:12.051076Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-07T06:15:19.377487Z",
+      "notes": "New events and statements from David Seymour and ACT party found",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -168,7 +200,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-07T06:15:19.377560Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-06T06:26:12.051116Z"
+  "last_updated": "2026-04-07T06:15:19.377582Z"
 }
