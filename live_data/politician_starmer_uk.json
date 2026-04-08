@@ -169,6 +169,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The Prime Minister's claims of improvement in the economy and services have not been substantiated, leading to a decrease in integrity score."
+    },
+    "2026-04-08T06:20:34.477644Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The Prime Minister's repeated promises of change have not been delivered, leading to a loss of trust among voters"
     }
   },
   "summary_updates": [
@@ -183,6 +188,10 @@
     {
       "date": "2026-04-07T06:17:59.029409Z",
       "text": "The Prime Minister's recent statements have been found to be inconsistent with reality, and the UK's actions in response to the Iran war have been noted."
+    },
+    {
+      "date": "2026-04-08T06:20:34.477644Z",
+      "text": "Keir Starmer's integrity score has decreased due to unfulfilled promises and a perceived lack of transparency"
     }
   ],
   "crawl_log": [
@@ -214,6 +223,11 @@
     {
       "date": "2026-04-07T06:17:59.029409Z",
       "notes": "Claims of economic improvement and positive change have been disputed, and the UK's involvement in the Middle East has increased.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-08T06:20:34.477644Z",
+      "notes": "Multiple sources indicate a growing sense of distrust among voters due to unfulfilled promises",
       "new_items": true
     }
   ],
@@ -262,7 +276,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-08T06:20:34.477701Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-07T06:17:59.029494Z"
+  "last_updated": "2026-04-08T06:20:34.477719Z"
 }

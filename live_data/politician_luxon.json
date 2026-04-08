@@ -172,6 +172,33 @@
       "source": "Scoop.co.nz",
       "_id": "a4850c54",
       "_crawled": "2026-04-07T06:14:28.749270Z"
+    },
+    {
+      "year": 2026,
+      "title": "Luxon faces questions about Iran, fuel, and polls",
+      "desc": "Christopher Luxon faced questions about various topics, including Iran, fuel, and polls, in a recent interview.",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "452314e3",
+      "_crawled": "2026-04-08T06:16:08.358352Z"
+    },
+    {
+      "year": 2026,
+      "title": "National Party still under 30% in latest poll",
+      "desc": "The National Party, led by Christopher Luxon, remains under 30% in the latest poll, sparking concerns about their election prospects.",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "afe365a4",
+      "_crawled": "2026-04-08T06:16:08.358352Z"
+    },
+    {
+      "year": 2026,
+      "title": "Luxon bestowed Samoan matai title",
+      "desc": "Christopher Luxon was bestowed a Samoan matai title, sparking controversy and questions about the tradition and its implications.",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "32490978",
+      "_crawled": "2026-04-08T06:16:08.358352Z"
     }
   ],
   "score_adjustments": {
@@ -266,6 +293,11 @@
       "date": "2026-04-07T06:14:28.749270Z",
       "notes": "Multiple sources report on Luxon's controversies and criticisms",
       "new_items": true
+    },
+    {
+      "date": "2026-04-08T06:16:08.358352Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but several new events related to Christopher Luxon's activities and controversies.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -334,7 +366,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-08T06:16:08.358448Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-07T06:14:28.749368Z"
+  "last_updated": "2026-04-08T06:16:08.358468Z"
 }

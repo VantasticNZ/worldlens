@@ -122,6 +122,15 @@
       "source": "rnz.co.nz",
       "_id": "975a0131",
       "_crawled": "2026-04-07T06:16:37.443579Z"
+    },
+    {
+      "year": 2026,
+      "title": "Labour leader Chris Hipkins quells claims of internal disagreement",
+      "desc": "Chris Hipkins denied claims of internal disagreement within the Labour party over Te Pāti Māori.",
+      "type": "neutral",
+      "source": "www.rnz.co.nz",
+      "_id": "a05b85dd",
+      "_crawled": "2026-04-08T06:18:32.142768Z"
     }
   ],
   "score_adjustments": {},
@@ -178,6 +187,11 @@
     {
       "date": "2026-04-07T06:16:37.443579Z",
       "notes": "No significant lies, social posts, or votes found",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-08T06:18:32.142768Z",
+      "notes": "New events and updates on Chris Hipkins' leadership and Labour party strategy",
       "new_items": true
     }
   ],
@@ -238,7 +252,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-08T06:18:32.142901Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-07T06:16:37.443683Z"
+  "last_updated": "2026-04-08T06:18:32.142922Z"
 }

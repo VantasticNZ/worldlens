@@ -148,6 +148,11 @@
       "date": "2026-04-07T06:15:19.377487Z",
       "notes": "New events and statements from David Seymour and ACT party found",
       "new_items": true
+    },
+    {
+      "date": "2026-04-08T06:16:53.829038Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -207,7 +212,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-08T06:16:53.829056Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-07T06:15:19.377582Z"
+  "last_updated": "2026-04-08T06:16:53.829087Z"
 }

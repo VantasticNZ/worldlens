@@ -113,6 +113,15 @@
       "source": "Green Party",
       "_id": "96028241",
       "_crawled": "2026-04-06T06:26:39.010892Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fuel tax rise unlikely",
+      "desc": "Nicola Willis stated that a 12-cent fuel tax rise is very unlikely",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "752ab856",
+      "_crawled": "2026-04-08T06:17:46.675396Z"
     }
   ],
   "score_adjustments": {
@@ -161,6 +170,11 @@
       "date": "2026-04-07T06:15:53.784540Z",
       "notes": "Notable discrepancies found in Nicola Willis' statements and claims, affecting her integrity score.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-08T06:17:46.675396Z",
+      "notes": "No significant new findings except for fuel tax rise statement",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -201,7 +215,16 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-08T06:17:46.675444Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-07T06:15:53.784607Z"
+  "last_updated": "2026-04-08T06:17:46.675463Z"
 }

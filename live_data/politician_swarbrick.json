@@ -32,6 +32,24 @@
       "source": "www.greens.org.nz",
       "_id": "21de471e",
       "_crawled": "2026-04-07T06:17:01.010630Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chloe Swarbrick criticizes government's plan to criminalize homelessness",
+      "desc": "Chloe Swarbrick spoke out against the government's plan to effectively criminalize homelessness, stating that it would only worsen the problem.",
+      "type": "negative",
+      "source": "www.greens.org.nz",
+      "_id": "192b1b7f",
+      "_crawled": "2026-04-08T06:18:52.040546Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chloe Swarbrick calls for rally and organization for 2026 election",
+      "desc": "Chloe Swarbrick urged New Zealanders to join the Green Party's movement and get organized for the 2026 election.",
+      "type": "positive",
+      "source": "www.rnz.co.nz",
+      "_id": "866aa5c3",
+      "_crawled": "2026-04-08T06:18:52.040546Z"
     }
   ],
   "score_adjustments": {},
@@ -65,6 +83,11 @@
     {
       "date": "2026-04-07T06:17:01.010630Z",
       "notes": "New events and announcements from the Green Party",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-08T06:18:52.040546Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chloe Swarbrick's statements and actions.",
       "new_items": true
     }
   ],
@@ -110,7 +133,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-04-08T06:18:52.040593Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-07T06:17:01.010730Z"
+  "last_updated": "2026-04-08T06:18:52.040613Z"
 }

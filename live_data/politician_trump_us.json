@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 15,
+  "lie_count": 17,
   "lies": [
     {
       "date": "January 2026",
@@ -152,9 +152,44 @@
       "platform": "State of the Union Address",
       "_id": "c9a2477c",
       "_crawled": "2026-04-06T06:27:29.180007Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Iran has some Tomahawks",
+      "reality": "Iran does not have Tomahawks",
+      "source": "politifact.com, April 2026",
+      "severity": "high",
+      "platform": "press conference",
+      "_id": "e03bc0e8",
+      "_crawled": "2026-04-08T06:19:26.762171Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "The 2015 Iran nuclear agreement gave Iran the right to have top-of-the-line nuclear weapons",
+      "reality": "The agreement did not give Iran the right to have top-of-the-line nuclear weapons",
+      "source": "politifact.com, April 2026",
+      "severity": "high",
+      "platform": "remarks at the White House",
+      "_id": "3231f47f",
+      "_crawled": "2026-04-08T06:19:26.762171Z"
     }
   ],
-  "social_posts": [],
+  "social_posts": [
+    {
+      "platform": "Truth Social",
+      "date": "April 7, 2026",
+      "text": "A whole civilization will die tonight, never to be brought back again. God Bless the Great People of Iran!",
+      "verified_by": "politifact.com",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Trump expressed support for the Iranian people while also threatening to wipe them out",
+        "source": "politifact.com, April 2026",
+        "severity": "high"
+      },
+      "_id": "f6e773ef",
+      "_crawled": "2026-04-08T06:19:26.762171Z"
+    }
+  ],
   "votes": [],
   "recent_events": [
     {
@@ -264,6 +299,24 @@
       "source": "BBC World",
       "_id": "e779f827",
       "_crawled": "2026-04-07T06:17:24.329456Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump agrees to two-week ceasefire with Iran",
+      "desc": "The ceasefire is conditional on Iran restoring oil flow",
+      "type": "positive",
+      "source": "Newsroom",
+      "_id": "465e15c8",
+      "_crawled": "2026-04-08T06:19:26.762171Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump-backed Republican Clay Fuller wins election",
+      "desc": "Fuller won the election to replace Marjorie Taylor Greene",
+      "type": "neutral",
+      "source": "BBC World",
+      "_id": "f63d516d",
+      "_crawled": "2026-04-08T06:19:26.762171Z"
     }
   ],
   "score_adjustments": {
@@ -291,6 +344,11 @@
       "integrity_delta": -2,
       "corruption_risk_delta": 0,
       "reasoning": "Multiple new lies and misleading claims were found, affecting the integrity score."
+    },
+    "2026-04-08T06:19:26.762171Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's contradictory statements on Iran and his lies about the country's nuclear capabilities and mail-in voting have decreased his integrity score"
     }
   },
   "summary_updates": [
@@ -313,6 +371,10 @@
     {
       "date": "2026-04-06T06:27:29.180007Z",
       "text": "Donald Trump has made multiple new false and misleading claims, including about mail-in voting, homicide rates, and the economy."
+    },
+    {
+      "date": "2026-04-08T06:19:26.762171Z",
+      "text": "Trump's recent statements on Iran have been marked by contradictions and lies, and he has agreed to a two-week ceasefire with the country"
     }
   ],
   "crawl_log": [
@@ -344,6 +406,11 @@
     {
       "date": "2026-04-07T06:17:24.329456Z",
       "notes": "New lies and events related to Trump's Iran policy and endorsements",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-08T06:19:26.762171Z",
+      "notes": "Trump's social media posts and public statements continue to be a source of controversy and misinformation",
       "new_items": true
     }
   ],
@@ -398,7 +465,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-08T06:19:26.762303Z",
+      "sources": [
+        "RSS (8 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-07T06:17:24.329559Z"
+  "last_updated": "2026-04-08T06:19:26.762320Z"
 }

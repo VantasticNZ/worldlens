@@ -205,6 +205,33 @@
       "source": "RNZ",
       "_id": "9775b4bd",
       "_crawled": "2026-04-07T06:14:58.248363Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters meets US Secretary of State Marco Rubio",
+      "desc": "Winston Peters discussed the impact of the Iran war on New Zealand with US Secretary of State Marco Rubio",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "8f0252a6",
+      "_crawled": "2026-04-08T06:16:25.893260Z"
+    },
+    {
+      "year": 2026,
+      "title": "New Zealand signs neo-colonial defence deal with Cook Islands",
+      "desc": "New Zealand signed a defence deal with the Cook Islands, described as neo-colonial",
+      "type": "negative",
+      "source": "WSWS",
+      "_id": "87a6a83c",
+      "_crawled": "2026-04-08T06:16:25.893260Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters silent on Trump's Iran threat",
+      "desc": "Winston Peters refused to comment on Trump's Iran threat after meeting with US Secretary of State Marco Rubio",
+      "type": "negative",
+      "source": "Newsroom",
+      "_id": "10a406f0",
+      "_crawled": "2026-04-08T06:16:25.893260Z"
     }
   ],
   "score_adjustments": {
@@ -267,6 +294,10 @@
     {
       "date": "2026-04-07T06:14:58.248363Z",
       "text": "Winston Peters' recent actions and statements have raised concerns about his integrity, including misrepresenting international health regulation changes and making contradictory statements on pronoun usage"
+    },
+    {
+      "date": "2026-04-08T06:16:25.893260Z",
+      "text": "Winston Peters met with US Secretary of State Marco Rubio to discuss the impact of the Iran war on New Zealand, and New Zealand signed a defence deal with the Cook Islands."
     }
   ],
   "crawl_log": [
@@ -308,6 +339,11 @@
     {
       "date": "2026-04-07T06:14:58.248363Z",
       "notes": "Peters' meeting with Cook Islands PM and defence declaration signing may indicate a shift in his foreign policy stance",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-08T06:16:25.893260Z",
+      "notes": "No significant new lies or social posts found, but several new events related to Winston Peters' meetings and New Zealand's international relations",
       "new_items": true
     }
   ],
@@ -376,7 +412,16 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-08T06:16:25.893354Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-07T06:14:58.248456Z"
+  "last_updated": "2026-04-08T06:16:25.893375Z"
 }

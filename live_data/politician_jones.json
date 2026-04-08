@@ -116,6 +116,11 @@
       "date": "2026-04-07T06:15:33.570721Z",
       "notes": "Multiple sources report on the fisheries bill controversy, with Shane Jones reminding National and ACT of their commitment to the bill",
       "new_items": true
+    },
+    {
+      "date": "2026-04-08T06:17:18.025469Z",
+      "notes": "No significant new lies or social posts found, but fisheries bill backlash event updated",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -168,7 +173,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-08T06:17:18.025497Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-07T06:15:33.570767Z"
+  "last_updated": "2026-04-08T06:17:18.025516Z"
 }

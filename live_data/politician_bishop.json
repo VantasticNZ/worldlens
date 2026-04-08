@@ -79,6 +79,24 @@
       "source": "RNZ News",
       "_id": "77b84f83",
       "_crawled": "2026-04-07T06:16:16.262095Z"
+    },
+    {
+      "year": 2026,
+      "title": "Auckland housing numbers slashed again",
+      "desc": "The government has slashed Auckland housing numbers again, despite initial targets",
+      "type": "negative",
+      "source": "The Spinoff",
+      "_id": "1e529574",
+      "_crawled": "2026-04-08T06:18:11.621223Z"
+    },
+    {
+      "year": 2026,
+      "title": "Kāinga Ora turnaround plan",
+      "desc": "Housing Minister Chris Bishop revealed Kāinga Ora's turnaround plan to reduce deficit",
+      "type": "neutral",
+      "source": "NZ Herald",
+      "_id": "91297dcd",
+      "_crawled": "2026-04-08T06:18:11.621223Z"
     }
   ],
   "score_adjustments": {
@@ -101,6 +119,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Bishop's claim of 'no actual change' contradicts the reality of the reduced housing target"
+    },
+    "2026-04-08T06:18:11.621223Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The 'no actual change' claim contradicts the reality of Auckland housing numbers being slashed again"
     }
   },
   "summary_updates": [
@@ -131,6 +154,10 @@
     {
       "date": "2026-04-07T06:16:16.262095Z",
       "text": "Chris Bishop faced controversy over his handling of housing issues and was demoted as campaign chair."
+    },
+    {
+      "date": "2026-04-08T06:18:11.621223Z",
+      "text": "Housing Minister Chris Bishop's claim of 'no actual change' has been contradicted by the slashing of Auckland housing numbers again"
     }
   ],
   "crawl_log": [
@@ -167,6 +194,11 @@
     {
       "date": "2026-04-07T06:16:16.262095Z",
       "notes": "Multiple sources reported on Chris Bishop's demotion and housing controversy, but no new lies or social posts were found.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-08T06:18:11.621223Z",
+      "notes": "Multiple sources confirm the slashing of Auckland housing numbers, contradicting Chris Bishop's claim",
       "new_items": true
     }
   ],
@@ -226,7 +258,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-08T06:18:11.621289Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-07T06:16:16.262151Z"
+  "last_updated": "2026-04-08T06:18:11.621306Z"
 }
