@@ -53,6 +53,15 @@
       "source": "rnz.co.nz",
       "_id": "9ba3c133",
       "_crawled": "2026-04-03T06:08:59.039539Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fisheries bill controversy",
+      "desc": "Shane Jones' fisheries bill has sparked controversy and backlash from critics, with some arguing that it favors commercial fishers over recreational ones",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "9ad1764e",
+      "_crawled": "2026-04-09T06:15:53.404247Z"
     }
   ],
   "score_adjustments": {
@@ -65,6 +74,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' claim about the Fisheries Bill has been disputed by critics, raising concerns about his integrity"
+    },
+    "2026-04-09T06:15:53.404247Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' claim about commercial fishers retaining all targeted species has been disputed by critics, raising concerns about his integrity"
     }
   },
   "summary_updates": [
@@ -79,6 +93,10 @@
     {
       "date": "2026-04-07T06:15:33.570721Z",
       "text": "Shane Jones faces backlash over fisheries bill, with critics arguing the removal of minimum fish size requirements for commercial operators would harm the oceans and recreational fishers"
+    },
+    {
+      "date": "2026-04-09T06:15:53.404247Z",
+      "text": "Shane Jones' fisheries bill has sparked controversy, and his claim about commercial fishers has been disputed, raising concerns about his integrity"
     }
   ],
   "crawl_log": [
@@ -121,6 +139,11 @@
       "date": "2026-04-08T06:17:18.025469Z",
       "notes": "No significant new lies or social posts found, but fisheries bill backlash event updated",
       "new_items": false
+    },
+    {
+      "date": "2026-04-09T06:15:53.404247Z",
+      "notes": "Reviewed Tavily sources from NZ Herald, Beehive.govt.nz, and RNZ",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -180,7 +203,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-09T06:15:53.404348Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-08T06:17:18.025516Z"
+  "last_updated": "2026-04-09T06:15:53.404370Z"
 }

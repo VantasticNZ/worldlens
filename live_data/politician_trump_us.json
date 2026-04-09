@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 17,
+  "lie_count": 18,
   "lies": [
     {
       "date": "January 2026",
@@ -172,6 +172,16 @@
       "platform": "remarks at the White House",
       "_id": "3231f47f",
       "_crawled": "2026-04-08T06:19:26.762171Z"
+    },
+    {
+      "date": "2026",
+      "claim": "Iran war was a total US victory",
+      "reality": "This is half-true, as the outcome of the war is not entirely clear.",
+      "source": "PolitiFact, April 2026",
+      "severity": "high",
+      "platform": "press conference",
+      "_id": "de58c08e",
+      "_crawled": "2026-04-09T06:16:51.335763Z"
     }
   ],
   "social_posts": [
@@ -317,6 +327,24 @@
       "source": "BBC World",
       "_id": "f63d516d",
       "_crawled": "2026-04-08T06:19:26.762171Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump criticizes NATO",
+      "desc": "Trump criticized NATO, describing a meeting with the alliance chief as very frank.",
+      "type": "negative",
+      "source": "BBC World",
+      "_id": "c8697358",
+      "_crawled": "2026-04-09T06:16:51.335763Z"
+    },
+    {
+      "year": 2026,
+      "title": "Iran ceasefire deal",
+      "desc": "A ceasefire deal between the US and Iran has been reached, but at a high cost.",
+      "type": "neutral",
+      "source": "BBC World",
+      "_id": "b99a9ad4",
+      "_crawled": "2026-04-09T06:16:51.335763Z"
     }
   ],
   "score_adjustments": {
@@ -349,6 +377,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's contradictory statements on Iran and his lies about the country's nuclear capabilities and mail-in voting have decreased his integrity score"
+    },
+    "2026-04-09T06:16:51.335763Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's contradictory statements and false claims have raised concerns about his integrity."
     }
   },
   "summary_updates": [
@@ -375,6 +408,10 @@
     {
       "date": "2026-04-08T06:19:26.762171Z",
       "text": "Trump's recent statements on Iran have been marked by contradictions and lies, and he has agreed to a two-week ceasefire with the country"
+    },
+    {
+      "date": "2026-04-09T06:16:51.335763Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity and foreign policy decisions."
     }
   ],
   "crawl_log": [
@@ -411,6 +448,11 @@
     {
       "date": "2026-04-08T06:19:26.762171Z",
       "notes": "Trump's social media posts and public statements continue to be a source of controversy and misinformation",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-09T06:16:51.335763Z",
+      "notes": "Trump's social media posts and public statements have been fact-checked and found to contain several false claims.",
       "new_items": true
     }
   ],
@@ -473,7 +515,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-09T06:16:51.335918Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-08T06:19:26.762320Z"
+  "last_updated": "2026-04-09T06:16:51.335936Z"
 }

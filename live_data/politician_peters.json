@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 2,
+  "lie_count": 3,
   "lies": [
     {
       "date": "March 2026",
@@ -22,6 +22,16 @@
       "platform": "speech",
       "_id": "859f1fb4",
       "_crawled": "2026-04-05T06:09:46.601298Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Winston Peters' statement on Labour being 'woke', 'shallow', 'impotent' and to blame for",
+      "reality": "No evidence to support the claim",
+      "source": "RNZ News, April 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "fd2ee445",
+      "_crawled": "2026-04-09T06:15:30.336804Z"
     }
   ],
   "social_posts": [
@@ -232,6 +242,15 @@
       "source": "Newsroom",
       "_id": "10a406f0",
       "_crawled": "2026-04-08T06:16:25.893260Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters announces proposal to overhaul energy sector",
+      "desc": "Peters proposed changes to the energy sector in his state of the nation speech",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "8cad7b21",
+      "_crawled": "2026-04-09T06:15:30.336804Z"
     }
   ],
   "score_adjustments": {
@@ -264,6 +283,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' misrepresentation of international health regulation changes and contradictory statements on pronoun usage"
+    },
+    "2026-04-09T06:15:30.336804Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' recent statements and actions have raised concerns about his integrity"
     }
   },
   "summary_updates": [
@@ -298,6 +322,10 @@
     {
       "date": "2026-04-08T06:16:25.893260Z",
       "text": "Winston Peters met with US Secretary of State Marco Rubio to discuss the impact of the Iran war on New Zealand, and New Zealand signed a defence deal with the Cook Islands."
+    },
+    {
+      "date": "2026-04-09T06:15:30.336804Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
     }
   ],
   "crawl_log": [
@@ -344,6 +372,11 @@
     {
       "date": "2026-04-08T06:16:25.893260Z",
       "notes": "No significant new lies or social posts found, but several new events related to Winston Peters' meetings and New Zealand's international relations",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-09T06:15:30.336804Z",
+      "notes": "Peters' meeting with US Secretary of State Marco Rubio and his proposal to overhaul the energy sector are notable events",
       "new_items": true
     }
   ],
@@ -421,7 +454,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-09T06:15:30.336914Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-08T06:16:25.893375Z"
+  "last_updated": "2026-04-09T06:15:30.336938Z"
 }

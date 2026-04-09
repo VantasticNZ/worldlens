@@ -97,6 +97,15 @@
       "source": "NZ Herald",
       "_id": "91297dcd",
       "_crawled": "2026-04-08T06:18:11.621223Z"
+    },
+    {
+      "year": 2026,
+      "title": "Auckland housing plan U-turn",
+      "desc": "Housing Minister Chris Bishop announces a U-turn on Auckland housing plans, slashing the number of potential homes under the plan, but allowing for more housing development in the CBD.",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "278fe5b3",
+      "_crawled": "2026-04-09T06:16:18.910676Z"
     }
   ],
   "score_adjustments": {
@@ -158,6 +167,10 @@
     {
       "date": "2026-04-08T06:18:11.621223Z",
       "text": "Housing Minister Chris Bishop's claim of 'no actual change' has been contradicted by the slashing of Auckland housing numbers again"
+    },
+    {
+      "date": "2026-04-09T06:16:18.910676Z",
+      "text": "Housing Minister Chris Bishop announces changes to Auckland housing plans and reveals Kāinga Ora's turnaround plan."
     }
   ],
   "crawl_log": [
@@ -199,6 +212,11 @@
     {
       "date": "2026-04-08T06:18:11.621223Z",
       "notes": "Multiple sources confirm the slashing of Auckland housing numbers, contradicting Chris Bishop's claim",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-09T06:16:18.910676Z",
+      "notes": "Multiple sources report on Chris Bishop's announcements and actions regarding housing, but no significant new lies or social posts were found.",
       "new_items": true
     }
   ],
@@ -265,7 +283,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-09T06:16:18.910742Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-08T06:18:11.621306Z"
+  "last_updated": "2026-04-09T06:16:18.910762Z"
 }

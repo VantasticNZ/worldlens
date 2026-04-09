@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 2,
+  "lie_count": 3,
   "lies": [
     {
       "date": "2026",
@@ -22,6 +22,16 @@
       "platform": "interview",
       "_id": "9c8127cf",
       "_crawled": "2026-04-04T05:50:51.941060Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Luxon's statement on not having the intelligence",
+      "reality": "Peters' response implying Luxon lacks principles",
+      "source": "newsroom.co.nz",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "8ba406af",
+      "_crawled": "2026-04-09T06:15:19.627300Z"
     }
   ],
   "social_posts": [
@@ -221,6 +231,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistency between rhetoric and actions on climate change and the controversy surrounding his cabinet reshuffle"
+    },
+    "2026-04-09T06:15:19.627300Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's handling of the Samoan matai title controversy and his response to questions about Iran, fuel, and polls have raised concerns about his integrity"
     }
   },
   "summary_updates": [
@@ -251,6 +266,10 @@
     {
       "date": "2026-04-07T06:14:28.749270Z",
       "text": "Luxon's actions and statements continue to spark controversy and criticism, raising concerns about his integrity and leadership"
+    },
+    {
+      "date": "2026-04-09T06:15:19.627300Z",
+      "text": "Luxon faces increasing scrutiny over his leadership and integrity, with controversies surrounding his Samoan matai title and his response to key issues"
     }
   ],
   "crawl_log": [
@@ -297,6 +316,11 @@
     {
       "date": "2026-04-08T06:16:08.358352Z",
       "notes": "No significant new findings on lies, social posts, or votes, but several new events related to Christopher Luxon's activities and controversies.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-09T06:15:19.627300Z",
+      "notes": "Reviewed RNZ News, newsroom.co.nz, and other sources for updates on Luxon's activities and statements",
       "new_items": true
     }
   ],
@@ -374,7 +398,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-09T06:15:19.627388Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-08T06:16:08.358468Z"
+  "last_updated": "2026-04-09T06:15:19.627414Z"
 }

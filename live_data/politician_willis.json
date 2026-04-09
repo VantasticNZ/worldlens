@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 2,
+  "lie_count": 3,
   "lies": [
     {
       "date": "February 2026",
@@ -22,6 +22,16 @@
       "platform": "press_release",
       "_id": "442691bc",
       "_crawled": "2026-04-07T06:15:53.784540Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Working for Families top up of $7 a week is available",
+      "reality": "The top up won't come in for another year",
+      "source": "labour.org.nz",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "37715aa0",
+      "_crawled": "2026-04-09T06:16:03.912804Z"
     }
   ],
   "social_posts": [
@@ -122,6 +132,24 @@
       "source": "RNZ News",
       "_id": "752ab856",
       "_crawled": "2026-04-08T06:17:46.675396Z"
+    },
+    {
+      "year": 2026,
+      "title": "Ceasefire economic effects",
+      "desc": "Nicola Willis cautions economic effects will continue despite ceasefire",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "4d199158",
+      "_crawled": "2026-04-09T06:16:03.912804Z"
+    },
+    {
+      "year": 2026,
+      "title": "2026 Budget plans",
+      "desc": "Nicola Willis plans to undo Labour's health reforms and sell assets",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "9ce5c530",
+      "_crawled": "2026-04-09T06:16:03.912804Z"
     }
   ],
   "score_adjustments": {
@@ -143,6 +171,10 @@
     {
       "date": "2026-04-07T06:15:53.784540Z",
       "text": "Finance Minister Nicola Willis' credibility has taken a hit due to contradictions in her claims and statements."
+    },
+    {
+      "date": "2026-04-09T06:16:03.912804Z",
+      "text": "Nicola Willis' recent statements and actions have raised concerns about her integrity and policy plans."
     }
   ],
   "crawl_log": [
@@ -174,6 +206,11 @@
     {
       "date": "2026-04-08T06:17:46.675396Z",
       "notes": "No significant new findings except for fuel tax rise statement",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-09T06:16:03.912804Z",
+      "notes": "Reviewed RNZ News, NZ Herald, and labour.org.nz articles",
       "new_items": true
     }
   ],
@@ -224,7 +261,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-09T06:16:03.912879Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-08T06:17:46.675463Z"
+  "last_updated": "2026-04-09T06:16:03.912901Z"
 }

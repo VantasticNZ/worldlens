@@ -131,6 +131,33 @@
       "source": "www.rnz.co.nz",
       "_id": "a05b85dd",
       "_crawled": "2026-04-08T06:18:32.142768Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins denies ex-wife's allegations",
+      "desc": "Chris Hipkins denied his ex-wife's allegations, stating that they are not important to New Zealand and that people should not believe everything they see on social media.",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "41daa36b",
+      "_crawled": "2026-04-09T06:16:34.045187Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins sets out Labour's priorities",
+      "desc": "Chris Hipkins stated that Labour's priorities are around jobs, health, homes, and the cost of living, and that he will wait until after the Budget to make policy commitments.",
+      "type": "neutral",
+      "source": "RNZ",
+      "_id": "65ccd46a",
+      "_crawled": "2026-04-09T06:16:34.045187Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins quells claims of internal disagreement over Te Pāti Māori",
+      "desc": "Chris Hipkins quelled claims of internal disagreement within Labour over Te Pāti Māori, stating that the party is united.",
+      "type": "positive",
+      "source": "RNZ",
+      "_id": "8e55c4f6",
+      "_crawled": "2026-04-09T06:16:34.045187Z"
     }
   ],
   "score_adjustments": {},
@@ -192,6 +219,11 @@
     {
       "date": "2026-04-08T06:18:32.142768Z",
       "notes": "New events and updates on Chris Hipkins' leadership and Labour party strategy",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-09T06:16:34.045187Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but several new events related to Chris Hipkins' statements and actions.",
       "new_items": true
     }
   ],
@@ -259,7 +291,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-09T06:16:34.045291Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-08T06:18:32.142922Z"
+  "last_updated": "2026-04-09T06:16:34.045312Z"
 }

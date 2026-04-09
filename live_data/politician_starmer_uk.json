@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 5,
+  "lie_count": 6,
   "lies": [
     {
       "date": "2026",
@@ -52,6 +52,16 @@
       "platform": "speech",
       "_id": "83ad54f6",
       "_crawled": "2026-04-07T06:17:59.029409Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "people should now start to see positive change in their lives",
+      "reality": "no evidence of positive change",
+      "source": "BBC, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "e89ec900",
+      "_crawled": "2026-04-09T06:17:15.658836Z"
     }
   ],
   "social_posts": [
@@ -68,6 +78,20 @@
       },
       "_id": "98bc3e24",
       "_crawled": "2026-04-01T06:24:12.948480Z"
+    },
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "defeat decline and division",
+      "verified_by": "BBC",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "Labour's current performance contradicts the promise of defeating decline and division",
+        "source": "The Guardian",
+        "severity": "high"
+      },
+      "_id": "92e1b1c2",
+      "_crawled": "2026-04-09T06:17:15.658836Z"
     }
   ],
   "votes": [],
@@ -174,6 +198,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The Prime Minister's repeated promises of change have not been delivered, leading to a loss of trust among voters"
+    },
+    "2026-04-09T06:17:15.658836Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The new lie and discrepancy found in the social post have decreased the integrity score"
     }
   },
   "summary_updates": [
@@ -192,6 +221,10 @@
     {
       "date": "2026-04-08T06:20:34.477644Z",
       "text": "Keir Starmer's integrity score has decreased due to unfulfilled promises and a perceived lack of transparency"
+    },
+    {
+      "date": "2026-04-09T06:17:15.658836Z",
+      "text": "Keir Starmer's promise of positive change has been contradicted by the current state of the country, and his actions have been called into question"
     }
   ],
   "crawl_log": [
@@ -228,6 +261,11 @@
     {
       "date": "2026-04-08T06:20:34.477644Z",
       "notes": "Multiple sources indicate a growing sense of distrust among voters due to unfulfilled promises",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-09T06:17:15.658836Z",
+      "notes": "Further investigation into the UK's involvement in the Middle East and its relationship with the EU is needed",
       "new_items": true
     }
   ],
@@ -283,7 +321,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-09T06:17:15.658910Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-08T06:20:34.477719Z"
+  "last_updated": "2026-04-09T06:17:15.658930Z"
 }

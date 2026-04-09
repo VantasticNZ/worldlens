@@ -17,6 +17,20 @@
       },
       "_id": "bb1e42ab",
       "_crawled": "2026-04-06T06:27:42.518718Z"
+    },
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "Anthony Albanese addresses the nation on the Middle East crisis",
+      "verified_by": "The Guardian",
+      "discrepancy": {
+        "type": "none",
+        "detail": "",
+        "source": "",
+        "severity": ""
+      },
+      "_id": "bc8d438d",
+      "_crawled": "2026-04-09T06:17:02.196468Z"
     }
   ],
   "votes": [],
@@ -74,6 +88,24 @@
       "source": "The Guardian",
       "_id": "f1164aa3",
       "_crawled": "2026-04-06T06:27:42.518718Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fuel Security Meeting in Singapore",
+      "desc": "Anthony Albanese to discuss fuel security in Singapore as Australian petrol prices rise",
+      "type": "neutral",
+      "source": "The Guardian",
+      "_id": "e294c913",
+      "_crawled": "2026-04-09T06:17:02.196468Z"
+    },
+    {
+      "year": 2026,
+      "title": "Royal Commission into Antisemitism",
+      "desc": "Australia's leader announces a royal commission into antisemitism after Bondi mass shooting",
+      "type": "positive",
+      "source": "AP News",
+      "_id": "ecc537e5",
+      "_crawled": "2026-04-09T06:17:02.196468Z"
     }
   ],
   "score_adjustments": {},
@@ -81,6 +113,10 @@
     {
       "date": "2026-04-06T06:27:42.518718Z",
       "text": "Albanese addresses fuel crisis and Middle East crisis in national address."
+    },
+    {
+      "date": "2026-04-09T06:17:02.196468Z",
+      "text": "Anthony Albanese discusses fuel security and addresses the nation on the Middle East crisis"
     }
   ],
   "crawl_log": [
@@ -118,6 +154,11 @@
       "date": "2026-04-08T06:20:00.690981Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-09T06:17:02.196468Z",
+      "notes": "Reviewed sources for new information on Anthony Albanese",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -179,7 +220,15 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-09T06:17:02.196538Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-08T06:20:00.691020Z"
+  "last_updated": "2026-04-09T06:17:02.196558Z"
 }
