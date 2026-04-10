@@ -209,6 +209,24 @@
       "source": "RNZ News",
       "_id": "32490978",
       "_crawled": "2026-04-08T06:16:08.358352Z"
+    },
+    {
+      "year": 2026,
+      "title": "Auckland City Deal signing",
+      "desc": "Christopher Luxon and Wayne Brown signed the Auckland City Deal",
+      "type": "positive",
+      "source": "RNZ News",
+      "_id": "9793e683",
+      "_crawled": "2026-04-10T06:27:17.475798Z"
+    },
+    {
+      "year": 2026,
+      "title": "Luxon and Willis comment on economic effects of ceasefire",
+      "desc": "Luxon and Willis cautioned that economic effects will continue despite ceasefire",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "f5c52f72",
+      "_crawled": "2026-04-10T06:27:17.475798Z"
     }
   ],
   "score_adjustments": {
@@ -236,6 +254,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's handling of the Samoan matai title controversy and his response to questions about Iran, fuel, and polls have raised concerns about his integrity"
+    },
+    "2026-04-10T06:27:17.475798Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "inconsistency between Luxon's rhetoric and actions on climate change"
     }
   },
   "summary_updates": [
@@ -270,6 +293,10 @@
     {
       "date": "2026-04-09T06:15:19.627300Z",
       "text": "Luxon faces increasing scrutiny over his leadership and integrity, with controversies surrounding his Samoan matai title and his response to key issues"
+    },
+    {
+      "date": "2026-04-10T06:27:17.475798Z",
+      "text": "Luxon's inconsistency on climate change policies and actions has raised concerns about his integrity"
     }
   ],
   "crawl_log": [
@@ -321,6 +348,11 @@
     {
       "date": "2026-04-09T06:15:19.627300Z",
       "notes": "Reviewed RNZ News, newsroom.co.nz, and other sources for updates on Luxon's activities and statements",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-10T06:27:17.475798Z",
+      "notes": "Reviewed RNZ News, NZ Herald, and The Spinoff articles",
       "new_items": true
     }
   ],
@@ -406,7 +438,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-10T06:27:17.475910Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-09T06:15:19.627414Z"
+  "last_updated": "2026-04-10T06:27:17.475931Z"
 }

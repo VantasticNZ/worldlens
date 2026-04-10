@@ -150,6 +150,15 @@
       "source": "NZ Herald",
       "_id": "9ce5c530",
       "_crawled": "2026-04-09T06:16:03.912804Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump Iran threat",
+      "desc": "Willis reacts to Trump Iran threat, calling it 'alarming for the whole world'",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "809af8fd",
+      "_crawled": "2026-04-10T06:28:03.351274Z"
     }
   ],
   "score_adjustments": {
@@ -157,6 +166,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Finance Minister Nicola Willis' claims were contradicted by Treasury's long term fiscal forecasts and her own statement on Working for Families top up"
+    },
+    "2026-04-10T06:28:03.351274Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Willis' claim of NZ being on a path to surplus was contradicted by Treasury's forecasts"
     }
   },
   "summary_updates": [
@@ -175,6 +189,10 @@
     {
       "date": "2026-04-09T06:16:03.912804Z",
       "text": "Nicola Willis' recent statements and actions have raised concerns about her integrity and policy plans."
+    },
+    {
+      "date": "2026-04-10T06:28:03.351274Z",
+      "text": "Nicola Willis' claim of NZ being on a path to surplus was contradicted by Treasury's forecasts, raising concerns about her integrity"
     }
   ],
   "crawl_log": [
@@ -211,6 +229,11 @@
     {
       "date": "2026-04-09T06:16:03.912804Z",
       "notes": "Reviewed RNZ News, NZ Herald, and labour.org.nz articles",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-10T06:28:03.351274Z",
+      "notes": "Reviewed RNZ News and Tavily sources, found contradiction between Willis' claim and Treasury's forecasts",
       "new_items": true
     }
   ],
@@ -269,7 +292,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-10T06:28:03.351345Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-09T06:16:03.912901Z"
+  "last_updated": "2026-04-10T06:28:03.351365Z"
 }

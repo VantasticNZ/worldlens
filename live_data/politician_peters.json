@@ -251,6 +251,15 @@
       "source": "RNZ News",
       "_id": "8cad7b21",
       "_crawled": "2026-04-09T06:15:30.336804Z"
+    },
+    {
+      "year": 2026,
+      "title": "Judge Ema Aitken, accused of yelling at Winston Peters, won't be removed from job",
+      "desc": "A panel ruled that Judge Ema Aitken would not be removed from her job",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "11460f17",
+      "_crawled": "2026-04-10T06:27:34.944253Z"
     }
   ],
   "score_adjustments": {
@@ -288,6 +297,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' recent statements and actions have raised concerns about his integrity"
+    },
+    "2026-04-10T06:27:34.944253Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' misrepresentation of international health regulation changes reduces his integrity score"
     }
   },
   "summary_updates": [
@@ -326,6 +340,10 @@
     {
       "date": "2026-04-09T06:15:30.336804Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
+    },
+    {
+      "date": "2026-04-10T06:27:34.944253Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and commitment to factual accuracy"
     }
   ],
   "crawl_log": [
@@ -377,6 +395,11 @@
     {
       "date": "2026-04-09T06:15:30.336804Z",
       "notes": "Peters' meeting with US Secretary of State Marco Rubio and his proposal to overhaul the energy sector are notable events",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-10T06:27:34.944253Z",
+      "notes": "Peters' energy sector overhaul proposal and Judge Ema Aitken incident are notable events, but do not significantly impact his score",
       "new_items": true
     }
   ],
@@ -462,7 +485,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-10T06:27:34.944356Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-09T06:15:30.336938Z"
+  "last_updated": "2026-04-10T06:27:34.944378Z"
 }

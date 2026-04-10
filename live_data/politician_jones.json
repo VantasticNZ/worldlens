@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 2,
+  "lie_count": 4,
   "lies": [
     {
       "date": "March 2026",
@@ -22,6 +22,26 @@
       "platform": "interview",
       "_id": "ae1bc5f1",
       "_crawled": "2026-04-06T06:26:21.656260Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "The government needs to gut the whole damn Bill",
+      "reality": "The government did abandon the removal of minimum fish size requirements for commercial operators",
+      "source": "RNZ, March 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "acfcac00",
+      "_crawled": "2026-04-10T06:27:54.010348Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "National, ACT and NZ First are choosing to screw over our oceans and recreational fishers to help the industry make a quick, unsustainable buck",
+      "reality": "The statement is misleading as it implies a unified effort among the parties to harm the oceans and recreational fishers",
+      "source": "RNZ, March 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "7dfd31a7",
+      "_crawled": "2026-04-10T06:27:54.010348Z"
     }
   ],
   "social_posts": [],
@@ -79,6 +99,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' claim about commercial fishers retaining all targeted species has been disputed by critics, raising concerns about his integrity"
+    },
+    "2026-04-10T06:27:54.010348Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' statements and actions have raised concerns about his integrity and commitment to transparency"
     }
   },
   "summary_updates": [
@@ -97,6 +122,10 @@
     {
       "date": "2026-04-09T06:15:53.404247Z",
       "text": "Shane Jones' fisheries bill has sparked controversy, and his claim about commercial fishers has been disputed, raising concerns about his integrity"
+    },
+    {
+      "date": "2026-04-10T06:27:54.010348Z",
+      "text": "Shane Jones' handling of the Fisheries Bill has sparked controversy and criticism, with some accusing him of prioritizing commercial interests over environmental and recreational concerns"
     }
   ],
   "crawl_log": [
@@ -143,6 +172,11 @@
     {
       "date": "2026-04-09T06:15:53.404247Z",
       "notes": "Reviewed Tavily sources from NZ Herald, Beehive.govt.nz, and RNZ",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-10T06:27:54.010348Z",
+      "notes": "Shane Jones' statements and actions on the Fisheries Bill have been widely reported and criticized",
       "new_items": true
     }
   ],
@@ -210,7 +244,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-10T06:27:54.010408Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-09T06:15:53.404370Z"
+  "last_updated": "2026-04-10T06:27:54.010428Z"
 }

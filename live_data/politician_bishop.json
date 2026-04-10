@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 1,
+  "lie_count": 2,
   "lies": [
     {
       "date": "April 2026",
@@ -12,6 +12,16 @@
       "platform": "interview, press_release",
       "_id": "cc4a7923",
       "_crawled": "2026-04-02T06:09:37.013544Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Housing delivery is on track",
+      "reality": "Officials had been warning of delays since at least August",
+      "source": "Labour Party release, select committee advice",
+      "severity": "high",
+      "platform": "select committee",
+      "_id": "52e76d66",
+      "_crawled": "2026-04-10T06:28:12.343656Z"
     }
   ],
   "social_posts": [],
@@ -133,6 +143,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The 'no actual change' claim contradicts the reality of Auckland housing numbers being slashed again"
+    },
+    "2026-04-10T06:28:12.343656Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Claim of housing delivery being on track contradicts official advice"
     }
   },
   "summary_updates": [
@@ -171,6 +186,10 @@
     {
       "date": "2026-04-09T06:16:18.910676Z",
       "text": "Housing Minister Chris Bishop announces changes to Auckland housing plans and reveals Kāinga Ora's turnaround plan."
+    },
+    {
+      "date": "2026-04-10T06:28:12.343656Z",
+      "text": "Chris Bishop's claim of housing delivery being on track has been contradicted by official advice, raising concerns about his integrity"
     }
   ],
   "crawl_log": [
@@ -217,6 +236,11 @@
     {
       "date": "2026-04-09T06:16:18.910676Z",
       "notes": "Multiple sources report on Chris Bishop's announcements and actions regarding housing, but no significant new lies or social posts were found.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-10T06:28:12.343656Z",
+      "notes": "Multiple sources confirm Auckland housing numbers have been slashed again, and Chris Bishop's claim of housing delivery being on track has been contradicted",
       "new_items": true
     }
   ],
@@ -290,7 +314,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-10T06:28:12.343721Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-09T06:16:18.910762Z"
+  "last_updated": "2026-04-10T06:28:12.343742Z"
 }

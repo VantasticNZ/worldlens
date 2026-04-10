@@ -159,6 +159,11 @@
       "date": "2026-04-09T06:17:02.196468Z",
       "notes": "Reviewed sources for new information on Anthony Albanese",
       "new_items": true
+    },
+    {
+      "date": "2026-04-10T06:28:58.180953Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -228,7 +233,15 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-10T06:28:58.180968Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-09T06:17:02.196558Z"
+  "last_updated": "2026-04-10T06:28:58.180986Z"
 }

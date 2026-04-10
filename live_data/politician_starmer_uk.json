@@ -176,6 +176,15 @@
       "source": "BBC",
       "_id": "22156bda",
       "_crawled": "2026-04-07T06:17:59.029409Z"
+    },
+    {
+      "year": 2026,
+      "title": "Starmer faces challenges within his party",
+      "desc": "Sir Keir Starmer's party is still restless, and there are concerns about his leadership.",
+      "type": "negative",
+      "source": "BBC",
+      "_id": "843ce49f",
+      "_crawled": "2026-04-10T06:29:08.291319Z"
     }
   ],
   "score_adjustments": {
@@ -203,6 +212,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The new lie and discrepancy found in the social post have decreased the integrity score"
+    },
+    "2026-04-10T06:29:08.291319Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The Prime Minister's broken promise on income tax increase affects his integrity score."
     }
   },
   "summary_updates": [
@@ -225,6 +239,10 @@
     {
       "date": "2026-04-09T06:17:15.658836Z",
       "text": "Keir Starmer's promise of positive change has been contradicted by the current state of the country, and his actions have been called into question"
+    },
+    {
+      "date": "2026-04-10T06:29:08.291319Z",
+      "text": "Keir Starmer's leadership is facing challenges, and his promise on income tax has been broken."
     }
   ],
   "crawl_log": [
@@ -266,6 +284,11 @@
     {
       "date": "2026-04-09T06:17:15.658836Z",
       "notes": "Further investigation into the UK's involvement in the Middle East and its relationship with the EU is needed",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-10T06:29:08.291319Z",
+      "notes": "New findings on Keir Starmer's leadership and broken promises.",
       "new_items": true
     }
   ],
@@ -329,7 +352,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-10T06:29:08.291392Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-09T06:17:15.658930Z"
+  "last_updated": "2026-04-10T06:29:08.291410Z"
 }

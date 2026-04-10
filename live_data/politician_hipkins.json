@@ -225,6 +225,11 @@
       "date": "2026-04-09T06:16:34.045187Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but several new events related to Chris Hipkins' statements and actions.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-10T06:28:27.634114Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -298,7 +303,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-10T06:28:27.634128Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-09T06:16:34.045312Z"
+  "last_updated": "2026-04-10T06:28:27.634147Z"
 }
