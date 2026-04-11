@@ -104,6 +104,24 @@
       "source": "beehive.govt.nz",
       "_id": "43d5b290",
       "_crawled": "2026-04-07T06:15:19.377487Z"
+    },
+    {
+      "year": 2026,
+      "title": "Sisters United Academy opening",
+      "desc": "Associate Education Minister David Seymour announced that Sisters United Academy will open in Term 1 2026 as a charter school.",
+      "type": "positive",
+      "source": "Beehive.govt.nz",
+      "_id": "cbea9bd8",
+      "_crawled": "2026-04-11T05:55:05.626790Z"
+    },
+    {
+      "year": 2026,
+      "title": "David Seymour at Waitangi Pōwhiri",
+      "desc": "David Seymour gave a speech at the Waitangi Pōwhiri on February 5th, 2026.",
+      "type": "neutral",
+      "source": "ACT New Zealand",
+      "_id": "b8ecbb23",
+      "_crawled": "2026-04-11T05:55:05.626790Z"
     }
   ],
   "score_adjustments": {},
@@ -163,6 +181,11 @@
       "date": "2026-04-10T06:27:44.260756Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-11T05:55:05.626790Z",
+      "notes": "New events and speeches from David Seymour",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -243,7 +266,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-11T05:55:05.626877Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-10T06:27:44.260798Z"
+  "last_updated": "2026-04-11T05:55:05.626900Z"
 }

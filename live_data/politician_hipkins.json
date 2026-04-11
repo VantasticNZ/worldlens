@@ -158,6 +158,33 @@
       "source": "RNZ",
       "_id": "8e55c4f6",
       "_crawled": "2026-04-09T06:16:34.045187Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins unveils new economic team",
+      "desc": "Labour leader Chris Hipkins has unveiled a new economic team as part of a caucus reshuffle, with Barbara Edmonds leading the team.",
+      "type": "neutral",
+      "source": "labour.org.nz",
+      "_id": "360772a7",
+      "_crawled": "2026-04-11T05:55:53.538445Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins waits to make commitments until after Budget 2026",
+      "desc": "Labour leader Chris Hipkins says he wants to wait until nearly June to make any commitments following criticism of his State of the Nation speech.",
+      "type": "neutral",
+      "source": "rnz.co.nz",
+      "_id": "a80c8826",
+      "_crawled": "2026-04-11T05:55:53.538445Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Hipkins' ex-wife makes unsubstantiated claims",
+      "desc": "Chris Hipkins' ex-wife has made a series of unsubstantiated claims about him, which he has denied and is seeking legal advice over.",
+      "type": "negative",
+      "source": "rnz.co.nz",
+      "_id": "6cab3123",
+      "_crawled": "2026-04-11T05:55:53.538445Z"
     }
   ],
   "score_adjustments": {},
@@ -230,6 +257,11 @@
       "date": "2026-04-10T06:28:27.634114Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-11T05:55:53.538445Z",
+      "notes": "New events and updates on Chris Hipkins' activities and controversies",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -310,7 +342,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-11T05:55:53.538571Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-10T06:28:27.634147Z"
+  "last_updated": "2026-04-11T05:55:53.538589Z"
 }

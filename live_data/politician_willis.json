@@ -171,6 +171,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Willis' claim of NZ being on a path to surplus was contradicted by Treasury's forecasts"
+    },
+    "2026-04-11T05:55:34.731442Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Nicola Willis' claim that NZ is on a path to surplus contradicts Treasury's long term fiscal forecasts"
     }
   },
   "summary_updates": [
@@ -193,6 +198,10 @@
     {
       "date": "2026-04-10T06:28:03.351274Z",
       "text": "Nicola Willis' claim of NZ being on a path to surplus was contradicted by Treasury's forecasts, raising concerns about her integrity"
+    },
+    {
+      "date": "2026-04-11T05:55:34.731442Z",
+      "text": "Nicola Willis' claim that NZ is on a path to surplus has been contradicted by Treasury's long term fiscal forecasts"
     }
   ],
   "crawl_log": [
@@ -234,6 +243,11 @@
     {
       "date": "2026-04-10T06:28:03.351274Z",
       "notes": "Reviewed RNZ News and Tavily sources, found contradiction between Willis' claim and Treasury's forecasts",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-11T05:55:34.731442Z",
+      "notes": "Contradiction found between Nicola Willis' statement and Treasury's forecasts",
       "new_items": true
     }
   ],
@@ -300,7 +314,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-11T05:55:34.731499Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-10T06:28:03.351365Z"
+  "last_updated": "2026-04-11T05:55:34.731517Z"
 }

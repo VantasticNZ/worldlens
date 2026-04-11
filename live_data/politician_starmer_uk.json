@@ -185,6 +185,15 @@
       "source": "BBC",
       "_id": "843ce49f",
       "_crawled": "2026-04-10T06:29:08.291319Z"
+    },
+    {
+      "year": 2026,
+      "title": "Iran war and UK's response",
+      "desc": "Keir Starmer's government seeks closer ties with EU in light of Iran war",
+      "type": "neutral",
+      "source": "BBC",
+      "_id": "a14c2962",
+      "_crawled": "2026-04-11T05:56:38.575179Z"
     }
   ],
   "score_adjustments": {
@@ -290,6 +299,11 @@
       "date": "2026-04-10T06:29:08.291319Z",
       "notes": "New findings on Keir Starmer's leadership and broken promises.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-11T05:56:38.575179Z",
+      "notes": "No significant new lies or social posts found, but new event related to Iran war and UK's response",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -359,7 +373,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-11T05:56:38.575239Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-10T06:29:08.291410Z"
+  "last_updated": "2026-04-11T05:56:38.575258Z"
 }

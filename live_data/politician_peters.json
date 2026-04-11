@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 3,
+  "lie_count": 4,
   "lies": [
     {
       "date": "March 2026",
@@ -32,6 +32,16 @@
       "platform": "speech",
       "_id": "fd2ee445",
       "_crawled": "2026-04-09T06:15:30.336804Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "NZ First fought for amendments to be fully rejected",
+      "reality": "The amendments do not match the claim",
+      "source": "Newsroom, 25 March 2026",
+      "severity": "high",
+      "platform": "twitter",
+      "_id": "7109e67d",
+      "_crawled": "2026-04-11T05:54:56.903293Z"
     }
   ],
   "social_posts": [
@@ -260,6 +270,24 @@
       "source": "RNZ News",
       "_id": "11460f17",
       "_crawled": "2026-04-10T06:27:34.944253Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters slams departing Fonterra boss Miles Hurrell",
+      "desc": "Peters criticized Fonterra's decision and questioned the payout to the departing CEO",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "c0261f13",
+      "_crawled": "2026-04-11T05:54:56.903293Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters denounces Israel for expanding control over occupied West Bank",
+      "desc": "Peters denounced Israel's actions and expressed concern for the situation",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "3a12a5e1",
+      "_crawled": "2026-04-11T05:54:56.903293Z"
     }
   ],
   "score_adjustments": {
@@ -302,13 +330,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' misrepresentation of international health regulation changes reduces his integrity score"
+    },
+    "2026-04-11T05:54:56.903293Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The new lie found in the tweet misrepresenting international health regulation changes contributes to the decrease in integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-03-31T20:43:56.549522Z",
-      "text": "Winston Peters' recent activities and statements have raised concerns about his integrity and judgment."
-    },
     {
       "date": "2026-04-01T06:22:30.447541Z",
       "text": "Winston Peters' recent activities and statements have raised concerns about his integrity and consistency."
@@ -344,6 +373,10 @@
     {
       "date": "2026-04-10T06:27:34.944253Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and commitment to factual accuracy"
+    },
+    {
+      "date": "2026-04-11T05:54:56.903293Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and accountability"
     }
   ],
   "crawl_log": [
@@ -400,6 +433,11 @@
     {
       "date": "2026-04-10T06:27:34.944253Z",
       "notes": "Peters' energy sector overhaul proposal and Judge Ema Aitken incident are notable events, but do not significantly impact his score",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-11T05:54:56.903293Z",
+      "notes": "Reviewed 8 sources, including RNZ News, Stuff, and Newsroom",
       "new_items": true
     }
   ],
@@ -493,7 +531,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-11T05:54:56.903398Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-10T06:27:34.944378Z"
+  "last_updated": "2026-04-11T05:54:56.903420Z"
 }

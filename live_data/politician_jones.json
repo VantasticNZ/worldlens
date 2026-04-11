@@ -178,6 +178,11 @@
       "date": "2026-04-10T06:27:54.010348Z",
       "notes": "Shane Jones' statements and actions on the Fisheries Bill have been widely reported and criticized",
       "new_items": true
+    },
+    {
+      "date": "2026-04-11T05:55:15.428810Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -251,7 +256,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-11T05:55:15.428822Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-10T06:27:54.010428Z"
+  "last_updated": "2026-04-11T05:55:15.428839Z"
 }

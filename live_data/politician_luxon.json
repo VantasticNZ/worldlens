@@ -227,6 +227,15 @@
       "source": "RNZ News",
       "_id": "f5c52f72",
       "_crawled": "2026-04-10T06:27:17.475798Z"
+    },
+    {
+      "year": 2026,
+      "title": "Evacuations ordered as NZ braces for Cyclone Vaianu",
+      "desc": "Evacuations ordered as NZ prepares for Cyclone Vaianu",
+      "type": "negative",
+      "source": "Newcastle Herald",
+      "_id": "843ccabc",
+      "_crawled": "2026-04-11T05:54:48.307183Z"
     }
   ],
   "score_adjustments": {
@@ -297,6 +306,10 @@
     {
       "date": "2026-04-10T06:27:17.475798Z",
       "text": "Luxon's inconsistency on climate change policies and actions has raised concerns about his integrity"
+    },
+    {
+      "date": "2026-04-11T05:54:48.307183Z",
+      "text": "Christopher Luxon signed the Auckland City Deal and commented on economic effects of ceasefire"
     }
   ],
   "crawl_log": [
@@ -353,6 +366,11 @@
     {
       "date": "2026-04-10T06:27:17.475798Z",
       "notes": "Reviewed RNZ News, NZ Herald, and The Spinoff articles",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-11T05:54:48.307183Z",
+      "notes": "Reviewed RNZ News, The Spinoff, and Newcastle Herald articles",
       "new_items": true
     }
   ],
@@ -446,7 +464,16 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-11T05:54:48.307293Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-10T06:27:17.475931Z"
+  "last_updated": "2026-04-11T05:54:48.307314Z"
 }
