@@ -114,6 +114,20 @@
       },
       "_id": "f5125d90",
       "_crawled": "2026-04-06T06:25:58.545679Z"
+    },
+    {
+      "platform": "speech",
+      "date": "March 2026",
+      "text": "Winston Peters' state of the nation speech",
+      "verified_by": "thespinoff.co.nz",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Peters' call for justice for those allegedly injured by the Covid vaccine contradicts NZ First's previous stance on vaccine safety",
+        "source": "thespinoff.co.nz",
+        "severity": "med"
+      },
+      "_id": "1a38c1a4",
+      "_crawled": "2026-04-12T06:19:35.661823Z"
     }
   ],
   "votes": [],
@@ -288,6 +302,15 @@
       "source": "RNZ News",
       "_id": "3a12a5e1",
       "_crawled": "2026-04-11T05:54:56.903293Z"
+    },
+    {
+      "year": 2026,
+      "title": "Winston Peters meets with US Secretary of State Marco Rubio",
+      "desc": "Foreign Minister Winston Peters meets with US Secretary of State Marco Rubio to discuss international relations",
+      "type": "neutral",
+      "source": "www.rnz.co.nz",
+      "_id": "496dcc9d",
+      "_crawled": "2026-04-12T06:19:35.661823Z"
     }
   ],
   "score_adjustments": {
@@ -339,10 +362,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-01T06:22:30.447541Z",
-      "text": "Winston Peters' recent activities and statements have raised concerns about his integrity and consistency."
-    },
-    {
       "date": "2026-04-02T06:07:36.580030Z",
       "text": "Winston Peters has made recent statements and taken actions that have sparked controversy and criticism"
     },
@@ -377,6 +396,10 @@
     {
       "date": "2026-04-11T05:54:56.903293Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and accountability"
+    },
+    {
+      "date": "2026-04-12T06:19:35.661823Z",
+      "text": "Winston Peters continues to make statements and take actions that contradict his previous policies and statements, raising concerns about his integrity and consistency."
     }
   ],
   "crawl_log": [
@@ -438,6 +461,11 @@
     {
       "date": "2026-04-11T05:54:56.903293Z",
       "notes": "Reviewed 8 sources, including RNZ News, Stuff, and Newsroom",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-12T06:19:35.661823Z",
+      "notes": "Reviewed 9 sources, including RNZ News, thespinoff.co.nz, and stuff.co.nz",
       "new_items": true
     }
   ],
@@ -539,7 +567,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-12T06:19:35.661936Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-11T05:54:56.903420Z"
+  "last_updated": "2026-04-12T06:19:35.661957Z"
 }

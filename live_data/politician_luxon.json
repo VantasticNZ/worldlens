@@ -236,6 +236,15 @@
       "source": "Newcastle Herald",
       "_id": "843ccabc",
       "_crawled": "2026-04-11T05:54:48.307183Z"
+    },
+    {
+      "year": 2026,
+      "title": "Climate change policy controversy",
+      "desc": "Chloe Swarbrick accused Christopher Luxon of a 'demonstrable lie' over climate change policies",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "7e986c77",
+      "_crawled": "2026-04-12T06:19:26.382077Z"
     }
   ],
   "score_adjustments": {
@@ -268,13 +277,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "inconsistency between Luxon's rhetoric and actions on climate change"
+    },
+    "2026-04-12T06:19:26.382077Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistency on climate change policies raises concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-01T06:22:18.014044Z",
-      "text": "Luxon's integrity score takes a hit due to inconsistency on climate actions and correction of his tweet by Peters"
-    },
     {
       "date": "2026-04-02T06:07:07.750550Z",
       "text": "Christopher Luxon's Cabinet reshuffle and matai title controversy continue to attract attention, while the election date has been set for November 7"
@@ -310,6 +320,10 @@
     {
       "date": "2026-04-11T05:54:48.307183Z",
       "text": "Christopher Luxon signed the Auckland City Deal and commented on economic effects of ceasefire"
+    },
+    {
+      "date": "2026-04-12T06:19:26.382077Z",
+      "text": "Christopher Luxon's integrity score takes a hit due to inconsistency on climate change policies"
     }
   ],
   "crawl_log": [
@@ -371,6 +385,11 @@
     {
       "date": "2026-04-11T05:54:48.307183Z",
       "notes": "Reviewed RNZ News, The Spinoff, and Newcastle Herald articles",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-12T06:19:26.382077Z",
+      "notes": "Luxon's climate change policies under scrutiny",
       "new_items": true
     }
   ],
@@ -473,7 +492,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-12T06:19:26.382163Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-11T05:54:48.307314Z"
+  "last_updated": "2026-04-12T06:19:26.382182Z"
 }

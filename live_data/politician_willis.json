@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 3,
+  "lie_count": 5,
   "lies": [
     {
       "date": "February 2026",
@@ -32,6 +32,26 @@
       "platform": "press_release",
       "_id": "37715aa0",
       "_crawled": "2026-04-09T06:16:03.912804Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "New Zealanders are 'impatient' for expecting quick cost-of-living turnaround",
+      "reality": "New Zealanders are experiencing high cost of living and expecting government action",
+      "source": "NZ Herald, April 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "0e21ebf4",
+      "_crawled": "2026-04-12T06:20:13.280786Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Responsible economic management does not involve ramping up public spending, increasing Government debt, and hiking taxes on Kiwis",
+      "reality": "The statement is misleading as it implies that the current government's economic management is responsible, while ignoring the impact of previous policies",
+      "source": "Beehive.govt.nz, March 2026",
+      "severity": "low",
+      "platform": "press_release",
+      "_id": "e96ea11a",
+      "_crawled": "2026-04-12T06:20:13.280786Z"
     }
   ],
   "social_posts": [
@@ -48,6 +68,20 @@
       },
       "_id": "9fcbc7f5",
       "_crawled": "2026-04-07T06:15:53.784540Z"
+    },
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "Nicola Willis says New Zealanders are 'impatient' for expecting quick cost-of-living turnaround",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Contradicts previous statements on cost of living relief",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "ccd105a3",
+      "_crawled": "2026-04-12T06:20:13.280786Z"
     }
   ],
   "votes": [],
@@ -176,6 +210,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis' claim that NZ is on a path to surplus contradicts Treasury's long term fiscal forecasts"
+    },
+    "2026-04-12T06:20:13.280786Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The claim that New Zealanders are 'impatient' for expecting quick cost-of-living turnaround is misleading and contradicts previous statements"
     }
   },
   "summary_updates": [
@@ -202,6 +241,10 @@
     {
       "date": "2026-04-11T05:55:34.731442Z",
       "text": "Nicola Willis' claim that NZ is on a path to surplus has been contradicted by Treasury's long term fiscal forecasts"
+    },
+    {
+      "date": "2026-04-12T06:20:13.280786Z",
+      "text": "Nicola Willis' recent statements on cost of living and economic management have been misleading and contradictory"
     }
   ],
   "crawl_log": [
@@ -248,6 +291,11 @@
     {
       "date": "2026-04-11T05:55:34.731442Z",
       "notes": "Contradiction found between Nicola Willis' statement and Treasury's forecasts",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-12T06:20:13.280786Z",
+      "notes": "Reviewed sources include NZ Herald, Beehive.govt.nz, and RNZ.co.nz",
       "new_items": true
     }
   ],
@@ -322,7 +370,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-12T06:20:13.280863Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-11T05:55:34.731517Z"
+  "last_updated": "2026-04-12T06:20:13.280880Z"
 }

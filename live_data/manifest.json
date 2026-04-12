@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-11T05:56:39.576015Z",
+  "generated": "2026-04-12T06:21:10.943608Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-04-11T05:56:38.575258Z",
+      "last_updated": "2026-04-12T06:21:09.942903Z",
       "lie_count": 6,
       "event_count": 11,
       "post_count": 2,
@@ -16,7 +16,7 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-04-11T05:56:26.915761Z",
+      "last_updated": "2026-04-12T06:21:02.626307Z",
       "lie_count": 0,
       "event_count": 8,
       "post_count": 2,
@@ -30,10 +30,10 @@
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-04-11T05:54:56.903420Z",
+      "last_updated": "2026-04-12T06:19:35.661957Z",
       "lie_count": 4,
-      "event_count": 19,
-      "post_count": 5,
+      "event_count": 20,
+      "post_count": 6,
       "vote_count": 0,
       "sources": [
         [
@@ -44,7 +44,7 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-04-11T05:55:05.626900Z",
+      "last_updated": "2026-04-12T06:19:47.040248Z",
       "lie_count": 0,
       "event_count": 13,
       "post_count": 0,
@@ -57,7 +57,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-04-11T05:56:00.617052Z",
+      "last_updated": "2026-04-12T06:20:44.718692Z",
       "lie_count": 0,
       "event_count": 5,
       "post_count": 0,
@@ -70,21 +70,20 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-04-11T05:55:34.731517Z",
-      "lie_count": 3,
+      "last_updated": "2026-04-12T06:20:13.280880Z",
+      "lie_count": 5,
       "event_count": 12,
-      "post_count": 1,
+      "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Nicola Willis finance minister contradic",
           "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-04-11T05:56:15.025385Z",
+      "last_updated": "2026-04-12T06:20:54.995300Z",
       "lie_count": 18,
       "event_count": 16,
       "post_count": 1,
@@ -98,7 +97,7 @@
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-04-11T05:55:44.754829Z",
+      "last_updated": "2026-04-12T06:20:23.057721Z",
       "lie_count": 2,
       "event_count": 11,
       "post_count": 0,
@@ -111,7 +110,7 @@
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-04-11T05:55:53.538589Z",
+      "last_updated": "2026-04-12T06:20:36.628114Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
@@ -124,22 +123,21 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-04-11T05:54:48.307314Z",
+      "last_updated": "2026-04-12T06:19:26.382182Z",
       "lie_count": 3,
-      "event_count": 19,
+      "event_count": 20,
       "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
-          "GDELT global news database",
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-04-11T05:55:15.428839Z",
+      "last_updated": "2026-04-12T06:20:01.287209Z",
       "lie_count": 4,
       "event_count": 4,
       "post_count": 0,
