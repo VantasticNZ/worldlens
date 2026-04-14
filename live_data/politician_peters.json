@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 4,
+  "lie_count": 5,
   "lies": [
     {
       "date": "March 2026",
@@ -42,6 +42,16 @@
       "platform": "twitter",
       "_id": "7109e67d",
       "_crawled": "2026-04-11T05:54:56.903293Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Peters misrepresents global pandemic rule changes",
+      "reality": "International health regulation changes were not as Peters described",
+      "source": "Newsroom, 25 March 2026",
+      "severity": "med",
+      "platform": "twitter",
+      "_id": "e9cbf04e",
+      "_crawled": "2026-04-14T06:26:38.330467Z"
     }
   ],
   "social_posts": [
@@ -128,6 +138,20 @@
       },
       "_id": "1a38c1a4",
       "_crawled": "2026-04-12T06:19:35.661823Z"
+    },
+    {
+      "platform": "X",
+      "date": "2026",
+      "text": "Winston Peters' X account corrected the PM's pronouns in a since-deleted tweet",
+      "verified_by": "Stuff",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "Peters' account corrected pronouns, then deleted the tweet",
+        "source": "Stuff",
+        "severity": "low"
+      },
+      "_id": "ce63e4c5",
+      "_crawled": "2026-04-14T06:26:38.330467Z"
     }
   ],
   "votes": [],
@@ -358,13 +382,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The new lie found in the tweet misrepresenting international health regulation changes contributes to the decrease in integrity score"
+    },
+    "2026-04-14T06:26:38.330467Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' misrepresentation of global pandemic rule changes and his account's correction of the PM's pronouns raise integrity concerns"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-02T06:07:36.580030Z",
-      "text": "Winston Peters has made recent statements and taken actions that have sparked controversy and criticism"
-    },
     {
       "date": "2026-04-04T05:51:11.427368Z",
       "text": "Winston Peters has made several controversial statements, including misrepresenting international health regulation changes and accusing the BSA of being 'bordering on fascist'"
@@ -400,6 +425,10 @@
     {
       "date": "2026-04-12T06:19:35.661823Z",
       "text": "Winston Peters continues to make statements and take actions that contradict his previous policies and statements, raising concerns about his integrity and consistency."
+    },
+    {
+      "date": "2026-04-14T06:26:38.330467Z",
+      "text": "Winston Peters' recent actions and statements have raised concerns about his integrity, including misrepresenting global pandemic rule changes and his account's correction of the PM's pronouns"
     }
   ],
   "crawl_log": [
@@ -466,6 +495,11 @@
     {
       "date": "2026-04-12T06:19:35.661823Z",
       "notes": "Reviewed 9 sources, including RNZ News, thespinoff.co.nz, and stuff.co.nz",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-14T06:26:38.330467Z",
+      "notes": "Peters' social media activity and public statements continue to be scrutinized for discrepancies and potential lies",
       "new_items": true
     }
   ],
@@ -575,7 +609,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-14T06:26:38.330566Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-13T07:09:32.832595Z"
+  "last_updated": "2026-04-14T06:26:38.330587Z"
 }

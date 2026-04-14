@@ -200,6 +200,10 @@
     {
       "date": "2026-04-05T06:10:34.719819Z",
       "text": "Chris Hipkins faces scrutiny over personal allegations and policy commitments."
+    },
+    {
+      "date": "2026-04-14T06:27:30.335927Z",
+      "text": "Chris Hipkins faced renewed scrutiny after denying his ex-wife's allegations."
     }
   ],
   "crawl_log": [
@@ -261,6 +265,11 @@
     {
       "date": "2026-04-11T05:55:53.538445Z",
       "notes": "New events and updates on Chris Hipkins' activities and controversies",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-14T06:27:30.335927Z",
+      "notes": "No significant new findings on policy or votes, but personal life allegations may impact public perception.",
       "new_items": true
     }
   ],
@@ -349,7 +358,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-14T06:27:30.336033Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-13T07:10:27.484601Z"
+  "last_updated": "2026-04-14T06:27:30.336052Z"
 }

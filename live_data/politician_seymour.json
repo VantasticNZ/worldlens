@@ -122,6 +122,15 @@
       "source": "ACT New Zealand",
       "_id": "b8ecbb23",
       "_crawled": "2026-04-11T05:55:05.626790Z"
+    },
+    {
+      "year": 2026,
+      "title": "Government response to fuel crisis",
+      "desc": "Deputy PM David Seymour outlined 5 lessons learned from Covid in addressing NZ's fuel response",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "2b01a142",
+      "_crawled": "2026-04-14T06:26:48.565200Z"
     }
   ],
   "score_adjustments": {},
@@ -191,6 +200,11 @@
       "date": "2026-04-12T06:19:47.040207Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-14T06:26:48.565200Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but a new event related to the government's response to the fuel crisis",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -285,7 +299,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-14T06:26:48.565266Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-13T07:09:45.871450Z"
+  "last_updated": "2026-04-14T06:26:48.565291Z"
 }

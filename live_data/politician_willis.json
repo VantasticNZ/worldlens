@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 5,
+  "lie_count": 6,
   "lies": [
     {
       "date": "February 2026",
@@ -52,6 +52,16 @@
       "platform": "press_release",
       "_id": "e96ea11a",
       "_crawled": "2026-04-12T06:20:13.280786Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "created 240,000 jobs",
+      "reality": "jobs created due to population growth, not government policies",
+      "source": "Labour Party release",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "8ba84814",
+      "_crawled": "2026-04-14T06:27:11.908365Z"
     }
   ],
   "social_posts": [
@@ -82,6 +92,20 @@
       },
       "_id": "ccd105a3",
       "_crawled": "2026-04-12T06:20:13.280786Z"
+    },
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "Nicola Willis says she will debate Ruth Richardson on economic policy",
+      "verified_by": "Stuff.co.nz",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "previous statements on economic management",
+        "source": "Stuff.co.nz",
+        "severity": "med"
+      },
+      "_id": "bbcf7258",
+      "_crawled": "2026-04-14T06:27:11.908365Z"
     }
   ],
   "votes": [],
@@ -193,6 +217,24 @@
       "source": "RNZ News",
       "_id": "809af8fd",
       "_crawled": "2026-04-10T06:28:03.351274Z"
+    },
+    {
+      "year": 2026,
+      "title": "Nicola Willis debates Ruth Richardson on economic policy",
+      "desc": "Nicola Willis confirms debate with former finance minister Ruth Richardson",
+      "type": "neutral",
+      "source": "Stuff.co.nz",
+      "_id": "5955effe",
+      "_crawled": "2026-04-14T06:27:11.908365Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fiscal responsibility and disclosure legislation passes",
+      "desc": "Legislation requiring economic and fiscal updates to include statement of fiscal risks passes",
+      "type": "positive",
+      "source": "National Party release",
+      "_id": "f57364c9",
+      "_crawled": "2026-04-14T06:27:11.908365Z"
     }
   ],
   "score_adjustments": {
@@ -215,6 +257,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The claim that New Zealanders are 'impatient' for expecting quick cost-of-living turnaround is misleading and contradicts previous statements"
+    },
+    "2026-04-14T06:27:11.908365Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "claim of creating 240,000 jobs found to be misleading"
     }
   },
   "summary_updates": [
@@ -245,6 +292,10 @@
     {
       "date": "2026-04-12T06:20:13.280786Z",
       "text": "Nicola Willis' recent statements on cost of living and economic management have been misleading and contradictory"
+    },
+    {
+      "date": "2026-04-14T06:27:11.908365Z",
+      "text": "Nicola Willis' claim of creating 240,000 jobs found to be misleading, and she confirms debate with Ruth Richardson on economic policy"
     }
   ],
   "crawl_log": [
@@ -296,6 +347,11 @@
     {
       "date": "2026-04-12T06:20:13.280786Z",
       "notes": "Reviewed sources include NZ Herald, Beehive.govt.nz, and RNZ.co.nz",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-14T06:27:11.908365Z",
+      "notes": "Labour Party release and Stuff.co.nz article provide new information on Nicola Willis' statements and actions",
       "new_items": true
     }
   ],
@@ -377,7 +433,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-14T06:27:11.908454Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-13T07:10:02.555717Z"
+  "last_updated": "2026-04-14T06:27:11.908471Z"
 }

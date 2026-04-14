@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 18,
+  "lie_count": 20,
   "lies": [
     {
       "date": "January 2026",
@@ -182,6 +182,26 @@
       "platform": "press conference",
       "_id": "de58c08e",
       "_crawled": "2026-04-09T06:16:51.335763Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "U.S. ammunition was taken down by giving so much to Ukraine",
+      "reality": "The amount of aid to Ukraine was exaggerated and former President Joe Biden did rebuild the defense stockpile",
+      "source": "FactCheck.org, March 31, 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "2f0be4d9",
+      "_crawled": "2026-04-14T06:27:53.907951Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "The 2015 Iran nuclear deal was a road to a nuclear weapon",
+      "reality": "Experts say the deal aimed to restrict Iran's uranium enrichment program",
+      "source": "FactCheck.org, March 12, 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "71c35bab",
+      "_crawled": "2026-04-14T06:27:53.907951Z"
     }
   ],
   "social_posts": [
@@ -345,6 +365,24 @@
       "source": "BBC World",
       "_id": "b99a9ad4",
       "_crawled": "2026-04-09T06:16:51.335763Z"
+    },
+    {
+      "year": 2026,
+      "title": "Italian PM condemns ally Trump over Pope criticism",
+      "desc": "Italian PM condemned Trump's criticism of the Pope",
+      "type": "negative",
+      "source": "BBC World",
+      "_id": "e316c5d8",
+      "_crawled": "2026-04-14T06:27:53.907951Z"
+    },
+    {
+      "year": 2026,
+      "title": "Trump's threat raises risks and leaves predicaments unchanged",
+      "desc": "Trump's threat has raised risks and left predicaments unchanged",
+      "type": "negative",
+      "source": "BBC World",
+      "_id": "a31ca395",
+      "_crawled": "2026-04-14T06:27:53.907951Z"
     }
   ],
   "score_adjustments": {
@@ -382,6 +420,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's contradictory statements and false claims have raised concerns about his integrity."
+    },
+    "2026-04-14T06:27:53.907951Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's contradictory statements and lies have decreased his integrity score"
     }
   },
   "summary_updates": [
@@ -412,6 +455,10 @@
     {
       "date": "2026-04-09T06:16:51.335763Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and foreign policy decisions."
+    },
+    {
+      "date": "2026-04-14T06:27:53.907951Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity and consistency, with contradictory statements on Iran and criticism from the Italian PM"
     }
   ],
   "crawl_log": [
@@ -453,6 +500,11 @@
     {
       "date": "2026-04-09T06:16:51.335763Z",
       "notes": "Trump's social media posts and public statements have been fact-checked and found to contain several false claims.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-14T06:27:53.907951Z",
+      "notes": "Trump's social media posts and speeches continue to be a source of controversy and contradiction",
       "new_items": true
     }
   ],
@@ -523,7 +575,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-14T06:27:53.908156Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-13T07:10:43.663842Z"
+  "last_updated": "2026-04-14T06:27:53.908175Z"
 }

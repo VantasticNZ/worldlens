@@ -82,6 +82,15 @@
       "source": "NZ Herald",
       "_id": "9ad1764e",
       "_crawled": "2026-04-09T06:15:53.404247Z"
+    },
+    {
+      "year": 2026,
+      "title": "Shane Jones scraps plan to relax reef fish bycatch rules",
+      "desc": "Jones decided to keep current restrictions in place after feedback from the recreational fishing community",
+      "type": "positive",
+      "source": "NZ Herald",
+      "_id": "c81f8962",
+      "_crawled": "2026-04-14T06:26:59.769245Z"
     }
   ],
   "score_adjustments": {
@@ -104,6 +113,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' statements and actions have raised concerns about his integrity and commitment to transparency"
+    },
+    "2026-04-14T06:26:59.769245Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Jones' backtracking on his proposals suggests a lack of conviction and potential for influence from external factors"
     }
   },
   "summary_updates": [
@@ -126,6 +140,10 @@
     {
       "date": "2026-04-10T06:27:54.010348Z",
       "text": "Shane Jones' handling of the Fisheries Bill has sparked controversy and criticism, with some accusing him of prioritizing commercial interests over environmental and recreational concerns"
+    },
+    {
+      "date": "2026-04-14T06:26:59.769245Z",
+      "text": "Shane Jones has faced backlash over his fisheries bill proposals, leading to backtracks and changes in his stance"
     }
   ],
   "crawl_log": [
@@ -183,6 +201,11 @@
       "date": "2026-04-11T05:55:15.428810Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-14T06:26:59.769245Z",
+      "notes": "Multiple sources indicate Jones' willingness to change his position in response to criticism and feedback",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -263,7 +286,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-14T06:26:59.769313Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-13T07:09:54.628612Z"
+  "last_updated": "2026-04-14T06:26:59.769332Z"
 }

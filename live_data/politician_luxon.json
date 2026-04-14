@@ -391,6 +391,11 @@
       "date": "2026-04-12T06:19:26.382077Z",
       "notes": "Luxon's climate change policies under scrutiny",
       "new_items": true
+    },
+    {
+      "date": "2026-04-14T06:26:23.902802Z",
+      "notes": "No significant new findings except for the Auckland City Deal",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -500,7 +505,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-14T06:26:23.902868Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-13T07:09:24.133576Z"
+  "last_updated": "2026-04-14T06:26:23.902887Z"
 }

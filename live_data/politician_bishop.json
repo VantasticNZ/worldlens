@@ -162,13 +162,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Bishop's claim that housing delivery is on track contradicts advice from officials"
+    },
+    "2026-04-14T06:27:21.365831Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Minister's claim of housing delivery being on track contradicts official warnings of delays"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-02T06:09:37.013544Z",
-      "text": "Chris Bishop faced criticism for his handling of Auckland's housing plans and was dumped as campaign chair in a Cabinet reshuffle"
-    },
     {
       "date": "2026-04-03T06:09:54.980338Z",
       "text": "Chris Bishop's integrity score has been adjusted downward due to a notable contradiction between his statement and actual events."
@@ -204,6 +205,10 @@
     {
       "date": "2026-04-11T05:55:44.754734Z",
       "text": "Chris Bishop's credibility on housing issues has taken a hit due to contradictory statements and backtracking on plans"
+    },
+    {
+      "date": "2026-04-14T06:27:21.365831Z",
+      "text": "Chris Bishop's housing plan has been reversed, and his claim of housing delivery being on track has been contradicted by official warnings of delays"
     }
   ],
   "crawl_log": [
@@ -260,6 +265,11 @@
     {
       "date": "2026-04-11T05:55:44.754734Z",
       "notes": "Multiple sources indicate Chris Bishop has made contradictory statements on housing delivery and the Government has backtracked on its plans",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-14T06:27:21.365831Z",
+      "notes": "Multiple sources confirm Minister's contradictions and backdowns on housing plans",
       "new_items": true
     }
   ],
@@ -347,7 +357,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-14T06:27:21.365885Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-13T07:10:19.525698Z"
+  "last_updated": "2026-04-14T06:27:21.365906Z"
 }
