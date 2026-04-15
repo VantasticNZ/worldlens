@@ -3,7 +3,22 @@
   "type": "politician",
   "lie_count": 0,
   "lies": [],
-  "social_posts": [],
+  "social_posts": [
+    {
+      "platform": "press",
+      "date": "March 2026",
+      "text": "Chris Hipkins denied his ex-wife's allegations and stated that Labour's campaign values of 'health, housing, jobs' are important to the party and New Zealand.",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Chris Hipkins' ex-wife's allegations contradict his public statements on Labour's campaign values.",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "e028631a",
+      "_crawled": "2026-04-15T06:29:06.890066Z"
+    }
+  ],
   "votes": [],
   "recent_events": [
     {
@@ -204,6 +219,10 @@
     {
       "date": "2026-04-14T06:27:30.335927Z",
       "text": "Chris Hipkins faced renewed scrutiny after denying his ex-wife's allegations."
+    },
+    {
+      "date": "2026-04-15T06:29:06.890066Z",
+      "text": "Chris Hipkins faces renewed scrutiny after denying ex-wife's allegations, and quells claims of internal disagreement over Te Pāti Māori."
     }
   ],
   "crawl_log": [
@@ -270,6 +289,11 @@
     {
       "date": "2026-04-14T06:27:30.335927Z",
       "notes": "No significant new findings on policy or votes, but personal life allegations may impact public perception.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-15T06:29:06.890066Z",
+      "notes": "Reviewed Tavily sources and NZ news outlets for updates on Chris Hipkins",
       "new_items": true
     }
   ],
@@ -365,7 +389,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-15T06:29:06.890127Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-14T06:27:30.336052Z"
+  "last_updated": "2026-04-15T06:29:06.890145Z"
 }

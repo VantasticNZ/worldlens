@@ -3,7 +3,17 @@
   "type": "politician",
   "lie_count": 0,
   "lies": [],
-  "social_posts": [],
+  "social_posts": [
+    {
+      "platform": "press",
+      "date": "2026",
+      "text": "Chloe Swarbrick stated that she will be giving everything she has to the 2026 election and is focused on transforming the economy to support people and the planet.",
+      "verified_by": "Stuff",
+      "discrepancy": null,
+      "_id": "4e93d1b2",
+      "_crawled": "2026-04-15T06:29:16.822585Z"
+    }
+  ],
   "votes": [],
   "recent_events": [
     {
@@ -53,7 +63,12 @@
     }
   ],
   "score_adjustments": {},
-  "summary_updates": [],
+  "summary_updates": [
+    {
+      "date": "2026-04-15T06:29:16.822585Z",
+      "text": "Chloe Swarbrick continues to advocate for the Green Party's vision and is focused on the 2026 election."
+    }
+  ],
   "crawl_log": [
     {
       "date": "2026-04-02T06:10:30.566322Z",
@@ -104,6 +119,11 @@
       "date": "2026-04-14T06:27:43.689503Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-15T06:29:16.822585Z",
+      "notes": "No significant discrepancies or lies found.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -176,7 +196,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-04-15T06:29:16.822628Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-14T06:27:43.689539Z"
+  "last_updated": "2026-04-15T06:29:16.822647Z"
 }

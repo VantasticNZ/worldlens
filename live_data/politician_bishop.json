@@ -125,6 +125,15 @@
       "source": "RNZ News",
       "_id": "b9e2e6ee",
       "_crawled": "2026-04-11T05:55:44.754734Z"
+    },
+    {
+      "year": 2026,
+      "title": "Auckland housing plan scaled down",
+      "desc": "The Government has reduced the minimum housing capacity required for Auckland Council's Plan Change 120 from 2 million homes to 1.6 million homes",
+      "type": "negative",
+      "source": "Beehive.govt.nz",
+      "_id": "71a123e9",
+      "_crawled": "2026-04-15T06:28:57.292538Z"
     }
   ],
   "score_adjustments": {
@@ -167,13 +176,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Minister's claim of housing delivery being on track contradicts official warnings of delays"
+    },
+    "2026-04-15T06:28:57.292538Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The Minister's claim that housing delivery is on track contradicts official warnings of delays, indicating a lack of transparency and integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-03T06:09:54.980338Z",
-      "text": "Chris Bishop's integrity score has been adjusted downward due to a notable contradiction between his statement and actual events."
-    },
     {
       "date": "2026-04-04T05:51:46.614588Z",
       "text": "Chris Bishop's handling of the housing crisis and his demotion in the cabinet reshuffle have raised questions about his leadership and integrity."
@@ -209,6 +219,10 @@
     {
       "date": "2026-04-14T06:27:21.365831Z",
       "text": "Chris Bishop's housing plan has been reversed, and his claim of housing delivery being on track has been contradicted by official warnings of delays"
+    },
+    {
+      "date": "2026-04-15T06:28:57.292538Z",
+      "text": "Housing Minister Chris Bishop's credibility has taken a hit due to contradictions between his claims and official warnings of delays in housing delivery"
     }
   ],
   "crawl_log": [
@@ -270,6 +284,11 @@
     {
       "date": "2026-04-14T06:27:21.365831Z",
       "notes": "Multiple sources confirm Minister's contradictions and backdowns on housing plans",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-15T06:28:57.292538Z",
+      "notes": "Multiple sources confirm the Government's backtracking on housing plans and the Minister's contradictory statements",
       "new_items": true
     }
   ],
@@ -364,7 +383,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-15T06:28:57.292615Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-14T06:27:21.365906Z"
+  "last_updated": "2026-04-15T06:28:57.292635Z"
 }

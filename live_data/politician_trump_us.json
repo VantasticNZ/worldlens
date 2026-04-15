@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 20,
+  "lie_count": 21,
   "lies": [
     {
       "date": "January 2026",
@@ -202,6 +202,16 @@
       "platform": "speech",
       "_id": "71c35bab",
       "_crawled": "2026-04-14T06:27:53.907951Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Iran has killed 42,000 innocent protesters",
+      "reality": "No verifiable evidence to support this claim",
+      "source": "Washington Examiner, April 15, 2026",
+      "severity": "high",
+      "platform": "press",
+      "_id": "aa1bbdc7",
+      "_crawled": "2026-04-15T06:29:29.451961Z"
     }
   ],
   "social_posts": [
@@ -383,6 +393,24 @@
       "source": "BBC World",
       "_id": "a31ca395",
       "_crawled": "2026-04-14T06:27:53.907951Z"
+    },
+    {
+      "year": 2026,
+      "title": "US-Iran talks",
+      "desc": "Efforts underway for second round of talks",
+      "type": "neutral",
+      "source": "GDELT, April 15, 2026",
+      "_id": "0f6fce0b",
+      "_crawled": "2026-04-15T06:29:29.451961Z"
+    },
+    {
+      "year": 2026,
+      "title": "Italian PM condemns Trump",
+      "desc": "Italian PM condemns ally Trump over Pope criticism",
+      "type": "negative",
+      "source": "BBC World, April 15, 2026",
+      "_id": "97b7438e",
+      "_crawled": "2026-04-15T06:29:29.451961Z"
     }
   ],
   "score_adjustments": {
@@ -425,6 +453,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's contradictory statements and lies have decreased his integrity score"
+    },
+    "2026-04-15T06:29:29.451961Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's claim about Iran killing 42,000 protesters is unverifiable and potentially misleading"
     }
   },
   "summary_updates": [
@@ -459,6 +492,10 @@
     {
       "date": "2026-04-14T06:27:53.907951Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and consistency, with contradictory statements on Iran and criticism from the Italian PM"
+    },
+    {
+      "date": "2026-04-15T06:29:29.451961Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity and potential for misinformation"
     }
   ],
   "crawl_log": [
@@ -505,6 +542,11 @@
     {
       "date": "2026-04-14T06:27:53.907951Z",
       "notes": "Trump's social media posts and speeches continue to be a source of controversy and contradiction",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-15T06:29:29.451961Z",
+      "notes": "Reviewed RSS and GDELT sources, as well as Tavily fact-checking reports",
       "new_items": true
     }
   ],
@@ -583,7 +625,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-15T06:29:29.452097Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-14T06:27:53.908175Z"
+  "last_updated": "2026-04-15T06:29:29.452115Z"
 }

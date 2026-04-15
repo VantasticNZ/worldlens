@@ -282,13 +282,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistency on climate change policies raises concerns about his integrity"
+    },
+    "2026-04-15T06:27:58.457262Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistency on climate change policies and contradiction on trade deal post"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-02T06:07:07.750550Z",
-      "text": "Christopher Luxon's Cabinet reshuffle and matai title controversy continue to attract attention, while the election date has been set for November 7"
-    },
     {
       "date": "2026-04-03T06:07:39.693179Z",
       "text": "Luxon's Cabinet reshuffle sparks leadership questions"
@@ -324,6 +325,10 @@
     {
       "date": "2026-04-12T06:19:26.382077Z",
       "text": "Christopher Luxon's integrity score takes a hit due to inconsistency on climate change policies"
+    },
+    {
+      "date": "2026-04-15T06:27:58.457262Z",
+      "text": "Luxon faced criticism for his handling of climate change and trade deals, and his integrity score has been adjusted downward"
     }
   ],
   "crawl_log": [
@@ -395,6 +400,11 @@
     {
       "date": "2026-04-14T06:26:23.902802Z",
       "notes": "No significant new findings except for the Auckland City Deal",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-15T06:27:58.457262Z",
+      "notes": "Multiple sources reported on Luxon's inconsistencies and contradictions",
       "new_items": true
     }
   ],
@@ -513,7 +523,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-15T06:27:58.457340Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-14T06:26:23.902887Z"
+  "last_updated": "2026-04-15T06:27:58.457359Z"
 }

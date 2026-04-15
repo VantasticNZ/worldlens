@@ -106,6 +106,24 @@
       "source": "AP News",
       "_id": "ecc537e5",
       "_crawled": "2026-04-09T06:17:02.196468Z"
+    },
+    {
+      "year": 2026,
+      "title": "Fuel Deal with Brunei",
+      "desc": "PM Anthony Albanese secured a fuel deal with Brunei as war concerns loom.",
+      "type": "positive",
+      "source": "areanews.com.au, therural.com.au, zerohedge.com, theleader.com.au, katherinetimes.com.au",
+      "_id": "86c82fd9",
+      "_crawled": "2026-04-15T06:29:42.791758Z"
+    },
+    {
+      "year": 2026,
+      "title": "Western Australia Establishes Strategic Fuel Reserve",
+      "desc": "Western Australia established a strategic fuel reserve amid ongoing fuel crisis.",
+      "type": "positive",
+      "source": "zerohedge.com",
+      "_id": "a86ab9c3",
+      "_crawled": "2026-04-15T06:29:42.791758Z"
     }
   ],
   "score_adjustments": {},
@@ -174,6 +192,11 @@
       "date": "2026-04-14T06:28:03.150040Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-15T06:29:42.791758Z",
+      "notes": "New fuel deal and strategic fuel reserve established",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -267,7 +290,16 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-15T06:29:42.791825Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-14T06:28:03.150083Z"
+  "last_updated": "2026-04-15T06:29:42.791851Z"
 }

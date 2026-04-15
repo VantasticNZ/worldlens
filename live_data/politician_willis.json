@@ -235,6 +235,15 @@
       "source": "National Party release",
       "_id": "f57364c9",
       "_crawled": "2026-04-14T06:27:11.908365Z"
+    },
+    {
+      "year": 2026,
+      "title": "Budget date announced",
+      "desc": "The Government will set out its financial intentions for the coming year on 28 May when it delivers the 2026 Budget",
+      "type": "neutral",
+      "source": "www.beehive.govt.nz",
+      "_id": "451c9d7e",
+      "_crawled": "2026-04-15T06:28:47.527330Z"
     }
   ],
   "score_adjustments": {
@@ -296,6 +305,10 @@
     {
       "date": "2026-04-14T06:27:11.908365Z",
       "text": "Nicola Willis' claim of creating 240,000 jobs found to be misleading, and she confirms debate with Ruth Richardson on economic policy"
+    },
+    {
+      "date": "2026-04-15T06:28:47.527330Z",
+      "text": "Nicola Willis continues to make statements on economic management, and the government has passed legislation on fiscal responsibility and announced the budget date"
     }
   ],
   "crawl_log": [
@@ -352,6 +365,11 @@
     {
       "date": "2026-04-14T06:27:11.908365Z",
       "notes": "Labour Party release and Stuff.co.nz article provide new information on Nicola Willis' statements and actions",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-15T06:28:47.527330Z",
+      "notes": "Reviewed sources from newsroom.co.nz, beehive.govt.nz, and national.org.nz",
       "new_items": true
     }
   ],
@@ -440,7 +458,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-15T06:28:47.527421Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-14T06:27:11.908471Z"
+  "last_updated": "2026-04-15T06:28:47.527438Z"
 }

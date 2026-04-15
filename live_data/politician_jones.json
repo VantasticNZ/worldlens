@@ -91,6 +91,15 @@
       "source": "NZ Herald",
       "_id": "c81f8962",
       "_crawled": "2026-04-14T06:26:59.769245Z"
+    },
+    {
+      "year": 2026,
+      "title": "NZ First 2026 election campaign launch",
+      "desc": "Shane Jones and Winston Peters launched NZ First's 2026 election campaign in Blackball, West Coast-Tasman",
+      "type": "neutral",
+      "source": "The Spinoff",
+      "_id": "9fedccd2",
+      "_crawled": "2026-04-15T06:28:38.188736Z"
     }
   ],
   "score_adjustments": {
@@ -206,6 +215,11 @@
       "date": "2026-04-14T06:26:59.769245Z",
       "notes": "Multiple sources indicate Jones' willingness to change his position in response to criticism and feedback",
       "new_items": true
+    },
+    {
+      "date": "2026-04-15T06:28:38.188736Z",
+      "notes": "No significant new lies or social posts found, but new events related to the fisheries bill controversy and NZ First's election campaign launch",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -293,7 +307,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-15T06:28:38.188794Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-14T06:26:59.769332Z"
+  "last_updated": "2026-04-15T06:28:38.188813Z"
 }

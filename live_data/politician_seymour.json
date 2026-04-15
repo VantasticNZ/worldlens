@@ -131,6 +131,24 @@
       "source": "RNZ News",
       "_id": "2b01a142",
       "_crawled": "2026-04-14T06:26:48.565200Z"
+    },
+    {
+      "year": 2026,
+      "title": "David Seymour's speech at Waitangi",
+      "desc": "David Seymour's microphone was removed twice by Ngāti Wai leader Aperahama Edwards during his speech at Waitangi.",
+      "type": "negative",
+      "source": "The Spinoff",
+      "_id": "b3198651",
+      "_crawled": "2026-04-15T06:28:29.293695Z"
+    },
+    {
+      "year": 2026,
+      "title": "David Seymour on Strait of Hormuz action",
+      "desc": "David Seymour stated that New Zealand is not yet committed to Strait of Hormuz action despite NATO statement.",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "a3c0a4fd",
+      "_crawled": "2026-04-15T06:28:29.293695Z"
     }
   ],
   "score_adjustments": {},
@@ -204,6 +222,11 @@
     {
       "date": "2026-04-14T06:26:48.565200Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but a new event related to the government's response to the fuel crisis",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-15T06:28:29.293695Z",
+      "notes": "New events added related to David Seymour's recent activities",
       "new_items": true
     }
   ],
@@ -306,7 +329,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-15T06:28:29.293821Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-14T06:26:48.565291Z"
+  "last_updated": "2026-04-15T06:28:29.293845Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 5,
+  "lie_count": 6,
   "lies": [
     {
       "date": "March 2026",
@@ -52,6 +52,16 @@
       "platform": "twitter",
       "_id": "e9cbf04e",
       "_crawled": "2026-04-14T06:26:38.330467Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Winston Peters' comments calling Rawiri Waititi's mataora 'scribbles'",
+      "reality": "The comments were deemed racist and sparked controversy",
+      "source": "RNZ, March 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "23ac09a1",
+      "_crawled": "2026-04-15T06:28:17.873787Z"
     }
   ],
   "social_posts": [
@@ -387,13 +397,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' misrepresentation of global pandemic rule changes and his account's correction of the PM's pronouns raise integrity concerns"
+    },
+    "2026-04-15T06:28:17.873787Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' comments on Rawiri Waititi's mataora and his criticism of Fonterra's leadership have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-04T05:51:11.427368Z",
-      "text": "Winston Peters has made several controversial statements, including misrepresenting international health regulation changes and accusing the BSA of being 'bordering on fascist'"
-    },
     {
       "date": "2026-04-05T06:09:46.601298Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and honesty, with some of his claims being misleading or contradictory"
@@ -429,6 +440,10 @@
     {
       "date": "2026-04-14T06:26:38.330467Z",
       "text": "Winston Peters' recent actions and statements have raised concerns about his integrity, including misrepresenting global pandemic rule changes and his account's correction of the PM's pronouns"
+    },
+    {
+      "date": "2026-04-15T06:28:17.873787Z",
+      "text": "Winston Peters has been involved in several controversies, including making racist comments and criticizing Fonterra's leadership"
     }
   ],
   "crawl_log": [
@@ -500,6 +515,11 @@
     {
       "date": "2026-04-14T06:26:38.330467Z",
       "notes": "Peters' social media activity and public statements continue to be scrutinized for discrepancies and potential lies",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-15T06:28:17.873787Z",
+      "notes": "Peters' recent activities and statements have sparked controversy and raised concerns about his integrity",
       "new_items": true
     }
   ],
@@ -617,7 +637,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-15T06:28:17.873914Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-14T06:26:38.330587Z"
+  "last_updated": "2026-04-15T06:28:17.873935Z"
 }
