@@ -124,6 +124,24 @@
       "source": "zerohedge.com",
       "_id": "a86ab9c3",
       "_crawled": "2026-04-15T06:29:42.791758Z"
+    },
+    {
+      "year": 2026,
+      "title": "PM commits to open fuel trade with Malaysia leader",
+      "desc": "Anthony Albanese has committed to open fuel trade with Malaysia's leader, aiming to address the fuel crisis.",
+      "type": "positive",
+      "source": "easternriverinachronicle.com.au, begadistrictnews.com.au, batemansbaypost.com.au",
+      "_id": "6b594010",
+      "_crawled": "2026-04-16T06:32:23.351396Z"
+    },
+    {
+      "year": 2026,
+      "title": "Albanese urged to help Australians struggling with fuel crisis",
+      "desc": "NZ offers first-of-its-kind cash relief as Albanese is urged to help Australians struggling with the fuel crisis.",
+      "type": "negative",
+      "source": "The Guardian NZ",
+      "_id": "2a6b5618",
+      "_crawled": "2026-04-16T06:32:23.351396Z"
     }
   ],
   "score_adjustments": {},
@@ -196,6 +214,11 @@
     {
       "date": "2026-04-15T06:29:42.791758Z",
       "notes": "New fuel deal and strategic fuel reserve established",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-16T06:32:23.351396Z",
+      "notes": "New events related to fuel trade and crisis",
       "new_items": true
     }
   ],
@@ -299,7 +322,16 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-16T06:32:23.351484Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-15T06:29:42.791851Z"
+  "last_updated": "2026-04-16T06:32:23.351509Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 6,
+  "lie_count": 7,
   "lies": [
     {
       "date": "March 2026",
@@ -62,6 +62,16 @@
       "platform": "speech",
       "_id": "23ac09a1",
       "_crawled": "2026-04-15T06:28:17.873787Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Peters' critique of past economic reforms",
+      "reality": "Peters has never repealed the Douglas/Richardson reforms",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "4388af82",
+      "_crawled": "2026-04-16T06:29:31.556605Z"
     }
   ],
   "social_posts": [
@@ -162,6 +172,20 @@
       },
       "_id": "ce63e4c5",
       "_crawled": "2026-04-14T06:26:38.330467Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "2026",
+      "text": "Peters' tweet regarding PM's social post",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Peters' account reshared the image with just one word: 'We...'",
+        "source": "NZ Herald",
+        "severity": "low"
+      },
+      "_id": "9b06cfff",
+      "_crawled": "2026-04-16T06:29:31.556605Z"
     }
   ],
   "votes": [],
@@ -402,13 +426,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' comments on Rawiri Waititi's mataora and his criticism of Fonterra's leadership have raised concerns about his integrity"
+    },
+    "2026-04-16T06:29:31.556605Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' misrepresentation of global pandemic rule changes and his critique of past economic reforms"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-05T06:09:46.601298Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and honesty, with some of his claims being misleading or contradictory"
-    },
     {
       "date": "2026-04-06T06:25:58.545679Z",
       "text": "Winston Peters' recent tweet on vaccine safety and international health regulation changes has been found to be misleading, contradicting his previous stance on vaccine support."
@@ -444,6 +469,10 @@
     {
       "date": "2026-04-15T06:28:17.873787Z",
       "text": "Winston Peters has been involved in several controversies, including making racist comments and criticizing Fonterra's leadership"
+    },
+    {
+      "date": "2026-04-16T06:29:31.556605Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency."
     }
   ],
   "crawl_log": [
@@ -520,6 +549,11 @@
     {
       "date": "2026-04-15T06:28:17.873787Z",
       "notes": "Peters' recent activities and statements have sparked controversy and raised concerns about his integrity",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-16T06:29:31.556605Z",
+      "notes": "Peters' visit to the Cook Islands and meeting with Marco Rubio may have implications for New Zealand's foreign policy",
       "new_items": true
     }
   ],
@@ -644,7 +678,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-16T06:29:31.556707Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-15T06:28:17.873935Z"
+  "last_updated": "2026-04-16T06:29:31.556731Z"
 }

@@ -244,6 +244,24 @@
       "source": "www.beehive.govt.nz",
       "_id": "451c9d7e",
       "_crawled": "2026-04-15T06:28:47.527330Z"
+    },
+    {
+      "year": 2026,
+      "title": "Nicola Willis meets with White House officials",
+      "desc": "Nicola Willis promises to be 'frank and candid' about the impact of the Middle East conflict at a White House meeting.",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "8efa5956",
+      "_crawled": "2026-04-16T06:30:22.439790Z"
+    },
+    {
+      "year": 2026,
+      "title": "Nicola Willis joins calls for a free and safe Strait of Hormuz",
+      "desc": "Finance Minister Nicola Willis joins international calls for the return of a free and safe Strait of Hormuz.",
+      "type": "positive",
+      "source": "RNZ News",
+      "_id": "7f68504f",
+      "_crawled": "2026-04-16T06:30:22.439790Z"
     }
   ],
   "score_adjustments": {
@@ -371,6 +389,11 @@
       "date": "2026-04-15T06:28:47.527330Z",
       "notes": "Reviewed sources from newsroom.co.nz, beehive.govt.nz, and national.org.nz",
       "new_items": true
+    },
+    {
+      "date": "2026-04-16T06:30:22.439790Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but new events related to Nicola Willis' international meetings and statements.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -465,7 +488,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-16T06:30:22.439864Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-15T06:28:47.527438Z"
+  "last_updated": "2026-04-16T06:30:22.439882Z"
 }

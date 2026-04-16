@@ -295,6 +295,11 @@
       "date": "2026-04-15T06:29:06.890066Z",
       "notes": "Reviewed Tavily sources and NZ news outlets for updates on Chris Hipkins",
       "new_items": true
+    },
+    {
+      "date": "2026-04-16T06:31:00.203880Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -396,7 +401,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-16T06:31:00.203899Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-15T06:29:06.890145Z"
+  "last_updated": "2026-04-16T06:31:00.203919Z"
 }

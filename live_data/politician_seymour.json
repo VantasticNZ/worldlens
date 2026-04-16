@@ -149,6 +149,15 @@
       "source": "RNZ News",
       "_id": "a3c0a4fd",
       "_crawled": "2026-04-15T06:28:29.293695Z"
+    },
+    {
+      "year": 2026,
+      "title": "Deputy PM Seymour on community relocations post storm",
+      "desc": "David Seymour discussed weather resilience and the blockade of the Strait of Hormuz",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "9cf814cf",
+      "_crawled": "2026-04-16T06:29:51.421127Z"
     }
   ],
   "score_adjustments": {},
@@ -227,6 +236,11 @@
     {
       "date": "2026-04-15T06:28:29.293695Z",
       "notes": "New events added related to David Seymour's recent activities",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-16T06:29:51.421127Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but updated events",
       "new_items": true
     }
   ],
@@ -336,7 +350,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-16T06:29:51.421217Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-15T06:28:29.293845Z"
+  "last_updated": "2026-04-16T06:29:51.421242Z"
 }

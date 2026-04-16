@@ -194,6 +194,15 @@
       "source": "BBC",
       "_id": "a14c2962",
       "_crawled": "2026-04-11T05:56:38.575179Z"
+    },
+    {
+      "year": 2026,
+      "title": "Starmer faces criticism over immigration rhetoric",
+      "desc": "Starmer's promise to 'smash the gangs' has not led to a decrease in people arriving in the UK in small boats",
+      "type": "negative",
+      "source": "The Guardian, 31 March 2026",
+      "_id": "df5815ba",
+      "_crawled": "2026-04-16T06:32:43.929825Z"
     }
   ],
   "score_adjustments": {
@@ -226,6 +235,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The Prime Minister's broken promise on income tax increase affects his integrity score."
+    },
+    "2026-04-16T06:32:43.929825Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Keir Starmer's claims about feeling positive change and smashing people-smuggling gangs have not been fulfilled"
     }
   },
   "summary_updates": [
@@ -252,6 +266,10 @@
     {
       "date": "2026-04-10T06:29:08.291319Z",
       "text": "Keir Starmer's leadership is facing challenges, and his promise on income tax has been broken."
+    },
+    {
+      "date": "2026-04-16T06:32:43.929825Z",
+      "text": "Keir Starmer's integrity score has been adjusted downward due to unfulfilled claims and criticism over immigration rhetoric"
     }
   ],
   "crawl_log": [
@@ -303,6 +321,11 @@
     {
       "date": "2026-04-11T05:56:38.575179Z",
       "notes": "No significant new lies or social posts found, but new event related to Iran war and UK's response",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-16T06:32:43.929825Z",
+      "notes": "Reviewed articles from The Guardian and Reuters",
       "new_items": true
     }
   ],
@@ -381,7 +404,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-16T06:32:43.929925Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-15T06:29:52.747926Z"
+  "last_updated": "2026-04-16T06:32:43.929947Z"
 }

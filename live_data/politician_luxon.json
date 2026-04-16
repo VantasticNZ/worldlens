@@ -287,13 +287,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistency on climate change policies and contradiction on trade deal post"
+    },
+    "2026-04-16T06:29:22.279604Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistent statements on his support for the Crusaders and his handling of the matai title controversy raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-03T06:07:39.693179Z",
-      "text": "Luxon's Cabinet reshuffle sparks leadership questions"
-    },
     {
       "date": "2026-04-04T05:50:51.941060Z",
       "text": "Luxon's cabinet reshuffle and Matai title controversy have sparked criticism and raised questions about his leadership"
@@ -329,6 +330,10 @@
     {
       "date": "2026-04-15T06:27:58.457262Z",
       "text": "Luxon faced criticism for his handling of climate change and trade deals, and his integrity score has been adjusted downward"
+    },
+    {
+      "date": "2026-04-16T06:29:22.279604Z",
+      "text": "Luxon's coalition is fracturing due to disagreements on climate policy, and he has faced controversy over his receipt of a matai title in Samoa"
     }
   ],
   "crawl_log": [
@@ -405,6 +410,11 @@
     {
       "date": "2026-04-15T06:27:58.457262Z",
       "notes": "Multiple sources reported on Luxon's inconsistencies and contradictions",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-16T06:29:22.279604Z",
+      "notes": "Luxon's statements and actions continue to be scrutinized, with potential implications for his integrity and leadership",
       "new_items": true
     }
   ],
@@ -530,7 +540,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-16T06:29:22.279722Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-15T06:27:58.457359Z"
+  "last_updated": "2026-04-16T06:29:22.279776Z"
 }

@@ -100,6 +100,24 @@
       "source": "The Spinoff",
       "_id": "9fedccd2",
       "_crawled": "2026-04-15T06:28:38.188736Z"
+    },
+    {
+      "year": 2026,
+      "title": "Shane Jones labels critics of fisheries bill as 'noisy voices'",
+      "desc": "Shane Jones responded to critics of the fisheries bill, labeling them as 'noisy voices'.",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "d850f0dd",
+      "_crawled": "2026-04-16T06:30:02.823071Z"
+    },
+    {
+      "year": 2026,
+      "title": "Shane Jones calls Far North councillor Davina Smolders' co-governance complaints 'perverse', 'pathetic'",
+      "desc": "Shane Jones criticized Far North councillor Davina Smolders' co-governance complaints.",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "deb8a1d8",
+      "_crawled": "2026-04-16T06:30:02.823071Z"
     }
   ],
   "score_adjustments": {
@@ -220,6 +238,11 @@
       "date": "2026-04-15T06:28:38.188736Z",
       "notes": "No significant new lies or social posts found, but new events related to the fisheries bill controversy and NZ First's election campaign launch",
       "new_items": true
+    },
+    {
+      "date": "2026-04-16T06:30:02.823071Z",
+      "notes": "Shane Jones' recent statements and interactions with critics and opponents",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -314,7 +337,15 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-16T06:30:02.823127Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-15T06:28:38.188813Z"
+  "last_updated": "2026-04-16T06:30:02.823146Z"
 }

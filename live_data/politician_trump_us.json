@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 21,
+  "lie_count": 24,
   "lies": [
     {
       "date": "January 2026",
@@ -212,6 +212,36 @@
       "platform": "press",
       "_id": "aa1bbdc7",
       "_crawled": "2026-04-15T06:29:29.451961Z"
+    },
+    {
+      "date": "January 2026",
+      "claim": "Drugs entering our country by sea are down 97% after U.S. vessel strikes in the Caribbean Sea and Pacific Ocean",
+      "reality": "No evidence to support this claim",
+      "source": "PolitiFact, January 29, 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "a5e31c09",
+      "_crawled": "2026-04-16T06:31:52.732793Z"
+    },
+    {
+      "date": "2026",
+      "claim": "The economy 'is roaring like never before'",
+      "reality": "Real GDP growth in 2025 was down to 2.2%, and the unemployment rate has increased slightly",
+      "source": "FactCheck.org, February 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "4200ae5e",
+      "_crawled": "2026-04-16T06:31:52.732793Z"
+    },
+    {
+      "date": "2026",
+      "claim": "Record-setting investments coming into the United States, over $18 trillion",
+      "reality": "No evidence to support this claim",
+      "source": "AP News, 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "75c4e190",
+      "_crawled": "2026-04-16T06:31:52.732793Z"
     }
   ],
   "social_posts": [
@@ -458,6 +488,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's claim about Iran killing 42,000 protesters is unverifiable and potentially misleading"
+    },
+    "2026-04-16T06:31:52.732793Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's repeated lies and contradictory statements have further eroded his integrity score"
     }
   },
   "summary_updates": [
@@ -496,6 +531,10 @@
     {
       "date": "2026-04-15T06:29:29.451961Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and potential for misinformation"
+    },
+    {
+      "date": "2026-04-16T06:31:52.732793Z",
+      "text": "Trump's recent statements and actions have led to further concerns about his integrity and honesty"
     }
   ],
   "crawl_log": [
@@ -547,6 +586,11 @@
     {
       "date": "2026-04-15T06:29:29.451961Z",
       "notes": "Reviewed RSS and GDELT sources, as well as Tavily fact-checking reports",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-16T06:31:52.732793Z",
+      "notes": "Multiple sources confirm Trump's lies and contradictory statements, with significant updates to his integrity score",
       "new_items": true
     }
   ],
@@ -634,7 +678,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-16T06:31:52.733009Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-15T06:29:29.452115Z"
+  "last_updated": "2026-04-16T06:31:52.733027Z"
 }
