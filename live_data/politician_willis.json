@@ -106,6 +106,20 @@
       },
       "_id": "bbcf7258",
       "_crawled": "2026-04-14T06:27:11.908365Z"
+    },
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "Willis promises to be 'frank and candid' about impact of Middle East conflict at White House meeting",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Previous statements on Middle East conflict impact",
+        "source": "RNZ News",
+        "severity": "med"
+      },
+      "_id": "cae9488d",
+      "_crawled": "2026-04-17T06:30:14.711003Z"
     }
   ],
   "votes": [],
@@ -262,6 +276,15 @@
       "source": "RNZ News",
       "_id": "7f68504f",
       "_crawled": "2026-04-16T06:30:22.439790Z"
+    },
+    {
+      "year": 2026,
+      "title": "Nicola Willis joins calls for return of free and safe Strait of Hormuz",
+      "desc": "Expressed support for international efforts",
+      "type": "positive",
+      "source": "RNZ News",
+      "_id": "d9f0df16",
+      "_crawled": "2026-04-17T06:30:14.711003Z"
     }
   ],
   "score_adjustments": {
@@ -289,6 +312,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "claim of creating 240,000 jobs found to be misleading"
+    },
+    "2026-04-17T06:30:14.711003Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Claim of NZ being on a path to surplus contradicts Treasury forecasts"
     }
   },
   "summary_updates": [
@@ -327,6 +355,10 @@
     {
       "date": "2026-04-15T06:28:47.527330Z",
       "text": "Nicola Willis continues to make statements on economic management, and the government has passed legislation on fiscal responsibility and announced the budget date"
+    },
+    {
+      "date": "2026-04-17T06:30:14.711003Z",
+      "text": "Nicola Willis' claim of NZ being on a path to surplus contradicts Treasury forecasts, raising concerns about her integrity."
     }
   ],
   "crawl_log": [
@@ -393,6 +425,11 @@
     {
       "date": "2026-04-16T06:30:22.439790Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to Nicola Willis' international meetings and statements.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-17T06:30:14.711003Z",
+      "notes": "Reviewed RNZ News and Tavily sources for updates on Nicola Willis",
       "new_items": true
     }
   ],
@@ -496,7 +533,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-17T06:30:14.711132Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-16T06:30:22.439882Z"
+  "last_updated": "2026-04-17T06:30:14.711152Z"
 }

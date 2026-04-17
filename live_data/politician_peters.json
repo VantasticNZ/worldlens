@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 7,
+  "lie_count": 8,
   "lies": [
     {
       "date": "March 2026",
@@ -72,6 +72,16 @@
       "platform": "press_release",
       "_id": "4388af82",
       "_crawled": "2026-04-16T06:29:31.556605Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Peters condemns the Douglas/Richardson reforms but has never repealed them",
+      "reality": "Peters has not taken action to repeal the reforms despite criticizing them",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "3003f8b9",
+      "_crawled": "2026-04-17T06:29:36.205918Z"
     }
   ],
   "social_posts": [
@@ -186,6 +196,20 @@
       },
       "_id": "9b06cfff",
       "_crawled": "2026-04-16T06:29:31.556605Z"
+    },
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "Winston Peters rubbishes polls as NZ First surges in support in election year voter sampling",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Peters' criticism of polls contradicts his previous statements on their importance",
+        "source": "NZ Herald",
+        "severity": "low"
+      },
+      "_id": "b7778b17",
+      "_crawled": "2026-04-17T06:29:36.205918Z"
     }
   ],
   "votes": [],
@@ -435,10 +459,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-06T06:25:58.545679Z",
-      "text": "Winston Peters' recent tweet on vaccine safety and international health regulation changes has been found to be misleading, contradicting his previous stance on vaccine support."
-    },
-    {
       "date": "2026-04-07T06:14:58.248363Z",
       "text": "Winston Peters' recent actions and statements have raised concerns about his integrity, including misrepresenting international health regulation changes and making contradictory statements on pronoun usage"
     },
@@ -473,6 +493,10 @@
     {
       "date": "2026-04-16T06:29:31.556605Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency."
+    },
+    {
+      "date": "2026-04-17T06:29:36.205918Z",
+      "text": "Winston Peters continues to make statements that contradict his actions and previous statements, and has met with international leaders to discuss various issues"
     }
   ],
   "crawl_log": [
@@ -554,6 +578,11 @@
     {
       "date": "2026-04-16T06:29:31.556605Z",
       "notes": "Peters' visit to the Cook Islands and meeting with Marco Rubio may have implications for New Zealand's foreign policy",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-17T06:29:36.205918Z",
+      "notes": "Peters' criticism of polls and his meeting with US Secretary of State Marco Rubio are notable events",
       "new_items": true
     }
   ],
@@ -685,7 +714,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-17T06:29:36.206035Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-16T06:29:31.556731Z"
+  "last_updated": "2026-04-17T06:29:36.206057Z"
 }

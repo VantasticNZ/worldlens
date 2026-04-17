@@ -292,13 +292,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistent statements on his support for the Crusaders and his handling of the matai title controversy raise concerns about his integrity"
+    },
+    "2026-04-17T06:29:26.184171Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistency on climate change policies raises concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-04T05:50:51.941060Z",
-      "text": "Luxon's cabinet reshuffle and Matai title controversy have sparked criticism and raised questions about his leadership"
-    },
     {
       "date": "2026-04-05T06:09:37.364791Z",
       "text": "Luxon's Cabinet reshuffle and matai title controversy have raised concerns about his leadership."
@@ -334,6 +335,10 @@
     {
       "date": "2026-04-16T06:29:22.279604Z",
       "text": "Luxon's coalition is fracturing due to disagreements on climate policy, and he has faced controversy over his receipt of a matai title in Samoa"
+    },
+    {
+      "date": "2026-04-17T06:29:26.184171Z",
+      "text": "Luxon's leadership is under scrutiny amid speculation of a potential spill and concerns about his integrity on climate change policies"
     }
   ],
   "crawl_log": [
@@ -415,6 +420,11 @@
     {
       "date": "2026-04-16T06:29:22.279604Z",
       "notes": "Luxon's statements and actions continue to be scrutinized, with potential implications for his integrity and leadership",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-17T06:29:26.184171Z",
+      "notes": "Reviewed RNZ News, Newsroom, and NZ Herald articles for updates on Luxon's leadership and climate change policies",
       "new_items": true
     }
   ],
@@ -547,7 +557,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-17T06:29:26.184250Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-16T06:29:22.279776Z"
+  "last_updated": "2026-04-17T06:29:26.184271Z"
 }

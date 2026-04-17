@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 4,
+  "lie_count": 5,
   "lies": [
     {
       "date": "April 2026",
@@ -42,6 +42,16 @@
       "platform": "press_release",
       "_id": "6d7733aa",
       "_crawled": "2026-04-16T06:30:40.932804Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Housing growth in Auckland is being managed with more flexibility",
+      "reality": "The government has reduced the minimum housing capacity required for Auckland Council's Plan Change 120 from 2 million homes to 1.6 million homes",
+      "source": "Beehive.govt.nz",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "d8bb1bd8",
+      "_crawled": "2026-04-17T06:30:32.624500Z"
     }
   ],
   "social_posts": [],
@@ -154,6 +164,15 @@
       "source": "Beehive.govt.nz",
       "_id": "71a123e9",
       "_crawled": "2026-04-15T06:28:57.292538Z"
+    },
+    {
+      "year": 2026,
+      "title": "Auckland housing plan changes",
+      "desc": "The government has reduced the minimum housing capacity required for Auckland Council's Plan Change 120, sparking criticism from opposition parties",
+      "type": "negative",
+      "source": "RNZ.co.nz",
+      "_id": "0910e581",
+      "_crawled": "2026-04-17T06:30:32.624500Z"
     }
   ],
   "score_adjustments": {
@@ -206,13 +225,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The minister's claims about housing numbers and plans have been contradicted by multiple sources, indicating a lack of integrity"
+    },
+    "2026-04-17T06:30:32.624500Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The Housing Minister's claims of 'no actual change' and 'more flexibility' are contradicted by the significant reductions in the minimum housing capacity required for Auckland Council's Plan Change 120"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-05T06:10:26.336427Z",
-      "text": "Chris Bishop's integrity score takes a hit due to his misleading claim about the Auckland housing target reduction"
-    },
     {
       "date": "2026-04-06T06:26:56.002301Z",
       "text": "Chris Bishop demoted as campaign chair in Cabinet reshuffle"
@@ -248,6 +268,10 @@
     {
       "date": "2026-04-16T06:30:40.932804Z",
       "text": "Chris Bishop's credibility has taken a hit due to contradictory statements on housing plans and numbers"
+    },
+    {
+      "date": "2026-04-17T06:30:32.624500Z",
+      "text": "Housing Minister Chris Bishop has been accused of downplaying significant changes to the Auckland housing plan, including reductions in the minimum housing capacity required"
     }
   ],
   "crawl_log": [
@@ -319,6 +343,11 @@
     {
       "date": "2026-04-16T06:30:40.932804Z",
       "notes": "Multiple sources confirm the government has scaled down its housing plans for Auckland, contradicting the minister's claims",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-17T06:30:32.624500Z",
+      "notes": "Multiple sources confirm changes to the Auckland housing plan, contradicting the Minister's claims",
       "new_items": true
     }
   ],
@@ -427,7 +456,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-17T06:30:32.624572Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-16T06:30:40.932902Z"
+  "last_updated": "2026-04-17T06:30:32.624594Z"
 }

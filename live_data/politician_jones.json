@@ -118,6 +118,15 @@
       "source": "NZ Herald",
       "_id": "deb8a1d8",
       "_crawled": "2026-04-16T06:30:02.823071Z"
+    },
+    {
+      "year": 2026,
+      "title": "Shane Jones reminds National, ACT of fisheries bill commitment",
+      "desc": "Shane Jones reminded National and ACT of their commitment to the fisheries bill, stating that they are choosing to screw over oceans and recreational fishers to help the industry make a quick, unsustainable buck.",
+      "type": "negative",
+      "source": "RNZ",
+      "_id": "0022346b",
+      "_crawled": "2026-04-17T06:29:57.454240Z"
     }
   ],
   "score_adjustments": {
@@ -243,6 +252,11 @@
       "date": "2026-04-16T06:30:02.823071Z",
       "notes": "Shane Jones' recent statements and interactions with critics and opponents",
       "new_items": true
+    },
+    {
+      "date": "2026-04-17T06:29:57.454240Z",
+      "notes": "No significant new lies or social posts found, but new events related to Shane Jones' statements on the fisheries bill",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -345,7 +359,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-17T06:29:57.454302Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-16T06:30:02.823146Z"
+  "last_updated": "2026-04-17T06:29:57.454321Z"
 }

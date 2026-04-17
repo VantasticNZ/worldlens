@@ -203,6 +203,33 @@
       "source": "The Guardian, 31 March 2026",
       "_id": "df5815ba",
       "_crawled": "2026-04-16T06:32:43.929825Z"
+    },
+    {
+      "year": 2026,
+      "title": "International Summit on Reopening Strait of Hormuz",
+      "desc": "Macron and Starmer held an international summit to discuss the reopening of the Strait of Hormuz.",
+      "type": "neutral",
+      "source": "orissapost.com",
+      "_id": "5da46c2c",
+      "_crawled": "2026-04-17T06:32:49.005590Z"
+    },
+    {
+      "year": 2026,
+      "title": "UK Civil Servant Ousted Over Mandelson Vetting",
+      "desc": "A top UK civil servant was ousted over Mandelson vetting.",
+      "type": "negative",
+      "source": "rte.ie",
+      "_id": "8a561e99",
+      "_crawled": "2026-04-17T06:32:49.005590Z"
+    },
+    {
+      "year": 2026,
+      "title": "Keir Starmer's Visit to the Gulf",
+      "desc": "Keir Starmer arrived in the Gulf after the US and Iran agreed to a two-week ceasefire.",
+      "type": "neutral",
+      "source": "theguardian.com",
+      "_id": "b2c51e1c",
+      "_crawled": "2026-04-17T06:32:49.005590Z"
     }
   ],
   "score_adjustments": {
@@ -327,6 +354,11 @@
       "date": "2026-04-16T06:32:43.929825Z",
       "notes": "Reviewed articles from The Guardian and Reuters",
       "new_items": true
+    },
+    {
+      "date": "2026-04-17T06:32:49.005590Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but several new events were discovered.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -412,7 +444,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-17T06:32:49.005679Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-16T06:32:43.929947Z"
+  "last_updated": "2026-04-17T06:32:49.005697Z"
 }

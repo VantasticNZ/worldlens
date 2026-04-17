@@ -60,6 +60,24 @@
       "source": "www.rnz.co.nz",
       "_id": "866aa5c3",
       "_crawled": "2026-04-08T06:18:52.040546Z"
+    },
+    {
+      "year": 2026,
+      "title": "Green Party announces plan to end homelessness and fix housing crisis",
+      "desc": "The Green Party has announced a new campaign, A Home for Everybody, to end homelessness and fix the housing crisis.",
+      "type": "positive",
+      "source": "Green Party of Aotearoa New Zealand",
+      "_id": "266ea8d8",
+      "_crawled": "2026-04-17T06:31:27.701704Z"
+    },
+    {
+      "year": 2026,
+      "title": "Green Party offers votes to National Party for fossil fuel crisis relief",
+      "desc": "The Green Party has offered its votes to the National Party to pass a fossil fuel crisis relief package.",
+      "type": "neutral",
+      "source": "Green Party of Aotearoa New Zealand",
+      "_id": "2d202137",
+      "_crawled": "2026-04-17T06:31:27.701704Z"
     }
   ],
   "score_adjustments": {},
@@ -67,6 +85,10 @@
     {
       "date": "2026-04-15T06:29:16.822585Z",
       "text": "Chloe Swarbrick continues to advocate for the Green Party's vision and is focused on the 2026 election."
+    },
+    {
+      "date": "2026-04-17T06:31:27.701704Z",
+      "text": "Chloe Swarbrick and the Green Party continue to advocate for solutions to homelessness and the housing crisis, while criticizing the government's approach."
     }
   ],
   "crawl_log": [
@@ -129,6 +151,11 @@
       "date": "2026-04-16T06:31:29.620672Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-17T06:31:27.701704Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but several new events related to the Green Party's policies and actions.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -215,7 +242,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-04-17T06:31:27.701807Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-16T06:31:29.620704Z"
+  "last_updated": "2026-04-17T06:31:27.701829Z"
 }

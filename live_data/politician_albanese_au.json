@@ -142,6 +142,15 @@
       "source": "The Guardian NZ",
       "_id": "2a6b5618",
       "_crawled": "2026-04-16T06:32:23.351396Z"
+    },
+    {
+      "year": 2026,
+      "title": "10-day ceasefire agreed on by Israel and Lebanon",
+      "desc": "A 10-day ceasefire has been agreed upon by Israel and Lebanon, amidst the ongoing Middle East crisis",
+      "type": "positive",
+      "source": "AP News",
+      "_id": "54516ff5",
+      "_crawled": "2026-04-17T06:32:13.245690Z"
     }
   ],
   "score_adjustments": {},
@@ -219,6 +228,11 @@
     {
       "date": "2026-04-16T06:32:23.351396Z",
       "notes": "New events related to fuel trade and crisis",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-17T06:32:13.245690Z",
+      "notes": "No significant new findings related to Anthony Albanese's statements or actions, but a relevant event in the Middle East crisis",
       "new_items": true
     }
   ],
@@ -331,7 +345,15 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-17T06:32:13.245748Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-16T06:32:23.351509Z"
+  "last_updated": "2026-04-17T06:32:13.245767Z"
 }
