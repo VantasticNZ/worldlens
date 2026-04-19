@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 8,
+  "lie_count": 9,
   "lies": [
     {
       "date": "March 2026",
@@ -82,6 +82,16 @@
       "platform": "interview",
       "_id": "3003f8b9",
       "_crawled": "2026-04-17T06:29:36.205918Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "NZ First is the only party willing to go back to the old-school style of hosting gatherings",
+      "reality": "Other parties, such as the Greens and ACT, have also held public meetings",
+      "source": "The Spinoff, 23 March 2026",
+      "severity": "low",
+      "platform": "speech",
+      "_id": "119d1168",
+      "_crawled": "2026-04-19T06:25:14.212252Z"
     }
   ],
   "social_posts": [
@@ -210,6 +220,20 @@
       },
       "_id": "b7778b17",
       "_crawled": "2026-04-17T06:29:36.205918Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "April 2026",
+      "text": "No specific text available",
+      "verified_by": "Tavily: Winston Peters tweet statement 2026",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "No specific detail available",
+        "source": "Tavily: Winston Peters tweet statement 2026",
+        "severity": "low"
+      },
+      "_id": "c1c15237",
+      "_crawled": "2026-04-19T06:25:14.212252Z"
     }
   ],
   "votes": [],
@@ -459,10 +483,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-07T06:14:58.248363Z",
-      "text": "Winston Peters' recent actions and statements have raised concerns about his integrity, including misrepresenting international health regulation changes and making contradictory statements on pronoun usage"
-    },
-    {
       "date": "2026-04-08T06:16:25.893260Z",
       "text": "Winston Peters met with US Secretary of State Marco Rubio to discuss the impact of the Iran war on New Zealand, and New Zealand signed a defence deal with the Cook Islands."
     },
@@ -497,6 +517,10 @@
     {
       "date": "2026-04-17T06:29:36.205918Z",
       "text": "Winston Peters continues to make statements that contradict his actions and previous statements, and has met with international leaders to discuss various issues"
+    },
+    {
+      "date": "2026-04-19T06:25:14.212252Z",
+      "text": "Winston Peters met with US Secretary of State Marco Rubio and signed a defence and security declaration with Cook Islands PM Mark Brown"
     }
   ],
   "crawl_log": [
@@ -583,6 +607,11 @@
     {
       "date": "2026-04-17T06:29:36.205918Z",
       "notes": "Peters' criticism of polls and his meeting with US Secretary of State Marco Rubio are notable events",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-19T06:25:14.212252Z",
+      "notes": "Reviewed Tavily sources for Winston Peters, found some new events and social posts",
       "new_items": true
     }
   ],
@@ -721,7 +750,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-19T06:25:14.212365Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-18T06:08:31.558133Z"
+  "last_updated": "2026-04-19T06:25:14.212387Z"
 }

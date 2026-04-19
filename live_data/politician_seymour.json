@@ -158,6 +158,24 @@
       "source": "RNZ News",
       "_id": "9cf814cf",
       "_crawled": "2026-04-16T06:29:51.421127Z"
+    },
+    {
+      "year": 2026,
+      "title": "David Seymour's announcement on Autism NZ Education Hub",
+      "desc": "Associate Education Minister David Seymour announced that Autism NZ Education Hub will open in Term 3 2026 as a charter school.",
+      "type": "neutral",
+      "source": "Beehive.govt.nz",
+      "_id": "68a4cab6",
+      "_crawled": "2026-04-19T06:25:24.529799Z"
+    },
+    {
+      "year": 2026,
+      "title": "Deputy PM David Seymour's statement on fuel response",
+      "desc": "Deputy PM David Seymour outlined 5 lessons learned from Covid in addressing NZ's fuel response.",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "0e453390",
+      "_crawled": "2026-04-19T06:25:24.529799Z"
     }
   ],
   "score_adjustments": {},
@@ -247,6 +265,11 @@
       "date": "2026-04-17T06:29:46.921041Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-19T06:25:24.529799Z",
+      "notes": "New events and announcements from David Seymour",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -369,7 +392,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-19T06:25:24.529877Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-18T06:08:51.560269Z"
+  "last_updated": "2026-04-19T06:25:24.529898Z"
 }

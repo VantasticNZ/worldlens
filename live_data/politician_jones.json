@@ -154,6 +154,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Jones' backtracking on his proposals suggests a lack of conviction and potential for influence from external factors"
+    },
+    "2026-04-19T06:25:36.633922Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' statements have been found to be misleading or exaggerated, affecting his integrity score"
     }
   },
   "summary_updates": [
@@ -180,6 +185,10 @@
     {
       "date": "2026-04-14T06:26:59.769245Z",
       "text": "Shane Jones has faced backlash over his fisheries bill proposals, leading to backtracks and changes in his stance"
+    },
+    {
+      "date": "2026-04-19T06:25:36.633922Z",
+      "text": "Shane Jones has been involved in controversy surrounding the Fisheries Bill, with critics accusing him of misleading statements and exaggerations"
     }
   ],
   "crawl_log": [
@@ -256,6 +265,11 @@
     {
       "date": "2026-04-17T06:29:57.454240Z",
       "notes": "No significant new lies or social posts found, but new events related to Shane Jones' statements on the fisheries bill",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-19T06:25:36.633922Z",
+      "notes": "Multiple sources indicate Shane Jones has made misleading statements regarding the Fisheries Bill",
       "new_items": true
     }
   ],
@@ -366,7 +380,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-19T06:25:36.634013Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-18T06:09:18.153117Z"
+  "last_updated": "2026-04-19T06:25:36.634031Z"
 }

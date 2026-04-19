@@ -301,10 +301,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-06T06:25:48.724105Z",
-      "text": "Luxon's leadership is facing challenges due to controversies surrounding his Cabinet reshuffle and climate policy"
-    },
-    {
       "date": "2026-04-07T06:14:28.749270Z",
       "text": "Luxon's actions and statements continue to spark controversy and criticism, raising concerns about his integrity and leadership"
     },
@@ -339,6 +335,10 @@
     {
       "date": "2026-04-18T06:08:07.733121Z",
       "text": "Christopher Luxon is facing challenges to his leadership and has been accused of making inconsistent statements on climate change policies."
+    },
+    {
+      "date": "2026-04-19T06:24:53.250531Z",
+      "text": "Christopher Luxon faces leadership speculation and meets with world leaders to discuss the Strait of Hormuz situation."
     }
   ],
   "crawl_log": [
@@ -430,6 +430,11 @@
     {
       "date": "2026-04-18T06:08:07.733121Z",
       "notes": "Multiple sources report on Luxon's meetings with world leaders and potential leadership challenges.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-19T06:24:53.250531Z",
+      "notes": "No significant new lies or social posts found, but leadership speculation and international meeting are notable events.",
       "new_items": true
     }
   ],
@@ -578,7 +583,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-19T06:24:53.250618Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-18T06:08:07.733235Z"
+  "last_updated": "2026-04-19T06:24:53.250637Z"
 }
