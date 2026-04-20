@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 9,
+  "lie_count": 10,
   "lies": [
     {
       "date": "March 2026",
@@ -92,6 +92,16 @@
       "platform": "speech",
       "_id": "119d1168",
       "_crawled": "2026-04-19T06:25:14.212252Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Peters' tweet misrepresents global pandemic rule changes",
+      "reality": "Peters' tweet contradicts actual international health regulation changes",
+      "source": "newsroom.co.nz, 25 March 2026",
+      "severity": "med",
+      "platform": "twitter",
+      "_id": "02380aa9",
+      "_crawled": "2026-04-20T07:11:36.233545Z"
     }
   ],
   "social_posts": [
@@ -479,13 +489,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' misrepresentation of global pandemic rule changes and his critique of past economic reforms"
+    },
+    "2026-04-20T07:11:36.233545Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' misrepresentation of global pandemic rule changes and deletion of tweet regarding PM's social post"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-08T06:16:25.893260Z",
-      "text": "Winston Peters met with US Secretary of State Marco Rubio to discuss the impact of the Iran war on New Zealand, and New Zealand signed a defence deal with the Cook Islands."
-    },
     {
       "date": "2026-04-09T06:15:30.336804Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
@@ -521,6 +532,10 @@
     {
       "date": "2026-04-19T06:25:14.212252Z",
       "text": "Winston Peters met with US Secretary of State Marco Rubio and signed a defence and security declaration with Cook Islands PM Mark Brown"
+    },
+    {
+      "date": "2026-04-20T07:11:36.233545Z",
+      "text": "Winston Peters' recent actions and statements have raised concerns about his integrity and transparency."
     }
   ],
   "crawl_log": [
@@ -612,6 +627,11 @@
     {
       "date": "2026-04-19T06:25:14.212252Z",
       "notes": "Reviewed Tavily sources for Winston Peters, found some new events and social posts",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-20T07:11:36.233545Z",
+      "notes": "Peters' tweet misrepresentation and deleted tweet regarding PM's social post",
       "new_items": true
     }
   ],
@@ -757,7 +777,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-20T07:11:36.233662Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-19T06:25:14.212387Z"
+  "last_updated": "2026-04-20T07:11:36.233684Z"
 }

@@ -1,22 +1,21 @@
 {
-  "generated": "2026-04-19T06:26:51.085776Z",
+  "generated": "2026-04-20T07:13:13.137672Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-04-19T06:26:50.085037Z",
+      "last_updated": "2026-04-20T07:13:12.136895Z",
       "lie_count": 6,
-      "event_count": 15,
+      "event_count": 16,
       "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
-          "GDELT global news database",
           "Tavily: Keir Starmer contradiction promise broke",
           "Tavily: Keir Starmer statement 2026"
         ]
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-04-19T06:26:33.383249Z",
+      "last_updated": "2026-04-20T07:13:02.533971Z",
       "lie_count": 0,
       "event_count": 13,
       "post_count": 2,
@@ -30,8 +29,8 @@
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-04-19T06:25:14.212387Z",
-      "lie_count": 9,
+      "last_updated": "2026-04-20T07:11:36.233684Z",
+      "lie_count": 10,
       "event_count": 20,
       "post_count": 10,
       "vote_count": 0,
@@ -43,9 +42,9 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-04-19T06:25:24.529898Z",
+      "last_updated": "2026-04-20T07:11:49.224001Z",
       "lie_count": 0,
-      "event_count": 19,
+      "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
@@ -56,7 +55,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-04-19T06:26:16.005145Z",
+      "last_updated": "2026-04-20T07:12:42.032913Z",
       "lie_count": 0,
       "event_count": 7,
       "post_count": 1,
@@ -69,35 +68,34 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-04-19T06:25:45.002459Z",
+      "last_updated": "2026-04-20T07:12:09.912846Z",
       "lie_count": 6,
       "event_count": 18,
       "post_count": 4,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
           "Tavily: Nicola Willis finance minister contradic",
           "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-04-19T06:26:24.706371Z",
-      "lie_count": 26,
+      "last_updated": "2026-04-20T07:12:51.771750Z",
+      "lie_count": 29,
       "event_count": 20,
       "post_count": 1,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
+          "RSS (4 articles from NZ/intl media)",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-04-19T06:25:58.554165Z",
+      "last_updated": "2026-04-20T07:12:19.210222Z",
       "lie_count": 5,
       "event_count": 13,
       "post_count": 0,
@@ -110,7 +108,7 @@
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-04-19T06:26:07.933453Z",
+      "last_updated": "2026-04-20T07:12:30.092959Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 1,
@@ -123,27 +121,28 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-04-19T06:24:53.250637Z",
-      "lie_count": 3,
+      "last_updated": "2026-04-20T07:11:21.770832Z",
+      "lie_count": 4,
       "event_count": 20,
-      "post_count": 2,
+      "post_count": 3,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (4 articles from NZ/intl media)",
+          "RSS (5 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-04-19T06:25:36.634031Z",
-      "lie_count": 4,
-      "event_count": 9,
+      "last_updated": "2026-04-20T07:11:58.764310Z",
+      "lie_count": 5,
+      "event_count": 10,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Shane Jones NZ First controversy 2026",
           "Tavily: Shane Jones statement tweet 2026"
         ]

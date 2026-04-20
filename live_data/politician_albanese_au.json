@@ -234,6 +234,11 @@
       "date": "2026-04-17T06:32:13.245690Z",
       "notes": "No significant new findings related to Anthony Albanese's statements or actions, but a relevant event in the Middle East crisis",
       "new_items": true
+    },
+    {
+      "date": "2026-04-20T07:13:02.533940Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -353,7 +358,15 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-20T07:13:02.533953Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-19T06:26:33.383249Z"
+  "last_updated": "2026-04-20T07:13:02.533971Z"
 }

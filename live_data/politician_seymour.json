@@ -176,6 +176,15 @@
       "source": "RNZ News",
       "_id": "0e453390",
       "_crawled": "2026-04-19T06:25:24.529799Z"
+    },
+    {
+      "year": 2026,
+      "title": "David Seymour's speech at Waitangi Pōwhiri",
+      "desc": "David Seymour gave a speech at Waitangi Pōwhiri, celebrating the 186th anniversary of the Treaty being signed.",
+      "type": "positive",
+      "source": "ACT New Zealand",
+      "_id": "998276ee",
+      "_crawled": "2026-04-20T07:11:49.223901Z"
     }
   ],
   "score_adjustments": {},
@@ -269,6 +278,11 @@
     {
       "date": "2026-04-19T06:25:24.529799Z",
       "notes": "New events and announcements from David Seymour",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-20T07:11:49.223901Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but new events added.",
       "new_items": true
     }
   ],
@@ -399,7 +413,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-20T07:11:49.223976Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-19T06:25:24.529898Z"
+  "last_updated": "2026-04-20T07:11:49.224001Z"
 }

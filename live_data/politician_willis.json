@@ -321,10 +321,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-02T06:08:57.217525Z",
-      "text": "Nicola Willis spoke at the NZ Economic Forum and announced no new support for families hit by the fuel crisis."
-    },
-    {
       "date": "2026-04-04T05:51:37.790424Z",
       "text": "Nicola Willis has announced plans for the 2026 budget and faced criticism for the government's fuel crisis package."
     },
@@ -359,6 +355,10 @@
     {
       "date": "2026-04-17T06:30:14.711003Z",
       "text": "Nicola Willis' claim of NZ being on a path to surplus contradicts Treasury forecasts, raising concerns about her integrity."
+    },
+    {
+      "date": "2026-04-20T07:12:09.912748Z",
+      "text": "Nicola Willis met with White House officials and joined calls for a free and safe Strait of Hormuz"
     }
   ],
   "crawl_log": [
@@ -430,6 +430,11 @@
     {
       "date": "2026-04-17T06:30:14.711003Z",
       "notes": "Reviewed RNZ News and Tavily sources for updates on Nicola Willis",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-20T07:12:09.912748Z",
+      "notes": "Reviewed Tavily sources, found one new lie and two new events",
       "new_items": true
     }
   ],
@@ -541,7 +546,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-20T07:12:09.912827Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-19T06:25:45.002459Z"
+  "last_updated": "2026-04-20T07:12:09.912846Z"
 }

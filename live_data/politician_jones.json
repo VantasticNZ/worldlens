@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 4,
+  "lie_count": 5,
   "lies": [
     {
       "date": "March 2026",
@@ -42,6 +42,16 @@
       "platform": "interview",
       "_id": "7dfd31a7",
       "_crawled": "2026-04-10T06:27:54.010348Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "The bill would require commercial fishers to retain all targeted species and have them counted against their quota",
+      "reality": "Critics argue that the bill does not require commercial fishers to land all catch, making it difficult to verify what is being discarded at sea",
+      "source": "RNZ News, NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "11eb1ca0",
+      "_crawled": "2026-04-20T07:11:58.764230Z"
     }
   ],
   "social_posts": [],
@@ -127,6 +137,15 @@
       "source": "RNZ",
       "_id": "0022346b",
       "_crawled": "2026-04-17T06:29:57.454240Z"
+    },
+    {
+      "year": 2026,
+      "title": "Prime Minister criticises Shane Jones' 'butter chicken' comments",
+      "desc": "The Prime Minister labelled Shane Jones' comments as 'alarmist'",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "ab983124",
+      "_crawled": "2026-04-20T07:11:58.764230Z"
     }
   ],
   "score_adjustments": {
@@ -159,6 +178,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' statements have been found to be misleading or exaggerated, affecting his integrity score"
+    },
+    "2026-04-20T07:11:58.764230Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' claim about the bill was contradicted by critics, raising concerns about his integrity"
     }
   },
   "summary_updates": [
@@ -189,6 +213,10 @@
     {
       "date": "2026-04-19T06:25:36.633922Z",
       "text": "Shane Jones has been involved in controversy surrounding the Fisheries Bill, with critics accusing him of misleading statements and exaggerations"
+    },
+    {
+      "date": "2026-04-20T07:11:58.764230Z",
+      "text": "Shane Jones faced criticism from the Prime Minister and critics over his comments on the Fisheries Bill and 'butter chicken' remarks"
     }
   ],
   "crawl_log": [
@@ -270,6 +298,11 @@
     {
       "date": "2026-04-19T06:25:36.633922Z",
       "notes": "Multiple sources indicate Shane Jones has made misleading statements regarding the Fisheries Bill",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-20T07:11:58.764230Z",
+      "notes": "Shane Jones' statements on the Fisheries Bill and his 'butter chicken' comments have sparked controversy",
       "new_items": true
     }
   ],
@@ -387,7 +420,15 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-20T07:11:58.764293Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-19T06:25:36.634031Z"
+  "last_updated": "2026-04-20T07:11:58.764310Z"
 }

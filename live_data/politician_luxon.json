@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 3,
+  "lie_count": 4,
   "lies": [
     {
       "date": "2026",
@@ -32,6 +32,16 @@
       "platform": "interview",
       "_id": "8ba406af",
       "_crawled": "2026-04-09T06:15:19.627300Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "five National MPs were frustrated at his leadership",
+      "reality": "Luxon later walked back this claim",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "b403cdab",
+      "_crawled": "2026-04-20T07:11:21.770699Z"
     }
   ],
   "social_posts": [
@@ -62,6 +72,20 @@
       },
       "_id": "9f456a9b",
       "_crawled": "2026-04-03T06:07:39.693179Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "2026",
+      "text": "statement about Strait of Hormuz situation",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "inconsistency between flowery rhetoric and necessary actions to keep warming below 1.5 degrees",
+        "source": "Chloe Swarbrick",
+        "severity": "high"
+      },
+      "_id": "2c8a58ce",
+      "_crawled": "2026-04-20T07:11:21.770699Z"
     }
   ],
   "votes": [],
@@ -297,13 +321,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistency on climate change policies raises concerns about his integrity"
+    },
+    "2026-04-20T07:11:21.770699Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's walked-back claim and inconsistency on climate change policy"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-07T06:14:28.749270Z",
-      "text": "Luxon's actions and statements continue to spark controversy and criticism, raising concerns about his integrity and leadership"
-    },
     {
       "date": "2026-04-09T06:15:19.627300Z",
       "text": "Luxon faces increasing scrutiny over his leadership and integrity, with controversies surrounding his Samoan matai title and his response to key issues"
@@ -339,6 +364,10 @@
     {
       "date": "2026-04-19T06:24:53.250531Z",
       "text": "Christopher Luxon faces leadership speculation and meets with world leaders to discuss the Strait of Hormuz situation."
+    },
+    {
+      "date": "2026-04-20T07:11:21.770699Z",
+      "text": "Luxon's leadership is being questioned after a recent poll, and he has been accused of inconsistency on climate change policy"
     }
   ],
   "crawl_log": [
@@ -435,6 +464,11 @@
     {
       "date": "2026-04-19T06:24:53.250531Z",
       "notes": "No significant new lies or social posts found, but leadership speculation and international meeting are notable events.",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-20T07:11:21.770699Z",
+      "notes": "Multiple sources indicate Luxon's leadership is under scrutiny",
       "new_items": true
     }
   ],
@@ -591,7 +625,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-20T07:11:21.770813Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-19T06:24:53.250637Z"
+  "last_updated": "2026-04-20T07:11:21.770832Z"
 }
