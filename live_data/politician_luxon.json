@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 4,
+  "lie_count": 5,
   "lies": [
     {
       "date": "2026",
@@ -42,6 +42,16 @@
       "platform": "speech",
       "_id": "b403cdab",
       "_crawled": "2026-04-20T07:11:21.770699Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Luxon's statement on climate change policies",
+      "reality": "Inconsistent with necessary actions to keep warming below 1.5 degrees",
+      "source": "NZ Herald, Chloe Swarbrick",
+      "severity": "high",
+      "platform": "Parliament",
+      "_id": "16f8c624",
+      "_crawled": "2026-04-21T06:29:59.804989Z"
     }
   ],
   "social_posts": [
@@ -88,7 +98,18 @@
       "_crawled": "2026-04-20T07:11:21.770699Z"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "bill": "Confidence vote",
+      "vote": "for",
+      "year": 2026,
+      "significance": "high",
+      "note": "Luxon survives confidence vote",
+      "source": "RNZ News",
+      "_id": "fc7831c1",
+      "_crawled": "2026-04-21T06:29:59.804989Z"
+    }
+  ],
   "recent_events": [
     {
       "year": 2026,
@@ -326,13 +347,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's walked-back claim and inconsistency on climate change policy"
+    },
+    "2026-04-21T06:29:59.804989Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistent statement on climate change policies"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-09T06:15:19.627300Z",
-      "text": "Luxon faces increasing scrutiny over his leadership and integrity, with controversies surrounding his Samoan matai title and his response to key issues"
-    },
     {
       "date": "2026-04-10T06:27:17.475798Z",
       "text": "Luxon's inconsistency on climate change policies and actions has raised concerns about his integrity"
@@ -368,6 +390,10 @@
     {
       "date": "2026-04-20T07:11:21.770699Z",
       "text": "Luxon's leadership is being questioned after a recent poll, and he has been accused of inconsistency on climate change policy"
+    },
+    {
+      "date": "2026-04-21T06:29:59.804989Z",
+      "text": "Luxon survives confidence vote, but faces criticism over climate change policies"
     }
   ],
   "crawl_log": [
@@ -470,18 +496,14 @@
       "date": "2026-04-20T07:11:21.770699Z",
       "notes": "Multiple sources indicate Luxon's leadership is under scrutiny",
       "new_items": true
+    },
+    {
+      "date": "2026-04-21T06:29:59.804989Z",
+      "notes": "Multiple sources confirm Luxon's survival of confidence vote and criticism over climate change policies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-03-31T20:43:28.991168Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-01T06:22:18.014103Z",
       "sources": [
@@ -633,7 +655,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-21T06:29:59.805099Z",
+      "sources": [
+        "RSS (8 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-20T07:11:21.770832Z"
+  "last_updated": "2026-04-21T06:29:59.805122Z"
 }
