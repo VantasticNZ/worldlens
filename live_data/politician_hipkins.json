@@ -310,6 +310,11 @@
       "date": "2026-04-20T07:12:30.092780Z",
       "notes": "New events and statements from Chris Hipkins, including the unveiling of a new economic team and criticism of the government.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-22T06:33:32.995593Z",
+      "notes": "No significant new findings except for a demand of apology from Nicola Willis",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -432,7 +437,15 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-22T06:33:32.995655Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-21T06:31:54.897269Z"
+  "last_updated": "2026-04-22T06:33:32.995673Z"
 }

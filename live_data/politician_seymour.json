@@ -284,6 +284,11 @@
       "date": "2026-04-20T07:11:49.223901Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new events added.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-22T06:31:58.098016Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -420,7 +425,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-22T06:31:58.098030Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-21T06:30:36.435171Z"
+  "last_updated": "2026-04-22T06:31:58.098050Z"
 }

@@ -146,6 +146,24 @@
       "source": "RNZ News",
       "_id": "ab983124",
       "_crawled": "2026-04-20T07:11:58.764230Z"
+    },
+    {
+      "year": 2026,
+      "title": "Shane Jones defends India FTA comments",
+      "desc": "Shane Jones defended his comments comparing the India FTA to a 'butter chicken tsunami', despite criticism from the Prime Minister and others",
+      "type": "negative",
+      "source": "RNZ",
+      "_id": "6947718b",
+      "_crawled": "2026-04-22T06:32:21.980285Z"
+    },
+    {
+      "year": 2026,
+      "title": "Anger over Jones' 'butter chicken tsunami' barb",
+      "desc": "Shane Jones' comments sparked anger and criticism from the Indian community and others, with some calling them 'distasteful'",
+      "type": "negative",
+      "source": "RNZ",
+      "_id": "1d4cdecd",
+      "_crawled": "2026-04-22T06:32:21.980285Z"
     }
   ],
   "score_adjustments": {
@@ -217,6 +235,10 @@
     {
       "date": "2026-04-20T07:11:58.764230Z",
       "text": "Shane Jones faced criticism from the Prime Minister and critics over his comments on the Fisheries Bill and 'butter chicken' remarks"
+    },
+    {
+      "date": "2026-04-22T06:32:21.980285Z",
+      "text": "Shane Jones faced criticism for his comments on the India FTA and sparked anger from the Indian community"
     }
   ],
   "crawl_log": [
@@ -303,6 +325,11 @@
     {
       "date": "2026-04-20T07:11:58.764230Z",
       "notes": "Shane Jones' statements on the Fisheries Bill and his 'butter chicken' comments have sparked controversy",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-22T06:32:21.980285Z",
+      "notes": "Multiple sources reported on Shane Jones' controversial comments, but no new lies or social posts were found",
       "new_items": true
     }
   ],
@@ -428,7 +455,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-22T06:32:21.980380Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-21T06:30:54.346221Z"
+  "last_updated": "2026-04-22T06:32:21.980397Z"
 }

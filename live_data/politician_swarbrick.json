@@ -156,6 +156,11 @@
       "date": "2026-04-17T06:31:27.701704Z",
       "notes": "No significant new findings on lies, social posts, or votes, but several new events related to the Green Party's policies and actions.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-22T06:33:55.084043Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -249,7 +254,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-04-22T06:33:55.084056Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-21T06:32:13.348131Z"
+  "last_updated": "2026-04-22T06:33:55.084074Z"
 }

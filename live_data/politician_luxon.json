@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 5,
+  "lie_count": 6,
   "lies": [
     {
       "date": "2026",
@@ -52,6 +52,16 @@
       "platform": "Parliament",
       "_id": "16f8c624",
       "_crawled": "2026-04-21T06:29:59.804989Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Luxon's statement about his parents letting him stay up late to watch State of Origin",
+      "reality": "Luxon was 25 when the Crusaders played their first game, contradicting his claim of supporting them since he was a little boy",
+      "source": "The Spinoff, April 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "95ebab84",
+      "_crawled": "2026-04-22T06:30:50.536265Z"
     }
   ],
   "social_posts": [
@@ -96,6 +106,20 @@
       },
       "_id": "2c8a58ce",
       "_crawled": "2026-04-20T07:11:21.770699Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "April 2026",
+      "text": "Luxon's tweet about the Strait of Hormuz situation",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Luxon's statement on the Strait of Hormuz situation contradicts his previous statements on international law and trade routes",
+        "source": "RNZ News, April 2026",
+        "severity": "low"
+      },
+      "_id": "227e204e",
+      "_crawled": "2026-04-22T06:30:50.536265Z"
     }
   ],
   "votes": [
@@ -352,13 +376,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistent statement on climate change policies"
+    },
+    "2026-04-22T06:30:50.536265Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's contradictory statements and ongoing leadership challenges have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-10T06:27:17.475798Z",
-      "text": "Luxon's inconsistency on climate change policies and actions has raised concerns about his integrity"
-    },
     {
       "date": "2026-04-11T05:54:48.307183Z",
       "text": "Christopher Luxon signed the Auckland City Deal and commented on economic effects of ceasefire"
@@ -394,6 +419,10 @@
     {
       "date": "2026-04-21T06:29:59.804989Z",
       "text": "Luxon survives confidence vote, but faces criticism over climate change policies"
+    },
+    {
+      "date": "2026-04-22T06:30:50.536265Z",
+      "text": "Luxon's leadership faces ongoing challenges, and his contradictory statements have raised concerns about his integrity"
     }
   ],
   "crawl_log": [
@@ -501,17 +530,14 @@
       "date": "2026-04-21T06:29:59.804989Z",
       "notes": "Multiple sources confirm Luxon's survival of confidence vote and criticism over climate change policies",
       "new_items": true
+    },
+    {
+      "date": "2026-04-22T06:30:50.536265Z",
+      "notes": "Luxon's social media posts and public statements require close monitoring for discrepancies and contradictions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-01T06:22:18.014103Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-02T06:07:07.750633Z",
       "sources": [
@@ -663,7 +689,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-22T06:30:50.536404Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-21T06:29:59.805122Z"
+  "last_updated": "2026-04-22T06:30:50.536426Z"
 }

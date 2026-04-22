@@ -436,6 +436,11 @@
       "date": "2026-04-20T07:12:09.912748Z",
       "notes": "Reviewed Tavily sources, found one new lie and two new events",
       "new_items": true
+    },
+    {
+      "date": "2026-04-22T06:32:52.585379Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -553,7 +558,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-22T06:32:52.585393Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-21T06:31:16.145188Z"
+  "last_updated": "2026-04-22T06:32:52.585412Z"
 }

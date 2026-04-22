@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 6,
+  "lie_count": 7,
   "lies": [
     {
       "date": "2026",
@@ -62,6 +62,16 @@
       "platform": "speech",
       "_id": "e89ec900",
       "_crawled": "2026-04-09T06:17:15.658836Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "abandoning Corbyn's promise on student fees",
+      "reality": "dropped the pledge due to Labour's worst defeat since 1935",
+      "source": "The Guardian, September 2020",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "0ea0bc20",
+      "_crawled": "2026-04-22T06:35:18.849086Z"
     }
   ],
   "social_posts": [
@@ -239,6 +249,15 @@
       "source": "The Guardian",
       "_id": "fd380202",
       "_crawled": "2026-04-20T07:13:12.136813Z"
+    },
+    {
+      "year": 2026,
+      "title": "Angela Rayner Resignation",
+      "desc": "Deputy Prime Minister Angela Rayner resigns after failing to pay enough tax",
+      "type": "negative",
+      "source": "BBC",
+      "_id": "3acb5509",
+      "_crawled": "2026-04-22T06:35:18.849086Z"
     }
   ],
   "score_adjustments": {
@@ -281,6 +300,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Starmer's handling of the Mandelson vetting scandal raises concerns about his integrity"
+    },
+    "2026-04-22T06:35:18.849086Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Mandelson vetting scandal and Angela Rayner's resignation raise concerns about Keir Starmer's leadership and the party's integrity"
     }
   },
   "summary_updates": [
@@ -315,6 +339,10 @@
     {
       "date": "2026-04-20T07:13:12.136813Z",
       "text": "Keir Starmer faces criticism for his handling of the Mandelson vetting scandal and making promises that have not been fulfilled"
+    },
+    {
+      "date": "2026-04-22T06:35:18.849086Z",
+      "text": "Keir Starmer faces criticism over the Mandelson vetting scandal and Angela Rayner's resignation, raising concerns about his leadership and the party's integrity"
     }
   ],
   "crawl_log": [
@@ -381,6 +409,11 @@
     {
       "date": "2026-04-20T07:13:12.136813Z",
       "notes": "Mandelson vetting scandal and unfulfilled promises are significant new findings",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-22T06:35:18.849086Z",
+      "notes": "The Guardian and BBC reports indicate a significant challenge to Keir Starmer's leadership",
       "new_items": true
     }
   ],
@@ -482,7 +515,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-22T06:35:18.849172Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-21T06:32:51.251254Z"
+  "last_updated": "2026-04-22T06:35:18.849189Z"
 }
