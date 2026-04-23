@@ -164,6 +164,24 @@
       "source": "RNZ",
       "_id": "1d4cdecd",
       "_crawled": "2026-04-22T06:32:21.980285Z"
+    },
+    {
+      "year": 2026,
+      "title": "Shane Jones apologises for Nicola Willis weight loss comments",
+      "desc": "Shane Jones apologised for his comments about Nicola Willis' weight loss, which were widely criticised.",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "c5ba6b40",
+      "_crawled": "2026-04-23T06:58:20.819378Z"
+    },
+    {
+      "year": 2026,
+      "title": "National, ACT MPs call out Jones' 'butter chicken' comments",
+      "desc": "National and ACT MPs condemned Shane Jones' comments about the India FTA, calling them racist and 'lame dad jokes'.",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "313eb179",
+      "_crawled": "2026-04-23T06:58:20.819378Z"
     }
   ],
   "score_adjustments": {
@@ -201,6 +219,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' claim about the bill was contradicted by critics, raising concerns about his integrity"
+    },
+    "2026-04-23T06:58:20.819378Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' recent comments have been widely criticised, which may impact his integrity score."
     }
   },
   "summary_updates": [
@@ -239,6 +262,10 @@
     {
       "date": "2026-04-22T06:32:21.980285Z",
       "text": "Shane Jones faced criticism for his comments on the India FTA and sparked anger from the Indian community"
+    },
+    {
+      "date": "2026-04-23T06:58:20.819378Z",
+      "text": "Shane Jones has faced criticism for his recent comments, including his apology for remarks about Nicola Willis' weight loss and his defence of comments about the India FTA."
     }
   ],
   "crawl_log": [
@@ -330,6 +357,11 @@
     {
       "date": "2026-04-22T06:32:21.980285Z",
       "notes": "Multiple sources reported on Shane Jones' controversial comments, but no new lies or social posts were found",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-23T06:58:20.819378Z",
+      "notes": "Shane Jones' recent comments have been widely reported and criticised in the media.",
       "new_items": true
     }
   ],
@@ -462,7 +494,15 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-23T06:58:20.819452Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-22T06:32:21.980397Z"
+  "last_updated": "2026-04-23T06:58:20.819471Z"
 }

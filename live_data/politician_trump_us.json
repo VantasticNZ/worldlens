@@ -702,6 +702,11 @@
       "date": "2026-04-22T06:34:26.391949Z",
       "notes": "The search results have provided new information about President Donald Trump's recent activities and statements.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-23T07:01:01.952276Z",
+      "notes": "New events related to Trump's dealings with Iran and a lawsuit against his crypto firm",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -821,7 +826,13 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-23T07:01:01.952362Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-22T06:34:26.392205Z"
+  "last_updated": "2026-04-23T07:01:01.952382Z"
 }

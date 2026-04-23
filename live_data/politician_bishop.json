@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 6,
+  "lie_count": 7,
   "lies": [
     {
       "date": "April 2026",
@@ -62,6 +62,16 @@
       "platform": "speech",
       "_id": "6576d74a",
       "_crawled": "2026-04-22T06:33:15.812216Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "The government is not slashing Auckland housing numbers",
+      "reality": "The government is planning to slash Auckland housing numbers again",
+      "source": "The Spinoff, March 31, 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "9314a21b",
+      "_crawled": "2026-04-23T06:59:27.639715Z"
     }
   ],
   "social_posts": [],
@@ -192,6 +202,24 @@
       "source": "Beehive.govt.nz",
       "_id": "0f8a08b0",
       "_crawled": "2026-04-22T06:33:15.812216Z"
+    },
+    {
+      "year": 2026,
+      "title": "Auckland housing numbers to be slashed again",
+      "desc": "The government is planning to reduce the number of houses to be built in Auckland, despite previous promises",
+      "type": "negative",
+      "source": "The Spinoff",
+      "_id": "f3f35f75",
+      "_crawled": "2026-04-23T06:59:27.639715Z"
+    },
+    {
+      "year": 2026,
+      "title": "Cost-benefit review of promised roads ordered",
+      "desc": "Chris Bishop has ordered a cost-benefit review of promised roads, citing concerns about their viability",
+      "type": "neutral",
+      "source": "Newsroom",
+      "_id": "931557ba",
+      "_crawled": "2026-04-23T06:59:27.639715Z"
     }
   ],
   "score_adjustments": {
@@ -254,13 +282,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Housing Minister Chris Bishop's claims of no actual change in Auckland housing plans contradict the reality of the scaled-down plan"
+    },
+    "2026-04-23T06:59:27.639715Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The government's plan to slash Auckland housing numbers again, despite previous promises, raises concerns about the integrity of the government's decision-making process"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-07T06:16:16.262095Z",
-      "text": "Chris Bishop faced controversy over his handling of housing issues and was demoted as campaign chair."
-    },
     {
       "date": "2026-04-08T06:18:11.621223Z",
       "text": "Housing Minister Chris Bishop's claim of 'no actual change' has been contradicted by the slashing of Auckland housing numbers again"
@@ -296,6 +325,10 @@
     {
       "date": "2026-04-22T06:33:15.812216Z",
       "text": "Housing Minister Chris Bishop's credibility has taken a hit due to contradictory statements on Auckland housing plans"
+    },
+    {
+      "date": "2026-04-23T06:59:27.639715Z",
+      "text": "The government's plan to slash Auckland housing numbers again has raised concerns about the integrity of the government's decision-making process"
     }
   ],
   "crawl_log": [
@@ -377,6 +410,11 @@
     {
       "date": "2026-04-22T06:33:15.812216Z",
       "notes": "Multiple sources confirm the government's reduction of housing intensification rules for Auckland, contradicting Chris Bishop's claims",
+      "new_items": true
+    },
+    {
+      "date": "2026-04-23T06:59:27.639715Z",
+      "notes": "New findings indicate a potential integrity issue with the government's housing plans",
       "new_items": true
     }
   ],
@@ -499,7 +537,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-23T06:59:27.639805Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement "
+      ]
     }
   ],
-  "last_updated": "2026-04-22T06:33:15.812363Z"
+  "last_updated": "2026-04-23T06:59:27.639824Z"
 }

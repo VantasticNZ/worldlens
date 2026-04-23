@@ -315,6 +315,11 @@
       "date": "2026-04-22T06:33:32.995593Z",
       "notes": "No significant new findings except for a demand of apology from Nicola Willis",
       "new_items": true
+    },
+    {
+      "date": "2026-04-23T07:00:07.519192Z",
+      "notes": "New event added regarding Labour's support for India free trade deal",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -445,7 +450,15 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-04-23T07:00:07.519259Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-04-22T06:33:32.995673Z"
+  "last_updated": "2026-04-23T07:00:07.519278Z"
 }

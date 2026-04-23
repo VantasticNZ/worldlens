@@ -120,6 +120,20 @@
       },
       "_id": "227e204e",
       "_crawled": "2026-04-22T06:30:50.536265Z"
+    },
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "Luxon's statement to media after the National caucus vote",
+      "verified_by": "Newsroom, April 2026",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Luxon's statement about his leadership and the caucus vote",
+        "source": "Newsroom, April 2026",
+        "severity": "med"
+      },
+      "_id": "9ad0bdae",
+      "_crawled": "2026-04-23T06:56:40.694483Z"
     }
   ],
   "votes": [
@@ -381,13 +395,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's contradictory statements and ongoing leadership challenges have raised concerns about his integrity"
+    },
+    "2026-04-23T06:56:40.694483Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's refusal to take questions from media and his history of contradictory statements"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-11T05:54:48.307183Z",
-      "text": "Christopher Luxon signed the Auckland City Deal and commented on economic effects of ceasefire"
-    },
     {
       "date": "2026-04-12T06:19:26.382077Z",
       "text": "Christopher Luxon's integrity score takes a hit due to inconsistency on climate change policies"
@@ -423,6 +438,10 @@
     {
       "date": "2026-04-22T06:30:50.536265Z",
       "text": "Luxon's leadership faces ongoing challenges, and his contradictory statements have raised concerns about his integrity"
+    },
+    {
+      "date": "2026-04-23T06:56:40.694483Z",
+      "text": "Luxon survives leadership vote, but faces ongoing questions about his leadership and integrity"
     }
   ],
   "crawl_log": [
@@ -535,17 +554,14 @@
       "date": "2026-04-22T06:30:50.536265Z",
       "notes": "Luxon's social media posts and public statements require close monitoring for discrepancies and contradictions",
       "new_items": true
+    },
+    {
+      "date": "2026-04-23T06:56:40.694483Z",
+      "notes": "Luxon's leadership and integrity continue to be scrutinized by media and the public",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-02T06:07:07.750633Z",
-      "sources": [
-        "RSS (5 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-03T06:07:39.693244Z",
       "sources": [
@@ -697,7 +713,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-23T06:56:40.694600Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-04-22T06:30:50.536426Z"
+  "last_updated": "2026-04-23T06:56:40.694624Z"
 }
