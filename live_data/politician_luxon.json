@@ -404,10 +404,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-12T06:19:26.382077Z",
-      "text": "Christopher Luxon's integrity score takes a hit due to inconsistency on climate change policies"
-    },
-    {
       "date": "2026-04-15T06:27:58.457262Z",
       "text": "Luxon faced criticism for his handling of climate change and trade deals, and his integrity score has been adjusted downward"
     },
@@ -442,6 +438,10 @@
     {
       "date": "2026-04-23T06:56:40.694483Z",
       "text": "Luxon survives leadership vote, but faces ongoing questions about his leadership and integrity"
+    },
+    {
+      "date": "2026-04-24T07:00:10.506148Z",
+      "text": "Christopher Luxon cancelled his weekly TVNZ Breakfast slot and addressed various concerns, including business and economic issues."
     }
   ],
   "crawl_log": [
@@ -559,17 +559,14 @@
       "date": "2026-04-23T06:56:40.694483Z",
       "notes": "Luxon's leadership and integrity continue to be scrutinized by media and the public",
       "new_items": true
+    },
+    {
+      "date": "2026-04-24T07:00:10.506148Z",
+      "notes": "Multiple sources reported on Luxon's cancellation of his TVNZ Breakfast slot and his responses to business concerns.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-03T06:07:39.693244Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-04T05:50:51.941138Z",
       "sources": [
@@ -721,7 +718,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-04-24T07:00:10.506267Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-04-23T06:56:40.694624Z"
+  "last_updated": "2026-04-24T07:00:10.506291Z"
 }

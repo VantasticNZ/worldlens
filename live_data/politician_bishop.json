@@ -416,6 +416,11 @@
       "date": "2026-04-23T06:59:27.639715Z",
       "notes": "New findings indicate a potential integrity issue with the government's housing plans",
       "new_items": true
+    },
+    {
+      "date": "2026-04-24T07:01:38.909533Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -546,5 +551,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-23T06:59:27.639824Z"
+  "last_updated": "2026-04-24T07:01:38.909582Z"
 }

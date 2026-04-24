@@ -318,6 +318,15 @@
       "source": "NZ Herald",
       "_id": "46b82f96",
       "_crawled": "2026-04-23T06:58:57.477754Z"
+    },
+    {
+      "year": 2026,
+      "title": "Shane Jones apologises for Nicola Willis weight loss comments",
+      "desc": "Shane Jones has apologised for making comments about Nicola Willis' weight loss",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "c5ba6b40",
+      "_crawled": "2026-04-24T07:01:26.089993Z"
     }
   ],
   "score_adjustments": {
@@ -479,6 +488,11 @@
       "date": "2026-04-23T06:58:57.477754Z",
       "notes": "Reviewed RNZ News, NZ Herald, and Tavily sources for updates on Nicola Willis",
       "new_items": true
+    },
+    {
+      "date": "2026-04-24T07:01:26.089993Z",
+      "notes": "No significant new findings related to Nicola Willis' actions or statements",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -612,7 +626,13 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-24T07:01:26.090057Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-23T06:58:57.477878Z"
+  "last_updated": "2026-04-24T07:01:26.090076Z"
 }

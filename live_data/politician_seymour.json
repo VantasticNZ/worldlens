@@ -294,16 +294,14 @@
       "date": "2026-04-23T06:57:45.857887Z",
       "notes": "No significant lies, social posts, or votes found",
       "new_items": true
+    },
+    {
+      "date": "2026-04-24T07:00:54.280787Z",
+      "notes": "RNZ News articles reviewed, one new event added regarding investment programme proposal",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-01T06:22:42.438553Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-04-02T06:08:04.802049Z",
       "sources": [
@@ -437,7 +435,13 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-04-24T07:00:54.280856Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-23T06:57:45.857977Z"
+  "last_updated": "2026-04-24T07:00:54.280880Z"
 }

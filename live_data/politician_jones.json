@@ -363,6 +363,11 @@
       "date": "2026-04-23T06:58:20.819378Z",
       "notes": "Shane Jones' recent comments have been widely reported and criticised in the media.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-24T07:01:08.728863Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -502,7 +507,13 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-04-24T07:01:08.728879Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-23T06:58:20.819471Z"
+  "last_updated": "2026-04-24T07:01:08.728898Z"
 }
