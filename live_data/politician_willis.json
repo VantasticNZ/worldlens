@@ -493,6 +493,11 @@
       "date": "2026-04-24T07:01:26.089993Z",
       "notes": "No significant new findings related to Nicola Willis' actions or statements",
       "new_items": true
+    },
+    {
+      "date": "2026-04-25T06:18:16.282279Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -634,5 +639,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-24T07:01:26.090076Z"
+  "last_updated": "2026-04-25T06:18:16.282322Z"
 }

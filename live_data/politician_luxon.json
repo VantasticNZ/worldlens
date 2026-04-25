@@ -404,10 +404,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-15T06:27:58.457262Z",
-      "text": "Luxon faced criticism for his handling of climate change and trade deals, and his integrity score has been adjusted downward"
-    },
-    {
       "date": "2026-04-16T06:29:22.279604Z",
       "text": "Luxon's coalition is fracturing due to disagreements on climate policy, and he has faced controversy over his receipt of a matai title in Samoa"
     },
@@ -442,6 +438,10 @@
     {
       "date": "2026-04-24T07:00:10.506148Z",
       "text": "Christopher Luxon cancelled his weekly TVNZ Breakfast slot and addressed various concerns, including business and economic issues."
+    },
+    {
+      "date": "2026-04-25T06:16:30.245116Z",
+      "text": "Christopher Luxon has faced criticism over his handling of media questions and has cancelled his weekly TVNZ Breakfast slot."
     }
   ],
   "crawl_log": [
@@ -564,17 +564,14 @@
       "date": "2026-04-24T07:00:10.506148Z",
       "notes": "Multiple sources reported on Luxon's cancellation of his TVNZ Breakfast slot and his responses to business concerns.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-25T06:16:30.245116Z",
+      "notes": "Reviewed RNZ News and Guardian NZ articles for updates on Christopher Luxon",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-04T05:50:51.941138Z",
-      "sources": [
-        "RSS (5 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-05T06:09:37.364852Z",
       "sources": [
@@ -725,7 +722,13 @@
         "RSS (4 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-04-25T06:16:30.245249Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-24T07:00:10.506291Z"
+  "last_updated": "2026-04-25T06:16:30.245270Z"
 }

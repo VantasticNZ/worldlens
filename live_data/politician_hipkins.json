@@ -325,6 +325,11 @@
       "date": "2026-04-24T07:01:54.395455Z",
       "notes": "Added new event regarding Labour's support for India free trade deal",
       "new_items": true
+    },
+    {
+      "date": "2026-04-25T06:19:15.970628Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -471,5 +476,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-24T07:01:54.395542Z"
+  "last_updated": "2026-04-25T06:19:15.970670Z"
 }
