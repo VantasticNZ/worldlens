@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-25T06:21:01.738914Z",
+  "generated": "2026-04-26T06:59:21.454604Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-04-25T06:21:00.738026Z",
+      "last_updated": "2026-04-26T06:59:20.453826Z",
       "lie_count": 7,
       "event_count": 17,
       "post_count": 2,
@@ -14,9 +14,9 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-04-25T06:20:29.305171Z",
+      "last_updated": "2026-04-26T06:58:57.811152Z",
       "lie_count": 0,
-      "event_count": 13,
+      "event_count": 14,
       "post_count": 2,
       "vote_count": 0,
       "sources": [
@@ -26,7 +26,7 @@
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-04-25T06:17:02.764299Z",
+      "last_updated": "2026-04-26T06:55:50.361236Z",
       "lie_count": 11,
       "event_count": 20,
       "post_count": 10,
@@ -38,19 +38,19 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-04-25T06:17:35.296020Z",
+      "last_updated": "2026-04-26T06:56:12.783750Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (3 articles from NZ/intl media)"
+          "RSS (2 articles from NZ/intl media)"
         ]
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-04-25T06:19:38.332313Z",
+      "last_updated": "2026-04-26T06:58:18.140396Z",
       "lie_count": 0,
       "event_count": 7,
       "post_count": 1,
@@ -63,7 +63,7 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-04-25T06:18:16.282322Z",
+      "last_updated": "2026-04-26T06:57:00.700927Z",
       "lie_count": 7,
       "event_count": 20,
       "post_count": 5,
@@ -75,32 +75,32 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-04-25T06:20:05.538301Z",
+      "last_updated": "2026-04-26T06:58:34.936421Z",
       "lie_count": 32,
       "event_count": 20,
       "post_count": 1,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (6 articles from NZ/intl media)"
+          "RSS (2 articles from NZ/intl media)",
+          "GDELT global news database"
         ]
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-04-25T06:18:50.051000Z",
+      "last_updated": "2026-04-26T06:57:23.806990Z",
       "lie_count": 7,
-      "event_count": 16,
+      "event_count": 17,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
-          "Tavily: Chris Bishop housing minister statement "
+          "RSS (1 articles from NZ/intl media)"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-04-25T06:19:15.970670Z",
+      "last_updated": "2026-04-26T06:57:55.008426Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 1,
@@ -112,19 +112,20 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-04-25T06:16:30.245270Z",
+      "last_updated": "2026-04-26T06:55:28.354406Z",
       "lie_count": 6,
       "event_count": 20,
       "post_count": 5,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (3 articles from NZ/intl media)"
+          "RSS (3 articles from NZ/intl media)",
+          "GDELT global news database"
         ]
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-04-25T06:17:58.105082Z",
+      "last_updated": "2026-04-26T06:56:36.185432Z",
       "lie_count": 5,
       "event_count": 14,
       "post_count": 0,

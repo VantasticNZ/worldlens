@@ -151,6 +151,15 @@
       "source": "AP News",
       "_id": "54516ff5",
       "_crawled": "2026-04-17T06:32:13.245690Z"
+    },
+    {
+      "year": 2026,
+      "title": "Albanese responds to Washington shooting at White House Correspondent Dinner",
+      "desc": "Anthony Albanese responded to the shooting at the White House Correspondent Dinner where a man allegedly opened fire as Donald Trump and Melania were rushed out.",
+      "type": "negative",
+      "source": "dailymail.com",
+      "_id": "895125a6",
+      "_crawled": "2026-04-26T06:58:57.811088Z"
     }
   ],
   "score_adjustments": {},
@@ -254,6 +263,11 @@
       "date": "2026-04-24T07:03:14.333888Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-26T06:58:57.811088Z",
+      "notes": "Extracted new event related to Albanese's response to the Washington shooting",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -400,7 +414,13 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-04-26T06:58:57.811134Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-04-25T06:20:29.305171Z"
+  "last_updated": "2026-04-26T06:58:57.811152Z"
 }

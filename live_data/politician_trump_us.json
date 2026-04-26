@@ -712,6 +712,11 @@
       "date": "2026-04-24T07:02:42.252170Z",
       "notes": "Reviewed 6 articles from BBC World, found 3 new events",
       "new_items": true
+    },
+    {
+      "date": "2026-04-26T06:58:34.936320Z",
+      "notes": "New events added related to a shooting incident and a cancelled diplomatic trip",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -843,7 +848,14 @@
       "sources": [
         "RSS (6 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-04-26T06:58:34.936404Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-04-25T06:20:05.538301Z"
+  "last_updated": "2026-04-26T06:58:34.936421Z"
 }

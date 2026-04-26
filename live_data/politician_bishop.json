@@ -220,6 +220,15 @@
       "source": "Newsroom",
       "_id": "931557ba",
       "_crawled": "2026-04-23T06:59:27.639715Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chris Bishop misses dawn service wreath laying",
+      "desc": "Hutt South MP Chris Bishop expressed disappointment at missing the dawn service wreath laying",
+      "type": "neutral",
+      "source": "RNZ News",
+      "_id": "ee0057aa",
+      "_crawled": "2026-04-26T06:57:23.806921Z"
     }
   ],
   "score_adjustments": {
@@ -421,6 +430,11 @@
       "date": "2026-04-24T07:01:38.909533Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-04-26T06:57:23.806921Z",
+      "notes": "No significant new findings related to lies, social posts, or votes",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -549,7 +563,13 @@
         "RSS (1 articles from NZ/intl media)",
         "Tavily: Chris Bishop housing minister statement "
       ]
+    },
+    {
+      "date": "2026-04-26T06:57:23.806973Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-25T06:18:50.051000Z"
+  "last_updated": "2026-04-26T06:57:23.806990Z"
 }
