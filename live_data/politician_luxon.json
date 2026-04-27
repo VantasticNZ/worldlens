@@ -404,10 +404,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-17T06:29:26.184171Z",
-      "text": "Luxon's leadership is under scrutiny amid speculation of a potential spill and concerns about his integrity on climate change policies"
-    },
-    {
       "date": "2026-04-18T06:08:07.733121Z",
       "text": "Christopher Luxon is facing challenges to his leadership and has been accused of making inconsistent statements on climate change policies."
     },
@@ -442,6 +438,10 @@
     {
       "date": "2026-04-26T06:55:28.354296Z",
       "text": "Christopher Luxon cancelled his weekly TVNZ Breakfast slot and a new India-New Zealand FTA is expected to boost exports and MSMEs."
+    },
+    {
+      "date": "2026-04-27T07:30:19.766381Z",
+      "text": "Christopher Luxon has been involved in several recent events, including condemning a shooting at a gala and cancelling his weekly TVNZ Breakfast slot."
     }
   ],
   "crawl_log": [
@@ -574,17 +574,14 @@
       "date": "2026-04-26T06:55:28.354296Z",
       "notes": "New events added, including Luxon's cancellation of TVNZ Breakfast slot and the India-New Zealand FTA.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-27T07:30:19.766381Z",
+      "notes": "RNZ News and Guardian NZ articles reviewed, no new lies or social posts found.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-06T06:25:48.724204Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-07T06:14:28.749348Z",
       "sources": [
@@ -732,7 +729,13 @@
         "RSS (3 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-04-27T07:30:19.766498Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-26T06:55:28.354406Z"
+  "last_updated": "2026-04-27T07:30:19.766519Z"
 }
