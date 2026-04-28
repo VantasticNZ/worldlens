@@ -678,17 +678,14 @@
       "date": "2026-04-27T07:30:43.086507Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-04-28T07:27:50.935484Z",
+      "notes": "Added new event regarding Winston Peters' stance on transportation",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-02T06:07:36.580120Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-04-03T06:08:09.901760Z",
       "sources": [
@@ -835,7 +832,14 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-04-28T07:27:50.935549Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-04-27T07:30:43.086552Z"
+  "last_updated": "2026-04-28T07:27:50.935572Z"
 }

@@ -363,10 +363,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-07T06:15:53.784540Z",
-      "text": "Finance Minister Nicola Willis' credibility has taken a hit due to contradictions in her claims and statements."
-    },
-    {
       "date": "2026-04-09T06:16:03.912804Z",
       "text": "Nicola Willis' recent statements and actions have raised concerns about her integrity and policy plans."
     },
@@ -401,6 +397,10 @@
     {
       "date": "2026-04-23T06:58:57.477754Z",
       "text": "Nicola Willis meets with White House officials and signs joint declaration with international finance ministers to discuss economic response to Iran conflict"
+    },
+    {
+      "date": "2026-04-28T07:29:03.175700Z",
+      "text": "Nicola Willis responds to fuel crisis and secures extra diesel supply."
     }
   ],
   "crawl_log": [
@@ -508,6 +508,11 @@
       "date": "2026-04-27T07:31:57.286416Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-04-28T07:29:03.175700Z",
+      "notes": "RNZ News and Xinhua articles reviewed, no significant lies or social posts found.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -647,7 +652,14 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-04-28T07:29:03.175786Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-04-27T07:31:57.286457Z"
+  "last_updated": "2026-04-28T07:29:03.175804Z"
 }

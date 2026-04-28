@@ -717,6 +717,11 @@
       "date": "2026-04-26T06:58:34.936320Z",
       "notes": "New events added related to a shooting incident and a cancelled diplomatic trip",
       "new_items": true
+    },
+    {
+      "date": "2026-04-28T07:30:38.356122Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -855,7 +860,13 @@
         "RSS (2 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-04-28T07:30:38.356135Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-27T07:33:47.871435Z"
+  "last_updated": "2026-04-28T07:30:38.356152Z"
 }

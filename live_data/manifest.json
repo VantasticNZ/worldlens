@@ -1,56 +1,32 @@
 {
-  "generated": "2026-04-27T07:34:25.438510Z",
+  "generated": "2026-04-28T07:31:28.243823Z",
   "files": {
-    "politician_starmer_uk": {
-      "last_updated": "2026-04-27T07:34:24.437623Z",
-      "lie_count": 7,
-      "event_count": 17,
-      "post_count": 2,
+    "politician_hipkins": {
+      "last_updated": "2026-04-28T07:29:50.411230Z",
+      "lie_count": 0,
+      "event_count": 20,
+      "post_count": 1,
       "vote_count": 0,
       "sources": [
         [
-          "GDELT global news database"
+          "RSS (1 articles from NZ/intl media)"
         ]
       ]
     },
-    "politician_albanese_au": {
-      "last_updated": "2026-04-27T07:34:05.691387Z",
-      "lie_count": 0,
+    "politician_jones": {
+      "last_updated": "2026-04-28T07:28:41.797747Z",
+      "lie_count": 5,
       "event_count": 14,
-      "post_count": 2,
-      "vote_count": 0,
-      "sources": [
-        [
-          "GDELT global news database"
-        ]
-      ]
-    },
-    "politician_peters": {
-      "last_updated": "2026-04-27T07:30:43.086552Z",
-      "lie_count": 11,
-      "event_count": 20,
-      "post_count": 10,
-      "vote_count": 0,
-      "sources": [
-        [
-          "GDELT global news database"
-        ]
-      ]
-    },
-    "politician_seymour": {
-      "last_updated": "2026-04-27T07:31:06.034357Z",
-      "lie_count": 0,
-      "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)"
+          "GDELT global news database"
         ]
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-04-27T07:33:17.761131Z",
+      "last_updated": "2026-04-28T07:30:08.792433Z",
       "lie_count": 0,
       "event_count": 7,
       "post_count": 1,
@@ -63,22 +39,10 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-04-27T07:31:57.286457Z",
+      "last_updated": "2026-04-28T07:29:03.175804Z",
       "lie_count": 7,
       "event_count": 20,
       "post_count": 5,
-      "vote_count": 0,
-      "sources": [
-        [
-          "RSS (1 articles from NZ/intl media)"
-        ]
-      ]
-    },
-    "politician_trump_us": {
-      "last_updated": "2026-04-27T07:33:47.871435Z",
-      "lie_count": 32,
-      "event_count": 20,
-      "post_count": 1,
       "vote_count": 0,
       "sources": [
         [
@@ -87,32 +51,58 @@
         ]
       ]
     },
+    "politician_seymour": {
+      "last_updated": "2026-04-28T07:28:15.187984Z",
+      "lie_count": 0,
+      "event_count": 20,
+      "post_count": 0,
+      "vote_count": 0,
+      "sources": [
+        [
+          "RSS (2 articles from NZ/intl media)"
+        ]
+      ]
+    },
+    "politician_peters": {
+      "last_updated": "2026-04-28T07:27:50.935572Z",
+      "lie_count": 11,
+      "event_count": 20,
+      "post_count": 10,
+      "vote_count": 0,
+      "sources": [
+        [
+          "RSS (1 articles from NZ/intl media)",
+          "GDELT global news database"
+        ]
+      ]
+    },
+    "politician_albanese_au": {
+      "last_updated": "2026-04-28T07:31:08.713124Z",
+      "lie_count": 0,
+      "event_count": 14,
+      "post_count": 2,
+      "vote_count": 0,
+      "sources": [
+        [
+          "GDELT global news database"
+        ]
+      ]
+    },
     "politician_bishop": {
-      "last_updated": "2026-04-27T07:32:27.338991Z",
+      "last_updated": "2026-04-28T07:29:26.783303Z",
       "lie_count": 7,
       "event_count": 17,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)"
-        ]
-      ]
-    },
-    "politician_hipkins": {
-      "last_updated": "2026-04-27T07:32:58.076916Z",
-      "lie_count": 0,
-      "event_count": 20,
-      "post_count": 1,
-      "vote_count": 0,
-      "sources": [
-        [
-          "RSS (1 articles from NZ/intl media)"
+          "RSS (1 articles from NZ/intl media)",
+          "GDELT global news database"
         ]
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-04-27T07:30:19.766519Z",
+      "last_updated": "2026-04-28T07:27:19.758526Z",
       "lie_count": 6,
       "event_count": 20,
       "post_count": 5,
@@ -123,15 +113,27 @@
         ]
       ]
     },
-    "politician_jones": {
-      "last_updated": "2026-04-27T07:31:27.552510Z",
-      "lie_count": 5,
-      "event_count": 14,
-      "post_count": 0,
+    "politician_starmer_uk": {
+      "last_updated": "2026-04-28T07:31:27.243028Z",
+      "lie_count": 7,
+      "event_count": 17,
+      "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)"
+          "GDELT global news database"
+        ]
+      ]
+    },
+    "politician_trump_us": {
+      "last_updated": "2026-04-28T07:30:38.356152Z",
+      "lie_count": 32,
+      "event_count": 20,
+      "post_count": 1,
+      "vote_count": 0,
+      "sources": [
+        [
+          "RSS (4 articles from NZ/intl media)"
         ]
       ]
     }

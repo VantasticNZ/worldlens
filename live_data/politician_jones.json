@@ -383,17 +383,14 @@
       "date": "2026-04-27T07:31:27.552471Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-04-28T07:28:41.797713Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-01T06:22:51.924859Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-04-02T06:08:33.024977Z",
       "sources": [
@@ -528,7 +525,13 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-04-28T07:28:41.797728Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-04-27T07:31:27.552510Z"
+  "last_updated": "2026-04-28T07:28:41.797747Z"
 }

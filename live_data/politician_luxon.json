@@ -404,10 +404,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-18T06:08:07.733121Z",
-      "text": "Christopher Luxon is facing challenges to his leadership and has been accused of making inconsistent statements on climate change policies."
-    },
-    {
       "date": "2026-04-19T06:24:53.250531Z",
       "text": "Christopher Luxon faces leadership speculation and meets with world leaders to discuss the Strait of Hormuz situation."
     },
@@ -442,6 +438,10 @@
     {
       "date": "2026-04-27T07:30:19.766381Z",
       "text": "Christopher Luxon has been involved in several recent events, including condemning a shooting at a gala and cancelling his weekly TVNZ Breakfast slot."
+    },
+    {
+      "date": "2026-04-28T07:27:19.758371Z",
+      "text": "Prime Minister Luxon faces criticism for cancelling his weekly Breakfast interview and defending his economic record."
     }
   ],
   "crawl_log": [
@@ -579,18 +579,14 @@
       "date": "2026-04-27T07:30:19.766381Z",
       "notes": "RNZ News and Guardian NZ articles reviewed, no new lies or social posts found.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-28T07:27:19.758371Z",
+      "notes": "RNZ News and Guardian NZ articles reviewed, no new lies or social posts found.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-07T06:14:28.749348Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-08T06:16:08.358448Z",
       "sources": [
@@ -735,7 +731,13 @@
       "sources": [
         "RSS (4 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-04-28T07:27:19.758504Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-27T07:30:19.766519Z"
+  "last_updated": "2026-04-28T07:27:19.758526Z"
 }
