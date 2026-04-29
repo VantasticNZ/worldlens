@@ -513,6 +513,11 @@
       "date": "2026-04-28T07:29:03.175700Z",
       "notes": "RNZ News and Xinhua articles reviewed, no significant lies or social posts found.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-29T07:16:28.878968Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -661,5 +666,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-28T07:29:03.175804Z"
+  "last_updated": "2026-04-29T07:16:28.879008Z"
 }

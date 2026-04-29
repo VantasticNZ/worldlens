@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 32,
+  "lie_count": 33,
   "lies": [
     {
       "date": "January 2026",
@@ -322,6 +322,16 @@
       "platform": "social media post",
       "_id": "c2f5024e",
       "_crawled": "2026-04-22T06:34:26.391949Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "King agrees with me that Iran should never have a nuclear weapon",
+      "reality": "No evidence of King's statement on the matter",
+      "source": "dudleynews.co.uk, April 29, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "0e96ff72",
+      "_crawled": "2026-04-29T07:17:15.600516Z"
     }
   ],
   "social_posts": [
@@ -588,13 +598,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The new lies and contradictions found in the search results have decreased the integrity score."
+    },
+    "2026-04-29T07:17:15.600516Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Claim about King's statement on Iran's nuclear weapon appears to be unsubstantiated"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-06T06:27:29.180007Z",
-      "text": "Donald Trump has made multiple new false and misleading claims, including about mail-in voting, homicide rates, and the economy."
-    },
     {
       "date": "2026-04-08T06:19:26.762171Z",
       "text": "Trump's recent statements on Iran have been marked by contradictions and lies, and he has agreed to a two-week ceasefire with the country"
@@ -630,6 +641,10 @@
     {
       "date": "2026-04-24T07:02:42.252170Z",
       "text": "The Trump administration has made notable moves, including reclassifying cannabis and facing a lawsuit from a billionaire backer."
+    },
+    {
+      "date": "2026-04-29T07:17:15.600516Z",
+      "text": "Trump faces attempted assassination and instructs to prepare a long-term blockade against Iran"
     }
   ],
   "crawl_log": [
@@ -722,6 +737,11 @@
       "date": "2026-04-28T07:30:38.356122Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-04-29T07:17:15.600516Z",
+      "notes": "BBC World and GDELT sources provided new information on Trump's activities and statements",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -866,7 +886,14 @@
       "sources": [
         "RSS (4 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-04-29T07:17:15.600656Z",
+      "sources": [
+        "RSS (6 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-04-28T07:30:38.356152Z"
+  "last_updated": "2026-04-29T07:17:15.600673Z"
 }

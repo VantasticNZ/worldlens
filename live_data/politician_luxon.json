@@ -400,13 +400,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's refusal to take questions from media and his history of contradictory statements"
+    },
+    "2026-04-29T07:15:33.202110Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's request for a confidence vote may indicate a lack of self-assurance in his leadership."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-19T06:24:53.250531Z",
-      "text": "Christopher Luxon faces leadership speculation and meets with world leaders to discuss the Strait of Hormuz situation."
-    },
     {
       "date": "2026-04-20T07:11:21.770699Z",
       "text": "Luxon's leadership is being questioned after a recent poll, and he has been accused of inconsistency on climate change policy"
@@ -442,6 +443,10 @@
     {
       "date": "2026-04-28T07:27:19.758371Z",
       "text": "Prime Minister Luxon faces criticism for cancelling his weekly Breakfast interview and defending his economic record."
+    },
+    {
+      "date": "2026-04-29T07:15:33.202110Z",
+      "text": "Christopher Luxon's leadership is under scrutiny after he requested a confidence vote from National MPs."
     }
   ],
   "crawl_log": [
@@ -584,17 +589,14 @@
       "date": "2026-04-28T07:27:19.758371Z",
       "notes": "RNZ News and Guardian NZ articles reviewed, no new lies or social posts found.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-29T07:15:33.202110Z",
+      "notes": "Leadership confidence vote and potential implications for Luxon's integrity score.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-08T06:16:08.358448Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-09T06:15:19.627388Z",
       "sources": [
@@ -737,7 +739,13 @@
       "sources": [
         "RSS (4 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-04-29T07:15:33.202184Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-28T07:27:19.758526Z"
+  "last_updated": "2026-04-29T07:15:33.202204Z"
 }
