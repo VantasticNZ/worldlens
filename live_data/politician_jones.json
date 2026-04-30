@@ -402,6 +402,11 @@
       "date": "2026-04-29T07:16:15.448743Z",
       "notes": "RNZ News article reports on Trade Minister Todd McClay being questioned by Indian media over Shane Jones' comments",
       "new_items": true
+    },
+    {
+      "date": "2026-04-30T07:24:24.975060Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -546,5 +551,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-29T07:16:15.448861Z"
+  "last_updated": "2026-04-30T07:24:24.975085Z"
 }

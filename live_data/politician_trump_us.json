@@ -742,6 +742,11 @@
       "date": "2026-04-29T07:17:15.600516Z",
       "notes": "BBC World and GDELT sources provided new information on Trump's activities and statements",
       "new_items": true
+    },
+    {
+      "date": "2026-04-30T07:24:53.211522Z",
+      "notes": "New events related to Trump's safety and international relations",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -893,7 +898,13 @@
         "RSS (6 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-04-30T07:24:53.211705Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-29T07:17:15.600673Z"
+  "last_updated": "2026-04-30T07:24:53.211726Z"
 }

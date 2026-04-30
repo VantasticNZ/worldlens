@@ -160,6 +160,33 @@
       "source": "dailymail.com",
       "_id": "895125a6",
       "_crawled": "2026-04-26T06:58:57.811088Z"
+    },
+    {
+      "year": 2026,
+      "title": "Inquiry into antisemitic attack in Sydney",
+      "desc": "An inquiry into the antisemitic attack in Sydney that left 15 dead has recommended gun reform. The Australian government has been called to take action amid rising antisemitism.",
+      "type": "negative",
+      "source": "seattletimes.com, wgauradio.com, sbs.com.au, yahoo.com",
+      "_id": "0d18a695",
+      "_crawled": "2026-04-30T07:25:06.439045Z"
+    },
+    {
+      "year": 2026,
+      "title": "Counterterrorism funds decline ahead of Bondi attack",
+      "desc": "Counterterrorism funds significantly declined ahead of the Bondi attack, raising concerns about the government's preparedness.",
+      "type": "negative",
+      "source": "sbs.com.au",
+      "_id": "543f2c13",
+      "_crawled": "2026-04-30T07:25:06.439045Z"
+    },
+    {
+      "year": 2026,
+      "title": "Jewish agency warned of high threat level ahead of Bondi shooting",
+      "desc": "A report has found that a Jewish agency warned of a high threat level ahead of the Bondi shooting, which killed 15 people.",
+      "type": "negative",
+      "source": "yahoo.com",
+      "_id": "3f12ce43",
+      "_crawled": "2026-04-30T07:25:06.439045Z"
     }
   ],
   "score_adjustments": {},
@@ -278,6 +305,11 @@
       "date": "2026-04-29T07:17:23.916099Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-04-30T07:25:06.439045Z",
+      "notes": "New events related to the antisemitic attack in Sydney and the Bondi shooting have been added.",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -430,7 +462,13 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-04-30T07:25:06.439123Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-04-29T07:17:23.916126Z"
+  "last_updated": "2026-04-30T07:25:06.439138Z"
 }

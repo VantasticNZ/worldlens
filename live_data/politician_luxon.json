@@ -409,10 +409,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-20T07:11:21.770699Z",
-      "text": "Luxon's leadership is being questioned after a recent poll, and he has been accused of inconsistency on climate change policy"
-    },
-    {
       "date": "2026-04-21T06:29:59.804989Z",
       "text": "Luxon survives confidence vote, but faces criticism over climate change policies"
     },
@@ -447,6 +443,10 @@
     {
       "date": "2026-04-29T07:15:33.202110Z",
       "text": "Christopher Luxon's leadership is under scrutiny after he requested a confidence vote from National MPs."
+    },
+    {
+      "date": "2026-04-30T07:23:53.805132Z",
+      "text": "Luxon held talks with Peters after emails revealed a clash over New Zealand's Iran war stance."
     }
   ],
   "crawl_log": [
@@ -594,17 +594,14 @@
       "date": "2026-04-29T07:15:33.202110Z",
       "notes": "Leadership confidence vote and potential implications for Luxon's integrity score.",
       "new_items": true
+    },
+    {
+      "date": "2026-04-30T07:23:53.805132Z",
+      "notes": "RNZ News and Guardian NZ articles reviewed, one new event added.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-09T06:15:19.627388Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-10T06:27:17.475910Z",
       "sources": [
@@ -745,7 +742,13 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-04-30T07:23:53.805190Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-29T07:15:33.202204Z"
+  "last_updated": "2026-04-30T07:23:53.805207Z"
 }
