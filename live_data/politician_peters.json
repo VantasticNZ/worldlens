@@ -693,17 +693,14 @@
       "date": "2026-04-30T07:24:09.616577Z",
       "notes": "New events related to Winston Peters and Iran war emails",
       "new_items": true
+    },
+    {
+      "date": "2026-05-01T07:22:37.925536Z",
+      "notes": "New events and comments from Winston Peters, but no significant new lies or social posts found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-04T05:51:11.427444Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-04-05T06:09:46.601381Z",
       "sources": [
@@ -847,7 +844,13 @@
       "sources": [
         "RSS (3 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-01T07:22:37.925611Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-04-30T07:24:09.616707Z"
+  "last_updated": "2026-05-01T07:22:37.925631Z"
 }

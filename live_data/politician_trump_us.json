@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 33,
+  "lie_count": 34,
   "lies": [
     {
       "date": "January 2026",
@@ -332,6 +332,16 @@
       "platform": "speech",
       "_id": "0e96ff72",
       "_crawled": "2026-04-29T07:17:15.600516Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Iran nuclear threat must be addressed despite military victories",
+      "reality": "No evidence of recent military victories over Iran",
+      "source": "jpost.com, 20260501",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "968708f4",
+      "_crawled": "2026-05-01T07:23:30.747880Z"
     }
   ],
   "social_posts": [
@@ -350,7 +360,18 @@
       "_crawled": "2026-04-08T06:19:26.762171Z"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "bill": "Bill to end record shutdown over immigration enforcement",
+      "vote": "for",
+      "year": 2026,
+      "significance": "high",
+      "note": "Signed bill to end record shutdown",
+      "source": "BBC World",
+      "_id": "076b8ffd",
+      "_crawled": "2026-05-01T07:23:30.747880Z"
+    }
+  ],
   "recent_events": [
     {
       "year": 2026,
@@ -607,10 +628,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-08T06:19:26.762171Z",
-      "text": "Trump's recent statements on Iran have been marked by contradictions and lies, and he has agreed to a two-week ceasefire with the country"
-    },
-    {
       "date": "2026-04-09T06:16:51.335763Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and foreign policy decisions."
     },
@@ -645,6 +662,10 @@
     {
       "date": "2026-04-29T07:17:15.600516Z",
       "text": "Trump faces attempted assassination and instructs to prepare a long-term blockade against Iran"
+    },
+    {
+      "date": "2026-05-01T07:23:30.747880Z",
+      "text": "Trump's recent statements and actions have led to increased tensions with Iran and Germany, while signing a bill to end a record shutdown over immigration enforcement."
     }
   ],
   "crawl_log": [
@@ -747,17 +768,14 @@
       "date": "2026-04-30T07:24:53.211522Z",
       "notes": "New events related to Trump's safety and international relations",
       "new_items": true
+    },
+    {
+      "date": "2026-05-01T07:23:30.747880Z",
+      "notes": "Reviewed 3 BBC World RSS articles and 5 GDELT global news database articles",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-01T06:23:46.209896Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-02T06:10:54.421330Z",
       "sources": [
@@ -904,7 +922,14 @@
       "sources": [
         "RSS (5 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-01T07:23:30.748010Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-04-30T07:24:53.211726Z"
+  "last_updated": "2026-05-01T07:23:30.748030Z"
 }

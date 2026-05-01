@@ -310,6 +310,11 @@
       "date": "2026-04-30T07:25:06.439045Z",
       "notes": "New events related to the antisemitic attack in Sydney and the Bondi shooting have been added.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-01T07:23:36.631675Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -470,5 +475,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-30T07:25:06.439138Z"
+  "last_updated": "2026-05-01T07:23:36.631720Z"
 }

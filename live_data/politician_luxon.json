@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 6,
+  "lie_count": 7,
   "lies": [
     {
       "date": "2026",
@@ -62,6 +62,16 @@
       "platform": "interview",
       "_id": "95ebab84",
       "_crawled": "2026-04-22T06:30:50.536265Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Luxon's claim he was mischaracterised in emails",
+      "reality": "Luxon declines to offer evidence to back claim",
+      "source": "NZ Herald, May 2026",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "cb5b92a4",
+      "_crawled": "2026-05-01T07:22:30.325910Z"
     }
   ],
   "social_posts": [
@@ -405,13 +415,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's request for a confidence vote may indicate a lack of self-assurance in his leadership."
+    },
+    "2026-05-01T07:22:30.325910Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's refusal to provide evidence for his claim raises integrity concerns"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-21T06:29:59.804989Z",
-      "text": "Luxon survives confidence vote, but faces criticism over climate change policies"
-    },
     {
       "date": "2026-04-22T06:30:50.536265Z",
       "text": "Luxon's leadership faces ongoing challenges, and his contradictory statements have raised concerns about his integrity"
@@ -447,6 +458,10 @@
     {
       "date": "2026-04-30T07:23:53.805132Z",
       "text": "Luxon held talks with Peters after emails revealed a clash over New Zealand's Iran war stance."
+    },
+    {
+      "date": "2026-05-01T07:22:30.325910Z",
+      "text": "Luxon's integrity score takes a hit due to his refusal to provide evidence for his claim of being mischaracterised in emails"
     }
   ],
   "crawl_log": [
@@ -599,17 +614,14 @@
       "date": "2026-04-30T07:23:53.805132Z",
       "notes": "RNZ News and Guardian NZ articles reviewed, one new event added.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-01T07:22:30.325910Z",
+      "notes": "Notable findings include Luxon's claim of being mischaracterised in emails and the US invitation to NZ to help reopen the Strait of Hormuz",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-10T06:27:17.475910Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-11T05:54:48.307293Z",
       "sources": [
@@ -748,7 +760,14 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-01T07:22:30.326007Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-04-30T07:23:53.805207Z"
+  "last_updated": "2026-05-01T07:22:30.326030Z"
 }
