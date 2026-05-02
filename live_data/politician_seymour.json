@@ -188,7 +188,12 @@
     }
   ],
   "score_adjustments": {},
-  "summary_updates": [],
+  "summary_updates": [
+    {
+      "date": "2026-05-02T06:58:50.043336Z",
+      "text": "David Seymour had a notable interaction at Waitangi and proposed an investment plan for year 11 students"
+    }
+  ],
   "crawl_log": [
     {
       "date": "2026-03-31T20:44:26.147131Z",
@@ -324,16 +329,14 @@
       "date": "2026-05-01T07:22:43.981921Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-05-02T06:58:50.043336Z",
+      "notes": "No significant lies or social posts found, but new events added",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-03T06:08:35.330652Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-04-04T05:51:20.872122Z",
       "sources": [
@@ -465,7 +468,14 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-02T06:58:50.043419Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-01T07:22:43.981968Z"
+  "last_updated": "2026-05-02T06:58:50.043440Z"
 }

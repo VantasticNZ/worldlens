@@ -363,10 +363,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-09T06:16:03.912804Z",
-      "text": "Nicola Willis' recent statements and actions have raised concerns about her integrity and policy plans."
-    },
-    {
       "date": "2026-04-10T06:28:03.351274Z",
       "text": "Nicola Willis' claim of NZ being on a path to surplus was contradicted by Treasury's forecasts, raising concerns about her integrity"
     },
@@ -401,6 +397,10 @@
     {
       "date": "2026-04-28T07:29:03.175700Z",
       "text": "Nicola Willis responds to fuel crisis and secures extra diesel supply."
+    },
+    {
+      "date": "2026-05-02T06:59:48.387206Z",
+      "text": "Nicola Willis made a statement downplaying public expectations for quick cost-of-living improvements"
     }
   ],
   "crawl_log": [
@@ -528,6 +528,11 @@
       "date": "2026-05-01T07:22:57.080125Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-05-02T06:59:48.387206Z",
+      "notes": "Reviewed Tavily sources for Nicola Willis, found one notable statement on cost of living",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -674,7 +679,14 @@
         "RSS (2 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-05-02T06:59:48.387274Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-01T07:22:57.080173Z"
+  "last_updated": "2026-05-02T06:59:48.387289Z"
 }

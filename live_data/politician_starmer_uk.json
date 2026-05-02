@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 7,
+  "lie_count": 8,
   "lies": [
     {
       "date": "2026",
@@ -72,6 +72,16 @@
       "platform": "speech",
       "_id": "0ea0bc20",
       "_crawled": "2026-04-22T06:35:18.849086Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "full due process had been followed in the appointment of Mandelson",
+      "reality": "information about the vetting process was withheld from MPs",
+      "source": "BBC, 22 April 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "46c403a5",
+      "_crawled": "2026-05-02T07:03:11.399657Z"
     }
   ],
   "social_posts": [
@@ -258,6 +268,15 @@
       "source": "BBC",
       "_id": "3acb5509",
       "_crawled": "2026-04-22T06:35:18.849086Z"
+    },
+    {
+      "year": 2026,
+      "title": "Keir Starmer's Statement on Iran War",
+      "desc": "Keir Starmer stated he would not yield to pressure from Trump on Iran war",
+      "type": "neutral",
+      "source": "BBC",
+      "_id": "ca225832",
+      "_crawled": "2026-05-02T07:03:11.399657Z"
     }
   ],
   "score_adjustments": {
@@ -305,6 +324,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Mandelson vetting scandal and Angela Rayner's resignation raise concerns about Keir Starmer's leadership and the party's integrity"
+    },
+    "2026-05-02T07:03:11.399657Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "The Mandelson vetting scandal has raised concerns about Keir Starmer's integrity and the potential for corruption within his government"
     }
   },
   "summary_updates": [
@@ -343,6 +367,10 @@
     {
       "date": "2026-04-22T06:35:18.849086Z",
       "text": "Keir Starmer faces criticism over the Mandelson vetting scandal and Angela Rayner's resignation, raising concerns about his leadership and the party's integrity"
+    },
+    {
+      "date": "2026-05-02T07:03:11.399657Z",
+      "text": "Keir Starmer's leadership is facing challenges due to the Mandelson vetting scandal and criticism of his handling of the situation"
     }
   ],
   "crawl_log": [
@@ -450,6 +478,11 @@
       "date": "2026-05-01T07:23:47.229770Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-05-02T07:03:11.399657Z",
+      "notes": "The Mandelson vetting scandal is a significant event that may impact Keir Starmer's leadership and the Labour party",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -587,7 +620,14 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-05-02T07:03:11.399748Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-01T07:23:47.229828Z"
+  "last_updated": "2026-05-02T07:03:11.399764Z"
 }

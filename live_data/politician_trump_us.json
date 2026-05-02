@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 34,
+  "lie_count": 35,
   "lies": [
     {
       "date": "January 2026",
@@ -342,6 +342,16 @@
       "platform": "interview",
       "_id": "968708f4",
       "_crawled": "2026-05-01T07:23:30.747880Z"
+    },
+    {
+      "date": "2026",
+      "claim": "Trump inherited 'a stagnant economy' with 'inflation at record levels.'",
+      "reality": "Annual growth in real GDP was 2.5% or higher each year under former President Joe Biden, and the annual inflation rate was 3%, down from its peak of 9.1% under Biden.",
+      "source": "FactCheck.org, 2026",
+      "severity": "high",
+      "platform": "State of the Union Address",
+      "_id": "7cf7a3ca",
+      "_crawled": "2026-05-02T07:02:04.756042Z"
     }
   ],
   "social_posts": [
@@ -624,13 +634,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Claim about King's statement on Iran's nuclear weapon appears to be unsubstantiated"
+    },
+    "2026-05-02T07:02:04.756042Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The new lies and events suggest a decrease in Trump's integrity score."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-09T06:16:51.335763Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and foreign policy decisions."
-    },
     {
       "date": "2026-04-14T06:27:53.907951Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and consistency, with contradictory statements on Iran and criticism from the Italian PM"
@@ -666,6 +677,10 @@
     {
       "date": "2026-05-01T07:23:30.747880Z",
       "text": "Trump's recent statements and actions have led to increased tensions with Iran and Germany, while signing a bill to end a record shutdown over immigration enforcement."
+    },
+    {
+      "date": "2026-05-02T07:02:04.756042Z",
+      "text": "Trump's recent claims and actions have raised concerns about his integrity and approach to foreign policy."
     }
   ],
   "crawl_log": [
@@ -773,18 +788,14 @@
       "date": "2026-05-01T07:23:30.747880Z",
       "notes": "Reviewed 3 BBC World RSS articles and 5 GDELT global news database articles",
       "new_items": true
+    },
+    {
+      "date": "2026-05-02T07:02:04.756042Z",
+      "notes": "Multiple new lies and events found, including claims about the economy, credit card companies, and Iran.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-02T06:10:54.421330Z",
-      "sources": [
-        "RSS (6 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-03T06:10:59.344578Z",
       "sources": [
@@ -929,7 +940,16 @@
         "RSS (3 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-05-02T07:02:04.756343Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-01T07:23:30.748030Z"
+  "last_updated": "2026-05-02T07:02:04.756363Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 7,
+  "lie_count": 8,
   "lies": [
     {
       "date": "2026",
@@ -72,6 +72,16 @@
       "platform": "press_release",
       "_id": "cb5b92a4",
       "_crawled": "2026-05-01T07:22:30.325910Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Luxon's statement that he was mischaracterised in emails regarding his position on the war in Iran",
+      "reality": "Published emails showed Peters' team pushing back against the Prime Minister's 'preference for more explicit public support' of the US-led airstrikes",
+      "source": "NZ Herald, April 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "49af82b9",
+      "_crawled": "2026-05-02T06:57:55.227099Z"
     }
   ],
   "social_posts": [
@@ -144,6 +154,20 @@
       },
       "_id": "9ad0bdae",
       "_crawled": "2026-04-23T06:56:40.694483Z"
+    },
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "Luxon's statement on the coalition government and his relationship with Winston Peters",
+      "verified_by": "RNZ, April 2026",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Luxon's statement contradicts his previous claims about his position on the war in Iran",
+        "source": "NZ Herald, April 2026",
+        "severity": "high"
+      },
+      "_id": "2a775d55",
+      "_crawled": "2026-05-02T06:57:55.227099Z"
     }
   ],
   "votes": [
@@ -420,13 +444,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's refusal to provide evidence for his claim raises integrity concerns"
+    },
+    "2026-05-02T06:57:55.227099Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's contradictory statements and the coalition government tensions have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-22T06:30:50.536265Z",
-      "text": "Luxon's leadership faces ongoing challenges, and his contradictory statements have raised concerns about his integrity"
-    },
     {
       "date": "2026-04-23T06:56:40.694483Z",
       "text": "Luxon survives leadership vote, but faces ongoing questions about his leadership and integrity"
@@ -462,6 +487,10 @@
     {
       "date": "2026-05-01T07:22:30.325910Z",
       "text": "Luxon's integrity score takes a hit due to his refusal to provide evidence for his claim of being mischaracterised in emails"
+    },
+    {
+      "date": "2026-05-02T06:57:55.227099Z",
+      "text": "Prime Minister Christopher Luxon is facing challenges to his leadership, including coalition government tensions and coup rumours"
     }
   ],
   "crawl_log": [
@@ -619,18 +648,14 @@
       "date": "2026-05-01T07:22:30.325910Z",
       "notes": "Notable findings include Luxon's claim of being mischaracterised in emails and the US invitation to NZ to help reopen the Strait of Hormuz",
       "new_items": true
+    },
+    {
+      "date": "2026-05-02T06:57:55.227099Z",
+      "notes": "Multiple sources indicate Luxon's leadership is under pressure",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-11T05:54:48.307293Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-12T06:19:26.382163Z",
       "sources": [
@@ -767,7 +792,15 @@
         "RSS (3 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-05-02T06:57:55.227218Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-01T07:22:30.326030Z"
+  "last_updated": "2026-05-02T06:57:55.227237Z"
 }

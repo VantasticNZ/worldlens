@@ -360,17 +360,14 @@
       "date": "2026-05-01T07:23:11.712647Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-05-02T07:00:56.056130Z",
+      "notes": "New events and policies announced by Chris Hipkins and Labour Party",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-03-31T20:46:36.427904Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-01T06:23:27.396348Z",
       "sources": [
@@ -504,7 +501,14 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-02T07:00:56.056247Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-01T07:23:11.712692Z"
+  "last_updated": "2026-05-02T07:00:56.056264Z"
 }
