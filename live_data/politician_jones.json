@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 5,
+  "lie_count": 6,
   "lies": [
     {
       "date": "March 2026",
@@ -52,6 +52,16 @@
       "platform": "interview",
       "_id": "11eb1ca0",
       "_crawled": "2026-04-20T07:11:58.764230Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "butter chicken tsunami",
+      "reality": "India Free Trade agreement",
+      "source": "RNZ, May 2026",
+      "severity": "high",
+      "platform": "online video",
+      "_id": "0342a913",
+      "_crawled": "2026-05-03T07:14:19.967176Z"
     }
   ],
   "social_posts": [],
@@ -191,6 +201,15 @@
       "source": "RNZ News",
       "_id": "2761558e",
       "_crawled": "2026-04-29T07:16:15.448743Z"
+    },
+    {
+      "year": 2026,
+      "title": "Shane Jones defends comparing India FTA to 'butter chicken tsunami'",
+      "desc": "Shane Jones defended his comments comparing the India FTA to a 'butter chicken tsunami'",
+      "type": "negative",
+      "source": "RNZ",
+      "_id": "cf384046",
+      "_crawled": "2026-05-03T07:14:19.967176Z"
     }
   ],
   "score_adjustments": {
@@ -238,13 +257,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' defensive comments about the India FTA and his apology for comments about Nicola Willis' weight loss suggest a lack of integrity."
+    },
+    "2026-05-03T07:14:19.967176Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' recent comments have raised concerns about his integrity and judgment"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-07T06:15:33.570721Z",
-      "text": "Shane Jones faces backlash over fisheries bill, with critics arguing the removal of minimum fish size requirements for commercial operators would harm the oceans and recreational fishers"
-    },
     {
       "date": "2026-04-09T06:15:53.404247Z",
       "text": "Shane Jones' fisheries bill has sparked controversy, and his claim about commercial fishers has been disputed, raising concerns about his integrity"
@@ -280,6 +300,10 @@
     {
       "date": "2026-05-02T06:59:20.039888Z",
       "text": "Shane Jones has faced criticism for his comments about the India FTA and Nicola Willis' weight loss, and has apologised for the latter."
+    },
+    {
+      "date": "2026-05-03T07:14:19.967176Z",
+      "text": "Shane Jones has faced criticism for his recent comments, including comparing the India FTA to a 'butter chicken tsunami' and making remarks about Nicola Willis' weight loss"
     }
   ],
   "crawl_log": [
@@ -422,16 +446,14 @@
       "date": "2026-05-02T06:59:20.039888Z",
       "notes": "Shane Jones' recent comments have sparked controversy and criticism from other politicians.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-03T07:14:19.967176Z",
+      "notes": "Shane Jones' recent comments have sparked controversy and raised concerns about his integrity and judgment",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-04T05:51:29.490001Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-04-05T06:10:08.110258Z",
       "sources": [
@@ -564,7 +586,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-05-03T07:14:19.967299Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-02T06:59:20.039964Z"
+  "last_updated": "2026-05-03T07:14:19.967323Z"
 }

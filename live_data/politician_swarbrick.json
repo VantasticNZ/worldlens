@@ -12,6 +12,15 @@
       "discrepancy": null,
       "_id": "4e93d1b2",
       "_crawled": "2026-04-15T06:29:16.822585Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Cost of living driven by fossil fuels and power price hikes",
+      "verified_by": "www.greens.org.nz",
+      "discrepancy": null,
+      "_id": "910ac3e3",
+      "_crawled": "2026-05-03T07:15:11.238539Z"
     }
   ],
   "votes": [],
@@ -78,6 +87,33 @@
       "source": "Green Party of Aotearoa New Zealand",
       "_id": "2d202137",
       "_crawled": "2026-04-17T06:31:27.701704Z"
+    },
+    {
+      "year": 2026,
+      "title": "Green Party calls for National Electrification Plan",
+      "desc": "The Green Party has used its 2026 State of the Planet address to set out a vision for a resilient, independent Aotearoa and to call on the Government to create a National Electrification Plan.",
+      "type": "positive",
+      "source": "www.greens.org.nz",
+      "_id": "8c47e1a9",
+      "_crawled": "2026-05-03T07:15:11.238539Z"
+    },
+    {
+      "year": 2026,
+      "title": "Green Party anticipates Prime Minister Luxon's claims",
+      "desc": "The Green Party has correctly predicted the facts and data that would be needed to set the record straight on the Prime Ministers claims three days ahead of his State of the Nation speech.",
+      "type": "neutral",
+      "source": "www.greens.org.nz",
+      "_id": "d8c76082",
+      "_crawled": "2026-05-03T07:15:11.238539Z"
+    },
+    {
+      "year": 2026,
+      "title": "Greens call for solar panel loans",
+      "desc": "Green co-leader Chlöe Swarbrick used her State of the Planet speech to call for a National Electrification Plan, and interest free solar panel loans.",
+      "type": "positive",
+      "source": "www.stuff.co.nz",
+      "_id": "2c3e7dc9",
+      "_crawled": "2026-05-03T07:15:11.238539Z"
     }
   ],
   "score_adjustments": {},
@@ -211,6 +247,11 @@
       "date": "2026-05-02T07:01:29.597150Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-05-03T07:15:11.238539Z",
+      "notes": "New events and social posts added",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -325,7 +366,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-05-03T07:15:11.238613Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-02T07:01:29.597180Z"
+  "last_updated": "2026-05-03T07:15:11.238631Z"
 }

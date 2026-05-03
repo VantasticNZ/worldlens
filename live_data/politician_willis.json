@@ -533,17 +533,14 @@
       "date": "2026-05-02T06:59:48.387206Z",
       "notes": "Reviewed Tavily sources for Nicola Willis, found one notable statement on cost of living",
       "new_items": true
+    },
+    {
+      "date": "2026-05-03T07:14:34.939363Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-01T06:23:00.242192Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-04-02T06:08:57.217568Z",
       "sources": [
@@ -686,7 +683,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-03T07:14:34.939376Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-02T06:59:48.387289Z"
+  "last_updated": "2026-05-03T07:14:34.939394Z"
 }

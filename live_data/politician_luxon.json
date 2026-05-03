@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 8,
+  "lie_count": 9,
   "lies": [
     {
       "date": "2026",
@@ -82,6 +82,16 @@
       "platform": "interview",
       "_id": "49af82b9",
       "_crawled": "2026-05-02T06:57:55.227099Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Luxon's statement about his position on climate change policies",
+      "reality": "Inconsistency between his rhetoric and necessary actions to keep warming below 1.5 degrees",
+      "source": "NZ Herald, April 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "0488578c",
+      "_crawled": "2026-05-03T07:13:44.526733Z"
     }
   ],
   "social_posts": [
@@ -449,13 +459,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's contradictory statements and the coalition government tensions have raised concerns about his integrity"
+    },
+    "2026-05-03T07:13:44.526733Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistency on climate change policies and his coalition's fracture on the issue have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-23T06:56:40.694483Z",
-      "text": "Luxon survives leadership vote, but faces ongoing questions about his leadership and integrity"
-    },
     {
       "date": "2026-04-24T07:00:10.506148Z",
       "text": "Christopher Luxon cancelled his weekly TVNZ Breakfast slot and addressed various concerns, including business and economic issues."
@@ -491,6 +502,10 @@
     {
       "date": "2026-05-02T06:57:55.227099Z",
       "text": "Prime Minister Christopher Luxon is facing challenges to his leadership, including coalition government tensions and coup rumours"
+    },
+    {
+      "date": "2026-05-03T07:13:44.526733Z",
+      "text": "Luxon's coalition is fracturing over climate change policies, and his integrity has taken a hit due to inconsistencies in his statements"
     }
   ],
   "crawl_log": [
@@ -653,17 +668,14 @@
       "date": "2026-05-02T06:57:55.227099Z",
       "notes": "Multiple sources indicate Luxon's leadership is under pressure",
       "new_items": true
+    },
+    {
+      "date": "2026-05-03T07:13:44.526733Z",
+      "notes": "Multiple sources indicate Luxon's coalition is in trouble, and his statements on climate change have been inconsistent",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-12T06:19:26.382163Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-14T06:26:23.902868Z",
       "sources": [
@@ -800,7 +812,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-03T07:13:44.526850Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-02T06:57:55.227237Z"
+  "last_updated": "2026-05-03T07:13:44.526869Z"
 }

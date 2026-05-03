@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 7,
+  "lie_count": 8,
   "lies": [
     {
       "date": "April 2026",
@@ -72,6 +72,16 @@
       "platform": "interview",
       "_id": "9314a21b",
       "_crawled": "2026-04-23T06:59:27.639715Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "Auckland housing plan reduction is not a change",
+      "reality": "Auckland housing plan was reduced from 2 million to 1.6 million homes",
+      "source": "NZ Herald, March 2026",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "86c1bb47",
+      "_crawled": "2026-05-03T07:14:48.900775Z"
     }
   ],
   "social_posts": [],
@@ -229,6 +239,24 @@
       "source": "RNZ News",
       "_id": "ee0057aa",
       "_crawled": "2026-04-26T06:57:23.806921Z"
+    },
+    {
+      "year": 2026,
+      "title": "Auckland housing plan reduction",
+      "desc": "Housing Minister Chris Bishop announced a reduction in Auckland's housing plan from 2 million to 1.6 million homes",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "4333204e",
+      "_crawled": "2026-05-03T07:14:48.900775Z"
+    },
+    {
+      "year": 2026,
+      "title": "Cabinet reshuffle",
+      "desc": "Chris Bishop was forced to make a compromise, sacrificing his role as campaign chair",
+      "type": "neutral",
+      "source": "The Spinoff",
+      "_id": "d3b24f87",
+      "_crawled": "2026-05-03T07:14:48.900775Z"
     }
   ],
   "score_adjustments": {
@@ -301,13 +329,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Housing Minister Chris Bishop's claim of 'no actual change' contradicts the actual reduction in Auckland housing numbers"
+    },
+    "2026-05-03T07:14:48.900775Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Housing Minister Chris Bishop's claim that the Auckland housing plan reduction is not a change is contradicted by the actual reduction in the plan"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-09T06:16:18.910676Z",
-      "text": "Housing Minister Chris Bishop announces changes to Auckland housing plans and reveals Kāinga Ora's turnaround plan."
-    },
     {
       "date": "2026-04-10T06:28:12.343656Z",
       "text": "Chris Bishop's claim of housing delivery being on track has been contradicted by official advice, raising concerns about his integrity"
@@ -343,6 +372,10 @@
     {
       "date": "2026-05-02T07:00:22.095190Z",
       "text": "Housing Minister Chris Bishop's credibility takes a hit as his claim of 'no actual change' in Auckland housing plans is contradicted by the government's decision to slash housing numbers again"
+    },
+    {
+      "date": "2026-05-03T07:14:48.900775Z",
+      "text": "Housing Minister Chris Bishop announced a reduction in Auckland's housing plan, contradicting his previous claim that there would be no change"
     }
   ],
   "crawl_log": [
@@ -465,17 +498,14 @@
       "date": "2026-05-02T07:00:22.095190Z",
       "notes": "Multiple sources confirm the government's plan to reduce Auckland housing numbers, contradicting Chris Bishop's statement",
       "new_items": true
+    },
+    {
+      "date": "2026-05-03T07:14:48.900775Z",
+      "notes": "Multiple sources confirm Auckland housing plan reduction and Cabinet reshuffle",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-01T06:23:14.013993Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-02T06:09:37.013602Z",
       "sources": [
@@ -613,7 +643,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-03T07:14:48.900871Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-02T07:00:22.095262Z"
+  "last_updated": "2026-05-03T07:14:48.900890Z"
 }
