@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 8,
+  "lie_count": 9,
   "lies": [
     {
       "date": "2026",
@@ -82,6 +82,16 @@
       "platform": "speech",
       "_id": "46c403a5",
       "_crawled": "2026-05-02T07:03:11.399657Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "No pressure existed whatsoever in the appointment of Mandelson",
+      "reality": "There were concerns about the appointment process",
+      "source": "BBC, April 2026",
+      "severity": "high",
+      "platform": "hansard",
+      "_id": "16e9da32",
+      "_crawled": "2026-05-04T07:45:02.417610Z"
     }
   ],
   "social_posts": [
@@ -112,6 +122,20 @@
       },
       "_id": "92e1b1c2",
       "_crawled": "2026-04-09T06:17:15.658836Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "The choices we've made will mean more people will begin to feel positive change in your bills, your communities and your health service",
+      "verified_by": "BBC",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "Many people are not feeling the promised positive change",
+        "source": "The Guardian, July 2025",
+        "severity": "med"
+      },
+      "_id": "82da56b8",
+      "_crawled": "2026-05-04T07:45:02.417610Z"
     }
   ],
   "votes": [],
@@ -277,6 +301,24 @@
       "source": "BBC",
       "_id": "ca225832",
       "_crawled": "2026-05-02T07:03:11.399657Z"
+    },
+    {
+      "year": 2026,
+      "title": "Labour MPs express concern over leadership speculation",
+      "desc": "Labour MPs are calling for an end to the 'endless drama' of leadership speculation",
+      "type": "negative",
+      "source": "The Guardian",
+      "_id": "06f2e5db",
+      "_crawled": "2026-05-04T07:45:02.417610Z"
+    },
+    {
+      "year": 2026,
+      "title": "Keir Starmer faces vote over claims he misled MPs about Mandelson",
+      "desc": "Starmer is facing a vote over claims he misled MPs about the appointment of Mandelson",
+      "type": "negative",
+      "source": "BBC",
+      "_id": "b1b1eb49",
+      "_crawled": "2026-05-04T07:45:02.417610Z"
     }
   ],
   "score_adjustments": {
@@ -329,13 +371,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "The Mandelson vetting scandal has raised concerns about Keir Starmer's integrity and the potential for corruption within his government"
+    },
+    "2026-05-04T07:45:02.417610Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The new findings suggest that Keir Starmer may have misled MPs about the appointment of Mandelson, which could impact his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-01T06:24:12.948480Z",
-      "text": "Keir Starmer's new year message and recent statements have raised concerns about his commitment to policy and taxation."
-    },
     {
       "date": "2026-04-04T05:52:28.760288Z",
       "text": "Keir Starmer's integrity score has been adjusted downward due to his failure to deliver on his promise to smash people-smuggling gangs"
@@ -371,6 +414,10 @@
     {
       "date": "2026-05-02T07:03:11.399657Z",
       "text": "Keir Starmer's leadership is facing challenges due to the Mandelson vetting scandal and criticism of his handling of the situation"
+    },
+    {
+      "date": "2026-05-04T07:45:02.417610Z",
+      "text": "Keir Starmer is facing increased scrutiny over his leadership and integrity, with concerns about the appointment of Mandelson and the lack of progress on promised changes"
     }
   ],
   "crawl_log": [
@@ -483,17 +530,14 @@
       "date": "2026-05-02T07:03:11.399657Z",
       "notes": "The Mandelson vetting scandal is a significant event that may impact Keir Starmer's leadership and the Labour party",
       "new_items": true
+    },
+    {
+      "date": "2026-05-04T07:45:02.417610Z",
+      "notes": "The search results suggest that Keir Starmer is facing significant challenges to his leadership and integrity, with multiple sources reporting on concerns about his actions and statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-01T06:24:12.948538Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-04-02T06:11:46.165823Z",
       "sources": [
@@ -627,7 +671,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-04T07:45:02.417909Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-03T07:15:45.403003Z"
+  "last_updated": "2026-05-04T07:45:02.417962Z"
 }

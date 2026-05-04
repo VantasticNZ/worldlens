@@ -523,10 +523,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-14T06:26:38.330467Z",
-      "text": "Winston Peters' recent actions and statements have raised concerns about his integrity, including misrepresenting global pandemic rule changes and his account's correction of the PM's pronouns"
-    },
-    {
       "date": "2026-04-15T06:28:17.873787Z",
       "text": "Winston Peters has been involved in several controversies, including making racist comments and criticizing Fonterra's leadership"
     },
@@ -561,6 +557,10 @@
     {
       "date": "2026-05-03T07:13:59.503645Z",
       "text": "Winston Peters' recent statements and tweets have raised concerns about his integrity and consistency"
+    },
+    {
+      "date": "2026-05-04T07:43:20.955626Z",
+      "text": "Winston Peters has made statements on his party's 'rejuvenation' and coalition tensions, as well as proclaiming a 'war on woke'"
     }
   ],
   "crawl_log": [
@@ -718,18 +718,14 @@
       "date": "2026-05-03T07:13:59.503645Z",
       "notes": "Peters' social media activity and public statements require continued monitoring for potential discrepancies and misrepresentations",
       "new_items": true
+    },
+    {
+      "date": "2026-05-04T07:43:20.955626Z",
+      "notes": "Reviewed sources from Newsroom, The Spinoff, Stuff, and NZ Herald",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-07T06:14:58.248436Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-04-08T06:16:25.893354Z",
       "sources": [
@@ -870,7 +866,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-04T07:43:20.955779Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-03T07:13:59.503814Z"
+  "last_updated": "2026-05-04T07:43:20.955806Z"
 }

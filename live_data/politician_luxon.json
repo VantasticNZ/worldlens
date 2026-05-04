@@ -178,6 +178,20 @@
       },
       "_id": "2a775d55",
       "_crawled": "2026-05-02T06:57:55.227099Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "April 2026",
+      "text": "Encouraging to hear Iran will re-open parts of the Strait of Hormuz",
+      "verified_by": "Stuff, April 2026",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "No clear evidence of Iran's commitment to re-opening the Strait",
+        "source": "Stuff, April 2026",
+        "severity": "med"
+      },
+      "_id": "2e1da364",
+      "_crawled": "2026-05-04T07:43:10.635755Z"
     }
   ],
   "votes": [
@@ -464,13 +478,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistency on climate change policies and his coalition's fracture on the issue have raised concerns about his integrity"
+    },
+    "2026-05-04T07:43:10.635755Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistency on climate change policies and his coalition's division on the issue raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-24T07:00:10.506148Z",
-      "text": "Christopher Luxon cancelled his weekly TVNZ Breakfast slot and addressed various concerns, including business and economic issues."
-    },
     {
       "date": "2026-04-25T06:16:30.245116Z",
       "text": "Christopher Luxon has faced criticism over his handling of media questions and has cancelled his weekly TVNZ Breakfast slot."
@@ -506,6 +521,10 @@
     {
       "date": "2026-05-03T07:13:44.526733Z",
       "text": "Luxon's coalition is fracturing over climate change policies, and his integrity has taken a hit due to inconsistencies in his statements"
+    },
+    {
+      "date": "2026-05-04T07:43:10.635755Z",
+      "text": "Luxon's leadership is facing challenges due to his coalition's division on climate change and his own inconsistency on the issue"
     }
   ],
   "crawl_log": [
@@ -673,17 +692,14 @@
       "date": "2026-05-03T07:13:44.526733Z",
       "notes": "Multiple sources indicate Luxon's coalition is in trouble, and his statements on climate change have been inconsistent",
       "new_items": true
+    },
+    {
+      "date": "2026-05-04T07:43:10.635755Z",
+      "notes": "Multiple sources indicate Luxon's struggles with his coalition and his own statements on climate change",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-14T06:26:23.902868Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-15T06:27:58.457340Z",
       "sources": [
@@ -820,7 +836,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-04T07:43:10.635885Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-03T07:13:44.526869Z"
+  "last_updated": "2026-05-04T07:43:10.635908Z"
 }

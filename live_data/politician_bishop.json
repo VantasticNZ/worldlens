@@ -257,6 +257,15 @@
       "source": "The Spinoff",
       "_id": "d3b24f87",
       "_crawled": "2026-05-03T07:14:48.900775Z"
+    },
+    {
+      "year": 2026,
+      "title": "Government retains right to second-guess changes to Auckland housing",
+      "desc": "The government retains the right to second-guess changes to Auckland housing plans",
+      "type": "negative",
+      "source": "Newsroom.co.nz",
+      "_id": "2115f544",
+      "_crawled": "2026-05-04T07:44:10.268589Z"
     }
   ],
   "score_adjustments": {
@@ -334,13 +343,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Housing Minister Chris Bishop's claim that the Auckland housing plan reduction is not a change is contradicted by the actual reduction in the plan"
+    },
+    "2026-05-04T07:44:10.268589Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The minister's claims of 'no actual change' in Auckland housing plans contradict the actual reduction in housing numbers"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-10T06:28:12.343656Z",
-      "text": "Chris Bishop's claim of housing delivery being on track has been contradicted by official advice, raising concerns about his integrity"
-    },
     {
       "date": "2026-04-11T05:55:44.754734Z",
       "text": "Chris Bishop's credibility on housing issues has taken a hit due to contradictory statements and backtracking on plans"
@@ -376,6 +386,10 @@
     {
       "date": "2026-05-03T07:14:48.900775Z",
       "text": "Housing Minister Chris Bishop announced a reduction in Auckland's housing plan, contradicting his previous claim that there would be no change"
+    },
+    {
+      "date": "2026-05-04T07:44:10.268589Z",
+      "text": "Housing Minister Chris Bishop's claims of 'no actual change' in Auckland housing plans have been contradicted by the government's reduction in housing numbers"
     }
   ],
   "crawl_log": [
@@ -503,17 +517,14 @@
       "date": "2026-05-03T07:14:48.900775Z",
       "notes": "Multiple sources confirm Auckland housing plan reduction and Cabinet reshuffle",
       "new_items": true
+    },
+    {
+      "date": "2026-05-04T07:44:10.268589Z",
+      "notes": "Minister's statements contradict actual policy changes",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-02T06:09:37.013602Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-03T06:09:54.980387Z",
       "sources": [
@@ -650,7 +661,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-04T07:44:10.268710Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-03T07:14:48.900890Z"
+  "last_updated": "2026-05-04T07:44:10.268734Z"
 }
