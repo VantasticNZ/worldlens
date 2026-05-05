@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 39,
+  "lie_count": 40,
   "lies": [
     {
       "date": "January 2026",
@@ -392,6 +392,16 @@
       "platform": "speech",
       "_id": "a34de28f",
       "_crawled": "2026-05-03T07:15:26.465589Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Thom Tillis is no longer a senator",
+      "reality": "Thom Tillis is still a senator",
+      "source": "PolitiFact, April 15, 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "0fb43608",
+      "_crawled": "2026-05-05T07:14:33.232930Z"
     }
   ],
   "social_posts": [
@@ -693,10 +703,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-16T06:31:52.732793Z",
-      "text": "Trump's recent statements and actions have led to further concerns about his integrity and honesty"
-    },
-    {
       "date": "2026-04-17T06:31:47.554674Z",
       "text": "Trump's ongoing lies and contradictory statements continue to damage his reputation and relationships with world leaders"
     },
@@ -731,6 +737,10 @@
     {
       "date": "2026-05-04T07:44:43.368388Z",
       "text": "Trump's recent statements on Iran war and drug trafficking have raised concerns about his integrity and truthfulness"
+    },
+    {
+      "date": "2026-05-05T07:14:33.232930Z",
+      "text": "New lies and events related to Donald Trump have been found, including a false claim about Thom Tillis and a shooting incident near the White House"
     }
   ],
   "crawl_log": [
@@ -853,17 +863,14 @@
       "date": "2026-05-04T07:44:43.368388Z",
       "notes": "Reviewed 9 sources, including PolitiFact and BBC World, and found two new lies and one new event",
       "new_items": true
+    },
+    {
+      "date": "2026-05-05T07:14:33.232930Z",
+      "notes": "PolitiFact and CNN were the main sources of new information",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-06T06:27:29.180128Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-07T06:17:24.329542Z",
       "sources": [
@@ -1009,7 +1016,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-05T07:14:33.233056Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-04T07:44:43.368562Z"
+  "last_updated": "2026-05-05T07:14:33.233074Z"
 }

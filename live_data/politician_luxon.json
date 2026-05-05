@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 9,
+  "lie_count": 11,
   "lies": [
     {
       "date": "2026",
@@ -92,6 +92,26 @@
       "platform": "speech",
       "_id": "0488578c",
       "_crawled": "2026-05-03T07:13:44.526733Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Luxon's claim he was mischaracterised in emails regarding his position on the US assault",
+      "reality": "Emails released to the NZ Herald under the Official Information Act suggest the Prime Minister had been considering expressing explicit public support for the US assault",
+      "source": "RNZ News",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "e79c057f",
+      "_crawled": "2026-05-05T07:12:55.098054Z"
+    },
+    {
+      "date": "February 2026",
+      "claim": "Luxon supported the Crusaders since he was a little boy",
+      "reality": "The Crusaders played their first game in 1996, when Luxon was 25",
+      "source": "The Spinoff",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "55b6654a",
+      "_crawled": "2026-05-05T07:12:55.098054Z"
     }
   ],
   "social_posts": [
@@ -483,13 +503,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistency on climate change policies and his coalition's division on the issue raise concerns about his integrity"
+    },
+    "2026-05-05T07:12:55.098054Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's claim about being mischaracterised in emails and his misleading tweet about the Strait of Hormuz suggest a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-25T06:16:30.245116Z",
-      "text": "Christopher Luxon has faced criticism over his handling of media questions and has cancelled his weekly TVNZ Breakfast slot."
-    },
     {
       "date": "2026-04-26T06:55:28.354296Z",
       "text": "Christopher Luxon cancelled his weekly TVNZ Breakfast slot and a new India-New Zealand FTA is expected to boost exports and MSMEs."
@@ -525,6 +546,10 @@
     {
       "date": "2026-05-04T07:43:10.635755Z",
       "text": "Luxon's leadership is facing challenges due to his coalition's division on climate change and his own inconsistency on the issue"
+    },
+    {
+      "date": "2026-05-05T07:12:55.098054Z",
+      "text": "Christopher Luxon's integrity has been called into question due to his claim about being mischaracterised in emails and his misleading tweet about the Strait of Hormuz"
     }
   ],
   "crawl_log": [
@@ -697,16 +722,14 @@
       "date": "2026-05-04T07:43:10.635755Z",
       "notes": "Multiple sources indicate Luxon's struggles with his coalition and his own statements on climate change",
       "new_items": true
+    },
+    {
+      "date": "2026-05-05T07:12:55.098054Z",
+      "notes": "Multiple sources suggest Luxon's coalition government is on shaky ground",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-15T06:27:58.457340Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-16T06:29:22.279722Z",
       "sources": [
@@ -844,7 +867,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-05T07:12:55.098184Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-04T07:43:10.635908Z"
+  "last_updated": "2026-05-05T07:12:55.098205Z"
 }

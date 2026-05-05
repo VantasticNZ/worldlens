@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 9,
+  "lie_count": 11,
   "lies": [
     {
       "date": "2026",
@@ -92,6 +92,26 @@
       "platform": "hansard",
       "_id": "16e9da32",
       "_crawled": "2026-05-04T07:45:02.417610Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "he was not told about Mandelson's vetting failure",
+      "reality": "information about the vetting process was withheld from him, but it is unclear if he was directly told",
+      "source": "The Guardian, 17 April 2026",
+      "severity": "med",
+      "platform": "press",
+      "_id": "f5173948",
+      "_crawled": "2026-05-05T07:14:55.785537Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "it 'beggars belief' he wasn't told about Mandelson vetting failure",
+      "reality": "he accepted that information gathered during the vetting process could have been shared",
+      "source": "The Guardian, 20 April 2026",
+      "severity": "low",
+      "platform": "press",
+      "_id": "9d25ef51",
+      "_crawled": "2026-05-05T07:14:55.785537Z"
     }
   ],
   "social_posts": [
@@ -376,13 +396,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The new findings suggest that Keir Starmer may have misled MPs about the appointment of Mandelson, which could impact his integrity score"
+    },
+    "2026-05-05T07:14:55.785537Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "further questions about Starmer's honesty regarding Mandelson's vetting"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-04T05:52:28.760288Z",
-      "text": "Keir Starmer's integrity score has been adjusted downward due to his failure to deliver on his promise to smash people-smuggling gangs"
-    },
     {
       "date": "2026-04-07T06:17:59.029409Z",
       "text": "The Prime Minister's recent statements have been found to be inconsistent with reality, and the UK's actions in response to the Iran war have been noted."
@@ -418,6 +439,10 @@
     {
       "date": "2026-05-04T07:45:02.417610Z",
       "text": "Keir Starmer is facing increased scrutiny over his leadership and integrity, with concerns about the appointment of Mandelson and the lack of progress on promised changes"
+    },
+    {
+      "date": "2026-05-05T07:14:55.785537Z",
+      "text": "Keir Starmer faces further criticism over his handling of Peter Mandelson's vetting and his statements about it."
     }
   ],
   "crawl_log": [
@@ -535,17 +560,14 @@
       "date": "2026-05-04T07:45:02.417610Z",
       "notes": "The search results suggest that Keir Starmer is facing significant challenges to his leadership and integrity, with multiple sources reporting on concerns about his actions and statements",
       "new_items": true
+    },
+    {
+      "date": "2026-05-05T07:14:55.785537Z",
+      "notes": "Mandelson vetting controversy continues to affect Starmer's reputation",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-02T06:11:46.165823Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-04-03T06:11:45.055388Z",
       "sources": [
@@ -679,7 +701,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-05T07:14:55.785632Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-04T07:45:02.417962Z"
+  "last_updated": "2026-05-05T07:14:55.785650Z"
 }

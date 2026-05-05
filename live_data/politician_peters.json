@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 11,
+  "lie_count": 12,
   "lies": [
     {
       "date": "March 2026",
@@ -112,6 +112,16 @@
       "platform": "interview",
       "_id": "0292a0a7",
       "_crawled": "2026-04-22T06:31:32.163835Z"
+    },
+    {
+      "date": "September 2021",
+      "claim": "Covid elimination is just not possible and mass vaccination is the only way to economic and social freedom",
+      "reality": "Peters later opposed vaccination mandates and used anti-vaccination sentiment to his political advantage",
+      "source": "Newsroom, 25-03-2026",
+      "severity": "high",
+      "platform": "twitter",
+      "_id": "9c03182c",
+      "_crawled": "2026-05-05T07:13:07.931521Z"
     }
   ],
   "social_posts": [
@@ -254,6 +264,20 @@
       },
       "_id": "c1c15237",
       "_crawled": "2026-04-19T06:25:14.212252Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "2026",
+      "text": "Tweet regarding PM's social post",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Peters' tweet contradicts his previous statements on coalition negotiations",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "57deb0fd",
+      "_crawled": "2026-05-05T07:13:07.931521Z"
     }
   ],
   "votes": [],
@@ -519,13 +543,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' misrepresentation of global pandemic rule changes and his contradictory statements on pronouns have negatively impacted his integrity score"
+    },
+    "2026-05-05T07:13:07.931521Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' contradictions and handling of sensitive information raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-15T06:28:17.873787Z",
-      "text": "Winston Peters has been involved in several controversies, including making racist comments and criticizing Fonterra's leadership"
-    },
     {
       "date": "2026-04-16T06:29:31.556605Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency."
@@ -561,6 +586,10 @@
     {
       "date": "2026-05-04T07:43:20.955626Z",
       "text": "Winston Peters has made statements on his party's 'rejuvenation' and coalition tensions, as well as proclaiming a 'war on woke'"
+    },
+    {
+      "date": "2026-05-05T07:13:07.931521Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency, particularly regarding his handling of sensitive information and his stance on coalition negotiations"
     }
   ],
   "crawl_log": [
@@ -723,18 +752,14 @@
       "date": "2026-05-04T07:43:20.955626Z",
       "notes": "Reviewed sources from Newsroom, The Spinoff, Stuff, and NZ Herald",
       "new_items": true
+    },
+    {
+      "date": "2026-05-05T07:13:07.931521Z",
+      "notes": "Peters' social media activity and public statements continue to be scrutinized for discrepancies and contradictions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-08T06:16:25.893354Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-04-09T06:15:30.336914Z",
       "sources": [
@@ -873,7 +898,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-05T07:13:07.931653Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-04T07:43:20.955806Z"
+  "last_updated": "2026-05-05T07:13:07.931673Z"
 }

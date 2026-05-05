@@ -114,6 +114,15 @@
       "source": "www.stuff.co.nz",
       "_id": "2c3e7dc9",
       "_crawled": "2026-05-03T07:15:11.238539Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chloe Swarbrick confirms frustration over Heart of the City CEO's negative takes",
+      "desc": "Chloe Swarbrick expressed frustration over the Heart of the City CEO's negative comments.",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "5ae6ec1b",
+      "_crawled": "2026-05-05T07:14:16.909894Z"
     }
   ],
   "score_adjustments": {},
@@ -257,6 +266,11 @@
       "date": "2026-05-04T07:44:34.131513Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-05-05T07:14:16.909894Z",
+      "notes": "No significant lies or score adjustments found",
+      "new_items": true
     }
   ],
   "sources_log": [
@@ -385,7 +399,15 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-05-05T07:14:16.909945Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-04T07:44:34.131552Z"
+  "last_updated": "2026-05-05T07:14:16.909965Z"
 }

@@ -192,6 +192,10 @@
     {
       "date": "2026-05-02T06:58:50.043336Z",
       "text": "David Seymour had a notable interaction at Waitangi and proposed an investment plan for year 11 students"
+    },
+    {
+      "date": "2026-05-05T07:13:19.083294Z",
+      "text": "David Seymour faces criticism for his immigration policy announcement, with some arguing it will harm businesses and farmers."
     }
   ],
   "crawl_log": [
@@ -344,16 +348,14 @@
       "date": "2026-05-04T07:43:30.025629Z",
       "notes": "New immigration policy announcement and Waitangi Pōwhiri speech",
       "new_items": true
+    },
+    {
+      "date": "2026-05-05T07:13:19.083294Z",
+      "notes": "Reviewed RNZ News, ACT NZ, NZ Herald, and other sources for updates on David Seymour's activities and statements.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-06T06:26:12.051092Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-04-07T06:15:19.377560Z",
       "sources": [
@@ -486,7 +488,15 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-05T07:13:19.083374Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-04T07:43:30.025771Z"
+  "last_updated": "2026-05-05T07:13:19.083395Z"
 }

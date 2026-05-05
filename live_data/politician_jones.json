@@ -219,6 +219,24 @@
       "source": "RNZ",
       "_id": "9344beea",
       "_crawled": "2026-05-04T07:43:40.669635Z"
+    },
+    {
+      "year": 2026,
+      "title": "Shane Jones calls Far North councillor's co-governance complaints 'perverse', 'pathetic'",
+      "desc": "Shane Jones defended the council's plans and criticized a councillor's complaints about co-governance.",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "e7ca4446",
+      "_crawled": "2026-05-05T07:13:30.914664Z"
+    },
+    {
+      "year": 2026,
+      "title": "Critics say Shane Jones' backdown on fisheries bill not enough",
+      "desc": "Critics are unhappy with Shane Jones' decision to drop a plan to scrap legal fish size limits.",
+      "type": "negative",
+      "source": "NZ Herald",
+      "_id": "6d2b7f68",
+      "_crawled": "2026-05-05T07:13:30.914664Z"
     }
   ],
   "score_adjustments": {
@@ -280,10 +298,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-10T06:27:54.010348Z",
-      "text": "Shane Jones' handling of the Fisheries Bill has sparked controversy and criticism, with some accusing him of prioritizing commercial interests over environmental and recreational concerns"
-    },
-    {
       "date": "2026-04-14T06:26:59.769245Z",
       "text": "Shane Jones has faced backlash over his fisheries bill proposals, leading to backtracks and changes in his stance"
     },
@@ -318,6 +332,10 @@
     {
       "date": "2026-05-04T07:43:40.669635Z",
       "text": "Shane Jones has faced criticism for his comments comparing the India FTA to a 'butter chicken tsunami' and for his comments about Nicola Willis' weight loss"
+    },
+    {
+      "date": "2026-05-05T07:13:30.914664Z",
+      "text": "Shane Jones has been involved in several controversies, including defending his 'butter chicken tsunami' comment and facing criticism over his backdown on the fisheries bill."
     }
   ],
   "crawl_log": [
@@ -470,16 +488,14 @@
       "date": "2026-05-04T07:43:40.669635Z",
       "notes": "Shane Jones' comments have sparked controversy and criticism from other MPs",
       "new_items": true
+    },
+    {
+      "date": "2026-05-05T07:13:30.914664Z",
+      "notes": "Reviewed Tavily sources for Shane Jones",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-06T06:26:21.656310Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-04-07T06:15:33.570749Z",
       "sources": [
@@ -612,7 +628,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-05-05T07:13:30.914756Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-04T07:43:40.669783Z"
+  "last_updated": "2026-05-05T07:13:30.914774Z"
 }
