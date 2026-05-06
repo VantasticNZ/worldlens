@@ -237,6 +237,15 @@
       "source": "NZ Herald",
       "_id": "6d2b7f68",
       "_crawled": "2026-05-05T07:13:30.914664Z"
+    },
+    {
+      "year": 2026,
+      "title": "National, ACT MPs call out Jones' 'butter chicken' comments as racist and 'lame dad jokes'",
+      "desc": "National and ACT MPs criticised Shane Jones' 'butter chicken' comments as racist and unprofessional",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "e5137316",
+      "_crawled": "2026-05-06T07:33:31.430005Z"
     }
   ],
   "score_adjustments": {
@@ -294,13 +303,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' repeated controversial comments have raised concerns about his integrity"
+    },
+    "2026-05-06T07:33:31.430005Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' recent comments have been widely criticised as racist and unprofessional, which may impact his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-14T06:26:59.769245Z",
-      "text": "Shane Jones has faced backlash over his fisheries bill proposals, leading to backtracks and changes in his stance"
-    },
     {
       "date": "2026-04-19T06:25:36.633922Z",
       "text": "Shane Jones has been involved in controversy surrounding the Fisheries Bill, with critics accusing him of misleading statements and exaggerations"
@@ -336,6 +346,10 @@
     {
       "date": "2026-05-05T07:13:30.914664Z",
       "text": "Shane Jones has been involved in several controversies, including defending his 'butter chicken tsunami' comment and facing criticism over his backdown on the fisheries bill."
+    },
+    {
+      "date": "2026-05-06T07:33:31.430005Z",
+      "text": "Shane Jones has faced criticism for his recent comments, including an apology for remarks on Nicola Willis' weight loss and backlash over his 'butter chicken' comments"
     }
   ],
   "crawl_log": [
@@ -493,16 +507,14 @@
       "date": "2026-05-05T07:13:30.914664Z",
       "notes": "Reviewed Tavily sources for Shane Jones",
       "new_items": true
+    },
+    {
+      "date": "2026-05-06T07:33:31.430005Z",
+      "notes": "Shane Jones' recent comments have sparked controversy and criticism from other MPs and the media",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-07T06:15:33.570749Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-04-08T06:17:18.025497Z",
       "sources": [
@@ -635,7 +647,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-05-06T07:33:31.430089Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-05T07:13:30.914774Z"
+  "last_updated": "2026-05-06T07:33:31.430109Z"
 }

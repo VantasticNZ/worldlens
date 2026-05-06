@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 12,
+  "lie_count": 13,
   "lies": [
     {
       "date": "March 2026",
@@ -122,6 +122,16 @@
       "platform": "twitter",
       "_id": "9c03182c",
       "_crawled": "2026-05-05T07:13:07.931521Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "NZ First won't do a deal with Labour",
+      "reality": "Previous deals and current negotiations suggest otherwise",
+      "source": "NZ Herald, May 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "bf0e7932",
+      "_crawled": "2026-05-06T07:32:48.483439Z"
     }
   ],
   "social_posts": [
@@ -278,6 +288,20 @@
       },
       "_id": "57deb0fd",
       "_crawled": "2026-05-05T07:13:07.931521Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "May 2026",
+      "text": "Tweet regarding PM's social post and free trade agreement with India",
+      "verified_by": "The Spinoff, May 2026",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Previous support for free trade agreements",
+        "source": "The Spinoff, May 2026",
+        "severity": "low"
+      },
+      "_id": "50ba8980",
+      "_crawled": "2026-05-06T07:32:48.483439Z"
     }
   ],
   "votes": [],
@@ -552,10 +576,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-16T06:29:31.556605Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency."
-    },
-    {
       "date": "2026-04-17T06:29:36.205918Z",
       "text": "Winston Peters continues to make statements that contradict his actions and previous statements, and has met with international leaders to discuss various issues"
     },
@@ -590,6 +610,10 @@
     {
       "date": "2026-05-05T07:13:07.931521Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency, particularly regarding his handling of sensitive information and his stance on coalition negotiations"
+    },
+    {
+      "date": "2026-05-06T07:32:48.483439Z",
+      "text": "Winston Peters continues to make statements on international relations and domestic policy, with some discrepancies noted."
     }
   ],
   "crawl_log": [
@@ -757,17 +781,14 @@
       "date": "2026-05-05T07:13:07.931521Z",
       "notes": "Peters' social media activity and public statements continue to be scrutinized for discrepancies and contradictions",
       "new_items": true
+    },
+    {
+      "date": "2026-05-06T07:32:48.483439Z",
+      "notes": "Reviewed sources from The Spinoff, NZ Herald, and RNZ",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-09T06:15:30.336914Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-04-10T06:27:34.944356Z",
       "sources": [
@@ -906,7 +927,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-06T07:32:48.483562Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-05T07:13:07.931673Z"
+  "last_updated": "2026-05-06T07:32:48.483587Z"
 }

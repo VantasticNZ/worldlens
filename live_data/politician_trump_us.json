@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 40,
+  "lie_count": 42,
   "lies": [
     {
       "date": "January 2026",
@@ -402,6 +402,26 @@
       "platform": "interview",
       "_id": "0fb43608",
       "_crawled": "2026-05-05T07:14:33.232930Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "U.S. forces will keep hitting Iran 'very hard' in the next two or three weeks and bring the country 'back to the Stone Ages'",
+      "reality": "No evidence to support the claim of bringing Iran 'back to the Stone Ages'",
+      "source": "AP News, April 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "d9ffcc5c",
+      "_crawled": "2026-05-06T07:35:13.721146Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "The military operation in Iran was 'getting very close' to completing its mission",
+      "reality": "No evidence to support the claim of the operation being close to completion",
+      "source": "FactCheck.org, April 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "2f53abe9",
+      "_crawled": "2026-05-06T07:35:13.721146Z"
     }
   ],
   "social_posts": [
@@ -699,13 +719,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's claim about drugs entering the country by sea is unsubstantiated and misleading"
+    },
+    "2026-05-06T07:35:13.721146Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The new lies and events suggest a decrease in integrity due to the spread of misinformation and the escalation of the conflict with Iran"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-17T06:31:47.554674Z",
-      "text": "Trump's ongoing lies and contradictory statements continue to damage his reputation and relationships with world leaders"
-    },
     {
       "date": "2026-04-20T07:12:51.771522Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and corruption risk."
@@ -741,6 +762,10 @@
     {
       "date": "2026-05-05T07:14:33.232930Z",
       "text": "New lies and events related to Donald Trump have been found, including a false claim about Thom Tillis and a shooting incident near the White House"
+    },
+    {
+      "date": "2026-05-06T07:35:13.721146Z",
+      "text": "Donald Trump's recent statements on Iran have been fact-checked and found to be false, and public disapproval of his handling of the war has risen"
     }
   ],
   "crawl_log": [
@@ -868,18 +893,14 @@
       "date": "2026-05-05T07:14:33.232930Z",
       "notes": "PolitiFact and CNN were the main sources of new information",
       "new_items": true
+    },
+    {
+      "date": "2026-05-06T07:35:13.721146Z",
+      "notes": "Multiple sources confirm Trump's false claims and the rising disapproval of his handling of the war with Iran",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-07T06:17:24.329542Z",
-      "sources": [
-        "RSS (6 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-08T06:19:26.762303Z",
       "sources": [
@@ -1025,7 +1046,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-06T07:35:13.721366Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-05T07:14:33.233074Z"
+  "last_updated": "2026-05-06T07:35:13.721389Z"
 }

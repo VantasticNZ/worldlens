@@ -353,16 +353,14 @@
       "date": "2026-05-05T07:13:19.083294Z",
       "notes": "Reviewed RNZ News, ACT NZ, NZ Herald, and other sources for updates on David Seymour's activities and statements.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-06T07:33:14.337150Z",
+      "notes": "David Seymour's recent activities and statements have been tracked, including his immigration policy announcement and speech at Waitangi Pōwhiri.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-07T06:15:19.377560Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-04-08T06:16:53.829056Z",
       "sources": [
@@ -496,7 +494,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-06T07:33:14.337235Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-05T07:13:19.083395Z"
+  "last_updated": "2026-05-06T07:33:14.337260Z"
 }

@@ -401,13 +401,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "further questions about Starmer's honesty regarding Mandelson's vetting"
+    },
+    "2026-05-06T07:35:47.258886Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "New lies and events suggest a decrease in integrity and an increase in corruption risk"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-07T06:17:59.029409Z",
-      "text": "The Prime Minister's recent statements have been found to be inconsistent with reality, and the UK's actions in response to the Iran war have been noted."
-    },
     {
       "date": "2026-04-08T06:20:34.477644Z",
       "text": "Keir Starmer's integrity score has decreased due to unfulfilled promises and a perceived lack of transparency"
@@ -443,6 +444,10 @@
     {
       "date": "2026-05-05T07:14:55.785537Z",
       "text": "Keir Starmer faces further criticism over his handling of Peter Mandelson's vetting and his statements about it."
+    },
+    {
+      "date": "2026-05-06T07:35:47.258886Z",
+      "text": "Keir Starmer faces criticism over Mandelson appointment and leasehold reforms, with new lies and events suggesting a decrease in integrity and an increase in corruption risk"
     }
   ],
   "crawl_log": [
@@ -565,17 +570,14 @@
       "date": "2026-05-05T07:14:55.785537Z",
       "notes": "Mandelson vetting controversy continues to affect Starmer's reputation",
       "new_items": true
+    },
+    {
+      "date": "2026-05-06T07:35:47.258886Z",
+      "notes": "New lies and events found, score adjustments made accordingly",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-03T06:11:45.055388Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-04-04T05:52:28.760339Z",
       "sources": [
@@ -708,7 +710,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-06T07:35:47.259001Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-05T07:14:55.785650Z"
+  "last_updated": "2026-05-06T07:35:47.259020Z"
 }

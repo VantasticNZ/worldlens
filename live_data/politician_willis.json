@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 7,
+  "lie_count": 8,
   "lies": [
     {
       "date": "February 2026",
@@ -72,6 +72,16 @@
       "platform": "interview",
       "_id": "d621a59d",
       "_crawled": "2026-04-23T06:58:57.477754Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "New Zealanders are impatient for expecting a quick cost-of-living turnaround",
+      "reality": "The statement may be misleading as it implies that New Zealanders have unrealistic expectations, when in fact they may be experiencing genuine hardship due to the cost of living",
+      "source": "NZ Herald",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "6ae5fbd3",
+      "_crawled": "2026-05-06T07:33:58.095445Z"
     }
   ],
   "social_posts": [
@@ -158,6 +168,20 @@
       },
       "_id": "6293426d",
       "_crawled": "2026-05-04T07:43:53.389629Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Nicola Willis confirms Budget 2026 spending plans",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "The statement contradicts her previous claims of responsible economic management",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "36058e02",
+      "_crawled": "2026-05-06T07:33:58.095445Z"
     }
   ],
   "votes": [],
@@ -373,13 +397,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Claim of NZ being on a path to surplus contradicts Treasury forecasts"
+    },
+    "2026-05-06T07:33:58.095445Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The discrepancy in her statement and previous claims may indicate a lack of transparency"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-11T05:55:34.731442Z",
-      "text": "Nicola Willis' claim that NZ is on a path to surplus has been contradicted by Treasury's long term fiscal forecasts"
-    },
     {
       "date": "2026-04-12T06:20:13.280786Z",
       "text": "Nicola Willis' recent statements on cost of living and economic management have been misleading and contradictory"
@@ -415,6 +440,10 @@
     {
       "date": "2026-05-04T07:43:53.389629Z",
       "text": "Nicola Willis confirms Budget 2026 spending plans, sparking concerns about the impact on the economy"
+    },
+    {
+      "date": "2026-05-06T07:33:58.095445Z",
+      "text": "Nicola Willis has confirmed her Budget 2026 spending plans, which may delay the return to surplus and contradict her previous claims of responsible economic management"
     }
   ],
   "crawl_log": [
@@ -557,16 +586,14 @@
       "date": "2026-05-04T07:43:53.389629Z",
       "notes": "Reviewed NZ Herald and Newsroom articles",
       "new_items": true
+    },
+    {
+      "date": "2026-05-06T07:33:58.095445Z",
+      "notes": "Further review of Nicola Willis' statements and policies is recommended to assess her integrity and transparency",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-04T05:51:37.790465Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-04-06T06:26:39.010958Z",
       "sources": [
@@ -709,7 +736,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-06T07:33:58.095544Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-05T07:13:39.585031Z"
+  "last_updated": "2026-05-06T07:33:58.095563Z"
 }
