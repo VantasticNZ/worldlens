@@ -21,6 +21,24 @@
       "discrepancy": null,
       "_id": "910ac3e3",
       "_crawled": "2026-05-03T07:15:11.238539Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "New Zealanders are hungry for solutions, because - clearly - the current system, it ain't working for them.",
+      "verified_by": "RNZ News",
+      "discrepancy": null,
+      "_id": "cc2b9a2a",
+      "_crawled": "2026-05-07T07:40:33.271295Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "The Green Party says new Stats NZ data shows a 2.1% increase in household living costs is driven by out of control fossil fuel and power prices, and is hitting lower income people the hardest.",
+      "verified_by": "Green Party of Aotearoa New Zealand",
+      "discrepancy": null,
+      "_id": "c280eb1a",
+      "_crawled": "2026-05-07T07:40:33.271295Z"
     }
   ],
   "votes": [],
@@ -123,6 +141,15 @@
       "source": "RNZ News",
       "_id": "5ae6ec1b",
       "_crawled": "2026-05-05T07:14:16.909894Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chloe Swarbrick calls to rally, get organised for 2026 election",
+      "desc": "Chloe Swarbrick told membership the Greens' ideas were immensely popular and the party's work in the coming year was to grow the party's movement.",
+      "type": "positive",
+      "source": "RNZ News",
+      "_id": "ed54204f",
+      "_crawled": "2026-05-07T07:40:33.271295Z"
     }
   ],
   "score_adjustments": {},
@@ -276,16 +303,14 @@
       "date": "2026-05-06T07:34:55.910406Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-05-07T07:40:33.271295Z",
+      "notes": "New statements and events from Chloe Swarbrick regarding the 2026 election and cost of living issues.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-02T06:10:30.566336Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-04-03T06:10:35.408714Z",
       "sources": [
@@ -419,7 +444,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-05-07T07:40:33.271373Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-06T07:34:55.910444Z"
+  "last_updated": "2026-05-07T07:40:33.271394Z"
 }

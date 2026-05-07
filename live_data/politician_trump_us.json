@@ -438,6 +438,20 @@
       },
       "_id": "f6e773ef",
       "_crawled": "2026-04-08T06:19:26.762171Z"
+    },
+    {
+      "platform": "X",
+      "date": "January 2026",
+      "text": "Maduro was 'flooding America with deadly fentanyl.'",
+      "verified_by": "PolitiFact",
+      "discrepancy": {
+        "type": "contradicts_reality",
+        "detail": "There is no evidence to support the claim.",
+        "source": "PolitiFact",
+        "severity": "high"
+      },
+      "_id": "63a61a0e",
+      "_crawled": "2026-05-07T07:41:00.126159Z"
     }
   ],
   "votes": [
@@ -724,13 +738,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The new lies and events suggest a decrease in integrity due to the spread of misinformation and the escalation of the conflict with Iran"
+    },
+    "2026-05-07T07:41:00.126159Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The new lies and discrepancies found in the social posts have decreased Trump's integrity score."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-20T07:12:51.771522Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and corruption risk."
-    },
     {
       "date": "2026-04-22T06:34:26.391949Z",
       "text": "President Donald Trump has been found to have made several new false claims, including statements about Thom Tillis and Pope Leo XIV. Additionally, Trump has extended the ceasefire with Iran and announced reforms to accelerate access to psychedelic drug treatments."
@@ -766,6 +781,10 @@
     {
       "date": "2026-05-06T07:35:13.721146Z",
       "text": "Donald Trump's recent statements on Iran have been fact-checked and found to be false, and public disapproval of his handling of the war has risen"
+    },
+    {
+      "date": "2026-05-07T07:41:00.126159Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity and honesty, particularly with regards to his claims about Iran and the economy."
     }
   ],
   "crawl_log": [
@@ -898,17 +917,14 @@
       "date": "2026-05-06T07:35:13.721146Z",
       "notes": "Multiple sources confirm Trump's false claims and the rising disapproval of his handling of the war with Iran",
       "new_items": true
+    },
+    {
+      "date": "2026-05-07T07:41:00.126159Z",
+      "notes": "The search results included several articles from reputable sources that fact-checked Trump's claims and found them to be false or misleading.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-08T06:19:26.762303Z",
-      "sources": [
-        "RSS (8 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-09T06:16:51.335918Z",
       "sources": [
@@ -1055,7 +1071,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-07T07:41:00.126345Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-06T07:35:13.721389Z"
+  "last_updated": "2026-05-07T07:41:00.126363Z"
 }
