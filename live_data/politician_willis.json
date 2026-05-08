@@ -406,10 +406,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-14T06:27:11.908365Z",
-      "text": "Nicola Willis' claim of creating 240,000 jobs found to be misleading, and she confirms debate with Ruth Richardson on economic policy"
-    },
-    {
       "date": "2026-04-15T06:28:47.527330Z",
       "text": "Nicola Willis continues to make statements on economic management, and the government has passed legislation on fiscal responsibility and announced the budget date"
     },
@@ -444,6 +440,10 @@
     {
       "date": "2026-05-07T07:39:17.560802Z",
       "text": "Nicola Willis comments on economic recovery and cost-of-living"
+    },
+    {
+      "date": "2026-05-08T06:29:58.147578Z",
+      "text": "Nicola Willis has made statements about the 2026 budget and accused Labour of misleading the public"
     }
   ],
   "crawl_log": [
@@ -596,17 +596,14 @@
       "date": "2026-05-07T07:39:17.560802Z",
       "notes": "Reviewed Tavily sources for Nicola Willis",
       "new_items": true
+    },
+    {
+      "date": "2026-05-08T06:29:58.147578Z",
+      "notes": "Reviewed articles from NZ Herald, RNZ News, and other sources",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-07T06:15:53.784591Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-04-08T06:17:46.675444Z",
       "sources": [
@@ -747,7 +744,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-08T06:29:58.147670Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-07T07:39:17.560890Z"
+  "last_updated": "2026-05-08T06:29:58.147689Z"
 }

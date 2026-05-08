@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 11,
+  "lie_count": 12,
   "lies": [
     {
       "date": "2026",
@@ -112,6 +112,16 @@
       "platform": "interview",
       "_id": "55b6654a",
       "_crawled": "2026-05-05T07:12:55.098054Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Luxon's parents let him stay up late to watch State of Origin",
+      "reality": "Luxon was 25 when the Crusaders played their first game in 1996, contradicting his claim of supporting them since he was a little boy",
+      "source": "The Spinoff, April 17, 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "8cef59b7",
+      "_crawled": "2026-05-08T06:28:08.263316Z"
     }
   ],
   "social_posts": [
@@ -527,13 +537,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's claim about supporting the Crusaders since he was a little boy was found to be false"
+    },
+    "2026-05-08T06:28:08.263316Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's claim about his parents and sports team was found to be false, affecting his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-28T07:27:19.758371Z",
-      "text": "Prime Minister Luxon faces criticism for cancelling his weekly Breakfast interview and defending his economic record."
-    },
     {
       "date": "2026-04-29T07:15:33.202110Z",
       "text": "Christopher Luxon's leadership is under scrutiny after he requested a confidence vote from National MPs."
@@ -569,6 +580,10 @@
     {
       "date": "2026-05-07T07:37:51.575554Z",
       "text": "Luxon's integrity score has been adjusted downward due to a newly discovered falsehood"
+    },
+    {
+      "date": "2026-05-08T06:28:08.263316Z",
+      "text": "Luxon's integrity score has been adjusted due to a newly discovered false claim, and he has been involved in several significant events, including a leadership battle and talks about the Strait of Hormuz"
     }
   ],
   "crawl_log": [
@@ -756,17 +771,14 @@
       "date": "2026-05-07T07:37:51.575554Z",
       "notes": "Multiple sources indicate Luxon's inconsistent statements and actions",
       "new_items": true
+    },
+    {
+      "date": "2026-05-08T06:28:08.263316Z",
+      "notes": "Multiple sources indicate Luxon's ongoing challenges with the media and his own party",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-18T06:08:07.733214Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-19T06:24:53.250618Z",
       "sources": [
@@ -905,7 +917,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-08T06:28:08.263437Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-07T07:37:51.575700Z"
+  "last_updated": "2026-05-08T06:28:08.263458Z"
 }

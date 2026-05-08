@@ -200,6 +200,10 @@
     {
       "date": "2026-05-07T07:38:36.658092Z",
       "text": "David Seymour faces criticism over RNZ leadership and immigration policy, while announcing a new charter school."
+    },
+    {
+      "date": "2026-05-08T06:29:07.796933Z",
+      "text": "David Seymour's recent statement on RNZ leadership has sparked disagreement with the RNZ Board"
     }
   ],
   "crawl_log": [
@@ -367,16 +371,14 @@
       "date": "2026-05-07T07:38:36.658092Z",
       "notes": "Disagreements and controversies surrounding David Seymour's statements and policies.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-08T06:29:07.796933Z",
+      "notes": "Disagreement between David Seymour and RNZ Board on leadership changes",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-09T06:15:39.449107Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-04-10T06:27:44.260773Z",
       "sources": [
@@ -511,7 +513,15 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-08T06:29:07.796991Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-07T07:38:36.658297Z"
+  "last_updated": "2026-05-08T06:29:07.797014Z"
 }

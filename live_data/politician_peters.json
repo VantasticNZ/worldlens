@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 13,
+  "lie_count": 14,
   "lies": [
     {
       "date": "March 2026",
@@ -132,6 +132,16 @@
       "platform": "interview",
       "_id": "bf0e7932",
       "_crawled": "2026-05-06T07:32:48.483439Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Fees-free university scheme to be scrapped",
+      "reality": "No official confirmation from the government",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "2629f2ba",
+      "_crawled": "2026-05-08T06:28:44.538613Z"
     }
   ],
   "social_posts": [
@@ -577,13 +587,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Recent statements and actions suggest potential inconsistencies"
+    },
+    "2026-05-08T06:28:44.538613Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' handling of the Iran war emails and his contradictory statements on the India-New Zealand free trade agreement have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-19T06:25:14.212252Z",
-      "text": "Winston Peters met with US Secretary of State Marco Rubio and signed a defence and security declaration with Cook Islands PM Mark Brown"
-    },
     {
       "date": "2026-04-20T07:11:36.233545Z",
       "text": "Winston Peters' recent actions and statements have raised concerns about his integrity and transparency."
@@ -619,6 +630,10 @@
     {
       "date": "2026-05-07T07:38:16.523684Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his party's coalition dynamics and policy consistency."
+    },
+    {
+      "date": "2026-05-08T06:28:44.538613Z",
+      "text": "Winston Peters' recent actions and statements have raised concerns about his integrity and consistency, potentially impacting his party's reputation"
     }
   ],
   "crawl_log": [
@@ -796,17 +811,14 @@
       "date": "2026-05-07T07:38:16.523684Z",
       "notes": "Reviewed Tavily sources and NZ news outlets for updates on Winston Peters and NZ First",
       "new_items": true
+    },
+    {
+      "date": "2026-05-08T06:28:44.538613Z",
+      "notes": "Peters' comments on the fees-free university scheme and the Iran war emails require further verification",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-11T05:54:56.903398Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-04-12T06:19:35.661936Z",
       "sources": [
@@ -943,7 +955,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-08T06:28:44.538715Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-07T07:38:16.523838Z"
+  "last_updated": "2026-05-08T06:28:44.538768Z"
 }

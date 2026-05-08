@@ -308,16 +308,14 @@
       "date": "2026-05-07T07:40:33.271295Z",
       "notes": "New statements and events from Chloe Swarbrick regarding the 2026 election and cost of living issues.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-08T06:31:10.723448Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-03T06:10:35.408714Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-04-04T05:52:04.080398Z",
       "sources": [
@@ -451,7 +449,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-05-08T06:31:10.723460Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-07T07:40:33.271394Z"
+  "last_updated": "2026-05-08T06:31:10.723478Z"
 }

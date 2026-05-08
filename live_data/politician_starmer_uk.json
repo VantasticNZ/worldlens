@@ -156,6 +156,20 @@
       },
       "_id": "82da56b8",
       "_crawled": "2026-05-04T07:45:02.417610Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Reform’s Nigel Farage and the Greens’ Zack Polanski were “not fit to meet this moment of great global instability”",
+      "verified_by": "The Guardian",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "No evidence provided to support the claim",
+        "source": "The Guardian",
+        "severity": "low"
+      },
+      "_id": "b7b7533e",
+      "_crawled": "2026-05-08T06:32:28.766521Z"
     }
   ],
   "votes": [],
@@ -415,10 +429,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-09T06:17:15.658836Z",
-      "text": "Keir Starmer's promise of positive change has been contradicted by the current state of the country, and his actions have been called into question"
-    },
-    {
       "date": "2026-04-10T06:29:08.291319Z",
       "text": "Keir Starmer's leadership is facing challenges, and his promise on income tax has been broken."
     },
@@ -453,6 +463,10 @@
     {
       "date": "2026-05-07T07:41:57.946345Z",
       "text": "Keir Starmer's integrity score has decreased due to additional lies found"
+    },
+    {
+      "date": "2026-05-08T06:32:28.766521Z",
+      "text": "Keir Starmer's leadership is facing challenges, with Labour struggling in local elections and some MPs expressing concern"
     }
   ],
   "crawl_log": [
@@ -585,16 +599,14 @@
       "date": "2026-05-07T07:41:57.946345Z",
       "notes": "New lies and events found, score adjustments made",
       "new_items": true
+    },
+    {
+      "date": "2026-05-08T06:32:28.766521Z",
+      "notes": "No significant new lies or votes found, but some discrepancies in social posts and negative events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-06T06:27:51.905848Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-04-07T06:17:59.029477Z",
       "sources": [
@@ -727,7 +739,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-08T06:32:28.766614Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-07T07:41:57.946540Z"
+  "last_updated": "2026-05-08T06:32:28.766631Z"
 }

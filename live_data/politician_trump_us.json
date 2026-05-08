@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 42,
+  "lie_count": 44,
   "lies": [
     {
       "date": "January 2026",
@@ -422,6 +422,26 @@
       "platform": "speech",
       "_id": "2f53abe9",
       "_crawled": "2026-05-06T07:35:13.721146Z"
+    },
+    {
+      "date": "2026",
+      "claim": "prices are 'plummeting downward' because of his policies",
+      "reality": "the annual rate of inflation has declined, but prices overall are still increasing",
+      "source": "FactCheck.org, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "1da2c914",
+      "_crawled": "2026-05-08T06:31:45.980706Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "more Americans are working today than at any time in the history of our country",
+      "reality": "this claim is barely true, as it depends on the metric used",
+      "source": "PolitiFact, March 27, 2026",
+      "severity": "low",
+      "platform": "speech",
+      "_id": "9a02f072",
+      "_crawled": "2026-05-08T06:31:45.980706Z"
     }
   ],
   "social_posts": [
@@ -743,13 +763,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The new lies and discrepancies found in the social posts have decreased Trump's integrity score."
+    },
+    "2026-05-08T06:31:45.980706Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "repeated lies and misleading claims"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-22T06:34:26.391949Z",
-      "text": "President Donald Trump has been found to have made several new false claims, including statements about Thom Tillis and Pope Leo XIV. Additionally, Trump has extended the ceasefire with Iran and announced reforms to accelerate access to psychedelic drug treatments."
-    },
     {
       "date": "2026-04-24T07:02:42.252170Z",
       "text": "The Trump administration has made notable moves, including reclassifying cannabis and facing a lawsuit from a billionaire backer."
@@ -785,6 +806,10 @@
     {
       "date": "2026-05-07T07:41:00.126159Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and honesty, particularly with regards to his claims about Iran and the economy."
+    },
+    {
+      "date": "2026-05-08T06:31:45.980706Z",
+      "text": "Donald Trump has made several new false or misleading claims, including about the economy and trade deals"
     }
   ],
   "crawl_log": [
@@ -922,17 +947,14 @@
       "date": "2026-05-07T07:41:00.126159Z",
       "notes": "The search results included several articles from reputable sources that fact-checked Trump's claims and found them to be false or misleading.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-08T06:31:45.980706Z",
+      "notes": "multiple sources confirm Trump's pattern of dishonesty",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-09T06:16:51.335918Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-14T06:27:53.908156Z",
       "sources": [
@@ -1080,7 +1102,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-08T06:31:45.981030Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-07T07:41:00.126363Z"
+  "last_updated": "2026-05-08T06:31:45.981046Z"
 }
