@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 44,
+  "lie_count": 45,
   "lies": [
     {
       "date": "January 2026",
@@ -442,6 +442,16 @@
       "platform": "speech",
       "_id": "9a02f072",
       "_crawled": "2026-05-08T06:31:45.980706Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "We are right now producing more oil than Saudi Arabia and Russia combined",
+      "reality": "This claim is mostly true, but requires more context",
+      "source": "PolitiFact, April 23, 2026",
+      "severity": "med",
+      "platform": "remarks at the White House",
+      "_id": "3e4accc3",
+      "_crawled": "2026-05-09T07:04:48.770492Z"
     }
   ],
   "social_posts": [
@@ -768,13 +778,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "repeated lies and misleading claims"
+    },
+    "2026-05-09T07:04:48.770492Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's false claim about Thom Tillis reduces his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-24T07:02:42.252170Z",
-      "text": "The Trump administration has made notable moves, including reclassifying cannabis and facing a lawsuit from a billionaire backer."
-    },
     {
       "date": "2026-04-29T07:17:15.600516Z",
       "text": "Trump faces attempted assassination and instructs to prepare a long-term blockade against Iran"
@@ -810,6 +821,10 @@
     {
       "date": "2026-05-08T06:31:45.980706Z",
       "text": "Donald Trump has made several new false or misleading claims, including about the economy and trade deals"
+    },
+    {
+      "date": "2026-05-09T07:04:48.770492Z",
+      "text": "Trump's recent statements have raised concerns about his integrity and policy consistency"
     }
   ],
   "crawl_log": [
@@ -952,17 +967,14 @@
       "date": "2026-05-08T06:31:45.980706Z",
       "notes": "multiple sources confirm Trump's pattern of dishonesty",
       "new_items": true
+    },
+    {
+      "date": "2026-05-09T07:04:48.770492Z",
+      "notes": "Multiple sources confirm Trump's false claims and contradictory policy statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-14T06:27:53.908156Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-15T06:29:29.452097Z",
       "sources": [
@@ -1110,7 +1122,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-09T07:04:48.770692Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-08T06:31:45.981046Z"
+  "last_updated": "2026-05-09T07:04:48.770723Z"
 }

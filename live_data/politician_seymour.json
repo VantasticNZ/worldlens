@@ -204,6 +204,10 @@
     {
       "date": "2026-05-08T06:29:07.796933Z",
       "text": "David Seymour's recent statement on RNZ leadership has sparked disagreement with the RNZ Board"
+    },
+    {
+      "date": "2026-05-09T07:03:26.031034Z",
+      "text": "David Seymour's recent comments on RNZ leadership and media criticism have sparked controversy"
     }
   ],
   "crawl_log": [
@@ -376,16 +380,14 @@
       "date": "2026-05-08T06:29:07.796933Z",
       "notes": "Disagreement between David Seymour and RNZ Board on leadership changes",
       "new_items": true
+    },
+    {
+      "date": "2026-05-09T07:03:26.031034Z",
+      "notes": "Reviewed RNZ News and Tavily sources for updates on David Seymour",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-10T06:27:44.260773Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-04-11T05:55:05.626877Z",
       "sources": [
@@ -521,7 +523,15 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-09T07:03:26.031127Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-08T06:29:07.797014Z"
+  "last_updated": "2026-05-09T07:03:26.031152Z"
 }

@@ -223,6 +223,10 @@
     {
       "date": "2026-04-15T06:29:06.890066Z",
       "text": "Chris Hipkins faces renewed scrutiny after denying ex-wife's allegations, and quells claims of internal disagreement over Te Pāti Māori."
+    },
+    {
+      "date": "2026-05-09T07:04:22.898326Z",
+      "text": "Chris Hipkins has made several public statements and speeches, outlining Labour's focus on cost-of-living issues and criticizing National's economic approach"
     }
   ],
   "crawl_log": [
@@ -390,16 +394,14 @@
       "date": "2026-05-08T06:30:39.049975Z",
       "notes": "New events and speeches from Chris Hipkins, focusing on Labour's vision and responsible commitments.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-09T07:04:22.898326Z",
+      "notes": "No significant contradictions or lies found, but several new events and statements from Chris Hipkins",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-06T06:27:08.465727Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-07T06:16:37.443642Z",
       "sources": [
@@ -536,7 +538,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-09T07:04:22.898440Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-08T06:30:39.050068Z"
+  "last_updated": "2026-05-09T07:04:22.898460Z"
 }

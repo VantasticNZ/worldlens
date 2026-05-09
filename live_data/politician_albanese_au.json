@@ -350,17 +350,14 @@
       "date": "2026-05-08T06:32:11.142811Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-05-09T07:05:03.295699Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-09T06:17:02.196538Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-04-10T06:28:58.180968Z",
       "sources": [
@@ -500,7 +497,15 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-09T07:05:03.295715Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-08T06:32:11.142839Z"
+  "last_updated": "2026-05-09T07:05:03.295736Z"
 }

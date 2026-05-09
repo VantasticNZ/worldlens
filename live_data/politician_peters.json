@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 14,
+  "lie_count": 15,
   "lies": [
     {
       "date": "March 2026",
@@ -142,6 +142,16 @@
       "platform": "interview",
       "_id": "2629f2ba",
       "_crawled": "2026-05-08T06:28:44.538613Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "NZ First voted in favour of the 2020 legislation which brought in DEI regulations during the full time of Covid lockdown and didn't have a chance to get their head around it",
+      "reality": "NZ First had the opportunity to review and vote on the legislation, and their claim of not having a chance to understand it is misleading",
+      "source": "Stuff, no date",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "2774ac64",
+      "_crawled": "2026-05-09T07:03:06.337895Z"
     }
   ],
   "social_posts": [
@@ -592,13 +602,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' handling of the Iran war emails and his contradictory statements on the India-New Zealand free trade agreement have raised concerns about his integrity"
+    },
+    "2026-05-09T07:03:06.337895Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Winston Peters' misleading claim about NZ First's vote on DEI regulations and his contradictory statements on dealing with Labour"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-20T07:11:36.233545Z",
-      "text": "Winston Peters' recent actions and statements have raised concerns about his integrity and transparency."
-    },
     {
       "date": "2026-04-22T06:31:32.163835Z",
       "text": "Winston Peters' coalition stability claims have been contradicted by recent events"
@@ -634,6 +645,10 @@
     {
       "date": "2026-05-08T06:28:44.538613Z",
       "text": "Winston Peters' recent actions and statements have raised concerns about his integrity and consistency, potentially impacting his party's reputation"
+    },
+    {
+      "date": "2026-05-09T07:03:06.337895Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
     }
   ],
   "crawl_log": [
@@ -816,17 +831,14 @@
       "date": "2026-05-08T06:28:44.538613Z",
       "notes": "Peters' comments on the fees-free university scheme and the Iran war emails require further verification",
       "new_items": true
+    },
+    {
+      "date": "2026-05-09T07:03:06.337895Z",
+      "notes": "Winston Peters' social media posts and public statements require close monitoring for discrepancies and contradictions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-12T06:19:35.661936Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-04-14T06:26:38.330566Z",
       "sources": [
@@ -963,7 +975,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-09T07:03:06.338079Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-08T06:28:44.538768Z"
+  "last_updated": "2026-05-09T07:03:06.338108Z"
 }

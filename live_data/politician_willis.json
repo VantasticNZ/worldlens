@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 8,
+  "lie_count": 9,
   "lies": [
     {
       "date": "February 2026",
@@ -82,6 +82,16 @@
       "platform": "interview",
       "_id": "6ae5fbd3",
       "_crawled": "2026-05-06T07:33:58.095445Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Fees-free university scheme will continue",
+      "reality": "Fees-free university scheme to be scrapped in upcoming Budget",
+      "source": "RNZ News",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "688d2599",
+      "_crawled": "2026-05-09T07:03:58.674576Z"
     }
   ],
   "social_posts": [
@@ -402,13 +412,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The discrepancy in her statement and previous claims may indicate a lack of transparency"
+    },
+    "2026-05-09T07:03:58.674576Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Claim of continuing fees-free university scheme contradicted by actual policy decision"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-15T06:28:47.527330Z",
-      "text": "Nicola Willis continues to make statements on economic management, and the government has passed legislation on fiscal responsibility and announced the budget date"
-    },
     {
       "date": "2026-04-17T06:30:14.711003Z",
       "text": "Nicola Willis' claim of NZ being on a path to surplus contradicts Treasury forecasts, raising concerns about her integrity."
@@ -444,6 +455,10 @@
     {
       "date": "2026-05-08T06:29:58.147578Z",
       "text": "Nicola Willis has made statements about the 2026 budget and accused Labour of misleading the public"
+    },
+    {
+      "date": "2026-05-09T07:03:58.674576Z",
+      "text": "Nicola Willis' statement on fees-free university scheme contradicts actual policy decision, raising integrity concerns"
     }
   ],
   "crawl_log": [
@@ -601,18 +616,14 @@
       "date": "2026-05-08T06:29:58.147578Z",
       "notes": "Reviewed articles from NZ Herald, RNZ News, and other sources",
       "new_items": true
+    },
+    {
+      "date": "2026-05-09T07:03:58.674576Z",
+      "notes": "Fees-free university scheme scrapping confirmed by Nicola Willis, contradicting previous claims",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-08T06:17:46.675444Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-04-09T06:16:03.912879Z",
       "sources": [
@@ -752,7 +763,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-09T07:03:58.674670Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-08T06:29:58.147689Z"
+  "last_updated": "2026-05-09T07:03:58.674691Z"
 }
