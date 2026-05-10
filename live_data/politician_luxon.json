@@ -571,13 +571,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's contradictory statements on the Iran conflict raise concerns about his integrity"
+    },
+    "2026-05-10T07:22:05.892822Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's claim about his parents and State of Origin is contradicted by fact-checking, which may impact his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-30T07:23:53.805132Z",
-      "text": "Luxon held talks with Peters after emails revealed a clash over New Zealand's Iran war stance."
-    },
     {
       "date": "2026-05-01T07:22:30.325910Z",
       "text": "Luxon's integrity score takes a hit due to his refusal to provide evidence for his claim of being mischaracterised in emails"
@@ -613,6 +614,10 @@
     {
       "date": "2026-05-09T07:02:50.086523Z",
       "text": "Luxon's contradictory statements on the Iran conflict have raised concerns about his integrity"
+    },
+    {
+      "date": "2026-05-10T07:22:05.892822Z",
+      "text": "Luxon's leadership and response to the fuel crisis are under scrutiny, with concerns about his integrity and the government's handling of the crisis"
     }
   ],
   "crawl_log": [
@@ -810,17 +815,14 @@
       "date": "2026-05-09T07:02:50.086523Z",
       "notes": "Luxon's response to Iran strikes and his contradictory statements on the issue have been noted",
       "new_items": true
+    },
+    {
+      "date": "2026-05-10T07:22:05.892822Z",
+      "notes": "Luxon's statements and actions are being closely monitored for potential discrepancies and contradictions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-20T07:11:21.770813Z",
-      "sources": [
-        "RSS (5 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-21T06:29:59.805099Z",
       "sources": [
@@ -959,7 +961,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-10T07:22:05.892990Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-09T07:02:50.086657Z"
+  "last_updated": "2026-05-10T07:22:05.893028Z"
 }

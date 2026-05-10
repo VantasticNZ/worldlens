@@ -430,13 +430,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Keir Starmer's claim about Mandelson's appointment has been found to be false, affecting his integrity score"
+    },
+    "2026-05-10T07:23:41.992980Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Keir Starmer's claims about the appointment of Mandelson have been found to be misleading, affecting his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-16T06:32:43.929825Z",
-      "text": "Keir Starmer's integrity score has been adjusted downward due to unfulfilled claims and criticism over immigration rhetoric"
-    },
     {
       "date": "2026-04-20T07:13:12.136813Z",
       "text": "Keir Starmer faces criticism for his handling of the Mandelson vetting scandal and making promises that have not been fulfilled"
@@ -472,6 +473,10 @@
     {
       "date": "2026-05-09T07:05:18.539701Z",
       "text": "Keir Starmer's leadership is under pressure after Labour's disastrous election night, and his integrity score has been affected by his false claim about Mandelson's appointment"
+    },
+    {
+      "date": "2026-05-10T07:23:41.992980Z",
+      "text": "Keir Starmer's leadership is under pressure following heavy losses in the local elections and controversy over the appointment of Mandelson"
     }
   ],
   "crawl_log": [
@@ -614,16 +619,14 @@
       "date": "2026-05-09T07:05:18.539701Z",
       "notes": "Reviewed sources from BBC and The Guardian, focusing on Keir Starmer's statements and Labour's election performance",
       "new_items": true
+    },
+    {
+      "date": "2026-05-10T07:23:41.992980Z",
+      "notes": "Controversy over Mandelson's appointment and local election losses dominate the news",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-08T06:20:34.477701Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-04-09T06:17:15.658910Z",
       "sources": [
@@ -757,7 +760,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-10T07:23:41.993096Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-09T07:05:18.539838Z"
+  "last_updated": "2026-05-10T07:23:41.993114Z"
 }

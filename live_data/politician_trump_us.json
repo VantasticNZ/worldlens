@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 45,
+  "lie_count": 47,
   "lies": [
     {
       "date": "January 2026",
@@ -452,6 +452,26 @@
       "platform": "remarks at the White House",
       "_id": "3e4accc3",
       "_crawled": "2026-05-09T07:04:48.770492Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Gasoline prices have 'come down very substantially today'",
+      "reality": "Prices overall are still increasing",
+      "source": "BBC World, politifact.com",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "8b962965",
+      "_crawled": "2026-05-10T07:23:26.926733Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Consumer confidence is way up",
+      "reality": "Unemployment rate has increased slightly under Trump",
+      "source": "politifact.com",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "03aaef5c",
+      "_crawled": "2026-05-10T07:23:26.926733Z"
     }
   ],
   "social_posts": [
@@ -783,13 +803,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's false claim about Thom Tillis reduces his integrity score"
+    },
+    "2026-05-10T07:23:26.926733Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Additional lies and contradictory statements found"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-29T07:17:15.600516Z",
-      "text": "Trump faces attempted assassination and instructs to prepare a long-term blockade against Iran"
-    },
     {
       "date": "2026-05-01T07:23:30.747880Z",
       "text": "Trump's recent statements and actions have led to increased tensions with Iran and Germany, while signing a bill to end a record shutdown over immigration enforcement."
@@ -825,6 +846,10 @@
     {
       "date": "2026-05-09T07:04:48.770492Z",
       "text": "Trump's recent statements have raised concerns about his integrity and policy consistency"
+    },
+    {
+      "date": "2026-05-10T07:23:26.926733Z",
+      "text": "Trump's recent statements on gasoline prices and consumer confidence found to be false, and his administration's messaging on Iran creates confusion"
     }
   ],
   "crawl_log": [
@@ -972,18 +997,14 @@
       "date": "2026-05-09T07:04:48.770492Z",
       "notes": "Multiple sources confirm Trump's false claims and contradictory policy statements",
       "new_items": true
+    },
+    {
+      "date": "2026-05-10T07:23:26.926733Z",
+      "notes": "New lies and events found, score adjustments made accordingly",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-15T06:29:29.452097Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-16T06:31:52.733009Z",
       "sources": [
@@ -1131,7 +1152,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-10T07:23:26.926968Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-09T07:04:48.770723Z"
+  "last_updated": "2026-05-10T07:23:26.926989Z"
 }

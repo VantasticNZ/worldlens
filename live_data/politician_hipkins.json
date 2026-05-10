@@ -399,16 +399,14 @@
       "date": "2026-05-09T07:04:22.898326Z",
       "notes": "No significant contradictions or lies found, but several new events and statements from Chris Hipkins",
       "new_items": true
+    },
+    {
+      "date": "2026-05-10T07:23:05.238758Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-07T06:16:37.443642Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-08T06:18:32.142901Z",
       "sources": [
@@ -545,7 +543,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-10T07:23:05.238769Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-09T07:04:22.898460Z"
+  "last_updated": "2026-05-10T07:23:05.238788Z"
 }
