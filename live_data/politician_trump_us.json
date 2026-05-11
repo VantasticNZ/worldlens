@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 47,
+  "lie_count": 49,
   "lies": [
     {
       "date": "January 2026",
@@ -472,6 +472,26 @@
       "platform": "speech",
       "_id": "03aaef5c",
       "_crawled": "2026-05-10T07:23:26.926733Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "The economy is roaring like never before",
+      "reality": "Real GDP growth in 2025 was down to 2.2%, according to a federal estimate",
+      "source": "FactCheck.org, February 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "72e3f898",
+      "_crawled": "2026-05-11T08:22:58.511790Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Prices are plummeting downward",
+      "reality": "The annual rate of inflation has declined, but prices overall are still increasing",
+      "source": "FactCheck.org, February 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "568d45dd",
+      "_crawled": "2026-05-11T08:22:58.511790Z"
     }
   ],
   "social_posts": [
@@ -808,13 +828,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Additional lies and contradictory statements found"
+    },
+    "2026-05-11T08:22:58.511790Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's repeated false claims and contradictory statements have led to a decrease in his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-01T07:23:30.747880Z",
-      "text": "Trump's recent statements and actions have led to increased tensions with Iran and Germany, while signing a bill to end a record shutdown over immigration enforcement."
-    },
     {
       "date": "2026-05-02T07:02:04.756042Z",
       "text": "Trump's recent claims and actions have raised concerns about his integrity and approach to foreign policy."
@@ -850,6 +871,10 @@
     {
       "date": "2026-05-10T07:23:26.926733Z",
       "text": "Trump's recent statements on gasoline prices and consumer confidence found to be false, and his administration's messaging on Iran creates confusion"
+    },
+    {
+      "date": "2026-05-11T08:22:58.511790Z",
+      "text": "Trump's recent statements and actions have led to increased tensions with Iran and raised concerns about his integrity and honesty"
     }
   ],
   "crawl_log": [
@@ -1002,18 +1027,14 @@
       "date": "2026-05-10T07:23:26.926733Z",
       "notes": "New lies and events found, score adjustments made accordingly",
       "new_items": true
+    },
+    {
+      "date": "2026-05-11T08:22:58.511790Z",
+      "notes": "Multiple sources confirm Trump's false claims and contradictory statements, with a focus on his statements on the economy, prices, and investments",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-16T06:31:52.733009Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-17T06:31:47.554828Z",
       "sources": [
@@ -1160,7 +1181,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-11T08:22:58.512062Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-10T07:23:26.926989Z"
+  "last_updated": "2026-05-11T08:22:58.512082Z"
 }

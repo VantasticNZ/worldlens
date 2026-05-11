@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 11,
+  "lie_count": 12,
   "lies": [
     {
       "date": "2026",
@@ -112,6 +112,16 @@
       "platform": "press",
       "_id": "9d25ef51",
       "_crawled": "2026-05-05T07:14:55.785537Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "I'm not going to walk away from the job I was elected to do",
+      "reality": "Facing calls to quit after local election losses",
+      "source": "Reuters, 10 May 2026",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "deb60003",
+      "_crawled": "2026-05-11T08:23:44.017363Z"
     }
   ],
   "social_posts": [
@@ -170,6 +180,20 @@
       },
       "_id": "b7b7533e",
       "_crawled": "2026-05-08T06:32:28.766521Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Starmer pledges to bring Britain closer to the EU",
+      "verified_by": "clickorlando.com, 11 May 2026",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Previous statements on EU relations",
+        "source": "clickorlando.com, 11 May 2026",
+        "severity": "med"
+      },
+      "_id": "2d479d07",
+      "_crawled": "2026-05-11T08:23:44.017363Z"
     }
   ],
   "votes": [],
@@ -435,13 +459,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Keir Starmer's claims about the appointment of Mandelson have been found to be misleading, affecting his integrity score"
+    },
+    "2026-05-11T08:23:44.017363Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Facing calls to quit and contradictory statements on EU relations"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-20T07:13:12.136813Z",
-      "text": "Keir Starmer faces criticism for his handling of the Mandelson vetting scandal and making promises that have not been fulfilled"
-    },
     {
       "date": "2026-04-22T06:35:18.849086Z",
       "text": "Keir Starmer faces criticism over the Mandelson vetting scandal and Angela Rayner's resignation, raising concerns about his leadership and the party's integrity"
@@ -477,6 +502,10 @@
     {
       "date": "2026-05-10T07:23:41.992980Z",
       "text": "Keir Starmer's leadership is under pressure following heavy losses in the local elections and controversy over the appointment of Mandelson"
+    },
+    {
+      "date": "2026-05-11T08:23:44.017363Z",
+      "text": "Keir Starmer's leadership is under scrutiny after poor election results and contradictory statements on EU relations"
     }
   ],
   "crawl_log": [
@@ -624,17 +653,14 @@
       "date": "2026-05-10T07:23:41.992980Z",
       "notes": "Controversy over Mandelson's appointment and local election losses dominate the news",
       "new_items": true
+    },
+    {
+      "date": "2026-05-11T08:23:44.017363Z",
+      "notes": "Local election losses and EU relations statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-09T06:17:15.658910Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-04-10T06:29:08.291392Z",
       "sources": [
@@ -767,7 +793,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-11T08:23:44.017483Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-10T07:23:41.993114Z"
+  "last_updated": "2026-05-11T08:23:44.017504Z"
 }

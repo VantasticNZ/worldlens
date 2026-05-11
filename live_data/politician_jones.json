@@ -323,13 +323,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' apology for his comments about Nicola Willis' weight loss and his defence of his 'butter chicken tsunami' comments suggest a lack of integrity."
+    },
+    "2026-05-11T08:21:17.699800Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' apology for his comments about Nicola Willis' weight loss and his defence of his 'butter chicken tsunami' comments suggest a lack of integrity."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-23T06:58:20.819378Z",
-      "text": "Shane Jones has faced criticism for his recent comments, including his apology for remarks about Nicola Willis' weight loss and his defence of comments about the India FTA."
-    },
     {
       "date": "2026-04-29T07:16:15.448743Z",
       "text": "Shane Jones' 'butter chicken tsunami' comments continue to attract international attention and criticism."
@@ -364,6 +365,10 @@
     },
     {
       "date": "2026-05-09T07:03:45.528740Z",
+      "text": "Shane Jones has faced criticism for his comments about Nicola Willis' weight loss and his comparison of the India Free Trade agreement to a 'butter chicken tsunami'."
+    },
+    {
+      "date": "2026-05-11T08:21:17.699800Z",
       "text": "Shane Jones has faced criticism for his comments about Nicola Willis' weight loss and his comparison of the India Free Trade agreement to a 'butter chicken tsunami'."
     }
   ],
@@ -542,16 +547,14 @@
       "date": "2026-05-09T07:03:45.528740Z",
       "notes": "Shane Jones' recent comments have sparked controversy and criticism from other MPs.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-11T08:21:17.699800Z",
+      "notes": "Shane Jones' recent comments have sparked controversy and led to an apology.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-11T05:55:15.428822Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-04-14T06:26:59.769313Z",
       "sources": [
@@ -686,7 +689,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-05-11T08:21:17.699870Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-10T07:22:35.010962Z"
+  "last_updated": "2026-05-11T08:21:17.699890Z"
 }

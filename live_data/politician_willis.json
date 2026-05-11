@@ -192,6 +192,20 @@
       },
       "_id": "36058e02",
       "_crawled": "2026-05-06T07:33:58.095445Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "The Government has worked with business and industry to refine the Fuel Response Plan",
+      "verified_by": "National Party website",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Previous statements on fuel prices",
+        "source": "National Party website",
+        "severity": "low"
+      },
+      "_id": "2ca4a9d6",
+      "_crawled": "2026-05-11T08:21:39.433904Z"
     }
   ],
   "votes": [],
@@ -426,10 +440,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-20T07:12:09.912748Z",
-      "text": "Nicola Willis met with White House officials and joined calls for a free and safe Strait of Hormuz"
-    },
-    {
       "date": "2026-04-23T06:58:57.477754Z",
       "text": "Nicola Willis meets with White House officials and signs joint declaration with international finance ministers to discuss economic response to Iran conflict"
     },
@@ -464,6 +474,10 @@
     {
       "date": "2026-05-10T07:22:44.093816Z",
       "text": "Nicola Willis' statement on the Fees-free university scheme has been contradicted by recent reports, indicating a potential integrity issue"
+    },
+    {
+      "date": "2026-05-11T08:21:39.433904Z",
+      "text": "Nicola Willis has made statements on the cost of living and fuel prices, and the Government has announced the Budget date and refined the Fuel Response Plan"
     }
   ],
   "crawl_log": [
@@ -631,17 +645,14 @@
       "date": "2026-05-10T07:22:44.093816Z",
       "notes": "Fees-free university scheme contradiction found",
       "new_items": true
+    },
+    {
+      "date": "2026-05-11T08:21:39.433904Z",
+      "notes": "Reviewed recent statements and announcements from Nicola Willis and the Government",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-10T06:28:03.351345Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-04-11T05:55:34.731499Z",
       "sources": [
@@ -781,7 +792,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-11T08:21:39.434013Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-10T07:22:44.093881Z"
+  "last_updated": "2026-05-11T08:21:39.434034Z"
 }

@@ -212,6 +212,10 @@
     {
       "date": "2026-05-10T07:22:26.387054Z",
       "text": "David Seymour has been involved in several controversies, including criticizing a media trust survey, proposing a migrant tax, and commenting on RNZ leadership changes."
+    },
+    {
+      "date": "2026-05-11T08:20:59.272982Z",
+      "text": "David Seymour faces opposition to his Regulatory Standards Bill and comments on RNZ leadership."
     }
   ],
   "crawl_log": [
@@ -394,16 +398,14 @@
       "date": "2026-05-10T07:22:26.387054Z",
       "notes": "Reviewed various news articles and found several events related to David Seymour's recent activities.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-11T08:20:59.272982Z",
+      "notes": "Reviewed Tavily sources for updates on David Seymour",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-12T06:19:47.040223Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-04-14T06:26:48.565266Z",
       "sources": [
@@ -541,7 +543,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-11T08:20:59.273072Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-10T07:22:26.387250Z"
+  "last_updated": "2026-05-11T08:20:59.273098Z"
 }
