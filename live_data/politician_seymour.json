@@ -216,6 +216,10 @@
     {
       "date": "2026-05-11T08:20:59.272982Z",
       "text": "David Seymour faces opposition to his Regulatory Standards Bill and comments on RNZ leadership."
+    },
+    {
+      "date": "2026-05-12T07:38:46.200920Z",
+      "text": "David Seymour faced criticism for his comments on RNZ leadership and his immigration policy"
     }
   ],
   "crawl_log": [
@@ -403,16 +407,14 @@
       "date": "2026-05-11T08:20:59.272982Z",
       "notes": "Reviewed Tavily sources for updates on David Seymour",
       "new_items": true
+    },
+    {
+      "date": "2026-05-12T07:38:46.200920Z",
+      "notes": "Reviewed articles from RNZ News, NZ Herald, and other sources",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-14T06:26:48.565266Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-04-15T06:28:29.293821Z",
       "sources": [
@@ -550,7 +552,15 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-12T07:38:46.200993Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-11T08:20:59.273098Z"
+  "last_updated": "2026-05-12T07:38:46.201016Z"
 }

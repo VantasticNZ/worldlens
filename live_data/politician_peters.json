@@ -332,6 +332,20 @@
       },
       "_id": "50ba8980",
       "_crawled": "2026-05-06T07:32:48.483439Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "January 2025",
+      "text": "If you can't stand the heat get out of the kitchen",
+      "verified_by": "The Spinoff",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Peters' tweet contradicts his previous statements on coalition negotiations",
+        "source": "The Spinoff",
+        "severity": "low"
+      },
+      "_id": "2c6cc5ec",
+      "_crawled": "2026-05-12T07:38:17.701123Z"
     }
   ],
   "votes": [],
@@ -627,13 +641,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Winston Peters' contradiction on DEI regulations and handling of Iran war emails"
+    },
+    "2026-05-12T07:38:17.701123Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' contradictory statements on DEI regulations and coalition negotiations have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-02T06:58:22.196970Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
-    },
     {
       "date": "2026-05-03T07:13:59.503645Z",
       "text": "Winston Peters' recent statements and tweets have raised concerns about his integrity and consistency"
@@ -668,6 +683,10 @@
     },
     {
       "date": "2026-05-11T08:20:43.319524Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
+    },
+    {
+      "date": "2026-05-12T07:38:17.701123Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
     }
   ],
@@ -866,16 +885,14 @@
       "date": "2026-05-11T08:20:43.319524Z",
       "notes": "Reviewed 9 sources, including RNZ News, NZ Herald, and Stuff",
       "new_items": true
+    },
+    {
+      "date": "2026-05-12T07:38:17.701123Z",
+      "notes": "Peters' comments on DEI regulations and coalition negotiations require further review",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-16T06:29:31.556707Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-04-17T06:29:36.206035Z",
       "sources": [
@@ -1012,7 +1029,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-12T07:38:17.701265Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-11T08:20:43.319715Z"
+  "last_updated": "2026-05-12T07:38:17.701288Z"
 }

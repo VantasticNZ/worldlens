@@ -194,6 +194,20 @@
       },
       "_id": "2d479d07",
       "_crawled": "2026-05-11T08:23:44.017363Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Starmer vows to prove doubters wrong as he tries to ward off leadership challenge",
+      "verified_by": "The Guardian",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "previously stated he would not resign, now facing leadership challenge",
+        "source": "The Guardian",
+        "severity": "high"
+      },
+      "_id": "df7d7673",
+      "_crawled": "2026-05-12T07:41:46.591190Z"
     }
   ],
   "votes": [],
@@ -464,13 +478,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Facing calls to quit and contradictory statements on EU relations"
+    },
+    "2026-05-12T07:41:46.591190Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "facing leadership challenge and contradicting previous statements"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-04-22T06:35:18.849086Z",
-      "text": "Keir Starmer faces criticism over the Mandelson vetting scandal and Angela Rayner's resignation, raising concerns about his leadership and the party's integrity"
-    },
     {
       "date": "2026-05-02T07:03:11.399657Z",
       "text": "Keir Starmer's leadership is facing challenges due to the Mandelson vetting scandal and criticism of his handling of the situation"
@@ -506,6 +521,10 @@
     {
       "date": "2026-05-11T08:23:44.017363Z",
       "text": "Keir Starmer's leadership is under scrutiny after poor election results and contradictory statements on EU relations"
+    },
+    {
+      "date": "2026-05-12T07:41:46.591190Z",
+      "text": "Keir Starmer faces leadership crisis and contradicts previous statements, raising integrity concerns"
     }
   ],
   "crawl_log": [
@@ -658,16 +677,14 @@
       "date": "2026-05-11T08:23:44.017363Z",
       "notes": "Local election losses and EU relations statements",
       "new_items": true
+    },
+    {
+      "date": "2026-05-12T07:41:46.591190Z",
+      "notes": "Labour leadership crisis and potential contradictions in Keir Starmer's statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-10T06:29:08.291392Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-04-11T05:56:38.575239Z",
       "sources": [
@@ -801,7 +818,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-12T07:41:46.591324Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-11T08:23:44.017504Z"
+  "last_updated": "2026-05-12T07:41:46.591343Z"
 }

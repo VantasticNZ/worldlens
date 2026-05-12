@@ -440,10 +440,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-23T06:58:57.477754Z",
-      "text": "Nicola Willis meets with White House officials and signs joint declaration with international finance ministers to discuss economic response to Iran conflict"
-    },
-    {
       "date": "2026-04-28T07:29:03.175700Z",
       "text": "Nicola Willis responds to fuel crisis and secures extra diesel supply."
     },
@@ -478,6 +474,10 @@
     {
       "date": "2026-05-11T08:21:39.433904Z",
       "text": "Nicola Willis has made statements on the cost of living and fuel prices, and the Government has announced the Budget date and refined the Fuel Response Plan"
+    },
+    {
+      "date": "2026-05-12T07:39:27.173337Z",
+      "text": "Nicola Willis has been involved in several recent events, including accusing Labour of misleading New Zealanders and confirming her Budget 2026 spending plans."
     }
   ],
   "crawl_log": [
@@ -650,17 +650,14 @@
       "date": "2026-05-11T08:21:39.433904Z",
       "notes": "Reviewed recent statements and announcements from Nicola Willis and the Government",
       "new_items": true
+    },
+    {
+      "date": "2026-05-12T07:39:27.173337Z",
+      "notes": "Reviewed recent news articles for updates on Nicola Willis",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-11T05:55:34.731499Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-04-12T06:20:13.280863Z",
       "sources": [
@@ -799,7 +796,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-12T07:39:27.173445Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-11T08:21:39.434034Z"
+  "last_updated": "2026-05-12T07:39:27.173463Z"
 }

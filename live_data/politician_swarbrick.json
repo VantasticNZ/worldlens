@@ -150,6 +150,33 @@
       "source": "RNZ News",
       "_id": "ed54204f",
       "_crawled": "2026-05-07T07:40:33.271295Z"
+    },
+    {
+      "year": 2026,
+      "title": "Green Party releases final candidate list for the 2026 General Election",
+      "desc": "The Green Party has released its final candidate list for the 2026 General Election, with Co-Leader Chlöe Swarbrick announcing an exceptional group of people who are already working tirelessly for their communities.",
+      "type": "positive",
+      "source": "www.greens.org.nz",
+      "_id": "4d62139d",
+      "_crawled": "2026-05-12T07:40:36.431306Z"
+    },
+    {
+      "year": 2026,
+      "title": "Greens Offer Votes To National Party For Immediate Relief In Fossil Fuel Crisis",
+      "desc": "The Green Party is offering its votes to the National Party to get on with passing a sensible and urgent fossil fuel crisis relief package.",
+      "type": "positive",
+      "source": "www.greens.org.nz",
+      "_id": "ad089300",
+      "_crawled": "2026-05-12T07:40:36.431306Z"
+    },
+    {
+      "year": 2026,
+      "title": "Greens’ State of the Planet calls for National Electrification Plan",
+      "desc": "The Green Party has used its 2026 State of the Planet address to set out a vision for a resilient, independent Aotearoa and to call on the Government to create a National Electrification Plan.",
+      "type": "positive",
+      "source": "www.greens.org.nz",
+      "_id": "99552729",
+      "_crawled": "2026-05-12T07:40:36.431306Z"
     }
   ],
   "score_adjustments": {},
@@ -328,16 +355,14 @@
       "date": "2026-05-11T08:22:41.893819Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-05-12T07:40:36.431306Z",
+      "notes": "New events and updates on Chlöe Swarbrick's activities and the Green Party's initiatives.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-07T06:17:01.010711Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-04-08T06:18:52.040593Z",
       "sources": [
@@ -471,7 +496,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-05-12T07:40:36.431384Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-11T08:22:41.893856Z"
+  "last_updated": "2026-05-12T07:40:36.431405Z"
 }
