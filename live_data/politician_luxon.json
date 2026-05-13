@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 14,
+  "lie_count": 15,
   "lies": [
     {
       "date": "2026",
@@ -142,6 +142,16 @@
       "platform": "interview",
       "_id": "250da9ef",
       "_crawled": "2026-05-11T08:20:25.930095Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Act has shifted its position on social media policy",
+      "reality": "Act has not shifted its position on social media policy",
+      "source": "NZ Herald, April 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "7c6d7019",
+      "_crawled": "2026-05-13T07:45:13.086861Z"
     }
   ],
   "social_posts": [
@@ -610,13 +620,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Inconsistency in climate change policy statements"
+    },
+    "2026-05-13T07:45:13.086861Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's claim about Act's social media policy was found to be inaccurate"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-03T07:13:44.526733Z",
-      "text": "Luxon's coalition is fracturing over climate change policies, and his integrity has taken a hit due to inconsistencies in his statements"
-    },
     {
       "date": "2026-05-04T07:43:10.635755Z",
       "text": "Luxon's leadership is facing challenges due to his coalition's division on climate change and his own inconsistency on the issue"
@@ -652,6 +663,10 @@
     {
       "date": "2026-05-12T07:37:54.796619Z",
       "text": "Luxon's climate change policy statements and coalition government tensions raise concerns about his integrity"
+    },
+    {
+      "date": "2026-05-13T07:45:13.086861Z",
+      "text": "Christopher Luxon faces criticism from Winston Peters over immigration comments and is found to have made an inaccurate claim about Act's social media policy"
     }
   ],
   "crawl_log": [
@@ -864,17 +879,14 @@
       "date": "2026-05-12T07:37:54.796619Z",
       "notes": "Multiple sources indicate inconsistencies in Luxon's statements and actions",
       "new_items": true
+    },
+    {
+      "date": "2026-05-13T07:45:13.086861Z",
+      "notes": "Reviewed RNZ News, NZ Herald, and The Spinoff articles",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-23T06:56:40.694600Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-04-24T07:00:10.506267Z",
       "sources": [
@@ -1013,7 +1025,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-13T07:45:13.086992Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-12T07:37:54.796742Z"
+  "last_updated": "2026-05-13T07:45:13.087017Z"
 }

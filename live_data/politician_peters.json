@@ -646,13 +646,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' contradictory statements on DEI regulations and coalition negotiations have raised concerns about his integrity"
+    },
+    "2026-05-13T07:45:26.913038Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Winston Peters' contradictory statements on DEI regulations and free trade agreements"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-03T07:13:59.503645Z",
-      "text": "Winston Peters' recent statements and tweets have raised concerns about his integrity and consistency"
-    },
     {
       "date": "2026-05-04T07:43:20.955626Z",
       "text": "Winston Peters has made statements on his party's 'rejuvenation' and coalition tensions, as well as proclaiming a 'war on woke'"
@@ -687,6 +688,10 @@
     },
     {
       "date": "2026-05-12T07:38:17.701123Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
+    },
+    {
+      "date": "2026-05-13T07:45:26.913038Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
     }
   ],
@@ -890,16 +895,14 @@
       "date": "2026-05-12T07:38:17.701123Z",
       "notes": "Peters' comments on DEI regulations and coalition negotiations require further review",
       "new_items": true
+    },
+    {
+      "date": "2026-05-13T07:45:26.913038Z",
+      "notes": "Multiple sources indicate Winston Peters' contradictory statements and actions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-17T06:29:36.206035Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-04-19T06:25:14.212365Z",
       "sources": [
@@ -1037,7 +1040,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-13T07:45:26.913215Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-12T07:38:17.701288Z"
+  "last_updated": "2026-05-13T07:45:26.913238Z"
 }

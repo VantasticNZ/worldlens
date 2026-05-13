@@ -440,10 +440,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-28T07:29:03.175700Z",
-      "text": "Nicola Willis responds to fuel crisis and secures extra diesel supply."
-    },
-    {
       "date": "2026-05-02T06:59:48.387206Z",
       "text": "Nicola Willis made a statement downplaying public expectations for quick cost-of-living improvements"
     },
@@ -478,6 +474,10 @@
     {
       "date": "2026-05-12T07:39:27.173337Z",
       "text": "Nicola Willis has been involved in several recent events, including accusing Labour of misleading New Zealanders and confirming her Budget 2026 spending plans."
+    },
+    {
+      "date": "2026-05-13T07:46:00.636472Z",
+      "text": "Nicola Willis attributed reduced Budget savings to the fuel crisis and made a misleading statement about New Zealanders' expectations for a quick cost-of-living turnaround"
     }
   ],
   "crawl_log": [
@@ -655,16 +655,14 @@
       "date": "2026-05-12T07:39:27.173337Z",
       "notes": "Reviewed recent news articles for updates on Nicola Willis",
       "new_items": true
+    },
+    {
+      "date": "2026-05-13T07:46:00.636472Z",
+      "notes": "Reviewed 7 sources, including RNZ News and NZ Herald",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-12T06:20:13.280863Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-04-14T06:27:11.908454Z",
       "sources": [
@@ -803,7 +801,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-13T07:46:00.636557Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-12T07:39:27.173463Z"
+  "last_updated": "2026-05-13T07:46:00.636578Z"
 }

@@ -414,16 +414,14 @@
       "date": "2026-05-12T07:40:15.372529Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-05-13T07:46:25.318595Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-10T06:28:27.634128Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-11T05:55:53.538571Z",
       "sources": [
@@ -560,7 +558,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-13T07:46:25.318609Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-12T07:40:15.372562Z"
+  "last_updated": "2026-05-13T07:46:25.318677Z"
 }

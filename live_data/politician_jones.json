@@ -562,16 +562,14 @@
       "date": "2026-05-12T07:39:08.342189Z",
       "notes": "Shane Jones' recent comments have sparked controversy and led to an apology and a defence of his statement.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-13T07:45:49.844535Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but a new event was found related to Shane Jones' meeting with critical minerals heavyweights.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-15T06:28:38.188794Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-04-16T06:30:02.823127Z",
       "sources": [
@@ -706,7 +704,15 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-05-13T07:45:49.844596Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-12T07:39:08.342326Z"
+  "last_updated": "2026-05-13T07:45:49.844615Z"
 }
