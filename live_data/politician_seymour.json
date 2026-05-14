@@ -220,6 +220,10 @@
     {
       "date": "2026-05-12T07:38:46.200920Z",
       "text": "David Seymour faced criticism for his comments on RNZ leadership and his immigration policy"
+    },
+    {
+      "date": "2026-05-14T07:38:17.616848Z",
+      "text": "David Seymour has been involved in recent controversies and policy announcements."
     }
   ],
   "crawl_log": [
@@ -417,16 +421,14 @@
       "date": "2026-05-13T07:45:38.692031Z",
       "notes": "No significant new findings beyond existing data, except for a recent statement on operational spending",
       "new_items": true
+    },
+    {
+      "date": "2026-05-14T07:38:17.616848Z",
+      "notes": "Reviewed recent news articles and statements from David Seymour.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-16T06:29:51.421217Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-04-17T06:29:46.921057Z",
       "sources": [
@@ -566,7 +568,15 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-14T07:38:17.616932Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-13T07:45:38.692124Z"
+  "last_updated": "2026-05-14T07:38:17.616955Z"
 }

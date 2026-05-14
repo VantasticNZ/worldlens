@@ -436,13 +436,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis previously claimed the Fees-free university scheme would continue, but it has been confirmed to be scrapped in the upcoming Budget"
+    },
+    "2026-05-14T07:38:53.666512Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Nicola Willis' claim about NZ being on a path to surplus was contradicted by Treasury's forecasts"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-02T06:59:48.387206Z",
-      "text": "Nicola Willis made a statement downplaying public expectations for quick cost-of-living improvements"
-    },
     {
       "date": "2026-05-04T07:43:53.389629Z",
       "text": "Nicola Willis confirms Budget 2026 spending plans, sparking concerns about the impact on the economy"
@@ -478,6 +479,10 @@
     {
       "date": "2026-05-13T07:46:00.636472Z",
       "text": "Nicola Willis attributed reduced Budget savings to the fuel crisis and made a misleading statement about New Zealanders' expectations for a quick cost-of-living turnaround"
+    },
+    {
+      "date": "2026-05-14T07:38:53.666512Z",
+      "text": "Nicola Willis faces criticism for her handling of the economy and contradictory statements about NZ's fiscal outlook"
     }
   ],
   "crawl_log": [
@@ -660,16 +665,14 @@
       "date": "2026-05-13T07:46:00.636472Z",
       "notes": "Reviewed 7 sources, including RNZ News and NZ Herald",
       "new_items": true
+    },
+    {
+      "date": "2026-05-14T07:38:53.666512Z",
+      "notes": "Notable criticism from former finance minister Sir Roger Douglas and contradictory statements about NZ's fiscal outlook",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-14T06:27:11.908454Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-04-15T06:28:47.527421Z",
       "sources": [
@@ -809,7 +812,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-14T07:38:53.666585Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-13T07:46:00.636578Z"
+  "last_updated": "2026-05-14T07:38:53.666604Z"
 }

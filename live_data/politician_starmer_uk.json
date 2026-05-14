@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 12,
+  "lie_count": 13,
   "lies": [
     {
       "date": "2026",
@@ -122,6 +122,16 @@
       "platform": "press_release",
       "_id": "deb60003",
       "_crawled": "2026-05-11T08:23:44.017363Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Keir Starmer's government is not indecisive and lacking charisma",
+      "reality": "Starmer has been perceived as indecisive and lacking charisma by many voters",
+      "source": "Reuters, 12 May 2026",
+      "severity": "med",
+      "platform": "press",
+      "_id": "c9c8b990",
+      "_crawled": "2026-05-14T07:40:48.647931Z"
     }
   ],
   "social_posts": [
@@ -488,13 +498,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Refusal to step down despite calls to quit and potential contradictions in statements"
+    },
+    "2026-05-14T07:40:48.647931Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Starmer's perceived indecisiveness and lack of charisma have led to a decrease in his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-04T07:45:02.417610Z",
-      "text": "Keir Starmer is facing increased scrutiny over his leadership and integrity, with concerns about the appointment of Mandelson and the lack of progress on promised changes"
-    },
     {
       "date": "2026-05-05T07:14:55.785537Z",
       "text": "Keir Starmer faces further criticism over his handling of Peter Mandelson's vetting and his statements about it."
@@ -530,6 +541,10 @@
     {
       "date": "2026-05-13T07:47:07.159404Z",
       "text": "Keir Starmer faces increased pressure to quit as Labour leader, while announcing new priorities and refusing to step down"
+    },
+    {
+      "date": "2026-05-14T07:40:48.647931Z",
+      "text": "Keir Starmer faces a leadership challenge and has unveiled dozens of bills in the King's speech, but his perceived indecisiveness and lack of charisma continue to be a concern"
     }
   ],
   "crawl_log": [
@@ -692,17 +707,14 @@
       "date": "2026-05-13T07:47:07.159404Z",
       "notes": "Multiple sources indicate growing dissatisfaction with Starmer's leadership",
       "new_items": true
+    },
+    {
+      "date": "2026-05-14T07:40:48.647931Z",
+      "notes": "Starmer's leadership is under scrutiny, with many perceiving him as indecisive and lacking charisma",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-16T06:32:43.929925Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-04-17T06:32:49.005679Z",
       "sources": [
@@ -835,7 +847,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-14T07:40:48.648048Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-13T07:47:07.159537Z"
+  "last_updated": "2026-05-14T07:40:48.648064Z"
 }

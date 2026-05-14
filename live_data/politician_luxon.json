@@ -294,6 +294,20 @@
       },
       "_id": "53d47a4a",
       "_crawled": "2026-05-11T08:20:25.930095Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "May 2026",
+      "text": "freedom of navigation, international law, stable and predictable trade routes are essential to our economy",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Luxon's statement on freedom of navigation contradicts his earlier stance on the Iran conflict",
+        "source": "RNZ News",
+        "severity": "med"
+      },
+      "_id": "a17d2086",
+      "_crawled": "2026-05-14T07:37:33.974614Z"
     }
   ],
   "votes": [
@@ -625,13 +639,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's claim about Act's social media policy was found to be inaccurate"
+    },
+    "2026-05-14T07:37:33.974614Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's contradictory statements on the Iran conflict and freedom of navigation raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-04T07:43:10.635755Z",
-      "text": "Luxon's leadership is facing challenges due to his coalition's division on climate change and his own inconsistency on the issue"
-    },
     {
       "date": "2026-05-05T07:12:55.098054Z",
       "text": "Christopher Luxon's integrity has been called into question due to his claim about being mischaracterised in emails and his misleading tweet about the Strait of Hormuz"
@@ -667,6 +682,10 @@
     {
       "date": "2026-05-13T07:45:13.086861Z",
       "text": "Christopher Luxon faces criticism from Winston Peters over immigration comments and is found to have made an inaccurate claim about Act's social media policy"
+    },
+    {
+      "date": "2026-05-14T07:37:33.974614Z",
+      "text": "Luxon's contradictory statements and actions have raised concerns about his integrity and leadership"
     }
   ],
   "crawl_log": [
@@ -884,16 +903,14 @@
       "date": "2026-05-13T07:45:13.086861Z",
       "notes": "Reviewed RNZ News, NZ Herald, and The Spinoff articles",
       "new_items": true
+    },
+    {
+      "date": "2026-05-14T07:37:33.974614Z",
+      "notes": "Luxon's statements and actions require closer monitoring for potential discrepancies and contradictions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-24T07:00:10.506267Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-04-25T06:16:30.245249Z",
       "sources": [
@@ -1033,7 +1050,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-14T07:37:33.974728Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-13T07:45:13.087017Z"
+  "last_updated": "2026-05-14T07:37:33.974750Z"
 }

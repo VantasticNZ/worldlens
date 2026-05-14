@@ -847,10 +847,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-04T07:44:43.368388Z",
-      "text": "Trump's recent statements on Iran war and drug trafficking have raised concerns about his integrity and truthfulness"
-    },
-    {
       "date": "2026-05-05T07:14:33.232930Z",
       "text": "New lies and events related to Donald Trump have been found, including a false claim about Thom Tillis and a shooting incident near the White House"
     },
@@ -885,6 +881,10 @@
     {
       "date": "2026-05-13T07:46:47.974187Z",
       "text": "Trump's recent statements have been fact-checked and found to be false, further damaging his integrity score"
+    },
+    {
+      "date": "2026-05-14T07:40:17.373137Z",
+      "text": "Trump's recent statements on gasoline prices and Iran have been fact-checked and found to be false or misleading."
     }
   ],
   "crawl_log": [
@@ -1052,17 +1052,14 @@
       "date": "2026-05-13T07:46:47.974187Z",
       "notes": "Multiple sources confirm Trump's false claims, including PolitiFact and BBC World",
       "new_items": true
+    },
+    {
+      "date": "2026-05-14T07:40:17.373137Z",
+      "notes": "Reviewed 5 articles from BBC World and fact-checking reports from PolitiFact and AP News",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-22T06:34:26.392181Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-23T07:01:01.952362Z",
       "sources": [
@@ -1210,7 +1207,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-14T07:40:17.373280Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-13T07:46:47.974384Z"
+  "last_updated": "2026-05-14T07:40:17.373297Z"
 }

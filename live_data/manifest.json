@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-13T07:47:08.160736Z",
+  "generated": "2026-05-14T07:40:49.649255Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-05-13T07:47:07.159537Z",
-      "lie_count": 12,
+      "last_updated": "2026-05-14T07:40:48.648064Z",
+      "lie_count": 13,
       "event_count": 20,
       "post_count": 6,
       "vote_count": 0,
@@ -15,21 +15,20 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-05-13T07:46:56.653493Z",
+      "last_updated": "2026-05-14T07:40:33.487078Z",
       "lie_count": 0,
       "event_count": 17,
       "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
-          "GDELT global news database",
           "Tavily: Anthony Albanese contradiction fact chec",
           "Tavily: Anthony Albanese statement 2026"
         ]
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-05-13T07:45:26.913238Z",
+      "last_updated": "2026-05-14T07:37:56.542295Z",
       "lie_count": 16,
       "event_count": 20,
       "post_count": 13,
@@ -43,7 +42,7 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-05-13T07:45:38.692124Z",
+      "last_updated": "2026-05-14T07:38:17.616955Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
@@ -57,7 +56,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-05-13T07:46:37.108655Z",
+      "last_updated": "2026-05-14T07:40:01.763624Z",
       "lie_count": 0,
       "event_count": 15,
       "post_count": 4,
@@ -70,36 +69,35 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-05-13T07:46:00.636578Z",
+      "last_updated": "2026-05-14T07:38:53.666604Z",
       "lie_count": 9,
       "event_count": 20,
       "post_count": 8,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Nicola Willis finance minister contradic",
           "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-05-13T07:46:47.974384Z",
+      "last_updated": "2026-05-14T07:40:17.373297Z",
       "lie_count": 49,
       "event_count": 20,
       "post_count": 2,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (4 articles from NZ/intl media)",
+          "RSS (5 articles from NZ/intl media)",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-05-13T07:46:13.919926Z",
-      "lie_count": 8,
+      "last_updated": "2026-05-14T07:39:15.354603Z",
+      "lie_count": 9,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
@@ -111,23 +109,24 @@
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-05-13T07:46:25.318677Z",
+      "last_updated": "2026-05-14T07:39:37.705905Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 1,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (3 articles from NZ/intl media)",
           "Tavily: Chris Hipkins Labour statement 2026",
           "Tavily: Chris Hipkins contradiction 2026"
         ]
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-05-13T07:45:13.087017Z",
+      "last_updated": "2026-05-14T07:37:33.974750Z",
       "lie_count": 15,
       "event_count": 20,
-      "post_count": 10,
+      "post_count": 11,
       "vote_count": 1,
       "sources": [
         [
@@ -138,14 +137,13 @@
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-05-13T07:45:49.844615Z",
+      "last_updated": "2026-05-14T07:38:34.226170Z",
       "lie_count": 6,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Shane Jones NZ First controversy 2026",
           "Tavily: Shane Jones statement tweet 2026"
         ]

@@ -333,13 +333,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' apology for his comments about Nicola Willis' weight loss and his defence of his 'butter chicken tsunami' comment may indicate a lack of integrity."
+    },
+    "2026-05-14T07:38:34.226098Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' apology for his comments on Nicola Willis' weight loss suggests a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-02T06:59:20.039888Z",
-      "text": "Shane Jones has faced criticism for his comments about the India FTA and Nicola Willis' weight loss, and has apologised for the latter."
-    },
     {
       "date": "2026-05-03T07:14:19.967176Z",
       "text": "Shane Jones has faced criticism for his recent comments, including comparing the India FTA to a 'butter chicken tsunami' and making remarks about Nicola Willis' weight loss"
@@ -375,6 +376,10 @@
     {
       "date": "2026-05-12T07:39:08.342189Z",
       "text": "Shane Jones has faced criticism for his comments about Nicola Willis' weight loss and his 'butter chicken tsunami' comment, leading to an apology and a defence of his statement."
+    },
+    {
+      "date": "2026-05-14T07:38:34.226098Z",
+      "text": "Shane Jones apologised for his comments on Nicola Willis' weight loss, raising concerns about his integrity"
     }
   ],
   "crawl_log": [
@@ -567,17 +572,14 @@
       "date": "2026-05-13T07:45:49.844535Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but a new event was found related to Shane Jones' meeting with critical minerals heavyweights.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-14T07:38:34.226098Z",
+      "notes": "Shane Jones' apology for his comments on Nicola Willis' weight loss was found in RNZ News",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-16T06:30:02.823127Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-04-17T06:29:57.454302Z",
       "sources": [
@@ -712,7 +714,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-05-14T07:38:34.226151Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-13T07:45:49.844615Z"
+  "last_updated": "2026-05-14T07:38:34.226170Z"
 }
