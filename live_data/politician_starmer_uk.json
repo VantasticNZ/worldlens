@@ -712,17 +712,14 @@
       "date": "2026-05-14T07:40:48.647931Z",
       "notes": "Starmer's leadership is under scrutiny, with many perceiving him as indecisive and lacking charisma",
       "new_items": true
+    },
+    {
+      "date": "2026-05-16T07:14:18.116885Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but new event regarding UK government uncertainty",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-17T06:32:49.005679Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-04-20T07:13:12.136879Z",
       "sources": [
@@ -854,7 +851,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-16T07:14:18.116952Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-14T07:40:48.648064Z"
+  "last_updated": "2026-05-16T07:14:18.116972Z"
 }

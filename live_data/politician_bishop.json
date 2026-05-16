@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 9,
+  "lie_count": 11,
   "lies": [
     {
       "date": "April 2026",
@@ -92,6 +92,26 @@
       "platform": "speech",
       "_id": "cb438533",
       "_crawled": "2026-05-14T07:39:15.354506Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Aucklanders have been clear that they want housing growth, so long as it happens in the right places and where infrastructure can support it.",
+      "reality": "The government has reduced the minimum housing capacity required by Plan Change 120 from 2 million to 1.6 million to 1.4 million, which may not align with Aucklanders' desires for housing growth.",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "1922fa6f",
+      "_crawled": "2026-05-16T07:12:36.225542Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Today's announcement is a confident step forward on increasing housing capacity in Auckland.",
+      "reality": "The announcement actually reduces the minimum housing capacity required by Plan Change 120 from 2 million to 1.6 million to 1.4 million.",
+      "source": "NZ Herald",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "f8193b3d",
+      "_crawled": "2026-05-16T07:12:36.225542Z"
     }
   ],
   "social_posts": [],
@@ -403,13 +423,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The minister's downplaying of the reduction in housing plans and misrepresentation of the council's stance raise concerns about integrity"
+    },
+    "2026-05-16T07:12:36.225542Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The reduction in minimum housing capacity required by Plan Change 120 may indicate a lack of integrity in the government's approach to housing policy."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-04T07:44:10.268589Z",
-      "text": "Housing Minister Chris Bishop's claims of 'no actual change' in Auckland housing plans have been contradicted by the government's reduction in housing numbers"
-    },
     {
       "date": "2026-05-06T07:34:16.688660Z",
       "text": "Housing Minister Chris Bishop announced a reduction in Auckland's housing plan, contradicting his previous statements"
@@ -445,6 +466,10 @@
     {
       "date": "2026-05-14T07:39:15.354506Z",
       "text": "The government has reduced the planned housing capacity for Auckland, and the minister's statements on the matter have raised concerns about integrity"
+    },
+    {
+      "date": "2026-05-16T07:12:36.225542Z",
+      "text": "Housing Minister Chris Bishop has announced a reduction in the minimum housing capacity required by Plan Change 120, which may not align with Aucklanders' desires for housing growth."
     }
   ],
   "crawl_log": [
@@ -622,16 +647,14 @@
       "date": "2026-05-14T07:39:15.354506Z",
       "notes": "Minister's statements on Auckland housing plans appear to be misleading",
       "new_items": true
+    },
+    {
+      "date": "2026-05-16T07:12:36.225542Z",
+      "notes": "Multiple sources confirm the reduction in minimum housing capacity required by Plan Change 120.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-14T06:27:21.365885Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-15T06:28:57.292615Z",
       "sources": [
@@ -767,7 +790,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-16T07:12:36.225661Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-14T07:39:15.354603Z"
+  "last_updated": "2026-05-16T07:12:36.225682Z"
 }

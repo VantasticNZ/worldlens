@@ -847,10 +847,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-05T07:14:33.232930Z",
-      "text": "New lies and events related to Donald Trump have been found, including a false claim about Thom Tillis and a shooting incident near the White House"
-    },
-    {
       "date": "2026-05-06T07:35:13.721146Z",
       "text": "Donald Trump's recent statements on Iran have been fact-checked and found to be false, and public disapproval of his handling of the war has risen"
     },
@@ -885,6 +881,10 @@
     {
       "date": "2026-05-14T07:40:17.373137Z",
       "text": "Trump's recent statements on gasoline prices and Iran have been fact-checked and found to be false or misleading."
+    },
+    {
+      "date": "2026-05-16T07:13:44.602053Z",
+      "text": "Trump made a false claim about gasoline prices and warned Taiwan against declaring independence"
     }
   ],
   "crawl_log": [
@@ -1057,15 +1057,14 @@
       "date": "2026-05-14T07:40:17.373137Z",
       "notes": "Reviewed 5 articles from BBC World and fact-checking reports from PolitiFact and AP News",
       "new_items": true
+    },
+    {
+      "date": "2026-05-16T07:13:44.602053Z",
+      "notes": "Reviewed 6 BBC World articles and 5 Tavily sources",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-23T07:01:01.952362Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-04-24T07:02:42.252280Z",
       "sources": [
@@ -1215,7 +1214,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-16T07:13:44.602241Z",
+      "sources": [
+        "RSS (6 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-14T07:40:17.373297Z"
+  "last_updated": "2026-05-16T07:13:44.602263Z"
 }

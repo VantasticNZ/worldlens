@@ -1,8 +1,19 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 0,
-  "lies": [],
+  "lie_count": 1,
+  "lies": [
+    {
+      "date": "May 2026",
+      "claim": "Aucklanders have mostly moved on from Covid-19 lockdowns",
+      "reality": "Many Aucklanders are still working through the consequences of the lockdowns",
+      "source": "NZ Herald, May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "593ee777",
+      "_crawled": "2026-05-16T07:12:57.026338Z"
+    }
+  ],
   "social_posts": [
     {
       "platform": "press",
@@ -202,7 +213,13 @@
       "_crawled": "2026-04-11T05:55:53.538445Z"
     }
   ],
-  "score_adjustments": {},
+  "score_adjustments": {
+    "2026-05-16T07:12:57.026338Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Hipkins' claim about Aucklanders moving on from Covid-19 lockdowns was contradicted by other sources, raising concerns about his integrity"
+    }
+  },
   "summary_updates": [
     {
       "date": "2026-04-01T06:23:27.396299Z",
@@ -227,6 +244,10 @@
     {
       "date": "2026-05-09T07:04:22.898326Z",
       "text": "Chris Hipkins has made several public statements and speeches, outlining Labour's focus on cost-of-living issues and criticizing National's economic approach"
+    },
+    {
+      "date": "2026-05-16T07:12:57.026338Z",
+      "text": "Chris Hipkins faced renewed scrutiny over his ex-wife's allegations and made a claim about Aucklanders moving on from Covid-19 lockdowns that was contradicted by other sources"
     }
   ],
   "crawl_log": [
@@ -424,16 +445,14 @@
       "date": "2026-05-14T07:39:37.705784Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins' statements and allegations.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-16T07:12:57.026338Z",
+      "notes": "Sources: NZ Herald, RNZ, thespinoff.co.nz",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-14T06:27:30.336033Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-15T06:29:06.890127Z",
       "sources": [
@@ -571,7 +590,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-16T07:12:57.026437Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-14T07:39:37.705905Z"
+  "last_updated": "2026-05-16T07:12:57.026458Z"
 }

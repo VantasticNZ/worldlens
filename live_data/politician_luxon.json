@@ -308,6 +308,20 @@
       },
       "_id": "a17d2086",
       "_crawled": "2026-05-14T07:37:33.974614Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Luxon wanted to move on from the debacle during a press conference in Apia",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "Luxon received a matai title despite controversy",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "c2617020",
+      "_crawled": "2026-05-16T07:10:49.966449Z"
     }
   ],
   "votes": [
@@ -648,10 +662,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-05T07:12:55.098054Z",
-      "text": "Christopher Luxon's integrity has been called into question due to his claim about being mischaracterised in emails and his misleading tweet about the Strait of Hormuz"
-    },
-    {
       "date": "2026-05-06T07:32:24.625797Z",
       "text": "Christopher Luxon's coalition government is facing challenges on climate policy, and he has made statements on social media about the situation in the Middle East"
     },
@@ -686,6 +696,10 @@
     {
       "date": "2026-05-14T07:37:33.974614Z",
       "text": "Luxon's contradictory statements and actions have raised concerns about his integrity and leadership"
+    },
+    {
+      "date": "2026-05-16T07:10:49.966449Z",
+      "text": "Luxon's coalition is fracturing over climate policy, and he has been accused of dishonesty over his sports fandom"
     }
   ],
   "crawl_log": [
@@ -908,15 +922,14 @@
       "date": "2026-05-14T07:37:33.974614Z",
       "notes": "Luxon's statements and actions require closer monitoring for potential discrepancies and contradictions",
       "new_items": true
+    },
+    {
+      "date": "2026-05-16T07:10:49.966449Z",
+      "notes": "Reviewed 9 sources, including The Spinoff, NZ Herald, and Labour.org.nz",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-25T06:16:30.245249Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-04-26T06:55:28.354386Z",
       "sources": [
@@ -1058,7 +1071,16 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-16T07:10:49.966561Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-14T07:37:33.974750Z"
+  "last_updated": "2026-05-16T07:10:49.966587Z"
 }

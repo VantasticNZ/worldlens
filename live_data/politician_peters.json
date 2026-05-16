@@ -346,6 +346,20 @@
       },
       "_id": "2c6cc5ec",
       "_crawled": "2026-05-12T07:38:17.701123Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "May 2026",
+      "text": "Peters' tweets on Iran emails and Labour coalition",
+      "verified_by": "The Spinoff, May 2026",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Peters' statements on Iran emails and Labour coalition have been contradictory",
+        "source": "The Spinoff, May 2026",
+        "severity": "med"
+      },
+      "_id": "4eac4d7e",
+      "_crawled": "2026-05-16T07:11:14.262286Z"
     }
   ],
   "votes": [],
@@ -656,13 +670,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' contradictory statements and handling of Iran war emails raise concerns about his integrity"
+    },
+    "2026-05-16T07:11:14.262286Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' contradictory statements and actions have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-05T07:13:07.931521Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency, particularly regarding his handling of sensitive information and his stance on coalition negotiations"
-    },
     {
       "date": "2026-05-06T07:32:48.483439Z",
       "text": "Winston Peters continues to make statements on international relations and domestic policy, with some discrepancies noted."
@@ -698,6 +713,10 @@
     {
       "date": "2026-05-14T07:37:56.542140Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
+    },
+    {
+      "date": "2026-05-16T07:11:14.262286Z",
+      "text": "Peters' recent statements and actions have raised concerns about his integrity and consistency, potentially impacting his party's chances in the 2026 election"
     }
   ],
   "crawl_log": [
@@ -910,16 +929,14 @@
       "date": "2026-05-14T07:37:56.542140Z",
       "notes": "Peters' comments on DEI regulations and Iran war emails contradict his previous statements and actions",
       "new_items": true
+    },
+    {
+      "date": "2026-05-16T07:11:14.262286Z",
+      "notes": "Peters' statements and actions have been closely scrutinized, with several sources highlighting contradictions and potential integrity issues",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-20T07:11:36.233662Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-04-22T06:31:32.163959Z",
       "sources": [
@@ -1059,7 +1076,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-16T07:11:14.262431Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-14T07:37:56.542295Z"
+  "last_updated": "2026-05-16T07:11:14.262454Z"
 }
