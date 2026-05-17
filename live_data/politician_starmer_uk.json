@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 13,
+  "lie_count": 15,
   "lies": [
     {
       "date": "2026",
@@ -132,6 +132,26 @@
       "platform": "press",
       "_id": "c9c8b990",
       "_crawled": "2026-05-14T07:40:48.647931Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "pledged to fight on",
+      "reality": "facing calls to step down",
+      "source": "Reuters, May 12, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "0b9f714e",
+      "_crawled": "2026-05-17T07:33:10.505471Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "put Britain back 'at the heart' of Europe",
+      "reality": "limits European ambition with a prohibition on single market membership",
+      "source": "The Guardian, May 13, 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "4e180168",
+      "_crawled": "2026-05-17T07:33:10.505471Z"
     }
   ],
   "social_posts": [
@@ -218,6 +238,20 @@
       },
       "_id": "df7d7673",
       "_crawled": "2026-05-12T07:41:46.591190Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Starmer vows to prove doubters wrong",
+      "verified_by": "The Guardian, May 11, 2026",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "facing calls to step down",
+        "source": "Reuters, May 12, 2026",
+        "severity": "med"
+      },
+      "_id": "695d2055",
+      "_crawled": "2026-05-17T07:33:10.505471Z"
     }
   ],
   "votes": [],
@@ -503,13 +537,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Starmer's perceived indecisiveness and lack of charisma have led to a decrease in his integrity score"
+    },
+    "2026-05-17T07:33:10.505471Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "pledged to fight on despite facing calls to step down"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-05T07:14:55.785537Z",
-      "text": "Keir Starmer faces further criticism over his handling of Peter Mandelson's vetting and his statements about it."
-    },
     {
       "date": "2026-05-06T07:35:47.258886Z",
       "text": "Keir Starmer faces criticism over Mandelson appointment and leasehold reforms, with new lies and events suggesting a decrease in integrity and an increase in corruption risk"
@@ -545,6 +580,10 @@
     {
       "date": "2026-05-14T07:40:48.647931Z",
       "text": "Keir Starmer faces a leadership challenge and has unveiled dozens of bills in the King's speech, but his perceived indecisiveness and lack of charisma continue to be a concern"
+    },
+    {
+      "date": "2026-05-17T07:33:10.505471Z",
+      "text": "Keir Starmer faces calls to step down and is struggling to save his premiership"
     }
   ],
   "crawl_log": [
@@ -717,16 +756,14 @@
       "date": "2026-05-16T07:14:18.116885Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new event regarding UK government uncertainty",
       "new_items": true
+    },
+    {
+      "date": "2026-05-17T07:33:10.505471Z",
+      "notes": "Multiple sources indicate Keir Starmer is facing significant pressure to step down",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-20T07:13:12.136879Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-04-22T06:35:18.849172Z",
       "sources": [
@@ -859,7 +896,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-17T07:33:10.505650Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-16T07:14:18.116972Z"
+  "last_updated": "2026-05-17T07:33:10.505670Z"
 }

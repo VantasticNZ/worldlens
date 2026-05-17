@@ -347,10 +347,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-04T07:43:40.669635Z",
-      "text": "Shane Jones has faced criticism for his comments comparing the India FTA to a 'butter chicken tsunami' and for his comments about Nicola Willis' weight loss"
-    },
-    {
       "date": "2026-05-05T07:13:30.914664Z",
       "text": "Shane Jones has been involved in several controversies, including defending his 'butter chicken tsunami' comment and facing criticism over his backdown on the fisheries bill."
     },
@@ -385,6 +381,10 @@
     {
       "date": "2026-05-16T07:12:04.853730Z",
       "text": "Shane Jones faces criticism for his comments on the India FTA and his handling of fishing boat footage, potentially damaging his integrity score"
+    },
+    {
+      "date": "2026-05-17T07:30:31.973970Z",
+      "text": "Shane Jones faces criticism for his comments and actions, including a demand for apology from Ngāti Ruanui and criticism over a $50k fine"
     }
   ],
   "crawl_log": [
@@ -587,16 +587,14 @@
       "date": "2026-05-16T07:12:04.853730Z",
       "notes": "Multiple sources report on Shane Jones' controversial comments and actions, but no new social posts or votes found",
       "new_items": true
+    },
+    {
+      "date": "2026-05-17T07:30:31.973970Z",
+      "notes": "Multiple sources report on Shane Jones' controversial comments and actions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-19T06:25:36.634013Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-04-20T07:11:58.764293Z",
       "sources": [
@@ -732,7 +730,15 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-05-17T07:30:31.974076Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-16T07:12:04.853836Z"
+  "last_updated": "2026-05-17T07:30:31.974097Z"
 }

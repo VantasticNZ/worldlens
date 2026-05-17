@@ -843,13 +843,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Repeated false claims by Trump have further eroded his integrity score"
+    },
+    "2026-05-17T07:32:36.281527Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's repeated lies and contradictory statements have further eroded his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-06T07:35:13.721146Z",
-      "text": "Donald Trump's recent statements on Iran have been fact-checked and found to be false, and public disapproval of his handling of the war has risen"
-    },
     {
       "date": "2026-05-07T07:41:00.126159Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and honesty, particularly with regards to his claims about Iran and the economy."
@@ -885,6 +886,10 @@
     {
       "date": "2026-05-16T07:13:44.602053Z",
       "text": "Trump made a false claim about gasoline prices and warned Taiwan against declaring independence"
+    },
+    {
+      "date": "2026-05-17T07:32:36.281527Z",
+      "text": "Trump's recent lies and contradictory statements have sparked controversy and confusion, further eroding his integrity score"
     }
   ],
   "crawl_log": [
@@ -1062,15 +1067,14 @@
       "date": "2026-05-16T07:13:44.602053Z",
       "notes": "Reviewed 6 BBC World articles and 5 Tavily sources",
       "new_items": true
+    },
+    {
+      "date": "2026-05-17T07:32:36.281527Z",
+      "notes": "Trump's trip to China and his erratic commentary on Iran have been notable events in the past month",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-24T07:02:42.252280Z",
-      "sources": [
-        "RSS (6 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-04-26T06:58:34.936404Z",
       "sources": [
@@ -1222,7 +1226,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-17T07:32:36.281696Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-16T07:13:44.602263Z"
+  "last_updated": "2026-05-17T07:32:36.281715Z"
 }

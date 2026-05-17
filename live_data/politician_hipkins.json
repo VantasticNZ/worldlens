@@ -450,16 +450,14 @@
       "date": "2026-05-16T07:12:57.026338Z",
       "notes": "Sources: NZ Herald, RNZ, thespinoff.co.nz",
       "new_items": true
+    },
+    {
+      "date": "2026-05-17T07:31:23.765254Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but new events related to infrastructure and budget commitments",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-15T06:29:06.890127Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-16T06:31:00.203899Z",
       "sources": [
@@ -597,7 +595,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-17T07:31:23.765355Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-16T07:12:57.026458Z"
+  "last_updated": "2026-05-17T07:31:23.765379Z"
 }

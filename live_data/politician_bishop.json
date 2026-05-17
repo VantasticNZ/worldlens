@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 11,
+  "lie_count": 12,
   "lies": [
     {
       "date": "April 2026",
@@ -112,6 +112,16 @@
       "platform": "speech",
       "_id": "f8193b3d",
       "_crawled": "2026-05-16T07:12:36.225542Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "everything was 'on track' despite advice released just hours earlier showing officials had been warning him since at least August that it wasn’t",
+      "reality": "officials had been warning him since at least August that social housing delivery wasn't on track",
+      "source": "Labour Party release",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "43f6b8b5",
+      "_crawled": "2026-05-17T07:31:06.544942Z"
     }
   ],
   "social_posts": [],
@@ -428,13 +438,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The reduction in minimum housing capacity required by Plan Change 120 may indicate a lack of integrity in the government's approach to housing policy."
+    },
+    "2026-05-17T07:31:06.544942Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Claim of social housing delivery being 'on track' contradicts official advice"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-06T07:34:16.688660Z",
-      "text": "Housing Minister Chris Bishop announced a reduction in Auckland's housing plan, contradicting his previous statements"
-    },
     {
       "date": "2026-05-07T07:39:37.633997Z",
       "text": "Housing Minister Chris Bishop reduced the Auckland housing plan and downplayed the change, raising concerns about his integrity"
@@ -470,6 +481,10 @@
     {
       "date": "2026-05-16T07:12:36.225542Z",
       "text": "Housing Minister Chris Bishop has announced a reduction in the minimum housing capacity required by Plan Change 120, which may not align with Aucklanders' desires for housing growth."
+    },
+    {
+      "date": "2026-05-17T07:31:06.544942Z",
+      "text": "Chris Bishop's claim of social housing delivery being 'on track' contradicts official advice, and he announced a reduction of Auckland's housing plan"
     }
   ],
   "crawl_log": [
@@ -652,16 +667,14 @@
       "date": "2026-05-16T07:12:36.225542Z",
       "notes": "Multiple sources confirm the reduction in minimum housing capacity required by Plan Change 120.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-17T07:31:06.544942Z",
+      "notes": "Checked Tavily sources for Chris Bishop",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-15T06:28:57.292615Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-16T06:30:40.932882Z",
       "sources": [
@@ -797,7 +810,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-17T07:31:06.545062Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-16T07:12:36.225682Z"
+  "last_updated": "2026-05-17T07:31:06.545081Z"
 }

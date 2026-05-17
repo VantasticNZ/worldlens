@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 9,
+  "lie_count": 10,
   "lies": [
     {
       "date": "February 2026",
@@ -92,6 +92,16 @@
       "platform": "press_release",
       "_id": "688d2599",
       "_crawled": "2026-05-09T07:03:58.674576Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "New Zealand is on a path to surplus",
+      "reality": "Treasury's long term fiscal forecasts show out-of-control deficits due to pensions and health-care spending from an ageing population",
+      "source": "RNZ News",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "78fcef3d",
+      "_crawled": "2026-05-17T07:30:48.695324Z"
     }
   ],
   "social_posts": [
@@ -206,6 +216,20 @@
       },
       "_id": "2ca4a9d6",
       "_crawled": "2026-05-11T08:21:39.433904Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Economic recovery is 'delayed but not derailed'",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "Consumers Price Index increased 3.1% in the 12 months to the March 2026 quarter, higher than most economists' estimates",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "9f07c2f9",
+      "_crawled": "2026-05-17T07:30:48.695324Z"
     }
   ],
   "votes": [],
@@ -441,13 +465,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis' claim about NZ being on a path to surplus was contradicted by Treasury's forecasts"
+    },
+    "2026-05-17T07:30:48.695324Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Claim of being on a path to surplus contradicted by Treasury's forecasts"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-04T07:43:53.389629Z",
-      "text": "Nicola Willis confirms Budget 2026 spending plans, sparking concerns about the impact on the economy"
-    },
     {
       "date": "2026-05-06T07:33:58.095445Z",
       "text": "Nicola Willis has confirmed her Budget 2026 spending plans, which may delay the return to surplus and contradict her previous claims of responsible economic management"
@@ -483,6 +508,10 @@
     {
       "date": "2026-05-14T07:38:53.666512Z",
       "text": "Nicola Willis faces criticism for her handling of the economy and contradictory statements about NZ's fiscal outlook"
+    },
+    {
+      "date": "2026-05-17T07:30:48.695324Z",
+      "text": "Nicola Willis' handling of the economy and contradictory statements have raised concerns about her integrity"
     }
   ],
   "crawl_log": [
@@ -675,17 +704,14 @@
       "date": "2026-05-16T07:12:20.736864Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-05-17T07:30:48.695324Z",
+      "notes": "Former finance minister's call for resignation and contradictory statements on economic recovery",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-16T06:30:22.439864Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-04-17T06:30:14.711132Z",
       "sources": [
@@ -824,7 +850,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-17T07:30:48.695449Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-16T07:12:20.736900Z"
+  "last_updated": "2026-05-17T07:30:48.695470Z"
 }

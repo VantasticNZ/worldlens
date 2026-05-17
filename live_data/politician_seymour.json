@@ -431,16 +431,14 @@
       "date": "2026-05-16T07:11:37.955529Z",
       "notes": "New events and statements from David Seymour",
       "new_items": true
+    },
+    {
+      "date": "2026-05-17T07:30:16.748095Z",
+      "notes": "New events and statements from David Seymour",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-19T06:25:24.529877Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-04-20T07:11:49.223976Z",
       "sources": [
@@ -582,7 +580,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-17T07:30:16.748205Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-16T07:11:37.955667Z"
+  "last_updated": "2026-05-17T07:30:16.748229Z"
 }

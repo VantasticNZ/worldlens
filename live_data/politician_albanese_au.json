@@ -187,6 +187,24 @@
       "source": "yahoo.com",
       "_id": "3f12ce43",
       "_crawled": "2026-04-30T07:25:06.439045Z"
+    },
+    {
+      "year": 2026,
+      "title": "Budget 2026",
+      "desc": "The budget contains a $45bn bottom-line improvement over four years and promises spending restraint.",
+      "type": "neutral",
+      "source": "The Guardian",
+      "_id": "0eecfd31",
+      "_crawled": "2026-05-17T07:32:53.284087Z"
+    },
+    {
+      "year": 2026,
+      "title": "Recall of parliament to fast-track hate speech and gun laws",
+      "desc": "The parliament was recalled to debate new racial vilification offence, ‘hate preachers’ crackdown and gun buyback.",
+      "type": "positive",
+      "source": "The Guardian",
+      "_id": "c476a816",
+      "_crawled": "2026-05-17T07:32:53.284087Z"
     }
   ],
   "score_adjustments": {},
@@ -198,6 +216,10 @@
     {
       "date": "2026-04-09T06:17:02.196468Z",
       "text": "Anthony Albanese discusses fuel security and addresses the nation on the Middle East crisis"
+    },
+    {
+      "date": "2026-05-17T07:32:53.284087Z",
+      "text": "Anthony Albanese's government has been accused of breaking a promise not to touch negative gearing and CGT, and has recalled parliament to fast-track hate speech and gun laws."
     }
   ],
   "crawl_log": [
@@ -375,18 +397,14 @@
       "date": "2026-05-16T07:13:59.808085Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-05-17T07:32:53.284087Z",
+      "notes": "No significant lies found, but some discrepancies in social posts and events.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-16T06:32:23.351484Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-04-17T06:32:13.245748Z",
       "sources": [
@@ -522,7 +540,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-17T07:32:53.284176Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-16T07:13:59.808166Z"
+  "last_updated": "2026-05-17T07:32:53.284195Z"
 }
