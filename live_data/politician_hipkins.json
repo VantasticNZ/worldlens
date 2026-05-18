@@ -455,16 +455,14 @@
       "date": "2026-05-17T07:31:23.765254Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to infrastructure and budget commitments",
       "new_items": true
+    },
+    {
+      "date": "2026-05-18T08:42:28.215962Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but several new events were discovered.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-16T06:31:00.203899Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-17T06:30:57.364172Z",
       "sources": [
@@ -602,7 +600,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-18T08:42:28.216069Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-17T07:31:23.765379Z"
+  "last_updated": "2026-05-18T08:42:28.216089Z"
 }

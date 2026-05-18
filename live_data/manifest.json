@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-17T07:33:11.506895Z",
+  "generated": "2026-05-18T08:43:58.829849Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-05-17T07:33:10.505670Z",
-      "lie_count": 15,
+      "last_updated": "2026-05-18T08:43:57.828601Z",
+      "lie_count": 16,
       "event_count": 20,
-      "post_count": 7,
+      "post_count": 8,
       "vote_count": 0,
       "sources": [
         [
@@ -15,7 +15,7 @@
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-05-17T07:31:06.545081Z",
+      "last_updated": "2026-05-18T08:42:04.032640Z",
       "lie_count": 12,
       "event_count": 20,
       "post_count": 0,
@@ -28,7 +28,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-05-17T07:31:57.796785Z",
+      "last_updated": "2026-05-18T08:42:48.750649Z",
       "lie_count": 0,
       "event_count": 15,
       "post_count": 4,
@@ -41,7 +41,7 @@
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-05-17T07:31:23.765379Z",
+      "last_updated": "2026-05-18T08:42:28.216089Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 1,
@@ -54,7 +54,7 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-05-17T07:32:53.284195Z",
+      "last_updated": "2026-05-18T08:43:37.322823Z",
       "lie_count": 0,
       "event_count": 19,
       "post_count": 2,
@@ -67,37 +67,37 @@
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-05-17T07:30:31.974097Z",
+      "last_updated": "2026-05-18T08:41:31.144491Z",
       "lie_count": 6,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Shane Jones NZ First controversy 2026",
           "Tavily: Shane Jones statement tweet 2026"
         ]
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-05-17T07:30:48.695470Z",
+      "last_updated": "2026-05-18T08:41:48.137392Z",
       "lie_count": 10,
       "event_count": 20,
-      "post_count": 9,
+      "post_count": 10,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Nicola Willis finance minister contradic",
           "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-05-17T07:29:49.347111Z",
-      "lie_count": 15,
+      "last_updated": "2026-05-18T08:40:27.219683Z",
+      "lie_count": 16,
       "event_count": 20,
-      "post_count": 12,
+      "post_count": 13,
       "vote_count": 1,
       "sources": [
         [
@@ -108,7 +108,7 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-05-17T07:30:16.748229Z",
+      "last_updated": "2026-05-18T08:41:10.573183Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
@@ -121,29 +121,29 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-05-17T07:32:36.281715Z",
-      "lie_count": 49,
+      "last_updated": "2026-05-18T08:43:13.085759Z",
+      "lie_count": 50,
       "event_count": 20,
       "post_count": 2,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (3 articles from NZ/intl media)",
+          "RSS (4 articles from NZ/intl media)",
+          "GDELT global news database",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-05-17T07:30:00.482431Z",
+      "last_updated": "2026-05-18T08:40:49.669302Z",
       "lie_count": 16,
       "event_count": 20,
       "post_count": 14,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
-          "GDELT global news database",
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Winston Peters NZ First contradiction 20",
           "Tavily: Winston Peters tweet statement 2026"
         ]

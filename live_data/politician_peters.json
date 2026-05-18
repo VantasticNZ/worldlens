@@ -679,10 +679,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-07T07:38:16.523684Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his party's coalition dynamics and policy consistency."
-    },
-    {
       "date": "2026-05-08T06:28:44.538613Z",
       "text": "Winston Peters' recent actions and statements have raised concerns about his integrity and consistency, potentially impacting his party's reputation"
     },
@@ -717,6 +713,10 @@
     {
       "date": "2026-05-17T07:30:00.482311Z",
       "text": "Winston Peters unveiled a new KiwiSaver policy and criticized National and Act's immigration policies"
+    },
+    {
+      "date": "2026-05-18T08:40:49.669159Z",
+      "text": "Winston Peters has made several announcements and taken aim at other parties over immigration, but no significant integrity or corruption risk changes have been found"
     }
   ],
   "crawl_log": [
@@ -939,17 +939,14 @@
       "date": "2026-05-17T07:30:00.482311Z",
       "notes": "Peters' social media activity and policy announcements were reviewed",
       "new_items": true
+    },
+    {
+      "date": "2026-05-18T08:40:49.669159Z",
+      "notes": "Peters' recent activities and statements have been reviewed, but no major discrepancies or concerns have been identified",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-23T06:57:16.231324Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-04-24T07:00:38.233540Z",
       "sources": [
@@ -1089,7 +1086,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-18T08:40:49.669279Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-17T07:30:00.482431Z"
+  "last_updated": "2026-05-18T08:40:49.669302Z"
 }

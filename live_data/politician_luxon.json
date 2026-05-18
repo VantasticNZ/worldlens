@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 15,
+  "lie_count": 16,
   "lies": [
     {
       "date": "2026",
@@ -152,6 +152,16 @@
       "platform": "interview",
       "_id": "7c6d7019",
       "_crawled": "2026-05-13T07:45:13.086861Z"
+    },
+    {
+      "date": "February 2026",
+      "claim": "Supported the Crusaders since he was a little boy",
+      "reality": "The Crusaders played their first game in 1996, when Luxon was 25",
+      "source": "The Spinoff, 17-02-2026",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "f8405757",
+      "_crawled": "2026-05-18T08:40:27.219529Z"
     }
   ],
   "social_posts": [
@@ -322,6 +332,20 @@
       },
       "_id": "c2617020",
       "_crawled": "2026-05-16T07:10:49.966449Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Luxon meets with other world leaders to discuss Strait of Hormuz situation",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Luxon's stance on the Iran conflict",
+        "source": "RNZ News",
+        "severity": "med"
+      },
+      "_id": "1636028d",
+      "_crawled": "2026-05-18T08:40:27.219529Z"
     }
   ],
   "votes": [
@@ -667,10 +691,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-07T07:37:51.575554Z",
-      "text": "Luxon's integrity score has been adjusted downward due to a newly discovered falsehood"
-    },
-    {
       "date": "2026-05-08T06:28:08.263316Z",
       "text": "Luxon's integrity score has been adjusted due to a newly discovered false claim, and he has been involved in several significant events, including a leadership battle and talks about the Strait of Hormuz"
     },
@@ -705,6 +725,10 @@
     {
       "date": "2026-05-17T07:29:49.347012Z",
       "text": "New findings suggest Luxon has made another inconsistent claim and has questionable transparency in his work schedule"
+    },
+    {
+      "date": "2026-05-18T08:40:27.219529Z",
+      "text": "New findings include a potential lie about supporting the Crusaders and a discrepancy in Luxon's statement on the Iran conflict"
     }
   ],
   "crawl_log": [
@@ -937,15 +961,14 @@
       "date": "2026-05-17T07:29:49.347012Z",
       "notes": "Reviewed 9 sources, including The Spinoff, NZ Herald, and Beehive.govt.nz",
       "new_items": true
+    },
+    {
+      "date": "2026-05-18T08:40:27.219529Z",
+      "notes": "Reviewed sources from The Spinoff, RNZ News, NZ Herald, and Beehive.govt.nz",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-27T07:30:19.766498Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-04-28T07:27:19.758504Z",
       "sources": [
@@ -1091,7 +1114,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-18T08:40:27.219661Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-17T07:29:49.347111Z"
+  "last_updated": "2026-05-18T08:40:27.219683Z"
 }

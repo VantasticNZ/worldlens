@@ -230,6 +230,20 @@
       },
       "_id": "9f07c2f9",
       "_crawled": "2026-05-17T07:30:48.695324Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Communities will have more power to decide how social services funding is spent locally",
+      "verified_by": "National Party website",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Previous statements suggested a more centralized approach",
+        "source": "National Party website",
+        "severity": "med"
+      },
+      "_id": "e1a6e551",
+      "_crawled": "2026-05-18T08:41:48.137268Z"
     }
   ],
   "votes": [],
@@ -474,10 +488,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-06T07:33:58.095445Z",
-      "text": "Nicola Willis has confirmed her Budget 2026 spending plans, which may delay the return to surplus and contradict her previous claims of responsible economic management"
-    },
-    {
       "date": "2026-05-07T07:39:17.560802Z",
       "text": "Nicola Willis comments on economic recovery and cost-of-living"
     },
@@ -512,6 +522,10 @@
     {
       "date": "2026-05-17T07:30:48.695324Z",
       "text": "Nicola Willis' handling of the economy and contradictory statements have raised concerns about her integrity"
+    },
+    {
+      "date": "2026-05-18T08:41:48.137268Z",
+      "text": "Nicola Willis announces major public service reforms and faces criticism for her handling of the economy"
     }
   ],
   "crawl_log": [
@@ -709,17 +723,14 @@
       "date": "2026-05-17T07:30:48.695324Z",
       "notes": "Former finance minister's call for resignation and contradictory statements on economic recovery",
       "new_items": true
+    },
+    {
+      "date": "2026-05-18T08:41:48.137268Z",
+      "notes": "Reviewed NZ Herald and National Party website articles",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-17T06:30:14.711132Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-04-20T07:12:09.912827Z",
       "sources": [
@@ -857,7 +868,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-18T08:41:48.137372Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-17T07:30:48.695470Z"
+  "last_updated": "2026-05-18T08:41:48.137392Z"
 }
