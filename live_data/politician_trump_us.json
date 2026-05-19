@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 50,
+  "lie_count": 51,
   "lies": [
     {
       "date": "January 2026",
@@ -502,6 +502,16 @@
       "platform": "speech",
       "_id": "7bb9acab",
       "_crawled": "2026-05-18T08:43:13.085567Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "We are right now producing more oil than Saudi Arabia",
+      "reality": "No evidence to support this claim",
+      "source": "PolitiFact, April 23, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "a9eb5b03",
+      "_crawled": "2026-05-19T08:23:15.841148Z"
     }
   ],
   "social_posts": [
@@ -863,13 +873,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's false claim about gasoline prices and his warning to Iran contribute to a decrease in integrity score"
+    },
+    "2026-05-19T08:23:15.841148Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "New lies and discrepancies found, including a $1.7bn fund to compensate Trump's allies"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-08T06:31:45.980706Z",
-      "text": "Donald Trump has made several new false or misleading claims, including about the economy and trade deals"
-    },
     {
       "date": "2026-05-09T07:04:48.770492Z",
       "text": "Trump's recent statements have raised concerns about his integrity and policy consistency"
@@ -905,6 +916,10 @@
     {
       "date": "2026-05-18T08:43:13.085567Z",
       "text": "Trump's recent statements and actions have raised tensions with Iran and demonstrated a lack of integrity"
+    },
+    {
+      "date": "2026-05-19T08:23:15.841148Z",
+      "text": "Trump's integrity score has decreased due to new lies and discrepancies, while his corruption risk score has increased"
     }
   ],
   "crawl_log": [
@@ -1092,15 +1107,14 @@
       "date": "2026-05-18T08:43:13.085567Z",
       "notes": "Trump's statements and actions continue to be a source of controversy and concern",
       "new_items": true
+    },
+    {
+      "date": "2026-05-19T08:23:15.841148Z",
+      "notes": "New lies and events found, including a $1.7bn fund to compensate Trump's allies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-28T07:30:38.356135Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-04-29T07:17:15.600656Z",
       "sources": [
@@ -1256,7 +1270,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-19T08:23:15.841344Z",
+      "sources": [
+        "RSS (6 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-18T08:43:13.085759Z"
+  "last_updated": "2026-05-19T08:23:15.841362Z"
 }

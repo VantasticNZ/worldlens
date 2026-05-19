@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 16,
+  "lie_count": 18,
   "lies": [
     {
       "date": "2026",
@@ -162,6 +162,26 @@
       "platform": "speech",
       "_id": "6865ab5f",
       "_crawled": "2026-05-18T08:43:57.828399Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "defeat the decline and division offered by others",
+      "reality": "no clear plan to achieve this goal",
+      "source": "BBC, May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "79808759",
+      "_crawled": "2026-05-19T08:23:45.603437Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "people will start to see improvements including lower bills, more police",
+      "reality": "no evidence of significant improvements",
+      "source": "BBC, May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "d7838353",
+      "_crawled": "2026-05-19T08:23:45.603437Z"
     }
   ],
   "social_posts": [
@@ -571,13 +591,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Decrease in integrity score due to perceived broken promises and policy U-turns"
+    },
+    "2026-05-19T08:23:45.603437Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Starmer's recent statements and actions have raised concerns about his integrity and ability to lead the Labour party"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-07T07:41:57.946345Z",
-      "text": "Keir Starmer's integrity score has decreased due to additional lies found"
-    },
     {
       "date": "2026-05-08T06:32:28.766521Z",
       "text": "Keir Starmer's leadership is facing challenges, with Labour struggling in local elections and some MPs expressing concern"
@@ -613,6 +634,10 @@
     {
       "date": "2026-05-18T08:43:57.828399Z",
       "text": "Keir Starmer faces increasing pressure to step down amid criticism of his leadership and perceived broken promises"
+    },
+    {
+      "date": "2026-05-19T08:23:45.603437Z",
+      "text": "Starmer's leadership is facing significant challenges, and his recent statements and actions have raised concerns about his integrity."
     }
   ],
   "crawl_log": [
@@ -795,15 +820,14 @@
       "date": "2026-05-18T08:43:57.828399Z",
       "notes": "Multiple sources indicate a decline in Starmer's authority and popularity",
       "new_items": true
+    },
+    {
+      "date": "2026-05-19T08:23:45.603437Z",
+      "notes": "Multiple sources indicate Starmer's leadership is under threat, and his recent statements have been contradictory or misleading.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-23T07:01:46.767372Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-04-26T06:59:20.453809Z",
       "sources": [
@@ -937,7 +961,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-19T08:23:45.603621Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-18T08:43:57.828601Z"
+  "last_updated": "2026-05-19T08:23:45.603639Z"
 }

@@ -687,13 +687,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's claim of supporting the Crusaders since he was a little boy is inconsistent with the facts, and his blank diary for the first three weeks of 2026 raises questions about his transparency and accountability"
+    },
+    "2026-05-19T08:20:50.437187Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's claim about Act's social media policy was contradicted by David Seymour"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-08T06:28:08.263316Z",
-      "text": "Luxon's integrity score has been adjusted due to a newly discovered false claim, and he has been involved in several significant events, including a leadership battle and talks about the Strait of Hormuz"
-    },
     {
       "date": "2026-05-09T07:02:50.086523Z",
       "text": "Luxon's contradictory statements on the Iran conflict have raised concerns about his integrity"
@@ -729,6 +730,10 @@
     {
       "date": "2026-05-18T08:40:27.219529Z",
       "text": "New findings include a potential lie about supporting the Crusaders and a discrepancy in Luxon's statement on the Iran conflict"
+    },
+    {
+      "date": "2026-05-19T08:20:50.437187Z",
+      "text": "Luxon's integrity score has been adjusted downward due to a contradiction with David Seymour over Act's social media policy"
     }
   ],
   "crawl_log": [
@@ -966,15 +971,14 @@
       "date": "2026-05-18T08:40:27.219529Z",
       "notes": "Reviewed sources from The Spinoff, RNZ News, NZ Herald, and Beehive.govt.nz",
       "new_items": true
+    },
+    {
+      "date": "2026-05-19T08:20:50.437187Z",
+      "notes": "Reviewed 8 sources, including NZ Herald, RNZ News, and The Spinoff",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-28T07:27:19.758504Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-04-29T07:15:33.202184Z",
       "sources": [
@@ -1122,7 +1126,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-19T08:20:50.437303Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-18T08:40:27.219683Z"
+  "last_updated": "2026-05-19T08:20:50.437324Z"
 }

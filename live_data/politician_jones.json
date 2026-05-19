@@ -352,10 +352,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-06T07:33:31.430005Z",
-      "text": "Shane Jones has faced criticism for his recent comments, including an apology for remarks on Nicola Willis' weight loss and backlash over his 'butter chicken' comments"
-    },
-    {
       "date": "2026-05-07T07:38:55.556309Z",
       "text": "Shane Jones has been involved in controversies regarding fisheries management and personal comments, potentially affecting his integrity score"
     },
@@ -390,6 +386,10 @@
     {
       "date": "2026-05-18T08:41:31.144349Z",
       "text": "Shane Jones faces criticism and demands for apology for his comments, leading to a decrease in his integrity score."
+    },
+    {
+      "date": "2026-05-19T08:21:51.753951Z",
+      "text": "Shane Jones faces criticism for his comments on the India FTA and demands an apology from Ngāti Ruanui"
     }
   ],
   "crawl_log": [
@@ -602,16 +602,14 @@
       "date": "2026-05-18T08:41:31.144349Z",
       "notes": "Shane Jones' recent comments have sparked controversy and criticism, with some deemed hurtful or 'shameful'.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-19T08:21:51.753951Z",
+      "notes": "Reviewed RNZ articles for new information on Shane Jones",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-22T06:32:21.980380Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-04-23T06:58:20.819452Z",
       "sources": [
@@ -747,7 +745,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-05-19T08:21:51.754039Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-18T08:41:31.144491Z"
+  "last_updated": "2026-05-19T08:21:51.754061Z"
 }
