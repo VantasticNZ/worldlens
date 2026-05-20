@@ -696,10 +696,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-09T07:02:50.086523Z",
-      "text": "Luxon's contradictory statements on the Iran conflict have raised concerns about his integrity"
-    },
-    {
       "date": "2026-05-10T07:22:05.892822Z",
       "text": "Luxon's leadership and response to the fuel crisis are under scrutiny, with concerns about his integrity and the government's handling of the crisis"
     },
@@ -734,6 +730,10 @@
     {
       "date": "2026-05-19T08:20:50.437187Z",
       "text": "Luxon's integrity score has been adjusted downward due to a contradiction with David Seymour over Act's social media policy"
+    },
+    {
+      "date": "2026-05-20T08:20:16.838844Z",
+      "text": "Christopher Luxon survives National leadership vote and announces Government support for storm-hit regions"
     }
   ],
   "crawl_log": [
@@ -976,15 +976,14 @@
       "date": "2026-05-19T08:20:50.437187Z",
       "notes": "Reviewed 8 sources, including NZ Herald, RNZ News, and The Spinoff",
       "new_items": true
+    },
+    {
+      "date": "2026-05-20T08:20:16.838844Z",
+      "notes": "Reviewed recent articles and statements from Christopher Luxon",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-29T07:15:33.202184Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-04-30T07:23:53.805190Z",
       "sources": [
@@ -1134,7 +1133,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-20T08:20:16.838962Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-19T08:20:50.437324Z"
+  "last_updated": "2026-05-20T08:20:16.838988Z"
 }

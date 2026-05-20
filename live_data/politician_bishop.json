@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 12,
+  "lie_count": 14,
   "lies": [
     {
       "date": "April 2026",
@@ -122,6 +122,26 @@
       "platform": "press_release",
       "_id": "43f6b8b5",
       "_crawled": "2026-05-17T07:31:06.544942Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Housing density will go ahead near transport hubs and rail corridors",
+      "reality": "The Government has announced a series of immediate actions in response to the independent review of Kāinga Ora, but details on housing density are unclear",
+      "source": "NZ Herald, May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "66192cbe",
+      "_crawled": "2026-05-20T08:22:25.264462Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "The Government will enable more housing development in the CBD",
+      "reality": "The Government has announced plans to legislate to enable more housing development in the CBD, but details are unclear",
+      "source": "NZ Herald, May 2026",
+      "severity": "low",
+      "platform": "press_release",
+      "_id": "c594c0cc",
+      "_crawled": "2026-05-20T08:22:25.264462Z"
     }
   ],
   "social_posts": [],
@@ -453,13 +473,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Minister's claim that everything was 'on track' was contradicted by advice released just hours earlier"
+    },
+    "2026-05-20T08:22:25.264462Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The Minister's U-turn on Auckland housing plans and lack of clarity on details raises concerns about integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-09T07:04:10.102697Z",
-      "text": "Chris Bishop's handling of Auckland housing plans has sparked controversy and raised questions about his integrity"
-    },
     {
       "date": "2026-05-10T07:22:56.234580Z",
       "text": "Housing Minister Chris Bishop announced a reduction in Auckland's housing plan, contradicting his previous claim of 'no actual change'"
@@ -495,6 +516,10 @@
     {
       "date": "2026-05-19T08:22:29.979745Z",
       "text": "Chris Bishop's integrity score has been adjusted downward due to a contradiction between his claim and advice released by officials."
+    },
+    {
+      "date": "2026-05-20T08:22:25.264462Z",
+      "text": "Housing Minister Chris Bishop announces a U-turn on Auckland housing plans, raising concerns about integrity and transparency"
     }
   ],
   "crawl_log": [
@@ -692,16 +717,14 @@
       "date": "2026-05-19T08:22:29.979745Z",
       "notes": "Multiple sources indicate contradictions and backtracks by Chris Bishop on housing issues",
       "new_items": true
+    },
+    {
+      "date": "2026-05-20T08:22:25.264462Z",
+      "notes": "Minister's statements and actions on Auckland housing plans require further scrutiny",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-22T06:33:15.812310Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-23T06:59:27.639805Z",
       "sources": [
@@ -837,7 +860,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-20T08:22:25.264591Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-19T08:22:29.979888Z"
+  "last_updated": "2026-05-20T08:22:25.264614Z"
 }

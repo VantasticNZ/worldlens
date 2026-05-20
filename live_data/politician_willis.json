@@ -507,10 +507,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-08T06:29:58.147578Z",
-      "text": "Nicola Willis has made statements about the 2026 budget and accused Labour of misleading the public"
-    },
-    {
       "date": "2026-05-09T07:03:58.674576Z",
       "text": "Nicola Willis' statement on fees-free university scheme contradicts actual policy decision, raising integrity concerns"
     },
@@ -545,6 +541,10 @@
     {
       "date": "2026-05-19T08:22:08.741144Z",
       "text": "Nicola Willis announces public sector job cuts and faces calls to resign over contradictory statements on NZ's fiscal path"
+    },
+    {
+      "date": "2026-05-20T08:21:48.066630Z",
+      "text": "Nicola Willis announced significant public service reforms and a cost-cutting focused budget."
     }
   ],
   "crawl_log": [
@@ -752,17 +752,14 @@
       "date": "2026-05-19T08:22:08.741144Z",
       "notes": "Multiple sources confirm Nicola Willis' contradictory statements and announcement of public sector job cuts",
       "new_items": true
+    },
+    {
+      "date": "2026-05-20T08:21:48.066630Z",
+      "notes": "Multiple sources confirm public service reforms and budget announcements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-22T06:32:52.585393Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-04-23T06:58:57.477858Z",
       "sources": [
@@ -901,7 +898,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-20T08:21:48.066757Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-19T08:22:08.741293Z"
+  "last_updated": "2026-05-20T08:21:48.066778Z"
 }
