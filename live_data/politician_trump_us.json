@@ -883,13 +883,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's repeated lies and contradictory statements have further eroded his integrity score"
+    },
+    "2026-05-21T08:30:46.697286Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Additional lies and controversial endorsements"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-10T07:23:26.926733Z",
-      "text": "Trump's recent statements on gasoline prices and consumer confidence found to be false, and his administration's messaging on Iran creates confusion"
-    },
     {
       "date": "2026-05-11T08:22:58.511790Z",
       "text": "Trump's recent statements and actions have led to increased tensions with Iran and raised concerns about his integrity and honesty"
@@ -925,6 +926,10 @@
     {
       "date": "2026-05-20T08:23:14.941661Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and judgment, particularly with regards to his handling of international relations and his endorsement of controversial figures"
+    },
+    {
+      "date": "2026-05-21T08:30:46.697286Z",
+      "text": "Trump's recent actions and statements have raised concerns about his integrity and leadership."
     }
   ],
   "crawl_log": [
@@ -1122,15 +1127,14 @@
       "date": "2026-05-20T08:23:14.941661Z",
       "notes": "Multiple sources confirm Trump's lies and contradictory statements, with PolitiFact and BBC World providing detailed fact-checks and analysis",
       "new_items": true
+    },
+    {
+      "date": "2026-05-21T08:30:46.697286Z",
+      "notes": "Updated with new lies and events from BBC World and PolitiFact",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-30T07:24:53.211705Z",
-      "sources": [
-        "RSS (5 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-05-01T07:23:30.748010Z",
       "sources": [
@@ -1289,7 +1293,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-21T08:30:46.697462Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-20T08:23:14.941842Z"
+  "last_updated": "2026-05-21T08:30:46.697481Z"
 }

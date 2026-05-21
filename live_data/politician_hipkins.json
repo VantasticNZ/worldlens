@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 1,
+  "lie_count": 2,
   "lies": [
     {
       "date": "May 2026",
@@ -12,6 +12,16 @@
       "platform": "speech",
       "_id": "593ee777",
       "_crawled": "2026-05-16T07:12:57.026338Z"
+    },
+    {
+      "date": "February 2026",
+      "claim": "New Zealanders don't really care about key detail of party's NZ Future Fund policy",
+      "reality": "No evidence to support this claim",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "b907c96c",
+      "_crawled": "2026-05-21T08:29:47.115824Z"
     }
   ],
   "social_posts": [
@@ -218,6 +228,11 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Hipkins' claim about Aucklanders moving on from Covid-19 lockdowns was contradicted by other sources, raising concerns about his integrity"
+    },
+    "2026-05-21T08:29:47.115824Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Hipkins' handling of personal allegations and potential impact on his leadership"
     }
   },
   "summary_updates": [
@@ -248,6 +263,10 @@
     {
       "date": "2026-05-16T07:12:57.026338Z",
       "text": "Chris Hipkins faced renewed scrutiny over his ex-wife's allegations and made a claim about Aucklanders moving on from Covid-19 lockdowns that was contradicted by other sources"
+    },
+    {
+      "date": "2026-05-21T08:29:47.115824Z",
+      "text": "Chris Hipkins faces personal and political challenges, including allegations from his ex-wife and criticism of his leadership"
     }
   ],
   "crawl_log": [
@@ -470,17 +489,14 @@
       "date": "2026-05-20T08:22:41.902349Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but several new events related to Chris Hipkins' policies and personal life.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-21T08:29:47.115824Z",
+      "notes": "Multiple sources report on Hipkins' personal and political struggles, with potential implications for his leadership and Labour's campaign",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-22T06:33:32.995655Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-23T07:00:07.519259Z",
       "sources": [
@@ -618,7 +634,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-21T08:29:47.115895Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-20T08:22:41.902479Z"
+  "last_updated": "2026-05-21T08:29:47.115916Z"
 }

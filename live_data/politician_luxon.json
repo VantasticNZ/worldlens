@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 16,
+  "lie_count": 17,
   "lies": [
     {
       "date": "2026",
@@ -162,6 +162,16 @@
       "platform": "interview",
       "_id": "f8405757",
       "_crawled": "2026-05-18T08:40:27.219529Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Peters mischaracterised view of Iran",
+      "reality": "No evidence to back Luxon's claim",
+      "source": "RNZ News",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "1dd52c52",
+      "_crawled": "2026-05-21T08:27:21.523156Z"
     }
   ],
   "social_posts": [
@@ -692,13 +702,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's claim about Act's social media policy was contradicted by David Seymour"
+    },
+    "2026-05-21T08:27:21.523156Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's claim was found to have no evidence to back it, which may indicate a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-10T07:22:05.892822Z",
-      "text": "Luxon's leadership and response to the fuel crisis are under scrutiny, with concerns about his integrity and the government's handling of the crisis"
-    },
     {
       "date": "2026-05-11T08:20:25.930095Z",
       "text": "Luxon faced criticism for his response to the US-Israel war on Iran and made a misleading claim about the fees-free university scheme"
@@ -734,6 +745,10 @@
     {
       "date": "2026-05-20T08:20:16.838844Z",
       "text": "Christopher Luxon survives National leadership vote and announces Government support for storm-hit regions"
+    },
+    {
+      "date": "2026-05-21T08:27:21.523156Z",
+      "text": "Luxon's claim on Peters and Iran was found to have no evidence to back it, which may indicate a lack of integrity"
     }
   ],
   "crawl_log": [
@@ -981,15 +996,14 @@
       "date": "2026-05-20T08:20:16.838844Z",
       "notes": "Reviewed recent articles and statements from Christopher Luxon",
       "new_items": true
+    },
+    {
+      "date": "2026-05-21T08:27:21.523156Z",
+      "notes": "RNZ News article found a new lie by Luxon",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-30T07:23:53.805190Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-05-01T07:22:30.326007Z",
       "sources": [
@@ -1141,7 +1155,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-21T08:27:21.523272Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-20T08:20:16.838988Z"
+  "last_updated": "2026-05-21T08:27:21.523297Z"
 }

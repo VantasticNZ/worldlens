@@ -699,10 +699,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-10T07:22:16.215682Z",
-      "text": "Winston Peters has made contradictory statements about NZ First's stance on DEI regulations and has proclaimed a 'war on woke'"
-    },
-    {
       "date": "2026-05-11T08:20:43.319524Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
     },
@@ -737,6 +733,10 @@
     {
       "date": "2026-05-20T08:20:36.385144Z",
       "text": "Winston Peters' recent actions and statements have raised concerns about his integrity and consistency"
+    },
+    {
+      "date": "2026-05-21T08:27:45.947685Z",
+      "text": "Winston Peters continues to make headlines with his statements and actions, including condemning an Israeli minister and preparing for a potential change in government"
     }
   ],
   "crawl_log": [
@@ -974,15 +974,14 @@
       "date": "2026-05-20T08:20:36.385144Z",
       "notes": "Peters' tweets and statements have been inconsistent, and his actions have sparked controversy",
       "new_items": true
+    },
+    {
+      "date": "2026-05-21T08:27:45.947685Z",
+      "notes": "Peters' social media activity and public statements continue to be scrutinized",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-30T07:24:09.616685Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-05-01T07:22:37.925611Z",
       "sources": [
@@ -1126,7 +1125,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-21T08:27:45.947798Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-20T08:20:36.385300Z"
+  "last_updated": "2026-05-21T08:27:45.947821Z"
 }
