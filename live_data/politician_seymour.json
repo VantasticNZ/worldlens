@@ -460,15 +460,14 @@
       "date": "2026-05-21T08:28:12.120158Z",
       "notes": "No significant lies or social post discrepancies found.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-22T08:18:12.204076Z",
+      "notes": "New events and criticisms of David Seymour found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-26T06:56:12.783723Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-05-02T06:58:50.043419Z",
       "sources": [
@@ -613,7 +612,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-22T08:18:12.204169Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-21T08:28:12.120317Z"
+  "last_updated": "2026-05-22T08:18:12.204193Z"
 }

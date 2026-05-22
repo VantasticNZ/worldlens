@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 18,
+  "lie_count": 19,
   "lies": [
     {
       "date": "2026",
@@ -182,6 +182,16 @@
       "platform": "speech",
       "_id": "d7838353",
       "_crawled": "2026-05-19T08:23:45.603437Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "people will start to feel positive change in your bills, your communities and your health service",
+      "reality": "people are not feeling the promised change",
+      "source": "The Guardian, May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "870290ec",
+      "_crawled": "2026-05-22T08:21:27.865956Z"
     }
   ],
   "social_posts": [
@@ -601,13 +611,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "repeated claims of defeating decline and division without evidence"
+    },
+    "2026-05-22T08:21:27.865956Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "due to the discovery of a new lie and a discrepancy in his statement"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-09T07:05:18.539701Z",
-      "text": "Keir Starmer's leadership is under pressure after Labour's disastrous election night, and his integrity score has been affected by his false claim about Mandelson's appointment"
-    },
     {
       "date": "2026-05-10T07:23:41.992980Z",
       "text": "Keir Starmer's leadership is under pressure following heavy losses in the local elections and controversy over the appointment of Mandelson"
@@ -643,6 +654,10 @@
     {
       "date": "2026-05-21T08:31:45.809894Z",
       "text": "Keir Starmer faces a potential leadership challenge and has made repeated claims of defeating decline and division without evidence."
+    },
+    {
+      "date": "2026-05-22T08:21:27.865956Z",
+      "text": "Keir Starmer's leadership is being challenged from within his own party, and he has been found to have made another promise that has not been fulfilled"
     }
   ],
   "crawl_log": [
@@ -840,15 +855,14 @@
       "date": "2026-05-21T08:31:45.809894Z",
       "notes": "Reviewed BBC and The Guardian articles from May 2026",
       "new_items": true
+    },
+    {
+      "date": "2026-05-22T08:21:27.865956Z",
+      "notes": "The Guardian and BBC News were the main sources for this update",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-29T07:17:35.381995Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-05-01T07:23:47.229781Z",
       "sources": [
@@ -986,7 +1000,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-22T08:21:27.866064Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-21T08:31:45.810065Z"
+  "last_updated": "2026-05-22T08:21:27.866085Z"
 }

@@ -267,6 +267,10 @@
     {
       "date": "2026-05-21T08:29:47.115824Z",
       "text": "Chris Hipkins faces personal and political challenges, including allegations from his ex-wife and criticism of his leadership"
+    },
+    {
+      "date": "2026-05-22T08:19:57.513396Z",
+      "text": "Chris Hipkins faced personal and political drama after his ex-wife made unsubstantiated claims against him, but he has denied the allegations and remains committed to his role as Labour leader."
     }
   ],
   "crawl_log": [
@@ -494,17 +498,14 @@
       "date": "2026-05-21T08:29:47.115824Z",
       "notes": "Multiple sources report on Hipkins' personal and political struggles, with potential implications for his leadership and Labour's campaign",
       "new_items": true
+    },
+    {
+      "date": "2026-05-22T08:19:57.513396Z",
+      "notes": "No significant new lies or social posts found, but new events related to Chris Hipkins' personal life and leadership",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-23T07:00:07.519259Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-04-24T07:01:54.395522Z",
       "sources": [
@@ -641,7 +642,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-22T08:19:57.513479Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-21T08:29:47.115916Z"
+  "last_updated": "2026-05-22T08:19:57.513499Z"
 }

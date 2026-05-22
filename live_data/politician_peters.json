@@ -699,10 +699,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-11T08:20:43.319524Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
-    },
-    {
       "date": "2026-05-12T07:38:17.701123Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
     },
@@ -737,6 +733,10 @@
     {
       "date": "2026-05-21T08:27:45.947685Z",
       "text": "Winston Peters continues to make headlines with his statements and actions, including condemning an Israeli minister and preparing for a potential change in government"
+    },
+    {
+      "date": "2026-05-22T08:17:52.758768Z",
+      "text": "Winston Peters continues to make statements on various topics, including coalition negotiations and foreign policy"
     }
   ],
   "crawl_log": [
@@ -979,15 +979,14 @@
       "date": "2026-05-21T08:27:45.947685Z",
       "notes": "Peters' social media activity and public statements continue to be scrutinized",
       "new_items": true
+    },
+    {
+      "date": "2026-05-22T08:17:52.758768Z",
+      "notes": "Reviewed RNZ News and NZ Herald articles, as well as The Spinoff and NZ Herald Tavily sources",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-01T07:22:37.925611Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-05-02T06:58:22.197077Z",
       "sources": [
@@ -1133,7 +1132,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-22T08:17:52.758871Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-21T08:27:45.947821Z"
+  "last_updated": "2026-05-22T08:17:52.758894Z"
 }

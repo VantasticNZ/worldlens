@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 10,
+  "lie_count": 11,
   "lies": [
     {
       "date": "February 2026",
@@ -102,6 +102,16 @@
       "platform": "speech",
       "_id": "78fcef3d",
       "_crawled": "2026-05-17T07:30:48.695324Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "the Government’s social housing plans announced today were intended to make the system 'fairer'",
+      "reality": "the plans may actually make the system less fair for those in private rental accommodation",
+      "source": "NZ Herald, May 2026",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "dea7dfe8",
+      "_crawled": "2026-05-22T08:19:11.122544Z"
     }
   ],
   "social_posts": [
@@ -258,6 +268,20 @@
       },
       "_id": "3e283f47",
       "_crawled": "2026-05-19T08:22:08.741144Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Nicola Willis issues statement expressing 'regret' about social housing comment",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Willis previously stated the social housing plans were intended to make the system 'fairer', but now expresses regret over the comment",
+        "source": "NZ Herald, May 2026",
+        "severity": "med"
+      },
+      "_id": "302592c2",
+      "_crawled": "2026-05-22T08:19:11.122544Z"
     }
   ],
   "votes": [],
@@ -503,13 +527,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis' claim about NZ being on a path to surplus contradicts Treasury's forecasts"
+    },
+    "2026-05-22T08:19:11.122544Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Nicola Willis' expression of regret over her social housing comment and the announcement of public service cuts may impact her integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-10T07:22:44.093816Z",
-      "text": "Nicola Willis' statement on the Fees-free university scheme has been contradicted by recent reports, indicating a potential integrity issue"
-    },
     {
       "date": "2026-05-11T08:21:39.433904Z",
       "text": "Nicola Willis has made statements on the cost of living and fuel prices, and the Government has announced the Budget date and refined the Fuel Response Plan"
@@ -545,6 +570,10 @@
     {
       "date": "2026-05-21T08:28:58.267398Z",
       "text": "Nicola Willis issued a statement expressing regret about a social housing comment and announced public service cuts to save $2.4b, while being involved in a foreign affairs feud with Winston Peters."
+    },
+    {
+      "date": "2026-05-22T08:19:11.122544Z",
+      "text": "Nicola Willis announces public service cuts and expresses regret over social housing comment, potentially impacting her integrity score"
     }
   ],
   "crawl_log": [
@@ -762,15 +791,14 @@
       "date": "2026-05-21T08:28:58.267398Z",
       "notes": "Reviewed RSS and Tavily sources, found new events related to Nicola Willis' statement and public service cuts.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-22T08:19:11.122544Z",
+      "notes": "Reviewed NZ Herald and RNZ News articles for updates on Nicola Willis' statements and actions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-24T07:01:26.090057Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-04-28T07:29:03.175786Z",
       "sources": [
@@ -911,7 +939,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-22T08:19:11.122652Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-21T08:28:58.267535Z"
+  "last_updated": "2026-05-22T08:19:11.122671Z"
 }
