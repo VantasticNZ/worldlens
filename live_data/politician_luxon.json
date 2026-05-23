@@ -712,13 +712,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's claim about Peters was found to be unsubstantiated"
+    },
+    "2026-05-23T07:26:03.203005Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The Prime Minister's claim about supporting the Crusaders since he was a little boy was found to be false"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-12T07:37:54.796619Z",
-      "text": "Luxon's climate change policy statements and coalition government tensions raise concerns about his integrity"
-    },
     {
       "date": "2026-05-13T07:45:13.086861Z",
       "text": "Christopher Luxon faces criticism from Winston Peters over immigration comments and is found to have made an inaccurate claim about Act's social media policy"
@@ -754,14 +755,13 @@
     {
       "date": "2026-05-22T08:17:33.826162Z",
       "text": "Luxon's integrity score takes a hit due to unsubstantiated claim about Peters"
+    },
+    {
+      "date": "2026-05-23T07:26:03.203005Z",
+      "text": "New findings suggest the Prime Minister has made another false claim, potentially damaging his integrity score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-01T06:22:18.014044Z",
-      "notes": "Multiple sources indicate Luxon's inconsistencies and controversies",
-      "new_items": true
-    },
     {
       "date": "2026-04-02T06:07:07.750550Z",
       "notes": "Multiple sources report on Luxon's Cabinet reshuffle and its implications, as well as the matai title controversy and election date announcement",
@@ -1006,17 +1006,14 @@
       "date": "2026-05-22T08:17:33.826162Z",
       "notes": "RNZ News article contradicts Luxon's claim about Peters",
       "new_items": true
+    },
+    {
+      "date": "2026-05-23T07:26:03.203005Z",
+      "notes": "The Spinoff articles provided significant new information about the Prime Minister's statements and actions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-02T06:57:55.227218Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-03T07:13:44.526850Z",
       "sources": [
@@ -1169,7 +1166,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-23T07:26:03.203097Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-22T08:17:33.826285Z"
+  "last_updated": "2026-05-23T07:26:03.203119Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 6,
+  "lie_count": 8,
   "lies": [
     {
       "date": "March 2026",
@@ -62,6 +62,26 @@
       "platform": "online video",
       "_id": "0342a913",
       "_crawled": "2026-05-03T07:14:19.967176Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Comments about Nicola Willis' weight loss",
+      "reality": "Shane Jones apologised for the comments",
+      "source": "The Spinoff, 23 April 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "5e72426d",
+      "_crawled": "2026-05-23T07:27:12.523580Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Comments about Ngāti Ruanui",
+      "reality": "Ngāti Ruanui demanded an apology for the comments",
+      "source": "RNZ, May 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "98fb6930",
+      "_crawled": "2026-05-23T07:27:12.523580Z"
     }
   ],
   "social_posts": [],
@@ -363,13 +383,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' recent comments and actions have raised concerns about his integrity"
+    },
+    "2026-05-23T07:27:12.523580Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' comments about Nicola Willis and Ngāti Ruanui have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-11T08:21:17.699800Z",
-      "text": "Shane Jones has faced criticism for his comments about Nicola Willis' weight loss and his comparison of the India Free Trade agreement to a 'butter chicken tsunami'."
-    },
     {
       "date": "2026-05-12T07:39:08.342189Z",
       "text": "Shane Jones has faced criticism for his comments about Nicola Willis' weight loss and his 'butter chicken tsunami' comment, leading to an apology and a defence of his statement."
@@ -405,6 +426,10 @@
     {
       "date": "2026-05-22T08:18:42.227004Z",
       "text": "Shane Jones has faced criticism for his recent comments, including comparing the India FTA to a 'butter chicken tsunami' and making comments about Nicola Willis' weight loss"
+    },
+    {
+      "date": "2026-05-23T07:27:12.523580Z",
+      "text": "Shane Jones has faced criticism for his comments about Nicola Willis and Ngāti Ruanui, and has apologised for the former. He has also scrapped a plan to relax reef fish bycatch rules in the north."
     }
   ],
   "crawl_log": [
@@ -637,15 +662,14 @@
       "date": "2026-05-22T08:18:42.227004Z",
       "notes": "Shane Jones' recent events and comments have been added to the database",
       "new_items": true
+    },
+    {
+      "date": "2026-05-23T07:27:12.523580Z",
+      "notes": "Shane Jones' recent comments and actions have raised concerns about his integrity and judgment",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-29T07:16:15.448841Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-05-02T06:59:20.039947Z",
       "sources": [
@@ -783,7 +807,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-05-23T07:27:12.523809Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-22T08:18:42.227159Z"
+  "last_updated": "2026-05-23T07:27:12.523833Z"
 }

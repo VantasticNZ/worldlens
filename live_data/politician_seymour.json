@@ -465,16 +465,14 @@
       "date": "2026-05-22T08:18:12.204076Z",
       "notes": "New events and criticisms of David Seymour found",
       "new_items": true
+    },
+    {
+      "date": "2026-05-23T07:26:51.658523Z",
+      "notes": "New immigration policy announcement and criticism from RNZ board member",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-02T06:58:50.043419Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-05-03T07:14:10.598880Z",
       "sources": [
@@ -619,7 +617,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-23T07:26:51.658626Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-22T08:18:12.204193Z"
+  "last_updated": "2026-05-23T07:26:51.658652Z"
 }

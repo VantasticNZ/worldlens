@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-22T08:21:28.867508Z",
+  "generated": "2026-05-23T07:30:00.164205Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-05-22T08:21:27.866085Z",
-      "lie_count": 19,
+      "last_updated": "2026-05-23T07:29:59.162812Z",
+      "lie_count": 20,
       "event_count": 20,
       "post_count": 8,
       "vote_count": 0,
@@ -15,7 +15,7 @@
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-05-22T08:19:37.303706Z",
+      "last_updated": "2026-05-23T07:28:01.262625Z",
       "lie_count": 16,
       "event_count": 20,
       "post_count": 0,
@@ -28,7 +28,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-05-22T08:20:26.475258Z",
+      "last_updated": "2026-05-23T07:28:52.615382Z",
       "lie_count": 0,
       "event_count": 15,
       "post_count": 4,
@@ -41,7 +41,7 @@
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-05-22T08:19:57.513499Z",
+      "last_updated": "2026-05-23T07:28:23.708945Z",
       "lie_count": 2,
       "event_count": 20,
       "post_count": 1,
@@ -54,21 +54,22 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-05-22T08:21:09.025735Z",
+      "last_updated": "2026-05-23T07:29:43.783558Z",
       "lie_count": 0,
       "event_count": 19,
       "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
+          "GDELT global news database",
           "Tavily: Anthony Albanese contradiction fact chec",
           "Tavily: Anthony Albanese statement 2026"
         ]
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-05-22T08:18:42.227159Z",
-      "lie_count": 6,
+      "last_updated": "2026-05-23T07:27:12.523833Z",
+      "lie_count": 8,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
@@ -80,35 +81,35 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-05-22T08:19:11.122671Z",
+      "last_updated": "2026-05-23T07:27:31.263525Z",
       "lie_count": 11,
       "event_count": 20,
       "post_count": 12,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
+          "RSS (2 articles from NZ/intl media)",
           "Tavily: Nicola Willis finance minister contradic",
           "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-05-22T08:17:33.826285Z",
+      "last_updated": "2026-05-23T07:26:03.203119Z",
       "lie_count": 17,
       "event_count": 20,
       "post_count": 13,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-05-22T08:18:12.204193Z",
+      "last_updated": "2026-05-23T07:26:51.658652Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
@@ -121,7 +122,7 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-05-22T08:20:52.331044Z",
+      "last_updated": "2026-05-23T07:29:16.286186Z",
       "lie_count": 51,
       "event_count": 20,
       "post_count": 2,
@@ -129,21 +130,19 @@
       "sources": [
         [
           "RSS (3 articles from NZ/intl media)",
-          "GDELT global news database",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-05-22T08:17:52.758894Z",
+      "last_updated": "2026-05-23T07:26:26.598899Z",
       "lie_count": 17,
       "event_count": 20,
-      "post_count": 14,
+      "post_count": 15,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
           "Tavily: Winston Peters NZ First contradiction 20",
           "Tavily: Winston Peters tweet statement 2026"
         ]

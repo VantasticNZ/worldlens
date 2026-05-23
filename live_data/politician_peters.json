@@ -370,6 +370,20 @@
       },
       "_id": "4eac4d7e",
       "_crawled": "2026-05-16T07:11:14.262286Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "May 2026",
+      "text": "Regarding PM's social post",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Deleted tweet regarding PM's social post",
+        "source": "NZ Herald",
+        "severity": "low"
+      },
+      "_id": "4c509fdb",
+      "_crawled": "2026-05-23T07:26:26.598747Z"
     }
   ],
   "votes": [],
@@ -695,13 +709,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' inconsistent statements and actions have raised concerns about his integrity"
+    },
+    "2026-05-23T07:26:26.598747Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Repeated contradictory statements and actions"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-12T07:38:17.701123Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
-    },
     {
       "date": "2026-05-13T07:45:26.913038Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
@@ -737,6 +752,10 @@
     {
       "date": "2026-05-22T08:17:52.758768Z",
       "text": "Winston Peters continues to make statements on various topics, including coalition negotiations and foreign policy"
+    },
+    {
+      "date": "2026-05-23T07:26:26.598747Z",
+      "text": "Winston Peters' recent statements and actions continue to raise concerns about his integrity and consistency."
     }
   ],
   "crawl_log": [
@@ -984,17 +1003,14 @@
       "date": "2026-05-22T08:17:52.758768Z",
       "notes": "Reviewed RNZ News and NZ Herald articles, as well as The Spinoff and NZ Herald Tavily sources",
       "new_items": true
+    },
+    {
+      "date": "2026-05-23T07:26:26.598747Z",
+      "notes": "Multiple sources indicate ongoing contradictions and controversies surrounding Winston Peters",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-02T06:58:22.197077Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-03T07:13:59.503789Z",
       "sources": [
@@ -1140,7 +1156,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-23T07:26:26.598877Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-22T08:17:52.758894Z"
+  "last_updated": "2026-05-23T07:26:26.598899Z"
 }

@@ -503,13 +503,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The proposed social housing changes may have negative consequences for many households, which could impact the minister's integrity score"
+    },
+    "2026-05-23T07:28:01.262480Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The minister's statement about the current system being unfair and costly may be misleading, as the reform may have negative consequences for many households"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-12T07:39:46.874419Z",
-      "text": "Housing Minister Chris Bishop has made contradictory statements about the Auckland housing plan, and the government has reduced the planned housing capacity for Auckland"
-    },
     {
       "date": "2026-05-13T07:46:13.919807Z",
       "text": "Housing Minister Chris Bishop's claims of 'no actual change' in Auckland housing plans were contradicted by the reduction in the minimum potential number of additional homes built."
@@ -545,6 +546,10 @@
     {
       "date": "2026-05-22T08:19:37.303578Z",
       "text": "Housing Minister Chris Bishop announced a major social housing shake-up, which may have significant consequences for many households"
+    },
+    {
+      "date": "2026-05-23T07:28:01.262480Z",
+      "text": "Housing Minister Chris Bishop announced a major social housing overhaul, which may have significant consequences for many households"
     }
   ],
   "crawl_log": [
@@ -757,16 +762,14 @@
       "date": "2026-05-22T08:19:37.303578Z",
       "notes": "Multiple sources indicate a significant overhaul of social housing, with potential negative consequences for many households",
       "new_items": true
+    },
+    {
+      "date": "2026-05-23T07:28:01.262480Z",
+      "notes": "Minister's statements and actions may be contradictory, further review recommended",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-04-28T07:29:26.783285Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-05-02T07:00:22.095245Z",
       "sources": [
@@ -903,7 +906,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-23T07:28:01.262603Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-22T08:19:37.303706Z"
+  "last_updated": "2026-05-23T07:28:01.262625Z"
 }
