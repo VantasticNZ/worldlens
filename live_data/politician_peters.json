@@ -714,13 +714,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Repeated contradictory statements and actions"
+    },
+    "2026-05-24T07:46:04.461845Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' contradictory statements and actions have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-13T07:45:26.913038Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
-    },
     {
       "date": "2026-05-14T07:37:56.542140Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
@@ -756,14 +757,13 @@
     {
       "date": "2026-05-23T07:26:26.598747Z",
       "text": "Winston Peters' recent statements and actions continue to raise concerns about his integrity and consistency."
+    },
+    {
+      "date": "2026-05-24T07:46:04.461845Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-03-31T20:43:56.549522Z",
-      "notes": "Peters' social media activity and public statements require continued monitoring for potential discrepancies and misrepresentations.",
-      "new_items": true
-    },
     {
       "date": "2026-04-01T06:22:30.447541Z",
       "notes": "Peters' tweet on international health regulation changes and his statement on pronoun usage were found to be contradictory or misleading.",
@@ -1008,17 +1008,14 @@
       "date": "2026-05-23T07:26:26.598747Z",
       "notes": "Multiple sources indicate ongoing contradictions and controversies surrounding Winston Peters",
       "new_items": true
+    },
+    {
+      "date": "2026-05-24T07:46:04.461845Z",
+      "notes": "Peters' social media posts and public statements have been inconsistent and contradictory",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-03T07:13:59.503789Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-04T07:43:20.955779Z",
       "sources": [
@@ -1163,7 +1160,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-24T07:46:04.461968Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-23T07:26:26.598899Z"
+  "last_updated": "2026-05-24T07:46:04.461993Z"
 }

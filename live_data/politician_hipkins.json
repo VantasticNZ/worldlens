@@ -512,16 +512,14 @@
       "date": "2026-05-23T07:28:23.708835Z",
       "notes": "No significant new lies or social posts found, but new events related to Chris Hipkins' personal life and campaign focus.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-24T07:47:26.326803Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins and Labour Party",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-02T07:00:56.056247Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-03T07:14:58.008863Z",
       "sources": [
@@ -659,7 +657,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-24T07:47:26.326892Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-23T07:28:23.708945Z"
+  "last_updated": "2026-05-24T07:47:26.326915Z"
 }

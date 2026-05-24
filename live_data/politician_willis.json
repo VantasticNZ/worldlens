@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 11,
+  "lie_count": 12,
   "lies": [
     {
       "date": "February 2026",
@@ -112,6 +112,16 @@
       "platform": "press_release",
       "_id": "dea7dfe8",
       "_crawled": "2026-05-22T08:19:11.122544Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "People in social housing 'have won the Lotto'",
+      "reality": "This statement was widely criticized and Nicola Willis later expressed regret for using it",
+      "source": "NZ Herald, May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "803fccd1",
+      "_crawled": "2026-05-24T07:46:55.479241Z"
     }
   ],
   "social_posts": [
@@ -282,6 +292,20 @@
       },
       "_id": "302592c2",
       "_crawled": "2026-05-22T08:19:11.122544Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Nicola Willis announces nearly 9000 public sector jobs to go, government agencies to merge",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Previous statements emphasized the importance of public sector jobs",
+        "source": "RNZ News",
+        "severity": "med"
+      },
+      "_id": "8126644c",
+      "_crawled": "2026-05-24T07:46:55.479241Z"
     }
   ],
   "votes": [],
@@ -532,13 +556,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis' expression of regret over her social housing comment and the announcement of public service cuts may impact her integrity score"
+    },
+    "2026-05-24T07:46:55.479241Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Nicola Willis' expression of regret for her 'Lotto' comment and the criticism of her public sector cuts plan may impact her integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-12T07:39:27.173337Z",
-      "text": "Nicola Willis has been involved in several recent events, including accusing Labour of misleading New Zealanders and confirming her Budget 2026 spending plans."
-    },
     {
       "date": "2026-05-13T07:46:00.636472Z",
       "text": "Nicola Willis attributed reduced Budget savings to the fuel crisis and made a misleading statement about New Zealanders' expectations for a quick cost-of-living turnaround"
@@ -574,6 +599,10 @@
     {
       "date": "2026-05-23T07:27:31.263421Z",
       "text": "Nicola Willis announced significant public service cuts, sparking surprise and concern from Wellington Mayor Andrew Little."
+    },
+    {
+      "date": "2026-05-24T07:46:55.479241Z",
+      "text": "Nicola Willis faces criticism for her comments on social housing and her plan to cut public sector jobs"
     }
   ],
   "crawl_log": [
@@ -801,16 +830,14 @@
       "date": "2026-05-23T07:27:31.263421Z",
       "notes": "Reviewed RNZ News and Tavily sources for updates on Nicola Willis' recent activities and statements.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-24T07:46:55.479241Z",
+      "notes": "Reviewed RNZ News and NZ Herald articles for updates on Nicola Willis",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-02T06:59:48.387274Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-03T07:14:34.939376Z",
       "sources": [
@@ -953,7 +980,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-24T07:46:55.479346Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-23T07:27:31.263525Z"
+  "last_updated": "2026-05-24T07:46:55.479364Z"
 }

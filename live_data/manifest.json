@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-23T07:30:00.164205Z",
+  "generated": "2026-05-24T07:48:47.794638Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-05-23T07:29:59.162812Z",
-      "lie_count": 20,
+      "last_updated": "2026-05-24T07:48:46.793231Z",
+      "lie_count": 21,
       "event_count": 20,
       "post_count": 8,
       "vote_count": 0,
@@ -15,7 +15,7 @@
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-05-23T07:28:01.262625Z",
+      "last_updated": "2026-05-24T07:47:11.471520Z",
       "lie_count": 16,
       "event_count": 20,
       "post_count": 0,
@@ -28,7 +28,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-05-23T07:28:52.615382Z",
+      "last_updated": "2026-05-24T07:47:43.292723Z",
       "lie_count": 0,
       "event_count": 15,
       "post_count": 4,
@@ -41,7 +41,7 @@
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-05-23T07:28:23.708945Z",
+      "last_updated": "2026-05-24T07:47:26.326915Z",
       "lie_count": 2,
       "event_count": 20,
       "post_count": 1,
@@ -54,21 +54,20 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-05-23T07:29:43.783558Z",
+      "last_updated": "2026-05-24T07:48:33.483588Z",
       "lie_count": 0,
       "event_count": 19,
       "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
-          "GDELT global news database",
           "Tavily: Anthony Albanese contradiction fact chec",
           "Tavily: Anthony Albanese statement 2026"
         ]
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-05-23T07:27:12.523833Z",
+      "last_updated": "2026-05-24T07:46:37.838573Z",
       "lie_count": 8,
       "event_count": 20,
       "post_count": 0,
@@ -81,21 +80,21 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-05-23T07:27:31.263525Z",
-      "lie_count": 11,
+      "last_updated": "2026-05-24T07:46:55.479364Z",
+      "lie_count": 12,
       "event_count": 20,
-      "post_count": 12,
+      "post_count": 13,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Nicola Willis finance minister contradic",
           "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-05-23T07:26:03.203119Z",
+      "last_updated": "2026-05-24T07:45:48.868105Z",
       "lie_count": 17,
       "event_count": 20,
       "post_count": 13,
@@ -109,34 +108,36 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-05-23T07:26:51.658652Z",
+      "last_updated": "2026-05-24T07:46:23.969900Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: David Seymour ACT contradiction fact che",
           "Tavily: David Seymour statement 2026"
         ]
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-05-23T07:29:16.286186Z",
+      "last_updated": "2026-05-24T07:48:19.788540Z",
       "lie_count": 51,
       "event_count": 20,
       "post_count": 2,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (3 articles from NZ/intl media)",
+          "RSS (4 articles from NZ/intl media)",
+          "GDELT global news database",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-05-23T07:26:26.598899Z",
+      "last_updated": "2026-05-24T07:46:04.461993Z",
       "lie_count": 17,
       "event_count": 20,
       "post_count": 15,

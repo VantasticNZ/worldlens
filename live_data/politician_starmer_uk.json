@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 20,
+  "lie_count": 21,
   "lies": [
     {
       "date": "2026",
@@ -202,6 +202,16 @@
       "platform": "speech",
       "_id": "3d432210",
       "_crawled": "2026-05-23T07:29:59.162591Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "people will begin to feel positive change in your bills, your communities and your health service",
+      "reality": "no evidence of positive change",
+      "source": "BBC, May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "a73f822f",
+      "_crawled": "2026-05-24T07:48:46.793073Z"
     }
   ],
   "social_posts": [
@@ -631,13 +641,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "repeated claims of positive change without evidence"
+    },
+    "2026-05-24T07:48:46.793073Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Repeated claims of improvement without evidence"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-11T08:23:44.017363Z",
-      "text": "Keir Starmer's leadership is under scrutiny after poor election results and contradictory statements on EU relations"
-    },
     {
       "date": "2026-05-12T07:41:46.591190Z",
       "text": "Keir Starmer faces leadership crisis and contradicts previous statements, raising integrity concerns"
@@ -672,6 +683,10 @@
     },
     {
       "date": "2026-05-23T07:29:59.162591Z",
+      "text": "Keir Starmer faces leadership challenge and criticism for broken promises"
+    },
+    {
+      "date": "2026-05-24T07:48:46.793073Z",
       "text": "Keir Starmer faces leadership challenge and criticism for broken promises"
     }
   ],
@@ -880,16 +895,14 @@
       "date": "2026-05-23T07:29:59.162591Z",
       "notes": "multiple sources indicate leadership challenge and criticism of Starmer's promises",
       "new_items": true
+    },
+    {
+      "date": "2026-05-24T07:48:46.793073Z",
+      "notes": "Multiple sources indicate a decline in Starmer's integrity and leadership",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-02T07:03:11.399748Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-04T07:45:02.417909Z",
       "sources": [
@@ -1028,7 +1041,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-24T07:48:46.793213Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-23T07:29:59.162812Z"
+  "last_updated": "2026-05-24T07:48:46.793231Z"
 }

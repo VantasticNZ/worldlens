@@ -392,10 +392,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-12T07:39:08.342189Z",
-      "text": "Shane Jones has faced criticism for his comments about Nicola Willis' weight loss and his 'butter chicken tsunami' comment, leading to an apology and a defence of his statement."
-    },
-    {
       "date": "2026-05-14T07:38:34.226098Z",
       "text": "Shane Jones apologised for his comments on Nicola Willis' weight loss, raising concerns about his integrity"
     },
@@ -430,6 +426,10 @@
     {
       "date": "2026-05-23T07:27:12.523580Z",
       "text": "Shane Jones has faced criticism for his comments about Nicola Willis and Ngāti Ruanui, and has apologised for the former. He has also scrapped a plan to relax reef fish bycatch rules in the north."
+    },
+    {
+      "date": "2026-05-24T07:46:37.838462Z",
+      "text": "Shane Jones faced criticism for his comments on the India FTA and Nicola Willis' weight loss, and apologised for the latter"
     }
   ],
   "crawl_log": [
@@ -667,16 +667,14 @@
       "date": "2026-05-23T07:27:12.523580Z",
       "notes": "Shane Jones' recent comments and actions have raised concerns about his integrity and judgment",
       "new_items": true
+    },
+    {
+      "date": "2026-05-24T07:46:37.838462Z",
+      "notes": "No significant new lies or social posts found, but new events and summary update added",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-02T06:59:20.039947Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-05-03T07:14:19.967299Z",
       "sources": [
@@ -814,7 +812,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-05-24T07:46:37.838550Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-23T07:27:12.523833Z"
+  "last_updated": "2026-05-24T07:46:37.838573Z"
 }

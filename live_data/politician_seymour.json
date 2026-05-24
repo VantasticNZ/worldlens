@@ -470,16 +470,14 @@
       "date": "2026-05-23T07:26:51.658523Z",
       "notes": "New immigration policy announcement and criticism from RNZ board member",
       "new_items": true
+    },
+    {
+      "date": "2026-05-24T07:46:23.969790Z",
+      "notes": "New events and policy announcements found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-03T07:14:10.598880Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-05-04T07:43:30.025746Z",
       "sources": [
@@ -624,7 +622,15 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-24T07:46:23.969876Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-23T07:26:51.658652Z"
+  "last_updated": "2026-05-24T07:46:23.969900Z"
 }
