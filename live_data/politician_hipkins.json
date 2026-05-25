@@ -517,16 +517,14 @@
       "date": "2026-05-24T07:47:26.326803Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins and Labour Party",
       "new_items": true
+    },
+    {
+      "date": "2026-05-25T08:53:06.138350Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins' statements and approach to election 2026",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-03T07:14:58.008863Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-05T07:14:07.666211Z",
       "sources": [
@@ -664,7 +662,15 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-25T08:53:06.138458Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-24T07:47:26.326915Z"
+  "last_updated": "2026-05-25T08:53:06.138477Z"
 }

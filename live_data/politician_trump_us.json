@@ -1162,17 +1162,14 @@
       "date": "2026-05-24T07:48:19.788380Z",
       "notes": "Multiple sources confirm Trump's lies and contradictory statements, including PolitiFact and BBC World",
       "new_items": true
+    },
+    {
+      "date": "2026-05-25T08:53:36.520987Z",
+      "notes": "New events and developments related to Trump's activities and policies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-04T07:44:43.368541Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-05T07:14:33.233056Z",
       "sources": [
@@ -1332,7 +1329,14 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-25T08:53:36.521190Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-05-24T07:48:19.788540Z"
+  "last_updated": "2026-05-25T08:53:36.521211Z"
 }

@@ -565,10 +565,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-13T07:46:00.636472Z",
-      "text": "Nicola Willis attributed reduced Budget savings to the fuel crisis and made a misleading statement about New Zealanders' expectations for a quick cost-of-living turnaround"
-    },
-    {
       "date": "2026-05-14T07:38:53.666512Z",
       "text": "Nicola Willis faces criticism for her handling of the economy and contradictory statements about NZ's fiscal outlook"
     },
@@ -603,6 +599,10 @@
     {
       "date": "2026-05-24T07:46:55.479241Z",
       "text": "Nicola Willis faces criticism for her comments on social housing and her plan to cut public sector jobs"
+    },
+    {
+      "date": "2026-05-25T08:52:12.412735Z",
+      "text": "Nicola Willis faced criticism and controversy over her comments on social housing and her handling of New Zealand's economy."
     }
   ],
   "crawl_log": [
@@ -835,16 +835,14 @@
       "date": "2026-05-24T07:46:55.479241Z",
       "notes": "Reviewed RNZ News and NZ Herald articles for updates on Nicola Willis",
       "new_items": true
+    },
+    {
+      "date": "2026-05-25T08:52:12.412735Z",
+      "notes": "Multiple sources reported on Nicola Willis' recent statements and actions, including her apology for a social housing comment and her announcement of public service cuts.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-03T07:14:34.939376Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-04T07:43:53.389771Z",
       "sources": [
@@ -988,7 +986,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-25T08:52:12.412868Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-24T07:46:55.479364Z"
+  "last_updated": "2026-05-25T08:52:12.412886Z"
 }

@@ -475,17 +475,14 @@
       "date": "2026-05-24T07:46:23.969790Z",
       "notes": "New events and policy announcements found",
       "new_items": true
+    },
+    {
+      "date": "2026-05-25T08:51:21.020963Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-04T07:43:30.025746Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-05-05T07:13:19.083374Z",
       "sources": [
@@ -630,7 +627,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-25T08:51:21.020976Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-24T07:46:23.969900Z"
+  "last_updated": "2026-05-25T08:51:21.021003Z"
 }

@@ -900,17 +900,14 @@
       "date": "2026-05-24T07:48:46.793073Z",
       "notes": "Multiple sources indicate a decline in Starmer's integrity and leadership",
       "new_items": true
+    },
+    {
+      "date": "2026-05-25T08:54:09.611451Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-04T07:45:02.417909Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-05T07:14:55.785632Z",
       "sources": [
@@ -1048,7 +1045,13 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-05-25T08:54:09.611466Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-05-24T07:48:46.793231Z"
+  "last_updated": "2026-05-25T08:54:09.611485Z"
 }

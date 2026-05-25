@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 17,
+  "lie_count": 18,
   "lies": [
     {
       "date": "2026",
@@ -172,6 +172,16 @@
       "platform": "press_release",
       "_id": "1dd52c52",
       "_crawled": "2026-05-21T08:27:21.523156Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Ministerial Services need to be 'fully aware of their obligations'",
+      "reality": "No specific obligations mentioned",
+      "source": "RNZ News, May 2026",
+      "severity": "low",
+      "platform": "speech",
+      "_id": "3998a109",
+      "_crawled": "2026-05-25T08:50:48.030670Z"
     }
   ],
   "social_posts": [
@@ -356,6 +366,20 @@
       },
       "_id": "1636028d",
       "_crawled": "2026-05-18T08:40:27.219529Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "May 2026",
+      "text": "No 'lolly scramble' from 'grown-up' Budget",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Previous statements suggested a more generous budget",
+        "source": "RNZ News, May 2026",
+        "severity": "med"
+      },
+      "_id": "d7acfbb0",
+      "_crawled": "2026-05-25T08:50:48.030670Z"
     }
   ],
   "votes": [
@@ -721,10 +745,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-14T07:37:33.974614Z",
-      "text": "Luxon's contradictory statements and actions have raised concerns about his integrity and leadership"
-    },
-    {
       "date": "2026-05-16T07:10:49.966449Z",
       "text": "Luxon's coalition is fracturing over climate policy, and he has been accused of dishonesty over his sports fandom"
     },
@@ -759,14 +779,13 @@
     {
       "date": "2026-05-24T07:45:48.867988Z",
       "text": "Christopher Luxon survived a leadership vote and made statements on various topics, including his support for the Crusaders and his views on global issues"
+    },
+    {
+      "date": "2026-05-25T08:50:48.030670Z",
+      "text": "Luxon survives party leadership vote and announces Budget 2026"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-03T06:07:39.693179Z",
-      "notes": "Reshuffle and trade deal discrepancies noted",
-      "new_items": true
-    },
     {
       "date": "2026-04-04T05:50:51.941060Z",
       "notes": "Multiple sources indicate Luxon's inconsistencies and controversies, affecting his integrity score",
@@ -1011,17 +1030,14 @@
       "date": "2026-05-24T07:45:48.867988Z",
       "notes": "Reviewed articles from The Spinoff, The Guardian, and other sources",
       "new_items": true
+    },
+    {
+      "date": "2026-05-25T08:50:48.030670Z",
+      "notes": "RNZ News and AP News articles reviewed",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-04T07:43:10.635885Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-05T07:12:55.098184Z",
       "sources": [
@@ -1174,7 +1190,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-25T08:50:48.030805Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-24T07:45:48.868105Z"
+  "last_updated": "2026-05-25T08:50:48.030829Z"
 }
