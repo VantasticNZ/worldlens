@@ -1167,18 +1167,14 @@
       "date": "2026-05-25T08:53:36.520987Z",
       "notes": "New events and developments related to Trump's activities and policies",
       "new_items": true
+    },
+    {
+      "date": "2026-05-26T08:29:21.480113Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-05T07:14:33.233056Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-06T07:35:13.721366Z",
       "sources": [
@@ -1336,7 +1332,13 @@
         "RSS (4 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-05-26T08:29:21.480126Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-05-25T08:53:36.521211Z"
+  "last_updated": "2026-05-26T08:29:21.480145Z"
 }

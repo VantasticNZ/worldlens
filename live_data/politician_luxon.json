@@ -787,11 +787,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-04T05:50:51.941060Z",
-      "notes": "Multiple sources indicate Luxon's inconsistencies and controversies, affecting his integrity score",
-      "new_items": true
-    },
-    {
       "date": "2026-04-05T06:09:37.364791Z",
       "notes": "Multiple sources reported on Luxon's Cabinet reshuffle and matai title controversy, but no new lies or social posts were found.",
       "new_items": true
@@ -1035,17 +1030,14 @@
       "date": "2026-05-25T08:50:48.030670Z",
       "notes": "RNZ News and AP News articles reviewed",
       "new_items": true
+    },
+    {
+      "date": "2026-05-26T08:26:55.492016Z",
+      "notes": "Staffer who received climate lobbying document reportedly left their position",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-05T07:12:55.098184Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-06T07:32:24.625914Z",
       "sources": [
@@ -1198,7 +1190,13 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-05-26T08:26:55.492075Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-05-25T08:50:48.030829Z"
+  "last_updated": "2026-05-26T08:26:55.492096Z"
 }

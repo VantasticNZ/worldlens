@@ -787,6 +787,11 @@
       "date": "2026-05-25T08:52:36.143206Z",
       "notes": "Minister's statements and actions on social housing reform may be contradictory and misleading",
       "new_items": true
+    },
+    {
+      "date": "2026-05-26T08:28:36.396232Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -935,5 +940,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-25T08:52:36.143324Z"
+  "last_updated": "2026-05-26T08:28:36.396273Z"
 }

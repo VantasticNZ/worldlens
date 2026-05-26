@@ -522,6 +522,11 @@
       "date": "2026-05-25T08:53:06.138350Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins' statements and approach to election 2026",
       "new_items": true
+    },
+    {
+      "date": "2026-05-26T08:28:48.705882Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -672,5 +677,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-25T08:53:06.138477Z"
+  "last_updated": "2026-05-26T08:28:48.705926Z"
 }
