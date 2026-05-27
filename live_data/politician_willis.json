@@ -845,16 +845,14 @@
       "date": "2026-05-26T08:28:20.735467Z",
       "notes": "No significant new lies, social posts, or votes found",
       "new_items": true
+    },
+    {
+      "date": "2026-05-27T08:35:21.299635Z",
+      "notes": "No significant new findings, only neutral and negative events related to budget and climate policy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-06T07:33:58.095544Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-07T07:39:17.560869Z",
       "sources": [
@@ -998,7 +996,13 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-27T08:35:21.299735Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-05-26T08:28:20.735583Z"
+  "last_updated": "2026-05-27T08:35:21.299753Z"
 }

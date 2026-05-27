@@ -770,11 +770,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-03T06:08:09.901717Z",
-      "notes": "Peters' recent statements and events reviewed, no significant new lies or contradictions found",
-      "new_items": false
-    },
-    {
       "date": "2026-04-04T05:51:11.427368Z",
       "notes": "Peters' statements and actions continue to be a subject of controversy and scrutiny",
       "new_items": true
@@ -1018,16 +1013,14 @@
       "date": "2026-05-26T08:27:13.068572Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-05-27T08:34:41.082032Z",
+      "notes": "New events added regarding Winston Peters' discussions with Iran Foreign Minister and comments on Official Cash Rate",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-06T07:32:48.483562Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-07T07:38:16.523817Z",
       "sources": [
@@ -1171,7 +1164,13 @@
         "RSS (1 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-05-27T08:34:41.082133Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-05-26T08:27:13.068612Z"
+  "last_updated": "2026-05-27T08:34:41.082153Z"
 }

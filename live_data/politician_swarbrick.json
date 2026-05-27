@@ -1,8 +1,19 @@
 {
   "id": "swarbrick",
   "type": "politician",
-  "lie_count": 0,
-  "lies": [],
+  "lie_count": 1,
+  "lies": [
+    {
+      "date": "May 2026",
+      "claim": "Failed climate policies created $1.4b hole",
+      "reality": "Claim rejected by Nicola Willis",
+      "source": "RNZ News",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "4dd1c149",
+      "_crawled": "2026-05-27T08:36:05.244807Z"
+    }
+  ],
   "social_posts": [
     {
       "platform": "press",
@@ -177,9 +188,24 @@
       "source": "www.greens.org.nz",
       "_id": "99552729",
       "_crawled": "2026-05-12T07:40:36.431306Z"
+    },
+    {
+      "year": 2026,
+      "title": "Climate policy dispute",
+      "desc": "Nicola Willis rejects Chloe Swarbrick's claim on failed climate policies",
+      "type": "negative",
+      "source": "RNZ News",
+      "_id": "7a0c55eb",
+      "_crawled": "2026-05-27T08:36:05.244807Z"
     }
   ],
-  "score_adjustments": {},
+  "score_adjustments": {
+    "2026-05-27T08:36:05.244807Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Claim rejected by Nicola Willis, potentially indicating a lack of transparency or accuracy"
+    }
+  },
   "summary_updates": [
     {
       "date": "2026-04-15T06:29:16.822585Z",
@@ -188,6 +214,10 @@
     {
       "date": "2026-04-17T06:31:27.701704Z",
       "text": "Chloe Swarbrick and the Green Party continue to advocate for solutions to homelessness and the housing crisis, while criticizing the government's approach."
+    },
+    {
+      "date": "2026-05-27T08:36:05.244807Z",
+      "text": "Chloe Swarbrick's claim on failed climate policies was rejected by Nicola Willis, potentially impacting her integrity score"
     }
   ],
   "crawl_log": [
@@ -420,16 +450,14 @@
       "date": "2026-05-26T08:29:07.359434Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-05-27T08:36:05.244807Z",
+      "notes": "Claim rejection by Nicola Willis may indicate a discrepancy in Chloe Swarbrick's statement",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-04T07:44:34.131529Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-05-05T07:14:16.909945Z",
       "sources": [
@@ -563,7 +591,13 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-05-27T08:36:05.244910Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-05-26T08:29:07.359480Z"
+  "last_updated": "2026-05-27T08:36:05.244934Z"
 }

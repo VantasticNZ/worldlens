@@ -1035,6 +1035,11 @@
       "date": "2026-05-26T08:26:55.492016Z",
       "notes": "Staffer who received climate lobbying document reportedly left their position",
       "new_items": true
+    },
+    {
+      "date": "2026-05-27T08:34:27.316410Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1198,5 +1203,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-26T08:26:55.492096Z"
+  "last_updated": "2026-05-27T08:34:27.316460Z"
 }
