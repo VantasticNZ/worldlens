@@ -232,11 +232,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-02T06:08:04.801959Z",
-      "notes": "New events and announcements from David Seymour",
-      "new_items": true
-    },
-    {
       "date": "2026-04-03T06:08:35.330598Z",
       "notes": "No significant new lies, social posts, or votes found",
       "new_items": true
@@ -480,16 +475,14 @@
       "date": "2026-05-27T08:34:53.434849Z",
       "notes": "Two new events related to David Seymour's statements and actions",
       "new_items": true
+    },
+    {
+      "date": "2026-05-28T08:38:23.738430Z",
+      "notes": "Article from RNZ NZ regarding David Seymour's comment on state schools",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-06T07:33:14.337235Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-05-07T07:38:36.658264Z",
       "sources": [
@@ -632,7 +625,13 @@
       "sources": [
         "RSS (3 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-28T08:38:23.738499Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-05-27T08:34:53.435005Z"
+  "last_updated": "2026-05-28T08:38:23.738525Z"
 }

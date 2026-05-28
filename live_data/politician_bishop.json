@@ -797,16 +797,14 @@
       "date": "2026-05-27T08:35:34.371040Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-05-28T08:39:22.676281Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-04T07:44:10.268710Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-06T07:34:16.688762Z",
       "sources": [
@@ -943,7 +941,13 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-28T08:39:22.676297Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-05-27T08:35:34.371081Z"
+  "last_updated": "2026-05-28T08:39:22.676319Z"
 }

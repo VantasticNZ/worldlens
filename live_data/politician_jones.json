@@ -692,6 +692,11 @@
       "date": "2026-05-27T08:35:07.623875Z",
       "notes": "Article from Newsroom highlights Jones' controversial comments, but no specific quotes or claims could be verified as lies.",
       "new_items": true
+    },
+    {
+      "date": "2026-05-28T08:38:53.798154Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -840,5 +845,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-27T08:35:07.623975Z"
+  "last_updated": "2026-05-28T08:38:53.798206Z"
 }

@@ -197,6 +197,15 @@
       "source": "RNZ News",
       "_id": "7a0c55eb",
       "_crawled": "2026-05-27T08:36:05.244807Z"
+    },
+    {
+      "year": 2026,
+      "title": "Greens call for high-level powers to help fight climate change",
+      "desc": "Chlöe Swarbrick revisits ‘Okay boomer’ speech as Greens push for climate action",
+      "type": "positive",
+      "source": "NZ Herald",
+      "_id": "d0819f1e",
+      "_crawled": "2026-05-28T08:40:06.727248Z"
     }
   ],
   "score_adjustments": {
@@ -455,17 +464,14 @@
       "date": "2026-05-27T08:36:05.244807Z",
       "notes": "Claim rejection by Nicola Willis may indicate a discrepancy in Chloe Swarbrick's statement",
       "new_items": true
+    },
+    {
+      "date": "2026-05-28T08:40:06.727248Z",
+      "notes": "Article discusses Greens' climate change initiatives and Chlöe Swarbrick's revisitation of 'Okay boomer' speech",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-05T07:14:16.909945Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-05-06T07:34:55.910424Z",
       "sources": [
@@ -597,7 +603,13 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-28T08:40:06.727312Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-05-27T08:36:05.244934Z"
+  "last_updated": "2026-05-28T08:40:06.727335Z"
 }

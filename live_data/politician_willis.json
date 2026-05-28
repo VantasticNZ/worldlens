@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 12,
+  "lie_count": 13,
   "lies": [
     {
       "date": "February 2026",
@@ -122,6 +122,16 @@
       "platform": "speech",
       "_id": "803fccd1",
       "_crawled": "2026-05-24T07:46:55.479241Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Nicola Willis' superannuation comments",
+      "reality": "Winston Peters calls them an 'unfortunate mistake'",
+      "source": "RNZ News, 28 May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "2801e865",
+      "_crawled": "2026-05-28T08:39:08.031916Z"
     }
   ],
   "social_posts": [
@@ -561,13 +571,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis' expression of regret for her 'Lotto' comment and the criticism of her public sector cuts plan may impact her integrity score"
+    },
+    "2026-05-28T08:39:08.031916Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Nicola Willis' superannuation comments were called an 'unfortunate mistake' by Winston Peters, affecting her integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-14T07:38:53.666512Z",
-      "text": "Nicola Willis faces criticism for her handling of the economy and contradictory statements about NZ's fiscal outlook"
-    },
     {
       "date": "2026-05-17T07:30:48.695324Z",
       "text": "Nicola Willis' handling of the economy and contradictory statements have raised concerns about her integrity"
@@ -603,6 +614,10 @@
     {
       "date": "2026-05-25T08:52:12.412735Z",
       "text": "Nicola Willis faced criticism and controversy over her comments on social housing and her handling of New Zealand's economy."
+    },
+    {
+      "date": "2026-05-28T08:39:08.031916Z",
+      "text": "Nicola Willis delivers Budget 2026, but faces criticism for her superannuation comments"
     }
   ],
   "crawl_log": [
@@ -850,16 +865,14 @@
       "date": "2026-05-27T08:35:21.299635Z",
       "notes": "No significant new findings, only neutral and negative events related to budget and climate policy",
       "new_items": true
+    },
+    {
+      "date": "2026-05-28T08:39:08.031916Z",
+      "notes": "Reviewed 8 articles from RNZ News, Newsroom, and NZ Herald",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-07T07:39:17.560869Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-08T06:29:58.147670Z",
       "sources": [
@@ -1002,7 +1015,13 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-28T08:39:08.032016Z",
+      "sources": [
+        "RSS (8 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-05-27T08:35:21.299753Z"
+  "last_updated": "2026-05-28T08:39:08.032037Z"
 }

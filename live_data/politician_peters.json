@@ -770,11 +770,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-04T05:51:11.427368Z",
-      "notes": "Peters' statements and actions continue to be a subject of controversy and scrutiny",
-      "new_items": true
-    },
-    {
       "date": "2026-04-05T06:09:46.601298Z",
       "notes": "Peters' social media activity and public statements have been inconsistent and sometimes misleading, warranting further monitoring",
       "new_items": true
@@ -1018,16 +1013,14 @@
       "date": "2026-05-27T08:34:41.082032Z",
       "notes": "New events added regarding Winston Peters' discussions with Iran Foreign Minister and comments on Official Cash Rate",
       "new_items": true
+    },
+    {
+      "date": "2026-05-28T08:38:09.912265Z",
+      "notes": "Brief mention of Winston Peters' reaction to Budget 2026",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-07T07:38:16.523817Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-08T06:28:44.538715Z",
       "sources": [
@@ -1170,7 +1163,13 @@
       "sources": [
         "RSS (3 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-28T08:38:09.912339Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-05-27T08:34:41.082153Z"
+  "last_updated": "2026-05-28T08:38:09.912362Z"
 }
