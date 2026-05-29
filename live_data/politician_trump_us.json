@@ -1182,17 +1182,14 @@
       "date": "2026-05-28T08:40:26.922129Z",
       "notes": "BBC World RSS feed analyzed, one new event found related to Trump-backed challenger winning Texas primary",
       "new_items": true
+    },
+    {
+      "date": "2026-05-29T08:38:56.062185Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-08T06:31:45.981030Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-09T07:04:48.770692Z",
       "sources": [
@@ -1342,7 +1339,14 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-29T08:38:56.062199Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-05-28T08:40:26.922216Z"
+  "last_updated": "2026-05-29T08:38:56.062218Z"
 }

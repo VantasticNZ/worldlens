@@ -457,17 +457,14 @@
       "date": "2026-05-28T08:40:36.133236Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-05-29T08:39:06.041401Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-04T07:44:52.100399Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-05-05T07:14:44.605169Z",
       "sources": [
@@ -604,7 +601,13 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-05-29T08:39:06.041417Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-05-28T08:40:36.133281Z"
+  "last_updated": "2026-05-29T08:39:06.041438Z"
 }

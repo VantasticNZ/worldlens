@@ -622,11 +622,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-01T06:23:00.242126Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-04-02T06:08:57.217525Z",
       "notes": "No significant new lies or social posts found.",
       "new_items": true
@@ -870,17 +865,14 @@
       "date": "2026-05-28T08:39:08.031916Z",
       "notes": "Reviewed 8 articles from RNZ News, Newsroom, and NZ Herald",
       "new_items": true
+    },
+    {
+      "date": "2026-05-29T08:38:12.151348Z",
+      "notes": "No significant new findings, only a neutral event related to the Budget speech",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-08T06:29:58.147670Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-09T07:03:58.674670Z",
       "sources": [
@@ -1021,7 +1013,13 @@
       "sources": [
         "RSS (8 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-29T08:38:12.151419Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-05-28T08:39:08.032037Z"
+  "last_updated": "2026-05-29T08:38:12.151439Z"
 }

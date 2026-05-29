@@ -1018,6 +1018,11 @@
       "date": "2026-05-28T08:38:09.912265Z",
       "notes": "Brief mention of Winston Peters' reaction to Budget 2026",
       "new_items": true
+    },
+    {
+      "date": "2026-05-29T08:37:37.347433Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1171,5 +1176,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-28T08:38:09.912362Z"
+  "last_updated": "2026-05-29T08:37:37.347483Z"
 }
