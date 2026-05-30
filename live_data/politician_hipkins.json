@@ -279,26 +279,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-03-31T20:46:36.427893Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-04-01T06:23:27.396299Z",
-      "notes": "No significant new findings on lies, social posts, or votes.",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-02T06:10:03.641471Z",
-      "notes": "No significant lies, social posts, or votes found",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-03T06:10:15.599837Z",
-      "notes": "No significant new lies or social posts found, but new events and summary update",
-      "new_items": true
-    },
-    {
       "date": "2026-04-04T05:51:55.049137Z",
       "notes": "New events and criticisms of Chris Hipkins added",
       "new_items": true
@@ -542,18 +522,14 @@
       "date": "2026-05-29T08:38:35.478062Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-05-30T07:36:59.917724Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-05T07:14:07.666211Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-06T07:34:42.046170Z",
       "sources": [
@@ -690,7 +666,13 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-05-30T07:36:59.917739Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-05-29T08:38:35.478104Z"
+  "last_updated": "2026-05-30T07:36:59.917759Z"
 }

@@ -622,11 +622,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-02T06:08:57.217525Z",
-      "notes": "No significant new lies or social posts found.",
-      "new_items": true
-    },
-    {
       "date": "2026-04-04T05:51:37.790424Z",
       "notes": "Reviewed Tavily sources for Nicola Willis, found new events related to 2026 budget plans and fuel crisis package",
       "new_items": true
@@ -870,17 +865,14 @@
       "date": "2026-05-29T08:38:12.151348Z",
       "notes": "No significant new findings, only a neutral event related to the Budget speech",
       "new_items": true
+    },
+    {
+      "date": "2026-05-30T07:36:13.849795Z",
+      "notes": "No significant new findings, only a neutral event related to the Budget speech",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-09T07:03:58.674670Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-10T07:22:44.093863Z",
       "sources": [
@@ -1019,7 +1011,13 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-30T07:36:13.849878Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-05-29T08:38:12.151439Z"
+  "last_updated": "2026-05-30T07:36:13.849902Z"
 }
