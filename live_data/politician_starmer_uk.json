@@ -930,16 +930,14 @@
       "date": "2026-05-30T07:38:06.581647Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-05-31T08:11:21.291398Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-07T07:41:57.946518Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-08T06:32:28.766614Z",
       "sources": [
@@ -1074,7 +1072,13 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-05-31T08:11:21.291411Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-05-30T07:38:06.581689Z"
+  "last_updated": "2026-05-31T08:11:21.291428Z"
 }

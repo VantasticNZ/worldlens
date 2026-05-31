@@ -870,6 +870,11 @@
       "date": "2026-05-30T07:36:13.849795Z",
       "notes": "No significant new findings, only a neutral event related to the Budget speech",
       "new_items": true
+    },
+    {
+      "date": "2026-05-31T08:09:56.741506Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1019,5 +1024,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-30T07:36:13.849902Z"
+  "last_updated": "2026-05-31T08:09:56.741548Z"
 }

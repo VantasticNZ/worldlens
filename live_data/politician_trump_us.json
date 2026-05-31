@@ -1192,17 +1192,14 @@
       "date": "2026-05-30T07:37:45.256825Z",
       "notes": "BBC World RSS feed analyzed, no new lies or social posts found",
       "new_items": true
+    },
+    {
+      "date": "2026-05-31T08:10:54.143580Z",
+      "notes": "New events and updates related to Trump's activities and statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-10T07:23:26.926968Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-11T08:22:58.512062Z",
       "sources": [
@@ -1348,7 +1345,14 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-05-31T08:10:54.143746Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-05-30T07:37:45.256917Z"
+  "last_updated": "2026-05-31T08:10:54.143765Z"
 }
