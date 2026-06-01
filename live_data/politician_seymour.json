@@ -187,12 +187,14 @@
       "_crawled": "2026-04-20T07:11:49.223901Z"
     }
   ],
-  "score_adjustments": {},
+  "score_adjustments": {
+    "2026-06-01T10:11:59.117675Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "David Seymour's behavior and comments have raised concerns about his integrity."
+    }
+  },
   "summary_updates": [
-    {
-      "date": "2026-05-02T06:58:50.043336Z",
-      "text": "David Seymour had a notable interaction at Waitangi and proposed an investment plan for year 11 students"
-    },
     {
       "date": "2026-05-05T07:13:19.083294Z",
       "text": "David Seymour faces criticism for his immigration policy announcement, with some arguing it will harm businesses and farmers."
@@ -228,29 +230,13 @@
     {
       "date": "2026-05-21T08:28:12.120158Z",
       "text": "David Seymour faces criticism from an RNZ board member and prepares to reignite the Treaty principles debate."
+    },
+    {
+      "date": "2026-06-01T10:11:59.117675Z",
+      "text": "David Seymour has been involved in several controversies, including being booted from the House and making criticized comments about RNZ."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-03T06:08:35.330598Z",
-      "notes": "No significant new lies, social posts, or votes found",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-04T05:51:20.872109Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-04-05T06:09:58.813508Z",
-      "notes": "Added new events from ACT New Zealand website",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-06T06:26:12.051076Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-07T06:15:19.377487Z",
       "notes": "New events and statements from David Seymour and ACT party found",
@@ -495,17 +481,14 @@
       "date": "2026-05-31T08:09:31.905012Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-01T10:11:59.117675Z",
+      "notes": "David Seymour's recent activities have been marked by controversy and criticism.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-07T07:38:36.658264Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-05-08T06:29:07.796991Z",
       "sources": [
@@ -646,7 +629,14 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-01T10:11:59.117790Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-31T08:09:31.905056Z"
+  "last_updated": "2026-06-01T10:11:59.117813Z"
 }

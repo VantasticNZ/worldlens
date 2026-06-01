@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 16,
+  "lie_count": 17,
   "lies": [
     {
       "date": "April 2026",
@@ -162,6 +162,16 @@
       "platform": "press_release",
       "_id": "fb623b70",
       "_crawled": "2026-05-22T08:19:37.303578Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "If money was limitless, you could do lots of different things, but it isn't, so we have to make tough choices.",
+      "reality": "The government has been criticized for not providing sufficient funding for social housing, leading to a shortage of affordable housing options.",
+      "source": "RNZ News, 21 May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "abda5a89",
+      "_crawled": "2026-06-01T10:12:54.358039Z"
     }
   ],
   "social_posts": [],
@@ -518,13 +528,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The minister's statement about the social housing reform may be seen as misleading, as it does not fully acknowledge the potential negative impact on many households"
+    },
+    "2026-06-01T10:12:54.358039Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The minister's statement about making tough choices due to limited funding may be seen as misleading, as it does not acknowledge the government's role in allocating funds for social housing."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-16T07:12:36.225542Z",
-      "text": "Housing Minister Chris Bishop has announced a reduction in the minimum housing capacity required by Plan Change 120, which may not align with Aucklanders' desires for housing growth."
-    },
     {
       "date": "2026-05-17T07:31:06.544942Z",
       "text": "Chris Bishop's claim of social housing delivery being 'on track' contradicts official advice, and he announced a reduction of Auckland's housing plan"
@@ -560,19 +571,13 @@
     {
       "date": "2026-05-25T08:52:36.143206Z",
       "text": "Housing Minister Chris Bishop announced a major social housing shake-up, which may leave many households worse off"
+    },
+    {
+      "date": "2026-06-01T10:12:54.358039Z",
+      "text": "Housing Minister Chris Bishop announced a major social housing shake-up, which has been criticized for potentially leaving many households worse off."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-01T06:23:14.013958Z",
-      "notes": "Multiple sources reported on the changes to Auckland's housing plan, with some criticizing the government's decision to reduce the housing target.",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-02T06:09:37.013544Z",
-      "notes": "Contradiction found between Chris Bishop's statement and actual change to Auckland's housing plans",
-      "new_items": true
-    },
     {
       "date": "2026-04-03T06:09:54.980338Z",
       "notes": "Contradiction found between Chris Bishop's statement and actual events, affecting his integrity score",
@@ -817,16 +822,14 @@
       "date": "2026-05-31T08:10:10.827527Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-01T10:12:54.358039Z",
+      "notes": "Minister's statement on social housing funding may be misleading, and the shake-up has been criticized for its potential impact on low-income households.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-06T07:34:16.688762Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-07T07:39:37.634111Z",
       "sources": [
@@ -962,7 +965,14 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-06-01T10:12:54.358130Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-31T08:10:10.827570Z"
+  "last_updated": "2026-06-01T10:12:54.358149Z"
 }

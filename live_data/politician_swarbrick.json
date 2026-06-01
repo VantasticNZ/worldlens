@@ -206,6 +206,15 @@
       "source": "NZ Herald",
       "_id": "d0819f1e",
       "_crawled": "2026-05-28T08:40:06.727248Z"
+    },
+    {
+      "year": 2026,
+      "title": "Budget 2026 reaction",
+      "desc": "Chloe Swarbrick and the Green Party have criticized the government's Budget 2026, stating it lacks a plan for the country and fails to address climate change.",
+      "type": "negative",
+      "source": "www.greens.org.nz",
+      "_id": "a73c18c5",
+      "_crawled": "2026-06-01T10:13:28.571009Z"
     }
   ],
   "score_adjustments": {
@@ -227,19 +236,13 @@
     {
       "date": "2026-05-27T08:36:05.244807Z",
       "text": "Chloe Swarbrick's claim on failed climate policies was rejected by Nicola Willis, potentially impacting her integrity score"
+    },
+    {
+      "date": "2026-06-01T10:13:28.571009Z",
+      "text": "Chloe Swarbrick and the Green Party have spoken out against Budget 2026, citing its lack of vision and failure to address climate change."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-02T06:10:30.566322Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-04-03T06:10:35.408702Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-04T05:52:04.080385Z",
       "notes": "No significant new findings",
@@ -484,16 +487,14 @@
       "date": "2026-05-31T08:10:36.463245Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-01T10:13:28.571009Z",
+      "notes": "Reviewed recent statements and articles from Chloe Swarbrick and the Green Party regarding Budget 2026.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-06T07:34:55.910424Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-05-07T07:40:33.271373Z",
       "sources": [
@@ -624,7 +625,14 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-01T10:13:28.571069Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-31T08:10:36.463287Z"
+  "last_updated": "2026-06-01T10:13:28.571090Z"
 }

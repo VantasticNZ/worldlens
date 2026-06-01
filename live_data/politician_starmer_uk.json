@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 21,
+  "lie_count": 22,
   "lies": [
     {
       "date": "2026",
@@ -212,6 +212,16 @@
       "platform": "speech",
       "_id": "a73f822f",
       "_crawled": "2026-05-24T07:48:46.793073Z"
+    },
+    {
+      "date": "2026",
+      "claim": "things would 'start to feel easier', pointing to frozen rail fares, prescription charges and fuel duty, as well as increases to the minimum wage",
+      "reality": "no evidence of significant improvement in cost of living",
+      "source": "BBC, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "3f5d95bc",
+      "_crawled": "2026-06-01T10:14:08.304339Z"
     }
   ],
   "social_posts": [
@@ -646,13 +656,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Repeated claims of improvement without evidence"
+    },
+    "2026-06-01T10:14:08.304339Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "repeated claims of improvement without evidence"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-12T07:41:46.591190Z",
-      "text": "Keir Starmer faces leadership crisis and contradicts previous statements, raising integrity concerns"
-    },
     {
       "date": "2026-05-13T07:47:07.159404Z",
       "text": "Keir Starmer faces increased pressure to quit as Labour leader, while announcing new priorities and refusing to step down"
@@ -688,6 +699,10 @@
     {
       "date": "2026-05-24T07:48:46.793073Z",
       "text": "Keir Starmer faces leadership challenge and criticism for broken promises"
+    },
+    {
+      "date": "2026-06-01T10:14:08.304339Z",
+      "text": "Keir Starmer's leadership is under scrutiny amid calls for his resignation and concerns over his promises of improvement"
     }
   ],
   "crawl_log": [
@@ -935,17 +950,14 @@
       "date": "2026-05-31T08:11:21.291398Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-01T10:14:08.304339Z",
+      "notes": "Reviewed BBC and Reuters articles for updates on Keir Starmer's leadership and policies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-08T06:32:28.766614Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-09T07:05:18.539820Z",
       "sources": [
@@ -1078,7 +1090,14 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-06-01T10:14:08.304443Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-31T08:11:21.291428Z"
+  "last_updated": "2026-06-01T10:14:08.304461Z"
 }

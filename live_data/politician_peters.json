@@ -728,10 +728,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-16T07:11:14.262286Z",
-      "text": "Peters' recent statements and actions have raised concerns about his integrity and consistency, potentially impacting his party's chances in the 2026 election"
-    },
-    {
       "date": "2026-05-17T07:30:00.482311Z",
       "text": "Winston Peters unveiled a new KiwiSaver policy and criticized National and Act's immigration policies"
     },
@@ -766,29 +762,13 @@
     {
       "date": "2026-05-25T08:51:02.774817Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity"
+    },
+    {
+      "date": "2026-06-01T10:11:41.571796Z",
+      "text": "Winston Peters has made several announcements and statements, including a proposal to overhaul the energy sector and claims of breaches to the coalition agreement"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-05T06:09:46.601298Z",
-      "notes": "Peters' social media activity and public statements have been inconsistent and sometimes misleading, warranting further monitoring",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-06T06:25:58.545679Z",
-      "notes": "Peters' meeting with US Secretary of State Marco Rubio and his visit to Cook Islands may be worth monitoring for future developments.",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-07T06:14:58.248363Z",
-      "notes": "Peters' meeting with Cook Islands PM and defence declaration signing may indicate a shift in his foreign policy stance",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-08T06:16:25.893260Z",
-      "notes": "No significant new lies or social posts found, but several new events related to Winston Peters' meetings and New Zealand's international relations",
-      "new_items": true
-    },
     {
       "date": "2026-04-09T06:15:30.336804Z",
       "notes": "Peters' meeting with US Secretary of State Marco Rubio and his proposal to overhaul the energy sector are notable events",
@@ -1033,17 +1013,14 @@
       "date": "2026-05-31T08:09:19.881942Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-01T10:11:41.571796Z",
+      "notes": "Reviewed articles from The Spinoff, RNZ News, and NZ Herald",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-08T06:28:44.538715Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-09T07:03:06.338079Z",
       "sources": [
@@ -1184,7 +1161,14 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-01T10:11:41.571897Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-31T08:09:19.881985Z"
+  "last_updated": "2026-06-01T10:11:41.571919Z"
 }

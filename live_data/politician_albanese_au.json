@@ -1,8 +1,19 @@
 {
   "id": "albanese_au",
   "type": "politician",
-  "lie_count": 0,
-  "lies": [],
+  "lie_count": 1,
+  "lies": [
+    {
+      "date": "March 2026",
+      "claim": "Hecklers at Lakemba mosque were unhappy about the government outlawing 'extremist organisations' like Hizb ut-Tahrir",
+      "reality": "No evidence provided for the claim",
+      "source": "The Guardian, March 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "87327d3b",
+      "_crawled": "2026-06-01T10:13:56.231436Z"
+    }
+  ],
   "social_posts": [
     {
       "platform": "press",
@@ -205,6 +216,15 @@
       "source": "The Guardian",
       "_id": "c476a816",
       "_crawled": "2026-05-17T07:32:53.284087Z"
+    },
+    {
+      "year": 2026,
+      "title": "Royal commission rejects bid to keep documents secret",
+      "desc": "A royal commission has rejected a bid to keep documents secret, potentially revealing new information",
+      "type": "neutral",
+      "source": "The Courier",
+      "_id": "86b46fa3",
+      "_crawled": "2026-06-01T10:13:56.231436Z"
     }
   ],
   "score_adjustments": {},
@@ -220,14 +240,13 @@
     {
       "date": "2026-05-17T07:32:53.284087Z",
       "text": "Anthony Albanese's government has been accused of breaking a promise not to touch negative gearing and CGT, and has recalled parliament to fast-track hate speech and gun laws."
+    },
+    {
+      "date": "2026-06-01T10:13:56.231436Z",
+      "text": "Anthony Albanese's claim about hecklers at Lakemba mosque has been disputed, and several new events have occurred, including a royal commission rejecting a bid to keep documents secret"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-01T06:23:54.864043Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-02T06:11:18.376062Z",
       "notes": "Albanese's recent speeches and policy decisions have been met with mixed reactions.",
@@ -472,16 +491,14 @@
       "date": "2026-05-31T08:11:06.383321Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-01T10:13:56.231436Z",
+      "notes": "New events and a potential lie from Anthony Albanese",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-05T07:14:44.605169Z",
-      "sources": [
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-05-06T07:35:34.408187Z",
       "sources": [
@@ -617,7 +634,15 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-06-01T10:13:56.231527Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-05-31T08:11:06.383358Z"
+  "last_updated": "2026-06-01T10:13:56.231545Z"
 }

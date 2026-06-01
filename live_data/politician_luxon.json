@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 18,
+  "lie_count": 19,
   "lies": [
     {
       "date": "2026",
@@ -182,6 +182,16 @@
       "platform": "speech",
       "_id": "3998a109",
       "_crawled": "2026-05-25T08:50:48.030670Z"
+    },
+    {
+      "date": "2026",
+      "claim": "Staffer who got climate lobbying document 'left a while ago'",
+      "reality": "No record or recollection of that interaction from 2024, but the staffer's departure time is unclear",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "d3734042",
+      "_crawled": "2026-06-01T10:11:21.555703Z"
     }
   ],
   "social_posts": [
@@ -741,13 +751,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The Prime Minister's claim about supporting the Crusaders since he was a little boy was found to be false"
+    },
+    "2026-06-01T10:11:21.555703Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "The lobbying controversy and unclear statements about the staffer's departure time raise concerns about integrity and corruption risk"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-16T07:10:49.966449Z",
-      "text": "Luxon's coalition is fracturing over climate policy, and he has been accused of dishonesty over his sports fandom"
-    },
     {
       "date": "2026-05-17T07:29:49.347012Z",
       "text": "New findings suggest Luxon has made another inconsistent claim and has questionable transparency in his work schedule"
@@ -783,39 +794,13 @@
     {
       "date": "2026-05-25T08:50:48.030670Z",
       "text": "Luxon survives party leadership vote and announces Budget 2026"
+    },
+    {
+      "date": "2026-06-01T10:11:21.555703Z",
+      "text": "Luxon survives party leadership vote, but faces lobbying controversy and questions about his office's transparency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-05T06:09:37.364791Z",
-      "notes": "Multiple sources reported on Luxon's Cabinet reshuffle and matai title controversy, but no new lies or social posts were found.",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-06T06:25:48.724105Z",
-      "notes": "Reviewed 10 articles from various sources, including RNZ News, The Spinoff, and Labour.org.nz",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-07T06:14:28.749270Z",
-      "notes": "Multiple sources report on Luxon's controversies and criticisms",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-08T06:16:08.358352Z",
-      "notes": "No significant new findings on lies, social posts, or votes, but several new events related to Christopher Luxon's activities and controversies.",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-09T06:15:19.627300Z",
-      "notes": "Reviewed RNZ News, newsroom.co.nz, and other sources for updates on Luxon's activities and statements",
-      "new_items": true
-    },
-    {
-      "date": "2026-04-10T06:27:17.475798Z",
-      "notes": "Reviewed RNZ News, NZ Herald, and The Spinoff articles",
-      "new_items": true
-    },
     {
       "date": "2026-04-11T05:54:48.307183Z",
       "notes": "Reviewed RNZ News, The Spinoff, and Newcastle Herald articles",
@@ -1060,17 +1045,14 @@
       "date": "2026-05-31T08:09:07.624903Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-01T10:11:21.555703Z",
+      "notes": "Reviewed articles from NZ Herald, AP News, and other sources",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-06T07:32:24.625914Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-07T07:37:51.575677Z",
       "sources": [
@@ -1221,7 +1203,15 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-01T10:11:21.555831Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-05-31T08:09:07.624951Z"
+  "last_updated": "2026-06-01T10:11:21.555855Z"
 }
