@@ -665,10 +665,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-13T07:47:07.159404Z",
-      "text": "Keir Starmer faces increased pressure to quit as Labour leader, while announcing new priorities and refusing to step down"
-    },
-    {
       "date": "2026-05-14T07:40:48.647931Z",
       "text": "Keir Starmer faces a leadership challenge and has unveiled dozens of bills in the King's speech, but his perceived indecisiveness and lack of charisma continue to be a concern"
     },
@@ -703,14 +699,13 @@
     {
       "date": "2026-06-01T10:14:08.304339Z",
       "text": "Keir Starmer's leadership is under scrutiny amid calls for his resignation and concerns over his promises of improvement"
+    },
+    {
+      "date": "2026-06-02T09:04:40.283285Z",
+      "text": "Keir Starmer is facing leadership challenges and defending his policy decisions amidst criticism."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-01T06:24:12.948480Z",
-      "notes": "review of recent statements and events",
-      "new_items": true
-    },
     {
       "date": "2026-04-02T06:11:46.165772Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to the Strait of Hormuz and the Middle East conflict have been identified.",
@@ -955,16 +950,14 @@
       "date": "2026-06-01T10:14:08.304339Z",
       "notes": "Reviewed BBC and Reuters articles for updates on Keir Starmer's leadership and policies",
       "new_items": true
+    },
+    {
+      "date": "2026-06-02T09:04:40.283285Z",
+      "notes": "No significant new lies or social posts found, but new events related to Keir Starmer's leadership challenges and policy defenses.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-09T07:05:18.539820Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-10T07:23:41.993096Z",
       "sources": [
@@ -1097,7 +1090,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-02T09:04:40.283363Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-01T10:14:08.304461Z"
+  "last_updated": "2026-06-02T09:04:40.283382Z"
 }

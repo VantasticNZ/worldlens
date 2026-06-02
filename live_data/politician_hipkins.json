@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 2,
+  "lie_count": 4,
   "lies": [
     {
       "date": "May 2026",
@@ -22,6 +22,26 @@
       "platform": "interview",
       "_id": "b907c96c",
       "_crawled": "2026-05-21T08:29:47.115824Z"
+    },
+    {
+      "date": "January 2026",
+      "claim": "New Zealanders are looking for a sense of hope",
+      "reality": "The statement lacks concrete evidence to support the claim",
+      "source": "The Spinoff",
+      "severity": "low",
+      "platform": "speech",
+      "_id": "331e8e02",
+      "_crawled": "2026-06-02T09:03:24.663369Z"
+    },
+    {
+      "date": "2026",
+      "claim": "The public don't really care about the detail of the NZ Future Fund policy",
+      "reality": "The statement may be misleading as it does not provide clear information about the policy",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "1f53bb41",
+      "_crawled": "2026-06-02T09:03:24.663369Z"
     }
   ],
   "social_posts": [
@@ -237,10 +257,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-03T06:10:15.599837Z",
-      "text": "Chris Hipkins faces renewed scrutiny, outlines Labour's plan for 2026"
-    },
-    {
       "date": "2026-04-05T06:10:34.719819Z",
       "text": "Chris Hipkins faces scrutiny over personal allegations and policy commitments."
     },
@@ -275,14 +291,13 @@
     {
       "date": "2026-06-01T10:13:11.225950Z",
       "text": "Chris Hipkins has made comments on various topics, including the NZ Future Fund policy and Nicola Willis' proposal"
+    },
+    {
+      "date": "2026-06-02T09:03:24.663369Z",
+      "text": "Chris Hipkins makes first speech of election year, denies ex-wife's claims"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-06T06:27:08.465713Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-07T06:16:37.443579Z",
       "notes": "No significant lies, social posts, or votes found",
@@ -527,16 +542,14 @@
       "date": "2026-06-01T10:13:11.225950Z",
       "notes": "Reviewed Tavily sources from NZ Herald, Labour.org.nz, and RNZ",
       "new_items": true
+    },
+    {
+      "date": "2026-06-02T09:03:24.663369Z",
+      "notes": "Reviewed Tavily sources for Chris Hipkins",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-07T07:40:04.116395Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-08T06:30:39.050051Z",
       "sources": [
@@ -671,7 +684,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-02T09:03:24.663463Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-01T10:13:11.226053Z"
+  "last_updated": "2026-06-02T09:03:24.663483Z"
 }

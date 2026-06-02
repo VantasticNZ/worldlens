@@ -724,13 +724,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' claim about not doing a deal with Labour contradicts his past actions"
+    },
+    "2026-06-02T09:01:44.973274Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' inconsistent statements on coalition forming and energy sector overhaul"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-17T07:30:00.482311Z",
-      "text": "Winston Peters unveiled a new KiwiSaver policy and criticized National and Act's immigration policies"
-    },
     {
       "date": "2026-05-18T08:40:49.669159Z",
       "text": "Winston Peters has made several announcements and taken aim at other parties over immigration, but no significant integrity or corruption risk changes have been found"
@@ -766,14 +767,13 @@
     {
       "date": "2026-06-01T10:11:41.571796Z",
       "text": "Winston Peters has made several announcements and statements, including a proposal to overhaul the energy sector and claims of breaches to the coalition agreement"
+    },
+    {
+      "date": "2026-06-02T09:01:44.973274Z",
+      "text": "Winston Peters' recent statements and proposals have raised questions about his party's stance on key issues"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-09T06:15:30.336804Z",
-      "notes": "Peters' meeting with US Secretary of State Marco Rubio and his proposal to overhaul the energy sector are notable events",
-      "new_items": true
-    },
     {
       "date": "2026-04-10T06:27:34.944253Z",
       "notes": "Peters' energy sector overhaul proposal and Judge Ema Aitken incident are notable events, but do not significantly impact his score",
@@ -1018,16 +1018,14 @@
       "date": "2026-06-01T10:11:41.571796Z",
       "notes": "Reviewed articles from The Spinoff, RNZ News, and NZ Herald",
       "new_items": true
+    },
+    {
+      "date": "2026-06-02T09:01:44.973274Z",
+      "notes": "Peters' Twitter activity and interviews with media outlets have been inconsistent and contradictory at times",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-09T07:03:06.338079Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-10T07:22:16.215842Z",
       "sources": [
@@ -1168,7 +1166,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-02T09:01:44.973399Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-01T10:11:41.571919Z"
+  "last_updated": "2026-06-02T09:01:44.973427Z"
 }

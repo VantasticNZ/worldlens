@@ -238,11 +238,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-07T06:15:19.377487Z",
-      "notes": "New events and statements from David Seymour and ACT party found",
-      "new_items": true
-    },
-    {
       "date": "2026-04-08T06:16:53.829038Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -486,17 +481,14 @@
       "date": "2026-06-01T10:11:59.117675Z",
       "notes": "David Seymour's recent activities have been marked by controversy and criticism.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-02T09:02:08.356715Z",
+      "notes": "New events and statements from David Seymour",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-08T06:29:07.796991Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-05-09T07:03:26.031127Z",
       "sources": [
@@ -636,7 +628,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-02T09:02:08.356811Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-01T10:11:59.117813Z"
+  "last_updated": "2026-06-02T09:02:08.356838Z"
 }

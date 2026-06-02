@@ -244,14 +244,13 @@
     {
       "date": "2026-06-01T10:13:56.231436Z",
       "text": "Anthony Albanese's claim about hecklers at Lakemba mosque has been disputed, and several new events have occurred, including a royal commission rejecting a bid to keep documents secret"
+    },
+    {
+      "date": "2026-06-02T09:04:23.061877Z",
+      "text": "Anthony Albanese has been involved in several significant events, including the signing of a free trade pact with the EU and the announcement of a hate speech crackdown."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-02T06:11:18.376062Z",
-      "notes": "Albanese's recent speeches and policy decisions have been met with mixed reactions.",
-      "new_items": true
-    },
     {
       "date": "2026-04-03T06:11:18.827392Z",
       "notes": "No significant new findings",
@@ -496,16 +495,14 @@
       "date": "2026-06-01T10:13:56.231436Z",
       "notes": "New events and a potential lie from Anthony Albanese",
       "new_items": true
+    },
+    {
+      "date": "2026-06-02T09:04:23.061877Z",
+      "notes": "No significant lies or social post discrepancies found.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-06T07:35:34.408187Z",
-      "sources": [
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-05-07T07:41:23.940880Z",
       "sources": [
@@ -642,7 +639,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-02T09:04:23.061997Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-01T10:13:56.231545Z"
+  "last_updated": "2026-06-02T09:04:23.062018Z"
 }
