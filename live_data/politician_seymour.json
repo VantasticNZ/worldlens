@@ -196,10 +196,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-05T07:13:19.083294Z",
-      "text": "David Seymour faces criticism for his immigration policy announcement, with some arguing it will harm businesses and farmers."
-    },
-    {
       "date": "2026-05-07T07:38:36.658092Z",
       "text": "David Seymour faces criticism over RNZ leadership and immigration policy, while announcing a new charter school."
     },
@@ -234,14 +230,13 @@
     {
       "date": "2026-06-01T10:11:59.117675Z",
       "text": "David Seymour has been involved in several controversies, including being booted from the House and making criticized comments about RNZ."
+    },
+    {
+      "date": "2026-06-03T09:21:50.090323Z",
+      "text": "David Seymour's recent comments on RNZ leadership and his attacks on RNZ personnel have sparked controversy."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-08T06:16:53.829038Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-09T06:15:39.449090Z",
       "notes": "No significant new findings",
@@ -486,17 +481,14 @@
       "date": "2026-06-02T09:02:08.356715Z",
       "notes": "New events and statements from David Seymour",
       "new_items": true
+    },
+    {
+      "date": "2026-06-03T09:21:50.090323Z",
+      "notes": "Reviewed sources from The Spinoff, RNZ News, and Newsroom.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-09T07:03:26.031127Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-05-10T07:22:26.387196Z",
       "sources": [
@@ -635,7 +627,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-03T09:21:50.090417Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-02T09:02:08.356838Z"
+  "last_updated": "2026-06-03T09:21:50.090443Z"
 }

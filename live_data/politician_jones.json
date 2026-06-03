@@ -407,10 +407,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-19T08:21:51.753951Z",
-      "text": "Shane Jones faces criticism for his comments on the India FTA and demands an apology from Ngāti Ruanui"
-    },
-    {
       "date": "2026-05-20T08:21:19.573079Z",
       "text": "Shane Jones faces criticism for his comments on the India FTA, comparing it to a 'butter chicken tsunami'"
     },
@@ -445,14 +441,13 @@
     {
       "date": "2026-06-02T09:02:28.488262Z",
       "text": "Shane Jones continues to be involved in controversies, including his comments on the India FTA and his apology for comments about Nicola Willis' weight loss."
+    },
+    {
+      "date": "2026-06-03T09:22:06.473273Z",
+      "text": "Shane Jones faces criticism for his comments on the fisheries bill and his remarks on Ngāti Ruanui."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-08T06:17:18.025469Z",
-      "notes": "No significant new lies or social posts found, but fisheries bill backlash event updated",
-      "new_items": false
-    },
     {
       "date": "2026-04-09T06:15:53.404247Z",
       "notes": "Reviewed Tavily sources from NZ Herald, Beehive.govt.nz, and RNZ",
@@ -697,17 +692,14 @@
       "date": "2026-06-02T09:02:28.488262Z",
       "notes": "Reviewed Tavily sources from NZ Herald, The Spinoff, and RNZ News.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-03T09:22:06.473273Z",
+      "notes": "Reviewed Tavily sources for Shane Jones, found new events related to fisheries bill and Ngāti Ruanui comments.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-07T07:38:55.556391Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-05-08T06:29:31.651399Z",
       "sources": [
@@ -843,7 +835,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-06-03T09:22:06.473350Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-02T09:02:28.488365Z"
+  "last_updated": "2026-06-03T09:22:06.473371Z"
 }

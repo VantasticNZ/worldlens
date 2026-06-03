@@ -622,11 +622,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-08T06:17:46.675396Z",
-      "notes": "No significant new findings except for fuel tax rise statement",
-      "new_items": true
-    },
-    {
       "date": "2026-04-09T06:16:03.912804Z",
       "notes": "Reviewed RNZ News, NZ Herald, and labour.org.nz articles",
       "new_items": true
@@ -870,16 +865,14 @@
       "date": "2026-06-02T09:02:47.433571Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-03T09:22:21.643013Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-12T07:39:27.173445Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-13T07:46:00.636557Z",
       "sources": [
@@ -1016,7 +1009,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-03T09:22:21.643028Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-02T09:02:47.433607Z"
+  "last_updated": "2026-06-03T09:22:21.643050Z"
 }

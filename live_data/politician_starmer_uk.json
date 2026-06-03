@@ -661,13 +661,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "repeated claims of improvement without evidence"
+    },
+    "2026-06-03T09:23:53.473726Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Starmer's repeated promises of positive change without evidence"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-14T07:40:48.647931Z",
-      "text": "Keir Starmer faces a leadership challenge and has unveiled dozens of bills in the King's speech, but his perceived indecisiveness and lack of charisma continue to be a concern"
-    },
     {
       "date": "2026-05-17T07:33:10.505471Z",
       "text": "Keir Starmer faces calls to step down and is struggling to save his premiership"
@@ -703,14 +704,13 @@
     {
       "date": "2026-06-02T09:04:40.283285Z",
       "text": "Keir Starmer is facing leadership challenges and defending his policy decisions amidst criticism."
+    },
+    {
+      "date": "2026-06-03T09:23:53.473726Z",
+      "text": "Keir Starmer faces increasing pressure to resign as prime minister amid criticism from Labour MPs and lack of evidence for his promises of positive change"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-02T06:11:46.165772Z",
-      "notes": "No significant new findings related to lies, social posts, or votes, but new events related to the Strait of Hormuz and the Middle East conflict have been identified.",
-      "new_items": true
-    },
     {
       "date": "2026-04-03T06:11:45.055347Z",
       "notes": "Multiple sources confirm UK meeting with 35 nations to discuss reopening Strait of Hormuz.",
@@ -955,16 +955,14 @@
       "date": "2026-06-02T09:04:40.283285Z",
       "notes": "No significant new lies or social posts found, but new events related to Keir Starmer's leadership challenges and policy defenses.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-03T09:23:53.473726Z",
+      "notes": "Starmer's leadership challenges and promises of positive change without evidence",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-10T07:23:41.993096Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-11T08:23:44.017483Z",
       "sources": [
@@ -1097,7 +1095,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-03T09:23:53.473829Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-02T09:04:40.283382Z"
+  "last_updated": "2026-06-03T09:23:53.473851Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 17,
+  "lie_count": 18,
   "lies": [
     {
       "date": "March 2026",
@@ -172,6 +172,16 @@
       "platform": "speech",
       "_id": "2fe36023",
       "_crawled": "2026-05-19T08:21:14.866190Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Foreign affairs officials did not endorse WHO health rules before Peters rejected them",
+      "reality": "Foreign affairs officials endorsed WHO health rules before Peters rejected them",
+      "source": "Newsroom, 3 June 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "a773631b",
+      "_crawled": "2026-06-03T09:21:28.675395Z"
     }
   ],
   "social_posts": [
@@ -729,13 +739,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' inconsistent statements on coalition forming and energy sector overhaul"
+    },
+    "2026-06-03T09:21:28.675395Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' contradictory statements and actions have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-18T08:40:49.669159Z",
-      "text": "Winston Peters has made several announcements and taken aim at other parties over immigration, but no significant integrity or corruption risk changes have been found"
-    },
     {
       "date": "2026-05-19T08:21:14.866190Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency, particularly regarding his party's stance on Labour coalition and immigration policies"
@@ -771,14 +782,13 @@
     {
       "date": "2026-06-02T09:01:44.973274Z",
       "text": "Winston Peters' recent statements and proposals have raised questions about his party's stance on key issues"
+    },
+    {
+      "date": "2026-06-03T09:21:28.675395Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-10T06:27:34.944253Z",
-      "notes": "Peters' energy sector overhaul proposal and Judge Ema Aitken incident are notable events, but do not significantly impact his score",
-      "new_items": true
-    },
     {
       "date": "2026-04-11T05:54:56.903293Z",
       "notes": "Reviewed 8 sources, including RNZ News, Stuff, and Newsroom",
@@ -1023,16 +1033,14 @@
       "date": "2026-06-02T09:01:44.973274Z",
       "notes": "Peters' Twitter activity and interviews with media outlets have been inconsistent and contradictory at times",
       "new_items": true
+    },
+    {
+      "date": "2026-06-03T09:21:28.675395Z",
+      "notes": "Peters' energy sector proposal and immigration comments are notable, but his contradictory statements are a concern",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-10T07:22:16.215842Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-11T08:20:43.319689Z",
       "sources": [
@@ -1174,7 +1182,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-03T09:21:28.675536Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-02T09:01:44.973427Z"
+  "last_updated": "2026-06-03T09:21:28.675560Z"
 }

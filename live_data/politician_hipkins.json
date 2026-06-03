@@ -257,10 +257,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-05T06:10:34.719819Z",
-      "text": "Chris Hipkins faces scrutiny over personal allegations and policy commitments."
-    },
-    {
       "date": "2026-04-14T06:27:30.335927Z",
       "text": "Chris Hipkins faced renewed scrutiny after denying his ex-wife's allegations."
     },
@@ -295,14 +291,13 @@
     {
       "date": "2026-06-02T09:03:24.663369Z",
       "text": "Chris Hipkins makes first speech of election year, denies ex-wife's claims"
+    },
+    {
+      "date": "2026-06-03T09:22:54.731786Z",
+      "text": "Chris Hipkins made his first speech of the election year and addressed his ex-wife's unsubstantiated claims"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-07T06:16:37.443579Z",
-      "notes": "No significant lies, social posts, or votes found",
-      "new_items": true
-    },
     {
       "date": "2026-04-08T06:18:32.142768Z",
       "notes": "New events and updates on Chris Hipkins' leadership and Labour party strategy",
@@ -547,16 +542,14 @@
       "date": "2026-06-02T09:03:24.663369Z",
       "notes": "Reviewed Tavily sources for Chris Hipkins",
       "new_items": true
+    },
+    {
+      "date": "2026-06-03T09:22:54.731786Z",
+      "notes": "Reviewed Tavily sources for new information on Chris Hipkins",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-08T06:30:39.050051Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-09T07:04:22.898440Z",
       "sources": [
@@ -691,7 +684,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-03T09:22:54.731880Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-02T09:03:24.663483Z"
+  "last_updated": "2026-06-03T09:22:54.731902Z"
 }
