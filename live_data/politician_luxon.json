@@ -790,10 +790,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-19T08:20:50.437187Z",
-      "text": "Luxon's integrity score has been adjusted downward due to a contradiction with David Seymour over Act's social media policy"
-    },
-    {
       "date": "2026-05-20T08:20:16.838844Z",
       "text": "Christopher Luxon survives National leadership vote and announces Government support for storm-hit regions"
     },
@@ -828,14 +824,13 @@
     {
       "date": "2026-06-03T09:21:11.553658Z",
       "text": "Christopher Luxon was accused of a 'demonstrable lie' in Parliament over climate change policies, raising concerns about his integrity"
+    },
+    {
+      "date": "2026-06-04T08:43:03.066088Z",
+      "text": "New event and potential lie found, but no significant impact on overall score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-14T06:26:23.902802Z",
-      "notes": "No significant new findings except for the Auckland City Deal",
-      "new_items": true
-    },
     {
       "date": "2026-04-15T06:27:58.457262Z",
       "notes": "Multiple sources reported on Luxon's inconsistencies and contradictions",
@@ -1080,17 +1075,14 @@
       "date": "2026-06-03T09:21:11.553658Z",
       "notes": "Accusation of a 'demonstrable lie' by Chloe Swarbrick in Parliament",
       "new_items": true
+    },
+    {
+      "date": "2026-06-04T08:43:03.066088Z",
+      "notes": "Reviewed 9 sources, including RNZ News and The Spinoff",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-09T07:02:50.086634Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-10T07:22:05.892990Z",
       "sources": [
@@ -1240,7 +1232,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-04T08:43:03.066209Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-03T09:21:11.553751Z"
+  "last_updated": "2026-06-04T08:43:03.066233Z"
 }

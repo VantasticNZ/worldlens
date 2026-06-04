@@ -257,10 +257,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-14T06:27:30.335927Z",
-      "text": "Chris Hipkins faced renewed scrutiny after denying his ex-wife's allegations."
-    },
-    {
       "date": "2026-04-15T06:29:06.890066Z",
       "text": "Chris Hipkins faces renewed scrutiny after denying ex-wife's allegations, and quells claims of internal disagreement over Te Pāti Māori."
     },
@@ -295,14 +291,13 @@
     {
       "date": "2026-06-03T09:22:54.731786Z",
       "text": "Chris Hipkins made his first speech of the election year and addressed his ex-wife's unsubstantiated claims"
+    },
+    {
+      "date": "2026-06-04T08:44:29.680207Z",
+      "text": "Chris Hipkins continues to focus on supporting families and growing a strong economy, while facing questions about the details of the NZ Future Fund policy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-08T06:18:32.142768Z",
-      "notes": "New events and updates on Chris Hipkins' leadership and Labour party strategy",
-      "new_items": true
-    },
     {
       "date": "2026-04-09T06:16:34.045187Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but several new events related to Chris Hipkins' statements and actions.",
@@ -547,16 +542,14 @@
       "date": "2026-06-03T09:22:54.731786Z",
       "notes": "Reviewed Tavily sources for new information on Chris Hipkins",
       "new_items": true
+    },
+    {
+      "date": "2026-06-04T08:44:29.680207Z",
+      "notes": "Reviewed Labour Party website and NZ Herald articles for updates on Chris Hipkins' statements and events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-09T07:04:22.898440Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-10T07:23:05.238769Z",
       "sources": [
@@ -691,7 +684,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-04T08:44:29.680317Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-03T09:22:54.731902Z"
+  "last_updated": "2026-06-04T08:44:29.680338Z"
 }

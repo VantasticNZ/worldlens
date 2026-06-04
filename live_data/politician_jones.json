@@ -449,11 +449,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-09T06:15:53.404247Z",
-      "notes": "Reviewed Tavily sources from NZ Herald, Beehive.govt.nz, and RNZ",
-      "new_items": true
-    },
-    {
       "date": "2026-04-10T06:27:54.010348Z",
       "notes": "Shane Jones' statements and actions on the Fisheries Bill have been widely reported and criticized",
       "new_items": true
@@ -697,16 +692,14 @@
       "date": "2026-06-03T09:22:06.473273Z",
       "notes": "Reviewed Tavily sources for Shane Jones, found new events related to fisheries bill and Ngāti Ruanui comments.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-04T08:43:46.603575Z",
+      "notes": "Reviewed recent news articles and statements from Shane Jones",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-08T06:29:31.651399Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-05-09T07:03:45.528843Z",
       "sources": [
@@ -842,7 +835,16 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-06-04T08:43:46.603646Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-03T09:22:06.473371Z"
+  "last_updated": "2026-06-04T08:43:46.603667Z"
 }

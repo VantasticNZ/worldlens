@@ -622,11 +622,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-09T06:16:03.912804Z",
-      "notes": "Reviewed RNZ News, NZ Herald, and labour.org.nz articles",
-      "new_items": true
-    },
-    {
       "date": "2026-04-10T06:28:03.351274Z",
       "notes": "Reviewed RNZ News and Tavily sources, found contradiction between Willis' claim and Treasury's forecasts",
       "new_items": true
@@ -870,17 +865,14 @@
       "date": "2026-06-03T09:22:21.643013Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-04T08:44:01.569179Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-13T07:46:00.636557Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-14T07:38:53.666585Z",
       "sources": [
@@ -1016,7 +1008,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-04T08:44:01.569192Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-03T09:22:21.643050Z"
+  "last_updated": "2026-06-04T08:44:01.569212Z"
 }

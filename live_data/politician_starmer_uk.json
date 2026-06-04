@@ -666,13 +666,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Starmer's repeated promises of positive change without evidence"
+    },
+    "2026-06-04T08:45:34.942062Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "repeated promises of positive change without evidence of fulfillment"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-17T07:33:10.505471Z",
-      "text": "Keir Starmer faces calls to step down and is struggling to save his premiership"
-    },
     {
       "date": "2026-05-18T08:43:57.828399Z",
       "text": "Keir Starmer faces increasing pressure to step down amid criticism of his leadership and perceived broken promises"
@@ -708,14 +709,13 @@
     {
       "date": "2026-06-03T09:23:53.473726Z",
       "text": "Keir Starmer faces increasing pressure to resign as prime minister amid criticism from Labour MPs and lack of evidence for his promises of positive change"
+    },
+    {
+      "date": "2026-06-04T08:45:34.942062Z",
+      "text": "Keir Starmer's leadership is being challenged, and his promises of positive change are being questioned"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-03T06:11:45.055347Z",
-      "notes": "Multiple sources confirm UK meeting with 35 nations to discuss reopening Strait of Hormuz.",
-      "new_items": true
-    },
     {
       "date": "2026-04-04T05:52:28.760288Z",
       "notes": "The Guardian and BBC News articles provided evidence of Starmer's failed promise and strained UK-US relations",
@@ -960,17 +960,14 @@
       "date": "2026-06-03T09:23:53.473726Z",
       "notes": "Starmer's leadership challenges and promises of positive change without evidence",
       "new_items": true
+    },
+    {
+      "date": "2026-06-04T08:45:34.942062Z",
+      "notes": "leadership challenges and unfulfilled promises",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-11T08:23:44.017483Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-12T07:41:46.591324Z",
       "sources": [
@@ -1102,7 +1099,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-04T08:45:34.942170Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-03T09:23:53.473851Z"
+  "last_updated": "2026-06-04T08:45:34.942189Z"
 }

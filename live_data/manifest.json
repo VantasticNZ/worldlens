@@ -1,36 +1,36 @@
 {
-  "generated": "2026-06-03T09:23:54.475358Z",
+  "generated": "2026-06-04T08:45:35.943738Z",
   "files": {
     "politician_peters": {
-      "last_updated": "2026-06-03T09:21:28.675560Z",
+      "last_updated": "2026-06-04T08:43:17.754885Z",
       "lie_count": 18,
       "event_count": 20,
       "post_count": 15,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
+          "RSS (2 articles from NZ/intl media)",
           "Tavily: Winston Peters NZ First contradiction 20",
           "Tavily: Winston Peters tweet statement 2026"
         ]
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-06-03T09:23:24.873999Z",
+      "last_updated": "2026-06-04T08:44:58.526645Z",
       "lie_count": 52,
       "event_count": 20,
       "post_count": 2,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (5 articles from NZ/intl media)",
+          "RSS (4 articles from NZ/intl media)",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-06-03T09:22:54.731902Z",
+      "last_updated": "2026-06-04T08:44:29.680338Z",
       "lie_count": 4,
       "event_count": 20,
       "post_count": 1,
@@ -43,7 +43,7 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-06-03T09:22:21.643050Z",
+      "last_updated": "2026-06-04T08:44:01.569212Z",
       "lie_count": 13,
       "event_count": 20,
       "post_count": 13,
@@ -56,20 +56,21 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-06-03T09:21:11.553751Z",
+      "last_updated": "2026-06-04T08:43:03.066233Z",
       "lie_count": 21,
       "event_count": 20,
       "post_count": 14,
       "vote_count": 1,
       "sources": [
         [
+          "RSS (2 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-06-03T09:22:39.918500Z",
+      "last_updated": "2026-06-04T08:44:15.800642Z",
       "lie_count": 18,
       "event_count": 20,
       "post_count": 0,
@@ -82,20 +83,22 @@
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-06-03T09:22:06.473371Z",
+      "last_updated": "2026-06-04T08:43:46.603667Z",
       "lie_count": 8,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
+          "GDELT global news database",
           "Tavily: Shane Jones NZ First controversy 2026",
           "Tavily: Shane Jones statement tweet 2026"
         ]
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-06-03T09:21:50.090443Z",
+      "last_updated": "2026-06-04T08:43:31.989963Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
@@ -108,7 +111,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-06-03T09:23:09.163725Z",
+      "last_updated": "2026-06-04T08:44:42.713872Z",
       "lie_count": 1,
       "event_count": 18,
       "post_count": 4,
@@ -121,20 +124,21 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-06-03T09:23:39.106490Z",
+      "last_updated": "2026-06-04T08:45:16.925591Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Anthony Albanese contradiction fact chec",
           "Tavily: Anthony Albanese statement 2026"
         ]
       ]
     },
     "politician_starmer_uk": {
-      "last_updated": "2026-06-03T09:23:53.473851Z",
+      "last_updated": "2026-06-04T08:45:34.942189Z",
       "lie_count": 22,
       "event_count": 20,
       "post_count": 8,

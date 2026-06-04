@@ -923,13 +923,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's contradictory statements and actions have raised concerns about his integrity"
+    },
+    "2026-06-04T08:44:58.526460Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's lies about the Iran nuclear agreement and drug trafficking have further eroded his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-18T08:43:13.085567Z",
-      "text": "Trump's recent statements and actions have raised tensions with Iran and demonstrated a lack of integrity"
-    },
     {
       "date": "2026-05-19T08:23:15.841148Z",
       "text": "Trump's integrity score has decreased due to new lies and discrepancies, while his corruption risk score has increased"
@@ -965,14 +966,13 @@
     {
       "date": "2026-06-03T09:23:24.873818Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and consistency, with contradictory statements on Iran and consumer confidence"
+    },
+    {
+      "date": "2026-06-04T08:44:58.526460Z",
+      "text": "Trump's lies and controversial policies continue to spark backlash, with the US House voting to halt the Iran war and Senate Republicans axing funds for his new White House ballroom"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-04T05:52:13.368490Z",
-      "notes": "Multiple sources confirm Trump's pattern of dishonesty and contradictory statements",
-      "new_items": true
-    },
     {
       "date": "2026-04-06T06:27:29.180007Z",
       "notes": "Multiple new lies and misleading claims were found, primarily from PolitiFact and FactCheck.org.",
@@ -1217,17 +1217,14 @@
       "date": "2026-06-03T09:23:24.873818Z",
       "notes": "Reviewed 5 articles from BBC World and 5 articles from Tavily sources, including PolitiFact and FactCheck.org",
       "new_items": true
+    },
+    {
+      "date": "2026-06-04T08:44:58.526460Z",
+      "notes": "Multiple sources confirm Trump's lies and controversies, with PolitiFact and BBC World providing key evidence",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-14T07:40:17.373280Z",
-      "sources": [
-        "RSS (5 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-16T07:13:44.602241Z",
       "sources": [
@@ -1371,7 +1368,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-04T08:44:58.526621Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-03T09:23:24.873999Z"
+  "last_updated": "2026-06-04T08:44:58.526645Z"
 }
