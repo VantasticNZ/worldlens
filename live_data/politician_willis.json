@@ -576,13 +576,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis' superannuation comments were called an 'unfortunate mistake' by Winston Peters, affecting her integrity score"
+    },
+    "2026-06-05T08:39:31.730907Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Nicola Willis' regret over her social housing comment suggests a lack of consideration for the impact of her words"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-17T07:30:48.695324Z",
-      "text": "Nicola Willis' handling of the economy and contradictory statements have raised concerns about her integrity"
-    },
     {
       "date": "2026-05-18T08:41:48.137268Z",
       "text": "Nicola Willis announces major public service reforms and faces criticism for her handling of the economy"
@@ -618,14 +619,13 @@
     {
       "date": "2026-05-28T08:39:08.031916Z",
       "text": "Nicola Willis delivers Budget 2026, but faces criticism for her superannuation comments"
+    },
+    {
+      "date": "2026-06-05T08:39:31.730907Z",
+      "text": "Nicola Willis delivers Budget 2026 and expresses regret over a comment about social housing"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-10T06:28:03.351274Z",
-      "notes": "Reviewed RNZ News and Tavily sources, found contradiction between Willis' claim and Treasury's forecasts",
-      "new_items": true
-    },
     {
       "date": "2026-04-11T05:55:34.731442Z",
       "notes": "Contradiction found between Nicola Willis' statement and Treasury's forecasts",
@@ -870,16 +870,14 @@
       "date": "2026-06-04T08:44:01.569179Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-05T08:39:31.730907Z",
+      "notes": "Reviewed sources from NZ Herald and RNZ News",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-14T07:38:53.666585Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-16T07:12:20.736879Z",
       "sources": [
@@ -1015,7 +1013,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-05T08:39:31.731029Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-04T08:44:01.569212Z"
+  "last_updated": "2026-06-05T08:39:31.731049Z"
 }

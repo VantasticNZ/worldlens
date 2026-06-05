@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 21,
+  "lie_count": 23,
   "lies": [
     {
       "date": "2026",
@@ -212,6 +212,26 @@
       "platform": "press",
       "_id": "f4574fde",
       "_crawled": "2026-06-02T09:01:22.267247Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "inappropriate China sanction a NZ matter",
+      "reality": "Australia weighs in, suggesting it's not solely a NZ matter",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "aaa9a3de",
+      "_crawled": "2026-06-05T08:38:37.257682Z"
+    },
+    {
+      "date": "2026",
+      "claim": "climate change policies",
+      "reality": "inconsistency between rhetoric and necessary actions to keep warming below 1.5 degrees",
+      "source": "Chloe Swarbrick, NZ Herald",
+      "severity": "high",
+      "platform": "hansard",
+      "_id": "faebb3aa",
+      "_crawled": "2026-06-05T08:38:37.257682Z"
     }
   ],
   "social_posts": [
@@ -410,6 +430,20 @@
       },
       "_id": "d7acfbb0",
       "_crawled": "2026-05-25T08:50:48.030670Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "careful immigration policy and more capital spending in Budget 2026",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "previous statements on immigration",
+        "source": "RNZ News",
+        "severity": "low"
+      },
+      "_id": "dbe4b1ca",
+      "_crawled": "2026-06-05T08:38:37.257682Z"
     }
   ],
   "votes": [
@@ -786,13 +820,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistent statement on climate change policies raises concerns about his integrity"
+    },
+    "2026-06-05T08:38:37.257682Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "inconsistencies in climate change policies and statements on China sanctions"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-20T08:20:16.838844Z",
-      "text": "Christopher Luxon survives National leadership vote and announces Government support for storm-hit regions"
-    },
     {
       "date": "2026-05-21T08:27:21.523156Z",
       "text": "Luxon's claim on Peters and Iran was found to have no evidence to back it, which may indicate a lack of integrity"
@@ -828,14 +863,13 @@
     {
       "date": "2026-06-04T08:43:03.066088Z",
       "text": "New event and potential lie found, but no significant impact on overall score"
+    },
+    {
+      "date": "2026-06-05T08:38:37.257682Z",
+      "text": "Christopher Luxon faces criticism for inconsistencies in climate change policies and statements on China sanctions, while surviving a party leadership vote."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-15T06:27:58.457262Z",
-      "notes": "Multiple sources reported on Luxon's inconsistencies and contradictions",
-      "new_items": true
-    },
     {
       "date": "2026-04-16T06:29:22.279604Z",
       "notes": "Luxon's statements and actions continue to be scrutinized, with potential implications for his integrity and leadership",
@@ -1080,17 +1114,14 @@
       "date": "2026-06-04T08:43:03.066088Z",
       "notes": "Reviewed 9 sources, including RNZ News and The Spinoff",
       "new_items": true
+    },
+    {
+      "date": "2026-06-05T08:38:37.257682Z",
+      "notes": "Multiple sources indicate potential inconsistencies in Luxon's statements and policies.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-10T07:22:05.892990Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-11T08:20:25.930228Z",
       "sources": [
@@ -1240,7 +1271,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-05T08:38:37.257850Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-04T08:43:03.066233Z"
+  "last_updated": "2026-06-05T08:38:37.257873Z"
 }

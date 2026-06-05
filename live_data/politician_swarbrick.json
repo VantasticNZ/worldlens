@@ -240,14 +240,13 @@
     {
       "date": "2026-06-01T10:13:28.571009Z",
       "text": "Chloe Swarbrick and the Green Party have spoken out against Budget 2026, citing its lack of vision and failure to address climate change."
+    },
+    {
+      "date": "2026-06-05T08:40:15.391098Z",
+      "text": "Chloe Swarbrick continues to criticize the government's policies, particularly on climate change and the budget."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-07T06:17:01.010630Z",
-      "notes": "New events and announcements from the Green Party",
-      "new_items": true
-    },
     {
       "date": "2026-04-08T06:18:52.040546Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chloe Swarbrick's statements and actions.",
@@ -492,16 +491,14 @@
       "date": "2026-06-04T08:44:42.713828Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-05T08:40:15.391098Z",
+      "notes": "No significant new lies or social posts found, but new events related to Budget 2026 and climate policy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-10T07:23:18.305802Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-05-11T08:22:41.893835Z",
       "sources": [
@@ -632,7 +629,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-06-05T08:40:15.391177Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-04T08:44:42.713872Z"
+  "last_updated": "2026-06-05T08:40:15.391201Z"
 }

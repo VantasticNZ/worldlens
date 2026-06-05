@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 22,
+  "lie_count": 23,
   "lies": [
     {
       "date": "2026",
@@ -222,6 +222,16 @@
       "platform": "speech",
       "_id": "3f5d95bc",
       "_crawled": "2026-06-01T10:14:08.304339Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "migration to the UK will fall under his new rules",
+      "reality": "no evidence of a decrease in migration",
+      "source": "BBC, June 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "b2316179",
+      "_crawled": "2026-06-05T08:41:03.541954Z"
     }
   ],
   "social_posts": [
@@ -671,13 +681,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "repeated promises of positive change without evidence of fulfillment"
+    },
+    "2026-06-05T08:41:03.541954Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Starmer's promise to reduce migration has been questioned, and his handling of the leadership challenge has raised concerns about his ability to lead the party effectively"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-18T08:43:57.828399Z",
-      "text": "Keir Starmer faces increasing pressure to step down amid criticism of his leadership and perceived broken promises"
-    },
     {
       "date": "2026-05-19T08:23:45.603437Z",
       "text": "Starmer's leadership is facing significant challenges, and his recent statements and actions have raised concerns about his integrity."
@@ -713,14 +724,13 @@
     {
       "date": "2026-06-04T08:45:34.942062Z",
       "text": "Keir Starmer's leadership is being challenged, and his promises of positive change are being questioned"
+    },
+    {
+      "date": "2026-06-05T08:41:03.541954Z",
+      "text": "Keir Starmer's leadership is under scrutiny as he faces a potential challenge and criticism over his promises on migration"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-04T05:52:28.760288Z",
-      "notes": "The Guardian and BBC News articles provided evidence of Starmer's failed promise and strained UK-US relations",
-      "new_items": true
-    },
     {
       "date": "2026-04-06T06:27:51.905795Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new events related to UK foreign policy",
@@ -965,17 +975,14 @@
       "date": "2026-06-04T08:45:34.942062Z",
       "notes": "leadership challenges and unfulfilled promises",
       "new_items": true
+    },
+    {
+      "date": "2026-06-05T08:41:03.541954Z",
+      "notes": "Starmer's statements on migration and leadership have raised concerns about his integrity and ability to lead",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-12T07:41:46.591324Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-13T07:47:07.159520Z",
       "sources": [
@@ -1106,7 +1113,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-05T08:41:03.542078Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-04T08:45:34.942189Z"
+  "last_updated": "2026-06-05T08:41:03.542096Z"
 }

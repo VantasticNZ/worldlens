@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 18,
+  "lie_count": 19,
   "lies": [
     {
       "date": "April 2026",
@@ -182,6 +182,16 @@
       "platform": "press_release",
       "_id": "66740fb5",
       "_crawled": "2026-06-03T09:22:39.918378Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "The current system is unfair, costly and not targeted enough to those with the greatest need.",
+      "reality": "The current system has been criticized for its complexity, but its fairness and cost-effectiveness are debated among experts.",
+      "source": "NZ Herald, June 2026",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "400dd851",
+      "_crawled": "2026-06-05T08:39:46.408220Z"
     }
   ],
   "social_posts": [],
@@ -553,13 +563,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Minister's claim of being on track with social housing delivery contradicts warnings from officials"
+    },
+    "2026-06-05T08:39:46.408220Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The minister's statements have been found to be misleading or inaccurate, which affects his integrity score."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-20T08:22:25.264462Z",
-      "text": "Housing Minister Chris Bishop announces a U-turn on Auckland housing plans, raising concerns about integrity and transparency"
-    },
     {
       "date": "2026-05-21T08:29:20.887366Z",
       "text": "Housing Minister Chris Bishop announced a social housing overhaul, but some claims about the benefits of the changes are questionable"
@@ -595,14 +606,13 @@
     {
       "date": "2026-06-04T08:44:15.800529Z",
       "text": "Housing Minister Chris Bishop announced a social housing overhaul, but has been criticized for his approach to addressing the housing shortage."
+    },
+    {
+      "date": "2026-06-05T08:39:46.408220Z",
+      "text": "Housing Minister Chris Bishop announced a social housing overhaul, but his statements have been found to be misleading or inaccurate."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-06T06:26:56.002301Z",
-      "notes": "No significant new lies or social posts found, but demotion as campaign chair is a notable event",
-      "new_items": true
-    },
     {
       "date": "2026-04-07T06:16:16.262095Z",
       "notes": "Multiple sources reported on Chris Bishop's demotion and housing controversy, but no new lies or social posts were found.",
@@ -847,16 +857,14 @@
       "date": "2026-06-04T08:44:15.800529Z",
       "notes": "Reviewed recent statements and announcements from Chris Bishop regarding social housing",
       "new_items": true
+    },
+    {
+      "date": "2026-06-05T08:39:46.408220Z",
+      "notes": "Minister's statements require closer scrutiny due to inconsistencies and potential biases.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-10T07:22:56.234644Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-11T08:22:07.095539Z",
       "sources": [
@@ -989,7 +997,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-05T08:39:46.408386Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-04T08:44:15.800642Z"
+  "last_updated": "2026-06-05T08:39:46.408406Z"
 }
