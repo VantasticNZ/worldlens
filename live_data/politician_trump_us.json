@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 52,
+  "lie_count": 53,
   "lies": [
     {
       "date": "January 2026",
@@ -522,6 +522,16 @@
       "platform": "speech",
       "_id": "4803ab9a",
       "_crawled": "2026-06-02T09:04:05.959727Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Experts have admitted that prior climate change projections were WRONG!",
+      "reality": "The regularly scheduled revision reflects progress in moving away from fossil fuels",
+      "source": "FactCheck.org, June 2026",
+      "severity": "med",
+      "platform": "social media",
+      "_id": "845e2f41",
+      "_crawled": "2026-06-06T07:42:32.159823Z"
     }
   ],
   "social_posts": [
@@ -928,13 +938,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's lies about the Iran nuclear agreement and drug trafficking have further eroded his integrity score"
+    },
+    "2026-06-06T07:42:32.159823Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's repeated lies and contradictory statements have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-20T08:23:14.941661Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and judgment, particularly with regards to his handling of international relations and his endorsement of controversial figures"
-    },
     {
       "date": "2026-05-21T08:30:46.697286Z",
       "text": "Trump's recent actions and statements have raised concerns about his integrity and leadership."
@@ -970,14 +981,13 @@
     {
       "date": "2026-06-05T08:40:31.212464Z",
       "text": "Trump's recent statements and actions continue to raise concerns about his integrity and policy consistency."
+    },
+    {
+      "date": "2026-06-06T07:42:32.159823Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity and policy decisions"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-07T06:17:24.329456Z",
-      "notes": "New lies and events related to Trump's Iran policy and endorsements",
-      "new_items": true
-    },
     {
       "date": "2026-04-08T06:19:26.762171Z",
       "notes": "Trump's social media posts and public statements continue to be a source of controversy and misinformation",
@@ -1222,17 +1232,14 @@
       "date": "2026-06-05T08:40:31.212464Z",
       "notes": "Reviewed 7 articles from NZ and international media, as well as Tavily fact-checking reports.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-06T07:42:32.159823Z",
+      "notes": "Multiple sources confirm Trump's lies and contradictory statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-17T07:32:36.281696Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-18T08:43:13.085741Z",
       "sources": [
@@ -1376,7 +1383,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-06T07:42:32.160105Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-05T08:40:31.212623Z"
+  "last_updated": "2026-06-06T07:42:32.160126Z"
 }

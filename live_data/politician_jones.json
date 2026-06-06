@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 8,
+  "lie_count": 10,
   "lies": [
     {
       "date": "March 2026",
@@ -82,9 +82,44 @@
       "platform": "speech",
       "_id": "98fb6930",
       "_crawled": "2026-05-23T07:27:12.523580Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "immigration has been snuck into the free trade deal in a way that does not reflect the expectations of Kiwis",
+      "reality": "no evidence to support this claim",
+      "source": "RNZ, May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "e36a9fe5",
+      "_crawled": "2026-06-06T07:41:12.603366Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Ngāti Ruanui is not smart because it supported Ngarewa-Packer",
+      "reality": "no basis for this claim",
+      "source": "RNZ, May 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "57c65143",
+      "_crawled": "2026-06-06T07:41:12.603366Z"
     }
   ],
-  "social_posts": [],
+  "social_posts": [
+    {
+      "platform": "twitter",
+      "date": "April 2026",
+      "text": "apology for Nicola Willis weight loss comments",
+      "verified_by": "The Spinoff, April 2026",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "previously made comments about Nicola Willis' weight loss",
+        "source": "The Spinoff, April 2026",
+        "severity": "med"
+      },
+      "_id": "bef75638",
+      "_crawled": "2026-06-06T07:41:12.603366Z"
+    }
+  ],
   "votes": [],
   "recent_events": [
     {
@@ -403,13 +438,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' repeated offensive and exaggerated comments have further eroded his integrity score"
+    },
+    "2026-06-06T07:41:12.603366Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "repeated instances of dishonest or misleading comments"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-21T08:28:37.303340Z",
-      "text": "Shane Jones has been involved in several controversies, including apologising for comments about Nicola Willis' weight loss and facing demands for an apology from Ngāti Ruanui"
-    },
     {
       "date": "2026-05-22T08:18:42.227004Z",
       "text": "Shane Jones has faced criticism for his recent comments, including comparing the India FTA to a 'butter chicken tsunami' and making comments about Nicola Willis' weight loss"
@@ -445,14 +481,13 @@
     {
       "date": "2026-06-05T08:39:18.886048Z",
       "text": "Shane Jones faced criticism for his comments on Nicola Willis' weight loss and his comments on Ngāti Ruanui"
+    },
+    {
+      "date": "2026-06-06T07:41:12.603366Z",
+      "text": "Shane Jones continues to make controversial comments, including defending his comparison of the India FTA to a 'butter chicken tsunami' and refusing to apologize for comments about Ngāti Ruanui."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-11T05:55:15.428810Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-14T06:26:59.769245Z",
       "notes": "Multiple sources indicate Jones' willingness to change his position in response to criticism and feedback",
@@ -697,16 +732,14 @@
       "date": "2026-06-05T08:39:18.886048Z",
       "notes": "No significant new lies or social posts found, but new events related to Shane Jones' controversies",
       "new_items": true
+    },
+    {
+      "date": "2026-06-06T07:41:12.603366Z",
+      "notes": "multiple sources confirm pattern of dishonest or misleading comments",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-11T08:21:17.699870Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-05-12T07:39:08.342306Z",
       "sources": [
@@ -843,7 +876,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-06-06T07:41:12.603475Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-05T08:39:18.886160Z"
+  "last_updated": "2026-06-06T07:41:12.603494Z"
 }

@@ -572,10 +572,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-21T08:29:20.887366Z",
-      "text": "Housing Minister Chris Bishop announced a social housing overhaul, but some claims about the benefits of the changes are questionable"
-    },
-    {
       "date": "2026-05-22T08:19:37.303578Z",
       "text": "Housing Minister Chris Bishop announced a major social housing shake-up, which may have significant consequences for many households"
     },
@@ -610,14 +606,13 @@
     {
       "date": "2026-06-05T08:39:46.408220Z",
       "text": "Housing Minister Chris Bishop announced a social housing overhaul, but his statements have been found to be misleading or inaccurate."
+    },
+    {
+      "date": "2026-06-06T07:41:47.403612Z",
+      "text": "Housing Minister Chris Bishop announced a social housing overhaul and the Budget 2026 invests in additional social homes."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-07T06:16:16.262095Z",
-      "notes": "Multiple sources reported on Chris Bishop's demotion and housing controversy, but no new lies or social posts were found.",
-      "new_items": true
-    },
     {
       "date": "2026-04-08T06:18:11.621223Z",
       "notes": "Multiple sources confirm the slashing of Auckland housing numbers, contradicting Chris Bishop's claim",
@@ -862,16 +857,14 @@
       "date": "2026-06-05T08:39:46.408220Z",
       "notes": "Minister's statements require closer scrutiny due to inconsistencies and potential biases.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-06T07:41:47.403612Z",
+      "notes": "Reviewed sources from NZ Herald and Beehive.govt.nz.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-11T08:22:07.095539Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-12T07:39:46.874508Z",
       "sources": [
@@ -1004,7 +997,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-06T07:41:47.403744Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-05T08:39:46.408406Z"
+  "last_updated": "2026-06-06T07:41:47.403762Z"
 }

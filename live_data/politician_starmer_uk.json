@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 23,
+  "lie_count": 24,
   "lies": [
     {
       "date": "2026",
@@ -232,6 +232,16 @@
       "platform": "speech",
       "_id": "b2316179",
       "_crawled": "2026-06-05T08:41:03.541954Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "people will feel positive change in their lives",
+      "reality": "no evidence of positive change",
+      "source": "BBC, June 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "887a9b07",
+      "_crawled": "2026-06-06T07:42:57.080131Z"
     }
   ],
   "social_posts": [
@@ -346,6 +356,20 @@
       },
       "_id": "ae403e0a",
       "_crawled": "2026-05-18T08:43:57.828399Z"
+    },
+    {
+      "platform": "press",
+      "date": "June 2026",
+      "text": "Starmer vows to 'defeat decline and division' in new year message",
+      "verified_by": "BBC",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "previous promises of positive change",
+        "source": "The Guardian",
+        "severity": "med"
+      },
+      "_id": "993eb81a",
+      "_crawled": "2026-06-06T07:42:57.080131Z"
     }
   ],
   "votes": [],
@@ -686,13 +710,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Starmer's promise to reduce migration has been questioned, and his handling of the leadership challenge has raised concerns about his ability to lead the party effectively"
+    },
+    "2026-06-06T07:42:57.080131Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "repeated promises of positive change without evidence"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-19T08:23:45.603437Z",
-      "text": "Starmer's leadership is facing significant challenges, and his recent statements and actions have raised concerns about his integrity."
-    },
     {
       "date": "2026-05-21T08:31:45.809894Z",
       "text": "Keir Starmer faces a potential leadership challenge and has made repeated claims of defeating decline and division without evidence."
@@ -728,14 +753,13 @@
     {
       "date": "2026-06-05T08:41:03.541954Z",
       "text": "Keir Starmer's leadership is under scrutiny as he faces a potential challenge and criticism over his promises on migration"
+    },
+    {
+      "date": "2026-06-06T07:42:57.080131Z",
+      "text": "Keir Starmer's leadership is being challenged, and his promises of positive change are being questioned."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-06T06:27:51.905795Z",
-      "notes": "No significant new findings on lies, social posts, or votes, but new events related to UK foreign policy",
-      "new_items": true
-    },
     {
       "date": "2026-04-07T06:17:59.029409Z",
       "notes": "Claims of economic improvement and positive change have been disputed, and the UK's involvement in the Middle East has increased.",
@@ -980,16 +1004,14 @@
       "date": "2026-06-05T08:41:03.541954Z",
       "notes": "Starmer's statements on migration and leadership have raised concerns about his integrity and ability to lead",
       "new_items": true
+    },
+    {
+      "date": "2026-06-06T07:42:57.080131Z",
+      "notes": "Multiple sources indicate a potential leadership challenge and discrepancies in Starmer's statements.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-13T07:47:07.159520Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-14T07:40:48.648048Z",
       "sources": [
@@ -1120,7 +1142,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-06T07:42:57.080265Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-05T08:41:03.542096Z"
+  "last_updated": "2026-06-06T07:42:57.080283Z"
 }

@@ -627,11 +627,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-11T05:55:34.731442Z",
-      "notes": "Contradiction found between Nicola Willis' statement and Treasury's forecasts",
-      "new_items": true
-    },
-    {
       "date": "2026-04-12T06:20:13.280786Z",
       "notes": "Reviewed sources include NZ Herald, Beehive.govt.nz, and RNZ.co.nz",
       "new_items": true
@@ -875,16 +870,14 @@
       "date": "2026-06-05T08:39:31.730907Z",
       "notes": "Reviewed sources from NZ Herald and RNZ News",
       "new_items": true
+    },
+    {
+      "date": "2026-06-06T07:41:28.287564Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but new events related to Budget 2026 and Australia PM's response to Nicola Willis' tax attacks",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-16T07:12:20.736879Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-17T07:30:48.695449Z",
       "sources": [
@@ -1020,7 +1013,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-06T07:41:28.287669Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-05T08:39:31.731049Z"
+  "last_updated": "2026-06-06T07:41:28.287690Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 23,
+  "lie_count": 24,
   "lies": [
     {
       "date": "2026",
@@ -232,6 +232,16 @@
       "platform": "hansard",
       "_id": "faebb3aa",
       "_crawled": "2026-06-05T08:38:37.257682Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "inconsistent statement on climate change policies",
+      "reality": "Luxon's statement contradicts necessary actions to keep warming below 1.5 degrees",
+      "source": "NZ Herald, June 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "bbcbbb05",
+      "_crawled": "2026-06-06T07:40:20.756315Z"
     }
   ],
   "social_posts": [
@@ -444,6 +454,20 @@
       },
       "_id": "dbe4b1ca",
       "_crawled": "2026-06-05T08:38:37.257682Z"
+    },
+    {
+      "platform": "press",
+      "date": "June 2026",
+      "text": "Luxon speaks after press conference with Anthony Albanese",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Luxon's statement on climate change policies contradicts his previous actions",
+        "source": "NZ Herald",
+        "severity": "high"
+      },
+      "_id": "c9cc0c4d",
+      "_crawled": "2026-06-06T07:40:20.756315Z"
     }
   ],
   "votes": [
@@ -825,13 +849,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "inconsistencies in climate change policies and statements on China sanctions"
+    },
+    "2026-06-06T07:40:20.756315Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistent statement on climate change policies raises concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-21T08:27:21.523156Z",
-      "text": "Luxon's claim on Peters and Iran was found to have no evidence to back it, which may indicate a lack of integrity"
-    },
     {
       "date": "2026-05-22T08:17:33.826162Z",
       "text": "Luxon's integrity score takes a hit due to unsubstantiated claim about Peters"
@@ -867,14 +892,13 @@
     {
       "date": "2026-06-05T08:38:37.257682Z",
       "text": "Christopher Luxon faces criticism for inconsistencies in climate change policies and statements on China sanctions, while surviving a party leadership vote."
+    },
+    {
+      "date": "2026-06-06T07:40:20.756315Z",
+      "text": "Luxon's recent statements and actions have raised concerns about his integrity and commitment to climate change policies"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-16T06:29:22.279604Z",
-      "notes": "Luxon's statements and actions continue to be scrutinized, with potential implications for his integrity and leadership",
-      "new_items": true
-    },
     {
       "date": "2026-04-17T06:29:26.184171Z",
       "notes": "Reviewed RNZ News, Newsroom, and NZ Herald articles for updates on Luxon's leadership and climate change policies",
@@ -1119,17 +1143,14 @@
       "date": "2026-06-05T08:38:37.257682Z",
       "notes": "Multiple sources indicate potential inconsistencies in Luxon's statements and policies.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-06T07:40:20.756315Z",
+      "notes": "Reviewed 6 articles from NZ/intl media and 6 Tavily sources",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-11T08:20:25.930228Z",
-      "sources": [
-        "RSS (5 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-12T07:37:54.796720Z",
       "sources": [
@@ -1279,7 +1300,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-06T07:40:20.756464Z",
+      "sources": [
+        "RSS (6 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-05T08:38:37.257873Z"
+  "last_updated": "2026-06-06T07:40:20.756487Z"
 }

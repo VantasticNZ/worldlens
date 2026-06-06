@@ -42,6 +42,20 @@
       },
       "_id": "bc8d438d",
       "_crawled": "2026-04-09T06:17:02.196468Z"
+    },
+    {
+      "platform": "press",
+      "date": "June 2026",
+      "text": "Anthony Albanese and Christopher Luxon call for reforms to create a seamless trans-Tasman economy amid global turmoil.",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "none",
+        "detail": "",
+        "source": "",
+        "severity": "none"
+      },
+      "_id": "3bf643ef",
+      "_crawled": "2026-06-06T07:42:46.578646Z"
     }
   ],
   "votes": [],
@@ -248,14 +262,13 @@
     {
       "date": "2026-06-02T09:04:23.061877Z",
       "text": "Anthony Albanese has been involved in several significant events, including the signing of a free trade pact with the EU and the announcement of a hate speech crackdown."
+    },
+    {
+      "date": "2026-06-06T07:42:46.578646Z",
+      "text": "Anthony Albanese met with Christopher Luxon for the Australia-New Zealand Leaders' Meeting and announced a crackdown on hate speech."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-07T06:17:40.990965Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-08T06:20:00.690981Z",
       "notes": "No significant new findings",
@@ -500,17 +513,14 @@
       "date": "2026-06-05T08:40:46.382572Z",
       "notes": "New events and meetings added",
       "new_items": true
+    },
+    {
+      "date": "2026-06-06T07:42:46.578646Z",
+      "notes": "Reviewed 5 RSS articles and 7 Tavily sources, with a focus on recent events and statements from Anthony Albanese.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-11T08:23:19.137453Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-05-12T07:41:26.216653Z",
       "sources": [
@@ -646,7 +656,15 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-06T07:42:46.578755Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-05T08:40:46.382698Z"
+  "last_updated": "2026-06-06T07:42:46.578775Z"
 }

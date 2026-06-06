@@ -215,6 +215,15 @@
       "source": "www.greens.org.nz",
       "_id": "a73c18c5",
       "_crawled": "2026-06-01T10:13:28.571009Z"
+    },
+    {
+      "year": 2026,
+      "title": "State of the Planet address",
+      "desc": "The Green Party used its 2026 State of the Planet address to call for a National Electrification Plan and set out a vision for a resilient, independent Aotearoa.",
+      "type": "positive",
+      "source": "www.greens.org.nz",
+      "_id": "5b3530ec",
+      "_crawled": "2026-06-06T07:42:18.543571Z"
     }
   ],
   "score_adjustments": {
@@ -244,14 +253,13 @@
     {
       "date": "2026-06-05T08:40:15.391098Z",
       "text": "Chloe Swarbrick continues to criticize the government's policies, particularly on climate change and the budget."
+    },
+    {
+      "date": "2026-06-06T07:42:18.543571Z",
+      "text": "Chlöe Swarbrick continues to criticize the government's climate policies and budget, while promoting the Green Party's vision for a sustainable future."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-08T06:18:52.040546Z",
-      "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chloe Swarbrick's statements and actions.",
-      "new_items": true
-    },
     {
       "date": "2026-04-09T06:16:42.338890Z",
       "notes": "No significant new findings",
@@ -496,16 +504,14 @@
       "date": "2026-06-05T08:40:15.391098Z",
       "notes": "No significant new lies or social posts found, but new events related to Budget 2026 and climate policy",
       "new_items": true
+    },
+    {
+      "date": "2026-06-06T07:42:18.543571Z",
+      "notes": "No significant new lies or social posts found, but new events and summary update reflect ongoing political activity.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-11T08:22:41.893835Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-05-12T07:40:36.431384Z",
       "sources": [
@@ -636,7 +642,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-06-06T07:42:18.543650Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-05T08:40:15.391201Z"
+  "last_updated": "2026-06-06T07:42:18.543670Z"
 }
