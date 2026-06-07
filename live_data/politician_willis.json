@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 13,
+  "lie_count": 14,
   "lies": [
     {
       "date": "February 2026",
@@ -132,6 +132,16 @@
       "platform": "speech",
       "_id": "2801e865",
       "_crawled": "2026-05-28T08:39:08.031916Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "people in social housing 'have won the Lotto'",
+      "reality": "people in social housing do not necessarily have an unfair advantage",
+      "source": "NZ Herald, May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "64997dc3",
+      "_crawled": "2026-06-07T08:19:23.105169Z"
     }
   ],
   "social_posts": [
@@ -581,13 +591,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis' regret over her social housing comment suggests a lack of consideration for the impact of her words"
+    },
+    "2026-06-07T08:19:23.105169Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Nicola Willis's statement on social housing was widely criticized, and her subsequent apology and retraction may indicate a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-18T08:41:48.137268Z",
-      "text": "Nicola Willis announces major public service reforms and faces criticism for her handling of the economy"
-    },
     {
       "date": "2026-05-19T08:22:08.741144Z",
       "text": "Nicola Willis announces public sector job cuts and faces calls to resign over contradictory statements on NZ's fiscal path"
@@ -623,14 +634,13 @@
     {
       "date": "2026-06-05T08:39:31.730907Z",
       "text": "Nicola Willis delivers Budget 2026 and expresses regret over a comment about social housing"
+    },
+    {
+      "date": "2026-06-07T08:19:23.105169Z",
+      "text": "Nicola Willis's Budget 2026 announcement and subsequent statements have raised concerns about her integrity and commitment to public services"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-12T06:20:13.280786Z",
-      "notes": "Reviewed sources include NZ Herald, Beehive.govt.nz, and RNZ.co.nz",
-      "new_items": true
-    },
     {
       "date": "2026-04-14T06:27:11.908365Z",
       "notes": "Labour Party release and Stuff.co.nz article provide new information on Nicola Willis' statements and actions",
@@ -875,16 +885,14 @@
       "date": "2026-06-06T07:41:28.287564Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to Budget 2026 and Australia PM's response to Nicola Willis' tax attacks",
       "new_items": true
+    },
+    {
+      "date": "2026-06-07T08:19:23.105169Z",
+      "notes": "Reviewed Tavily sources from May 2026, focusing on Nicola Willis's statements and actions related to Budget 2026",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-17T07:30:48.695449Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-18T08:41:48.137372Z",
       "sources": [
@@ -1021,7 +1029,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-07T08:19:23.105281Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-06T07:41:28.287690Z"
+  "last_updated": "2026-06-07T08:19:23.105302Z"
 }

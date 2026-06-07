@@ -1,35 +1,36 @@
 {
-  "generated": "2026-06-06T07:42:58.081715Z",
+  "generated": "2026-06-07T08:20:44.202115Z",
   "files": {
     "politician_peters": {
-      "last_updated": "2026-06-06T07:40:36.225350Z",
+      "last_updated": "2026-06-07T08:18:44.446066Z",
       "lie_count": 18,
       "event_count": 20,
       "post_count": 15,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Winston Peters NZ First contradiction 20",
           "Tavily: Winston Peters tweet statement 2026"
         ]
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-06-06T07:42:32.160126Z",
+      "last_updated": "2026-06-07T08:20:16.345989Z",
       "lie_count": 53,
       "event_count": 20,
-      "post_count": 2,
+      "post_count": 3,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-06-06T07:42:00.147118Z",
+      "last_updated": "2026-06-07T08:19:47.882853Z",
       "lie_count": 4,
       "event_count": 20,
       "post_count": 1,
@@ -42,35 +43,34 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-06-06T07:41:28.287690Z",
-      "lie_count": 13,
+      "last_updated": "2026-06-07T08:19:23.105302Z",
+      "lie_count": 14,
       "event_count": 20,
       "post_count": 13,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Nicola Willis finance minister contradic",
           "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-06-06T07:40:20.756487Z",
+      "last_updated": "2026-06-07T08:18:31.643995Z",
       "lie_count": 24,
       "event_count": 20,
       "post_count": 16,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (6 articles from NZ/intl media)",
+          "RSS (5 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-06-06T07:41:47.403762Z",
+      "last_updated": "2026-06-07T08:19:35.534639Z",
       "lie_count": 19,
       "event_count": 20,
       "post_count": 0,
@@ -83,10 +83,10 @@
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-06-06T07:41:12.603494Z",
-      "lie_count": 10,
+      "last_updated": "2026-06-07T08:19:10.581402Z",
+      "lie_count": 11,
       "event_count": 20,
-      "post_count": 1,
+      "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
@@ -96,7 +96,7 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-06-06T07:40:53.783153Z",
+      "last_updated": "2026-06-07T08:18:55.011994Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
@@ -109,7 +109,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-06-06T07:42:18.543670Z",
+      "last_updated": "2026-06-07T08:19:59.214673Z",
       "lie_count": 1,
       "event_count": 19,
       "post_count": 4,
@@ -122,21 +122,21 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-06-06T07:42:46.578775Z",
+      "last_updated": "2026-06-07T08:20:30.152013Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 3,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (5 articles from NZ/intl media)",
+          "RSS (3 articles from NZ/intl media)",
           "Tavily: Anthony Albanese contradiction fact chec",
           "Tavily: Anthony Albanese statement 2026"
         ]
       ]
     },
     "politician_starmer_uk": {
-      "last_updated": "2026-06-06T07:42:57.080283Z",
+      "last_updated": "2026-06-07T08:20:43.200596Z",
       "lie_count": 24,
       "event_count": 20,
       "post_count": 9,

@@ -715,13 +715,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "repeated promises of positive change without evidence"
+    },
+    "2026-06-07T08:20:43.200458Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "repeated promises of change without significant action"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-21T08:31:45.809894Z",
-      "text": "Keir Starmer faces a potential leadership challenge and has made repeated claims of defeating decline and division without evidence."
-    },
     {
       "date": "2026-05-22T08:21:27.865956Z",
       "text": "Keir Starmer's leadership is being challenged from within his own party, and he has been found to have made another promise that has not been fulfilled"
@@ -757,14 +758,13 @@
     {
       "date": "2026-06-06T07:42:57.080131Z",
       "text": "Keir Starmer's leadership is being challenged, and his promises of positive change are being questioned."
+    },
+    {
+      "date": "2026-06-07T08:20:43.200458Z",
+      "text": "Keir Starmer's leadership faces increasing scrutiny as promises of change remain unfulfilled"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-07T06:17:59.029409Z",
-      "notes": "Claims of economic improvement and positive change have been disputed, and the UK's involvement in the Middle East has increased.",
-      "new_items": true
-    },
     {
       "date": "2026-04-08T06:20:34.477644Z",
       "notes": "Multiple sources indicate a growing sense of distrust among voters due to unfulfilled promises",
@@ -1009,16 +1009,14 @@
       "date": "2026-06-06T07:42:57.080131Z",
       "notes": "Multiple sources indicate a potential leadership challenge and discrepancies in Starmer's statements.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-07T08:20:43.200458Z",
+      "notes": "Reviewed Tavily sources from BBC and The Guardian, focusing on Starmer's statements and actions in 2026",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-14T07:40:48.648048Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-16T07:14:18.116952Z",
       "sources": [
@@ -1149,7 +1147,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-07T08:20:43.200573Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-06T07:42:57.080283Z"
+  "last_updated": "2026-06-07T08:20:43.200596Z"
 }
