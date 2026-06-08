@@ -468,6 +468,20 @@
       },
       "_id": "c9cc0c4d",
       "_crawled": "2026-06-06T07:40:20.756315Z"
+    },
+    {
+      "platform": "press",
+      "date": "June 2026",
+      "text": "National will double QEII trust funding if re-elected",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "No previous announcement on doubling QEII trust funding",
+        "source": "RNZ News",
+        "severity": "med"
+      },
+      "_id": "3a8375c1",
+      "_crawled": "2026-06-08T09:17:46.487590Z"
     }
   ],
   "votes": [
@@ -858,10 +872,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-23T07:26:03.203005Z",
-      "text": "New findings suggest the Prime Minister has made another false claim, potentially damaging his integrity score"
-    },
-    {
       "date": "2026-05-24T07:45:48.867988Z",
       "text": "Christopher Luxon survived a leadership vote and made statements on various topics, including his support for the Crusaders and his views on global issues"
     },
@@ -896,14 +906,13 @@
     {
       "date": "2026-06-07T08:18:31.643851Z",
       "text": "Luxon meets with Australian PM and addresses China's ban on New Zealand MPs"
+    },
+    {
+      "date": "2026-06-08T09:17:46.487590Z",
+      "text": "Luxon comments on international events and meets with Australian PM"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-18T06:08:07.733121Z",
-      "notes": "Multiple sources report on Luxon's meetings with world leaders and potential leadership challenges.",
-      "new_items": true
-    },
     {
       "date": "2026-04-19T06:24:53.250531Z",
       "notes": "No significant new lies or social posts found, but leadership speculation and international meeting are notable events.",
@@ -1148,17 +1157,14 @@
       "date": "2026-06-07T08:18:31.643851Z",
       "notes": "Reviewed 5 RSS articles and 5 Tavily sources",
       "new_items": true
+    },
+    {
+      "date": "2026-06-08T09:17:46.487590Z",
+      "notes": "RNZ News articles provide updates on Luxon's recent activities and statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-13T07:45:13.086992Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-14T07:37:33.974728Z",
       "sources": [
@@ -1308,7 +1314,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-08T09:17:46.487713Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-07T08:18:31.643995Z"
+  "last_updated": "2026-06-08T09:17:46.487737Z"
 }

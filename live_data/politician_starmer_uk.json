@@ -766,11 +766,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-08T06:20:34.477644Z",
-      "notes": "Multiple sources indicate a growing sense of distrust among voters due to unfulfilled promises",
-      "new_items": true
-    },
-    {
       "date": "2026-04-09T06:17:15.658836Z",
       "notes": "Further investigation into the UK's involvement in the Middle East and its relationship with the EU is needed",
       "new_items": true
@@ -1014,17 +1009,14 @@
       "date": "2026-06-07T08:20:43.200458Z",
       "notes": "Reviewed Tavily sources from BBC and The Guardian, focusing on Starmer's statements and actions in 2026",
       "new_items": true
+    },
+    {
+      "date": "2026-06-08T09:20:17.239014Z",
+      "notes": "New social media ban announcement found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-16T07:14:18.116952Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-17T07:33:10.505650Z",
       "sources": [
@@ -1154,7 +1146,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-08T09:20:17.239084Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-07T08:20:43.200596Z"
+  "last_updated": "2026-06-08T09:20:17.239105Z"
 }

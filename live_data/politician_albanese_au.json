@@ -270,11 +270,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-09T06:17:02.196468Z",
-      "notes": "Reviewed sources for new information on Anthony Albanese",
-      "new_items": true
-    },
-    {
       "date": "2026-04-10T06:28:58.180953Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -518,16 +513,14 @@
       "date": "2026-06-07T08:20:30.151974Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-08T09:19:59.001468Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-14T07:40:33.487058Z",
-      "sources": [
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-05-16T07:13:59.808101Z",
       "sources": [
@@ -664,7 +657,15 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-08T09:19:59.001484Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-07T08:20:30.152013Z"
+  "last_updated": "2026-06-08T09:19:59.001554Z"
 }

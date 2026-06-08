@@ -238,11 +238,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-14T06:26:48.565200Z",
-      "notes": "No significant new findings related to lies, social posts, or votes, but a new event related to the government's response to the fuel crisis",
-      "new_items": true
-    },
-    {
       "date": "2026-04-15T06:28:29.293695Z",
       "notes": "New events added related to David Seymour's recent activities",
       "new_items": true
@@ -486,17 +481,14 @@
       "date": "2026-06-07T08:18:55.011944Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-08T09:18:17.663474Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-14T07:38:17.616932Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-05-16T07:11:37.955642Z",
       "sources": [
@@ -631,7 +623,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-08T09:18:17.663490Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-07T08:18:55.011994Z"
+  "last_updated": "2026-06-08T09:18:17.663546Z"
 }

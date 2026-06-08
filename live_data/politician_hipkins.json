@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 4,
+  "lie_count": 5,
   "lies": [
     {
       "date": "May 2026",
@@ -42,6 +42,16 @@
       "platform": "interview",
       "_id": "1f53bb41",
       "_crawled": "2026-06-02T09:03:24.663369Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "New Zealanders don't really care about the detail of the NZ Future Fund policy",
+      "reality": "The public may care about the details of the policy, as it affects their future",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "3ec69281",
+      "_crawled": "2026-06-08T09:19:16.547846Z"
     }
   ],
   "social_posts": [
@@ -272,10 +282,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-21T08:29:47.115824Z",
-      "text": "Chris Hipkins faces personal and political challenges, including allegations from his ex-wife and criticism of his leadership"
-    },
-    {
       "date": "2026-05-22T08:19:57.513396Z",
       "text": "Chris Hipkins faced personal and political drama after his ex-wife made unsubstantiated claims against him, but he has denied the allegations and remains committed to his role as Labour leader."
     },
@@ -310,14 +316,13 @@
     {
       "date": "2026-06-07T08:19:47.882754Z",
       "text": "Chris Hipkins faces personal and political challenges, including allegations from his ex-wife and criticism of his handling of the NZ Future Fund policy"
+    },
+    {
+      "date": "2026-06-08T09:19:16.547846Z",
+      "text": "Chris Hipkins continues to make statements about Labour's policies and commitments, while navigating personal and political challenges"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-14T06:27:30.335927Z",
-      "notes": "No significant new findings on policy or votes, but personal life allegations may impact public perception.",
-      "new_items": true
-    },
     {
       "date": "2026-04-15T06:29:06.890066Z",
       "notes": "Reviewed Tavily sources and NZ news outlets for updates on Chris Hipkins",
@@ -562,16 +567,14 @@
       "date": "2026-06-07T08:19:47.882754Z",
       "notes": "Multiple sources report on Hipkins' personal and political struggles, including his denial of ex-wife's allegations and his comments on the NZ Future Fund policy",
       "new_items": true
+    },
+    {
+      "date": "2026-06-08T09:19:16.547846Z",
+      "notes": "Reviewed RNZ News and NZ Herald articles for updates on Chris Hipkins' statements and actions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-13T07:46:25.318609Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-14T07:39:37.705886Z",
       "sources": [
@@ -706,7 +709,15 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-08T09:19:16.547956Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-07T08:19:47.882853Z"
+  "last_updated": "2026-06-08T09:19:16.547979Z"
 }

@@ -50,6 +50,29 @@
       "discrepancy": null,
       "_id": "c280eb1a",
       "_crawled": "2026-05-07T07:40:33.271295Z"
+    },
+    {
+      "platform": "speech",
+      "date": "May 2026",
+      "text": "Budget 2026 confirms the Government has no plan to meet our commitment under the Paris Climate Agreement, at a cost that previously Treasury calculated as up to $23 billion due by 2030.",
+      "verified_by": "www.greens.org.nz",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "The statement may be misleading as it does not provide context about the current government's plans or actions towards meeting the Paris Climate Agreement.",
+        "source": "www.greens.org.nz",
+        "severity": "low"
+      },
+      "_id": "7699df19",
+      "_crawled": "2026-06-08T09:19:31.189596Z"
+    },
+    {
+      "platform": "speech",
+      "date": "April 2026",
+      "text": "The Green Party has used its 2026 State of the Planet address to set out a vision for a resilient, independent Aotearoa and to call on the Government to create a National Electrification Plan.",
+      "verified_by": "www.greens.org.nz",
+      "discrepancy": null,
+      "_id": "34d8b99e",
+      "_crawled": "2026-06-08T09:19:31.189596Z"
     }
   ],
   "votes": [],
@@ -260,11 +283,6 @@
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-10T06:28:40.650709Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-14T06:27:43.689503Z",
       "notes": "No significant new findings",
@@ -509,16 +527,14 @@
       "date": "2026-06-07T08:19:59.214633Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-08T09:19:31.189596Z",
+      "notes": "No significant new findings, but some updates on recent events and social posts.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-14T07:40:01.763602Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-05-16T07:13:27.985583Z",
       "sources": [
@@ -649,7 +665,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-06-08T09:19:31.189698Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-07T08:19:59.214673Z"
+  "last_updated": "2026-06-08T09:19:31.189723Z"
 }

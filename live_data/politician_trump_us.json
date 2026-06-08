@@ -962,13 +962,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's consistent pattern of making false claims and misleading statements has further eroded his integrity score"
+    },
+    "2026-06-08T09:19:46.893173Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's repeated lies and abrupt ending of an interview contribute to a decrease in integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-22T08:20:52.330745Z",
-      "text": "Trump's recent actions and statements have raised concerns about his integrity and increased the risk of corruption"
-    },
     {
       "date": "2026-05-23T07:29:16.285998Z",
       "text": "New lies and controversies have been discovered, including a claim about consumer confidence and protests against Trump in Greenland"
@@ -1004,14 +1005,13 @@
     {
       "date": "2026-06-07T08:20:16.345763Z",
       "text": "Trump's recent statements and actions have continued to raise concerns about his integrity and honesty, with multiple fact-checking organizations debunking his claims"
+    },
+    {
+      "date": "2026-06-08T09:19:46.893173Z",
+      "text": "Trump's recent actions and statements have raised concerns about his integrity and commitment to truth"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-09T06:16:51.335763Z",
-      "notes": "Trump's social media posts and public statements have been fact-checked and found to contain several false claims.",
-      "new_items": true
-    },
     {
       "date": "2026-04-14T06:27:53.907951Z",
       "notes": "Trump's social media posts and speeches continue to be a source of controversy and contradiction",
@@ -1256,17 +1256,14 @@
       "date": "2026-06-07T08:20:16.345763Z",
       "notes": "Multiple sources confirm Trump's pattern of dishonesty and contradictory statements",
       "new_items": true
+    },
+    {
+      "date": "2026-06-08T09:19:46.893173Z",
+      "notes": "Reviewed RSS and GDELT sources, as well as Tavily fact-checking reports",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-19T08:23:15.841344Z",
-      "sources": [
-        "RSS (6 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-20T08:23:14.941822Z",
       "sources": [
@@ -1409,7 +1406,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-08T09:19:46.893369Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-07T08:20:16.345989Z"
+  "last_updated": "2026-06-08T09:19:46.893391Z"
 }
