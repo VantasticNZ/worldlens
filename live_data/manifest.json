@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-08T09:20:18.240751Z",
+  "generated": "2026-06-09T08:28:41.709452Z",
   "files": {
     "politician_peters": {
-      "last_updated": "2026-06-08T09:18:00.706203Z",
-      "lie_count": 18,
+      "last_updated": "2026-06-09T08:26:33.235695Z",
+      "lie_count": 19,
       "event_count": 20,
       "post_count": 15,
       "vote_count": 0,
@@ -16,22 +16,21 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-06-08T09:19:46.893391Z",
+      "last_updated": "2026-06-09T08:28:13.802165Z",
       "lie_count": 53,
       "event_count": 20,
       "post_count": 3,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
-          "GDELT global news database",
+          "RSS (5 articles from NZ/intl media)",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-06-08T09:19:16.547979Z",
+      "last_updated": "2026-06-09T08:27:49.073982Z",
       "lie_count": 5,
       "event_count": 20,
       "post_count": 1,
@@ -45,36 +44,34 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-06-08T09:18:46.186443Z",
+      "last_updated": "2026-06-09T08:27:15.259963Z",
       "lie_count": 14,
       "event_count": 20,
       "post_count": 13,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Nicola Willis finance minister contradic",
           "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-06-08T09:17:46.487737Z",
+      "last_updated": "2026-06-09T08:26:16.905169Z",
       "lie_count": 24,
       "event_count": 20,
       "post_count": 17,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (4 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-06-08T09:19:00.846848Z",
-      "lie_count": 19,
+      "last_updated": "2026-06-09T08:27:34.349563Z",
+      "lie_count": 21,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
@@ -86,21 +83,20 @@
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-06-08T09:18:32.705832Z",
+      "last_updated": "2026-06-09T08:27:01.549104Z",
       "lie_count": 11,
       "event_count": 20,
       "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
-          "GDELT global news database",
           "Tavily: Shane Jones NZ First controversy 2026",
           "Tavily: Shane Jones statement tweet 2026"
         ]
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-06-08T09:18:17.663546Z",
+      "last_updated": "2026-06-09T08:26:48.104488Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
@@ -113,7 +109,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-06-08T09:19:31.189723Z",
+      "last_updated": "2026-06-09T08:28:00.817253Z",
       "lie_count": 1,
       "event_count": 19,
       "post_count": 6,
@@ -126,28 +122,26 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-06-08T09:19:59.001554Z",
+      "last_updated": "2026-06-09T08:28:25.181413Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 3,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
           "Tavily: Anthony Albanese contradiction fact chec",
           "Tavily: Anthony Albanese statement 2026"
         ]
       ]
     },
     "politician_starmer_uk": {
-      "last_updated": "2026-06-08T09:20:17.239105Z",
+      "last_updated": "2026-06-09T08:28:40.708059Z",
       "lie_count": 24,
       "event_count": 20,
       "post_count": 9,
       "vote_count": 0,
       "sources": [
         [
-          "GDELT global news database",
           "Tavily: Keir Starmer contradiction promise broke",
           "Tavily: Keir Starmer statement 2026"
         ]

@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 18,
+  "lie_count": 19,
   "lies": [
     {
       "date": "March 2026",
@@ -182,6 +182,16 @@
       "platform": "speech",
       "_id": "a773631b",
       "_crawled": "2026-06-03T09:21:28.675395Z"
+    },
+    {
+      "date": "January 2026",
+      "claim": "Nothing has changed since his 2022 promise to rule out Labour",
+      "reality": "Previous statements and actions suggest otherwise",
+      "source": "NZ Herald, January 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "5bc8a846",
+      "_crawled": "2026-06-09T08:26:33.235518Z"
     }
   ],
   "social_posts": [
@@ -748,10 +758,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-24T07:46:04.461845Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
-    },
-    {
       "date": "2026-05-25T08:51:02.774817Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity"
     },
@@ -786,14 +792,13 @@
     {
       "date": "2026-06-08T09:18:00.706044Z",
       "text": "Winston Peters continues to make statements on Labour coalition and energy sector overhaul"
+    },
+    {
+      "date": "2026-06-09T08:26:33.235518Z",
+      "text": "Winston Peters continues to make statements and take actions that contradict his previous claims, and has announced a proposal to overhaul the energy sector"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-17T06:29:36.205918Z",
-      "notes": "Peters' criticism of polls and his meeting with US Secretary of State Marco Rubio are notable events",
-      "new_items": true
-    },
     {
       "date": "2026-04-19T06:25:14.212252Z",
       "notes": "Reviewed Tavily sources for Winston Peters, found some new events and social posts",
@@ -1038,18 +1043,14 @@
       "date": "2026-06-08T09:18:00.706044Z",
       "notes": "Reviewed Tavily and RSS sources for updates on Winston Peters",
       "new_items": true
+    },
+    {
+      "date": "2026-06-09T08:26:33.235518Z",
+      "notes": "Reviewed articles from The Spinoff, NZ Herald, and RNZ News",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-17T07:30:00.482409Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-18T08:40:49.669279Z",
       "sources": [
@@ -1190,7 +1191,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-09T08:26:33.235669Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-08T09:18:00.706203Z"
+  "last_updated": "2026-06-09T08:26:33.235695Z"
 }

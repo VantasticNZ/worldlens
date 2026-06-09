@@ -872,10 +872,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-24T07:45:48.867988Z",
-      "text": "Christopher Luxon survived a leadership vote and made statements on various topics, including his support for the Crusaders and his views on global issues"
-    },
-    {
       "date": "2026-05-25T08:50:48.030670Z",
       "text": "Luxon survives party leadership vote and announces Budget 2026"
     },
@@ -910,14 +906,13 @@
     {
       "date": "2026-06-08T09:17:46.487590Z",
       "text": "Luxon comments on international events and meets with Australian PM"
+    },
+    {
+      "date": "2026-06-09T08:26:16.905014Z",
+      "text": "Christopher Luxon met with Australian Prime Minister Anthony Albanese and declined an invitation to join Donald Trump's Board of Peace for Gaza"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-19T06:24:53.250531Z",
-      "notes": "No significant new lies or social posts found, but leadership speculation and international meeting are notable events.",
-      "new_items": true
-    },
     {
       "date": "2026-04-20T07:11:21.770699Z",
       "notes": "Multiple sources indicate Luxon's leadership is under scrutiny",
@@ -1162,17 +1157,14 @@
       "date": "2026-06-08T09:17:46.487590Z",
       "notes": "RNZ News articles provide updates on Luxon's recent activities and statements",
       "new_items": true
+    },
+    {
+      "date": "2026-06-09T08:26:16.905014Z",
+      "notes": "Reviewed articles from The Spinoff and RNZ News",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-14T07:37:33.974728Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-16T07:10:49.966561Z",
       "sources": [
@@ -1322,7 +1314,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-09T08:26:16.905146Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-08T09:17:46.487737Z"
+  "last_updated": "2026-06-09T08:26:16.905169Z"
 }

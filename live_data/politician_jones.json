@@ -472,13 +472,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' comments comparing the India FTA to a 'butter chicken tsunami' demonstrate a lack of integrity"
+    },
+    "2026-06-09T08:27:01.548944Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' comments have been deemed 'shameful' and 'perverse', indicating a potential integrity issue"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-24T07:46:37.838462Z",
-      "text": "Shane Jones faced criticism for his comments on the India FTA and Nicola Willis' weight loss, and apologised for the latter"
-    },
     {
       "date": "2026-05-25T08:51:43.347017Z",
       "text": "Shane Jones has faced criticism for his comments on various topics, including Nicola Willis' weight loss and the India FTA"
@@ -514,14 +515,13 @@
     {
       "date": "2026-06-08T09:18:32.705726Z",
       "text": "Shane Jones faces criticism for his comments on Ngāti Ruanui and the India FTA."
+    },
+    {
+      "date": "2026-06-09T08:27:01.548944Z",
+      "text": "Shane Jones faces criticism for his comments on Ngāti Ruanui and the India FTA, potentially impacting his integrity score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-16T06:30:02.823071Z",
-      "notes": "Shane Jones' recent statements and interactions with critics and opponents",
-      "new_items": true
-    },
     {
       "date": "2026-04-17T06:29:57.454240Z",
       "notes": "No significant new lies or social posts found, but new events related to Shane Jones' statements on the fisheries bill",
@@ -766,16 +766,14 @@
       "date": "2026-06-08T09:18:32.705726Z",
       "notes": "Multiple sources report on Shane Jones' controversial comments, but no new lies or social posts were found.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-09T08:27:01.548944Z",
+      "notes": "Multiple sources report on Shane Jones' controversial comments, but no new social posts or votes were found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-14T07:38:34.226151Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-05-16T07:12:04.853816Z",
       "sources": [
@@ -912,7 +910,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-06-09T08:27:01.549079Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-08T09:18:32.705832Z"
+  "last_updated": "2026-06-09T08:27:01.549104Z"
 }

@@ -642,11 +642,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-15T06:28:47.527330Z",
-      "notes": "Reviewed sources from newsroom.co.nz, beehive.govt.nz, and national.org.nz",
-      "new_items": true
-    },
-    {
       "date": "2026-04-16T06:30:22.439790Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to Nicola Willis' international meetings and statements.",
       "new_items": true
@@ -890,17 +885,14 @@
       "date": "2026-06-08T09:18:46.186402Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-09T08:27:15.259876Z",
+      "notes": "No significant new findings, but Budget 2026 announcement is a notable event",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-19T08:22:08.741273Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-20T08:21:48.066757Z",
       "sources": [
@@ -1036,7 +1028,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-09T08:27:15.259940Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-08T09:18:46.186443Z"
+  "last_updated": "2026-06-09T08:27:15.259963Z"
 }

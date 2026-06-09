@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 19,
+  "lie_count": 21,
   "lies": [
     {
       "date": "April 2026",
@@ -192,6 +192,26 @@
       "platform": "press_release",
       "_id": "400dd851",
       "_crawled": "2026-06-05T08:39:46.408220Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Everything is on track with social housing delivery",
+      "reality": "Officials had been warning since at least August that it wasn't on track",
+      "source": "Labour Party release, June 2026",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "035ea13d",
+      "_crawled": "2026-06-09T08:27:34.349422Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "National would build 1000 additional public homes in Auckland each year",
+      "reality": "Auckland will have a net loss of 285 Kāinga Ora homes in 2026",
+      "source": "Labour Party release, June 2026",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "070c6e53",
+      "_crawled": "2026-06-09T08:27:34.349422Z"
     }
   ],
   "social_posts": [],
@@ -573,13 +593,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Minister's claim of being on track with social housing delivery contradicts reality"
+    },
+    "2026-06-09T08:27:34.349422Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The Minister's claims about social housing delivery and Auckland housing numbers have been contradicted by official advice and Labour Party releases"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-24T07:47:11.471377Z",
-      "text": "Housing Minister Chris Bishop announced a major social housing shake-up, but the reform may leave many households worse off, and the Government's reversal on Auckland's housing framework exposes internal squabbles"
-    },
     {
       "date": "2026-05-25T08:52:36.143206Z",
       "text": "Housing Minister Chris Bishop announced a major social housing shake-up, which may leave many households worse off"
@@ -615,14 +636,13 @@
     {
       "date": "2026-06-08T09:19:00.846724Z",
       "text": "Housing Minister Chris Bishop's social housing overhaul announcement and contradiction on delivery schedule"
+    },
+    {
+      "date": "2026-06-09T08:27:34.349422Z",
+      "text": "Housing Minister Chris Bishop has been accused of breaking promises on social housing delivery and Auckland housing numbers, with officials warning that the Government is not on track to meet its targets"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-10T06:28:12.343656Z",
-      "notes": "Multiple sources confirm Auckland housing numbers have been slashed again, and Chris Bishop's claim of housing delivery being on track has been contradicted",
-      "new_items": true
-    },
     {
       "date": "2026-04-11T05:55:44.754734Z",
       "notes": "Multiple sources indicate Chris Bishop has made contradictory statements on housing delivery and the Government has backtracked on its plans",
@@ -867,16 +887,14 @@
       "date": "2026-06-08T09:19:00.846724Z",
       "notes": "Contradiction found between Minister's statement and reality, potential impact on integrity score",
       "new_items": true
+    },
+    {
+      "date": "2026-06-09T08:27:34.349422Z",
+      "notes": "Multiple sources confirm contradictions between Minister's claims and reality",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-14T07:39:15.354584Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-16T07:12:36.225661Z",
       "sources": [
@@ -1008,7 +1026,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-09T08:27:34.349545Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-08T09:19:00.846848Z"
+  "last_updated": "2026-06-09T08:27:34.349563Z"
 }
