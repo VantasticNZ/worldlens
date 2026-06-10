@@ -642,11 +642,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-16T06:30:22.439790Z",
-      "notes": "No significant new findings related to lies, social posts, or votes, but new events related to Nicola Willis' international meetings and statements.",
-      "new_items": true
-    },
-    {
       "date": "2026-04-17T06:30:14.711003Z",
       "notes": "Reviewed RNZ News and Tavily sources for updates on Nicola Willis",
       "new_items": true
@@ -890,17 +885,14 @@
       "date": "2026-06-09T08:27:15.259876Z",
       "notes": "No significant new findings, but Budget 2026 announcement is a notable event",
       "new_items": true
+    },
+    {
+      "date": "2026-06-10T08:43:52.988221Z",
+      "notes": "No significant new findings beyond existing data, but Budget 2026 and social housing comment regret are notable events.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-20T08:21:48.066757Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-05-21T08:28:58.267515Z",
       "sources": [
@@ -1035,7 +1027,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-10T08:43:52.988321Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-09T08:27:15.259963Z"
+  "last_updated": "2026-06-10T08:43:52.988344Z"
 }

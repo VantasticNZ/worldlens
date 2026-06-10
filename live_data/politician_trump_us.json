@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 53,
+  "lie_count": 54,
   "lies": [
     {
       "date": "January 2026",
@@ -532,6 +532,16 @@
       "platform": "social media",
       "_id": "845e2f41",
       "_crawled": "2026-06-06T07:42:32.159823Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Gasoline prices have \"come down very substantially today\"",
+      "reality": "Gasoline prices have not come down substantially",
+      "source": "PolitiFact, May 7, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "d769f73d",
+      "_crawled": "2026-06-10T08:45:02.094172Z"
     }
   ],
   "social_posts": [
@@ -972,13 +982,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Additional lies and negative events have decreased Trump's integrity score"
+    },
+    "2026-06-10T08:45:02.094172Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Additional lies found, affecting integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-24T07:48:19.788380Z",
-      "text": "Trump's recent statements and events have raised concerns about his integrity and honesty"
-    },
     {
       "date": "2026-06-01T10:13:41.821901Z",
       "text": "Trump's recent activities include seeking edits to the US-Iran deal and facing questions about his health and consumer confidence claims"
@@ -1014,14 +1025,13 @@
     {
       "date": "2026-06-09T08:28:13.801890Z",
       "text": "Trump's integrity score has decreased due to additional lies and negative events"
+    },
+    {
+      "date": "2026-06-10T08:45:02.094172Z",
+      "text": "Donald Trump's recent statements on gasoline prices and consumer confidence have been found to be false, further eroding his integrity score."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-15T06:29:29.451961Z",
-      "notes": "Reviewed RSS and GDELT sources, as well as Tavily fact-checking reports",
-      "new_items": true
-    },
     {
       "date": "2026-04-16T06:31:52.732793Z",
       "notes": "Multiple sources confirm Trump's lies and contradictory statements, with significant updates to his integrity score",
@@ -1266,17 +1276,14 @@
       "date": "2026-06-09T08:28:13.801890Z",
       "notes": "PolitiFact and BBC World sources used to update Trump's lie count and event list",
       "new_items": true
+    },
+    {
+      "date": "2026-06-10T08:45:02.094172Z",
+      "notes": "Multiple fact-checking sources confirm new lies, US-Iran tensions escalate",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-21T08:30:46.697462Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-22T08:20:52.331023Z",
       "sources": [
@@ -1420,7 +1427,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-10T08:45:02.094349Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-09T08:28:13.802165Z"
+  "last_updated": "2026-06-10T08:45:02.094370Z"
 }
