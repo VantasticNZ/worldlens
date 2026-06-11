@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-10T08:45:39.811667Z",
+  "generated": "2026-06-11T09:10:52.826351Z",
   "files": {
     "politician_peters": {
-      "last_updated": "2026-06-10T08:43:09.574638Z",
-      "lie_count": 20,
+      "last_updated": "2026-06-11T09:07:57.464351Z",
+      "lie_count": 21,
       "event_count": 20,
-      "post_count": 16,
+      "post_count": 17,
       "vote_count": 0,
       "sources": [
         [
@@ -16,21 +16,21 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-06-10T08:45:02.094370Z",
-      "lie_count": 54,
+      "last_updated": "2026-06-11T09:10:11.608951Z",
+      "lie_count": 55,
       "event_count": 20,
       "post_count": 3,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (3 articles from NZ/intl media)",
+          "RSS (4 articles from NZ/intl media)",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-06-10T08:44:35.394530Z",
+      "last_updated": "2026-06-11T09:09:31.162813Z",
       "lie_count": 5,
       "event_count": 20,
       "post_count": 1,
@@ -44,7 +44,7 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-06-10T08:43:52.988344Z",
+      "last_updated": "2026-06-11T09:08:56.033482Z",
       "lie_count": 14,
       "event_count": 20,
       "post_count": 13,
@@ -57,36 +57,38 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-06-10T08:42:53.795488Z",
+      "last_updated": "2026-06-11T09:07:39.766430Z",
       "lie_count": 24,
       "event_count": 20,
       "post_count": 17,
       "vote_count": 1,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-06-10T08:44:22.045647Z",
+      "last_updated": "2026-06-11T09:09:13.202189Z",
       "lie_count": 22,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (2 articles from NZ/intl media)",
           "Tavily: Chris Bishop housing minister statement ",
           "Tavily: Chris Bishop housing contradiction 2026"
         ]
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-06-10T08:43:38.084805Z",
+      "last_updated": "2026-06-11T09:08:34.266615Z",
       "lie_count": 11,
       "event_count": 20,
-      "post_count": 2,
+      "post_count": 3,
       "vote_count": 0,
       "sources": [
         [
@@ -96,20 +98,21 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-06-10T08:43:25.356036Z",
+      "last_updated": "2026-06-11T09:08:16.633843Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: David Seymour ACT contradiction fact che",
           "Tavily: David Seymour statement 2026"
         ]
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-06-10T08:44:48.252129Z",
+      "last_updated": "2026-06-11T09:09:51.856368Z",
       "lie_count": 1,
       "event_count": 19,
       "post_count": 6,
@@ -122,20 +125,21 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-06-10T08:45:21.662080Z",
+      "last_updated": "2026-06-11T09:10:32.628660Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 3,
       "vote_count": 0,
       "sources": [
         [
+          "GDELT global news database",
           "Tavily: Anthony Albanese contradiction fact chec",
           "Tavily: Anthony Albanese statement 2026"
         ]
       ]
     },
     "politician_starmer_uk": {
-      "last_updated": "2026-06-10T08:45:38.810199Z",
+      "last_updated": "2026-06-11T09:10:51.824785Z",
       "lie_count": 24,
       "event_count": 20,
       "post_count": 9,

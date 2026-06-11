@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 20,
+  "lie_count": 21,
   "lies": [
     {
       "date": "March 2026",
@@ -202,6 +202,16 @@
       "platform": "speech",
       "_id": "aa0d3422",
       "_crawled": "2026-06-10T08:43:09.574438Z"
+    },
+    {
+      "date": "January 2026",
+      "claim": "There has been a lot of talk about Indian FTA and not much comprehension about what the consequences are for New Zealand",
+      "reality": "The consequences of the Indian FTA for New Zealand are not clearly stated by Peters",
+      "source": "The Spinoff, January 30, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "836b23fb",
+      "_crawled": "2026-06-11T09:07:57.464185Z"
     }
   ],
   "social_posts": [
@@ -428,6 +438,20 @@
       },
       "_id": "21ca2d4a",
       "_crawled": "2026-06-10T08:43:09.574438Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "January 2025",
+      "text": "If you can’t stand the heat get out of the kitchen",
+      "verified_by": "The Spinoff",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Peters' statement on handling criticism contradicts his previous actions",
+        "source": "The Spinoff, January 31, 2025",
+        "severity": "low"
+      },
+      "_id": "46139e92",
+      "_crawled": "2026-06-11T09:07:57.464185Z"
     }
   ],
   "votes": [],
@@ -782,10 +806,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-01T10:11:41.571796Z",
-      "text": "Winston Peters has made several announcements and statements, including a proposal to overhaul the energy sector and claims of breaches to the coalition agreement"
-    },
-    {
       "date": "2026-06-02T09:01:44.973274Z",
       "text": "Winston Peters' recent statements and proposals have raised questions about his party's stance on key issues"
     },
@@ -820,14 +840,13 @@
     {
       "date": "2026-06-10T08:43:09.574438Z",
       "text": "Winston Peters continues to make statements and proposals on various topics, including trade deals and energy sector overhauls"
+    },
+    {
+      "date": "2026-06-11T09:07:57.464185Z",
+      "text": "Winston Peters continues to make statements and take actions that are contradictory and potentially misleading"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-20T07:11:36.233545Z",
-      "notes": "Peters' tweet misrepresentation and deleted tweet regarding PM's social post",
-      "new_items": true
-    },
     {
       "date": "2026-04-22T06:31:32.163835Z",
       "notes": "Peters' recent tweets and statements have been scrutinized for discrepancies",
@@ -1072,16 +1091,14 @@
       "date": "2026-06-10T08:43:09.574438Z",
       "notes": "Reviewed articles from The Spinoff, RNZ News, and NZ Herald",
       "new_items": true
+    },
+    {
+      "date": "2026-06-11T09:07:57.464185Z",
+      "notes": "Peters' statements and actions continue to be scrutinized for inconsistencies and potential dishonesty",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-19T08:21:14.866344Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-20T08:20:36.385275Z",
       "sources": [
@@ -1223,7 +1240,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-11T09:07:57.464326Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-10T08:43:09.574638Z"
+  "last_updated": "2026-06-11T09:07:57.464351Z"
 }

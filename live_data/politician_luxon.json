@@ -868,13 +868,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistent statement on climate change policies raises concerns about his integrity"
+    },
+    "2026-06-11T09:07:39.766301Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Lobbying controversy and potential corruption concerns"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-01T10:11:21.555703Z",
-      "text": "Luxon survives party leadership vote, but faces lobbying controversy and questions about his office's transparency"
-    },
     {
       "date": "2026-06-02T09:01:22.267247Z",
       "text": "Luxon's government is facing criticism for its handling of climate change policies and his recent statements on nuclear-free stance have raised concerns about his integrity"
@@ -910,14 +911,13 @@
     {
       "date": "2026-06-10T08:42:53.795342Z",
       "text": "Prime Minister Christopher Luxon survived a confidence vote and faced questions over the disappearance of documents related to a court case brought by a climate activist."
+    },
+    {
+      "date": "2026-06-11T09:07:39.766301Z",
+      "text": "Christopher Luxon's office has been embroiled in a lobbying controversy, raising concerns over potential corruption"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-21T06:29:59.804989Z",
-      "notes": "Multiple sources confirm Luxon's survival of confidence vote and criticism over climate change policies",
-      "new_items": true
-    },
     {
       "date": "2026-04-22T06:30:50.536265Z",
       "notes": "Luxon's social media posts and public statements require close monitoring for discrepancies and contradictions",
@@ -1162,17 +1162,14 @@
       "date": "2026-06-10T08:42:53.795342Z",
       "notes": "No significant new lies or social posts found, but new events related to confidence vote and document disappearance",
       "new_items": true
+    },
+    {
+      "date": "2026-06-11T09:07:39.766301Z",
+      "notes": "Lobbying controversy and potential corruption concerns noted, further investigation recommended",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-17T07:29:49.347088Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-18T08:40:27.219661Z",
       "sources": [
@@ -1319,7 +1316,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-11T09:07:39.766404Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-10T08:42:53.795488Z"
+  "last_updated": "2026-06-11T09:07:39.766430Z"
 }

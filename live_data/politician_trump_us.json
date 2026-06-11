@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 54,
+  "lie_count": 55,
   "lies": [
     {
       "date": "January 2026",
@@ -542,6 +542,16 @@
       "platform": "speech",
       "_id": "d769f73d",
       "_crawled": "2026-06-10T08:45:02.094172Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "I love the inflation",
+      "reality": "Inflation is a complex economic issue, not something to be loved",
+      "source": "BBC World, June 2026",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "80589c28",
+      "_crawled": "2026-06-11T09:10:11.608629Z"
     }
   ],
   "social_posts": [
@@ -987,13 +997,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Additional lies found, affecting integrity score"
+    },
+    "2026-06-11T09:10:11.608629Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Additional lies and controversial statements have been found, affecting Trump's integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-01T10:13:41.821901Z",
-      "text": "Trump's recent activities include seeking edits to the US-Iran deal and facing questions about his health and consumer confidence claims"
-    },
     {
       "date": "2026-06-02T09:04:05.959727Z",
       "text": "Donald Trump has been found to have made additional false claims, and has been involved in further controversial events"
@@ -1029,14 +1040,13 @@
     {
       "date": "2026-06-10T08:45:02.094172Z",
       "text": "Donald Trump's recent statements on gasoline prices and consumer confidence have been found to be false, further eroding his integrity score."
+    },
+    {
+      "date": "2026-06-11T09:10:11.608629Z",
+      "text": "Trump's recent statements have sparked controversy and backlash, including his comments on inflation and use of anime characters"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-16T06:31:52.732793Z",
-      "notes": "Multiple sources confirm Trump's lies and contradictory statements, with significant updates to his integrity score",
-      "new_items": true
-    },
     {
       "date": "2026-04-17T06:31:47.554674Z",
       "notes": "Multiple sources confirm Trump's lies and contradictory statements, including AP News and FactCheck.org",
@@ -1281,18 +1291,14 @@
       "date": "2026-06-10T08:45:02.094172Z",
       "notes": "Multiple fact-checking sources confirm new lies, US-Iran tensions escalate",
       "new_items": true
+    },
+    {
+      "date": "2026-06-11T09:10:11.608629Z",
+      "notes": "Multiple sources confirm Trump's false claims and controversial statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-22T08:20:52.331023Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-23T07:29:16.286168Z",
       "sources": [
@@ -1435,7 +1441,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-11T09:10:11.608930Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-10T08:45:02.094370Z"
+  "last_updated": "2026-06-11T09:10:11.608951Z"
 }
