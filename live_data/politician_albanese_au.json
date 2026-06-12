@@ -270,11 +270,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-15T06:29:42.791758Z",
-      "notes": "New fuel deal and strategic fuel reserve established",
-      "new_items": true
-    },
-    {
       "date": "2026-04-16T06:32:23.351396Z",
       "notes": "New events related to fuel trade and crisis",
       "new_items": true
@@ -518,16 +513,14 @@
       "date": "2026-06-11T09:10:32.628626Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-12T08:56:09.865201Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-19T08:23:31.019856Z",
-      "sources": [
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-05-20T08:23:39.210188Z",
       "sources": [
@@ -666,7 +659,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-12T08:56:09.865217Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-11T09:10:32.628660Z"
+  "last_updated": "2026-06-12T08:56:09.865239Z"
 }

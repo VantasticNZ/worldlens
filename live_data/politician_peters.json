@@ -802,13 +802,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' contradictory statements and actions have raised concerns about his integrity"
+    },
+    "2026-06-12T08:53:52.826116Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' recent statements and actions have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-02T09:01:44.973274Z",
-      "text": "Winston Peters' recent statements and proposals have raised questions about his party's stance on key issues"
-    },
     {
       "date": "2026-06-03T09:21:28.675395Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
@@ -844,14 +845,13 @@
     {
       "date": "2026-06-11T09:07:57.464185Z",
       "text": "Winston Peters continues to make statements and take actions that are contradictory and potentially misleading"
+    },
+    {
+      "date": "2026-06-12T08:53:52.826116Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-22T06:31:32.163835Z",
-      "notes": "Peters' recent tweets and statements have been scrutinized for discrepancies",
-      "new_items": true
-    },
     {
       "date": "2026-04-23T06:57:16.231196Z",
       "notes": "Peters' tweets and public statements have been contradictory, and his meetings with international leaders have been notable",
@@ -1096,17 +1096,14 @@
       "date": "2026-06-11T09:07:57.464185Z",
       "notes": "Peters' statements and actions continue to be scrutinized for inconsistencies and potential dishonesty",
       "new_items": true
+    },
+    {
+      "date": "2026-06-12T08:53:52.826116Z",
+      "notes": "Peters' statements on Labour and coalition negotiations appear to be contradictory",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-20T08:20:36.385275Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-21T08:27:45.947798Z",
       "sources": [
@@ -1248,7 +1245,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-12T08:53:52.826277Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-11T09:07:57.464351Z"
+  "last_updated": "2026-06-12T08:53:52.826300Z"
 }

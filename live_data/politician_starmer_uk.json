@@ -735,13 +735,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "contradictory statements about positive change"
+    },
+    "2026-06-12T08:56:24.122937Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Starmer's claims of positive change and defeating decline and division are not supported by evidence"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-01T10:14:08.304339Z",
-      "text": "Keir Starmer's leadership is under scrutiny amid calls for his resignation and concerns over his promises of improvement"
-    },
     {
       "date": "2026-06-02T09:04:40.283285Z",
       "text": "Keir Starmer is facing leadership challenges and defending his policy decisions amidst criticism."
@@ -777,14 +778,13 @@
     {
       "date": "2026-06-11T09:10:51.824593Z",
       "text": "Keir Starmer's New Year Message acknowledged tough times in Britain, but promised positive change, contradicting previous statements."
+    },
+    {
+      "date": "2026-06-12T08:56:24.122937Z",
+      "text": "Starmer's leadership is under pressure after Healey's resignation and his claims of positive change are not supported by evidence"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-16T06:32:43.929825Z",
-      "notes": "Reviewed articles from The Guardian and Reuters",
-      "new_items": true
-    },
     {
       "date": "2026-04-17T06:32:49.005590Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but several new events were discovered.",
@@ -1029,17 +1029,14 @@
       "date": "2026-06-11T09:10:51.824593Z",
       "notes": "Reviewed BBC News and The Guardian articles",
       "new_items": true
+    },
+    {
+      "date": "2026-06-12T08:56:24.122937Z",
+      "notes": "Healey's resignation and Starmer's unfulfilled promises are significant events that impact his leadership",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-20T08:24:03.469863Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-05-21T08:31:45.810044Z",
       "sources": [
@@ -1169,7 +1166,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-12T08:56:24.123095Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-11T09:10:51.824785Z"
+  "last_updated": "2026-06-12T08:56:24.123117Z"
 }

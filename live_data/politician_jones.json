@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 11,
+  "lie_count": 12,
   "lies": [
     {
       "date": "March 2026",
@@ -112,6 +112,16 @@
       "platform": "speech",
       "_id": "51637f91",
       "_crawled": "2026-06-07T08:19:10.581255Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "labeling critics of fisheries bill as 'noisy voices'",
+      "reality": "critics have valid concerns about the bill's impact on the fishing industry and the environment",
+      "source": "RNZ News",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "b21d6498",
+      "_crawled": "2026-06-12T08:54:25.729034Z"
     }
   ],
   "social_posts": [
@@ -496,13 +506,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' recent comments and actions have raised concerns about his integrity"
+    },
+    "2026-06-12T08:54:25.729034Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' recent comments and actions have raised concerns about his integrity and accountability"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-01T10:12:20.347461Z",
-      "text": "Shane Jones' recent comments have sparked controversy and criticism, leading to a decrease in his integrity score"
-    },
     {
       "date": "2026-06-02T09:02:28.488262Z",
       "text": "Shane Jones continues to be involved in controversies, including his comments on the India FTA and his apology for comments about Nicola Willis' weight loss."
@@ -538,14 +549,13 @@
     {
       "date": "2026-06-11T09:08:34.266490Z",
       "text": "Shane Jones' recent comments and actions have raised concerns about his integrity and sparked controversy"
+    },
+    {
+      "date": "2026-06-12T08:54:25.729034Z",
+      "text": "Shane Jones faces criticism for his comments on the fisheries bill and his apology for remarks about Nicola Willis' weight loss"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-20T07:11:58.764230Z",
-      "notes": "Shane Jones' statements on the Fisheries Bill and his 'butter chicken' comments have sparked controversy",
-      "new_items": true
-    },
     {
       "date": "2026-04-22T06:32:21.980285Z",
       "notes": "Multiple sources reported on Shane Jones' controversial comments, but no new lies or social posts were found",
@@ -790,16 +800,14 @@
       "date": "2026-06-11T09:08:34.266490Z",
       "notes": "Reviewed Tavily sources and RNZ articles",
       "new_items": true
+    },
+    {
+      "date": "2026-06-12T08:54:25.729034Z",
+      "notes": "Reviewed sources from RNZ News and The Spinoff",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-18T08:41:31.144469Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-05-19T08:21:51.754039Z",
       "sources": [
@@ -934,7 +942,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-06-12T08:54:25.729127Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-11T09:08:34.266615Z"
+  "last_updated": "2026-06-12T08:54:25.729147Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 24,
+  "lie_count": 25,
   "lies": [
     {
       "date": "2026",
@@ -242,6 +242,16 @@
       "platform": "speech",
       "_id": "bbcbbb05",
       "_crawled": "2026-06-06T07:40:20.756315Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "I've just done a deal with Southeast Asian nations that will help grow our economy at home",
+      "reality": "The deal was not confirmed and Winston Peters' account corrected the tweet",
+      "source": "RNZ, May 2026",
+      "severity": "med",
+      "platform": "twitter",
+      "_id": "d9e62f77",
+      "_crawled": "2026-06-12T08:53:36.721002Z"
     }
   ],
   "social_posts": [
@@ -482,6 +492,20 @@
       },
       "_id": "3a8375c1",
       "_crawled": "2026-06-08T09:17:46.487590Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "May 2026",
+      "text": "I've just done a deal with Southeast Asian nations that will help grow our economy at home",
+      "verified_by": "RNZ",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Winston Peters' account corrected the tweet",
+        "source": "RNZ, May 2026",
+        "severity": "med"
+      },
+      "_id": "d9e62f77",
+      "_crawled": "2026-06-12T08:53:36.721002Z"
     }
   ],
   "votes": [
@@ -873,13 +897,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Lobbying controversy and potential corruption concerns"
+    },
+    "2026-06-12T08:53:36.721002Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's tweet was corrected by Winston Peters, indicating a potential issue with the accuracy of Luxon's statements"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-02T09:01:22.267247Z",
-      "text": "Luxon's government is facing criticism for its handling of climate change policies and his recent statements on nuclear-free stance have raised concerns about his integrity"
-    },
     {
       "date": "2026-06-03T09:21:11.553658Z",
       "text": "Christopher Luxon was accused of a 'demonstrable lie' in Parliament over climate change policies, raising concerns about his integrity"
@@ -915,14 +940,13 @@
     {
       "date": "2026-06-11T09:07:39.766301Z",
       "text": "Christopher Luxon's office has been embroiled in a lobbying controversy, raising concerns over potential corruption"
+    },
+    {
+      "date": "2026-06-12T08:53:36.721002Z",
+      "text": "Luxon's tweet on a trade deal was corrected by Winston Peters, raising questions about the accuracy of his statements"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-22T06:30:50.536265Z",
-      "notes": "Luxon's social media posts and public statements require close monitoring for discrepancies and contradictions",
-      "new_items": true
-    },
     {
       "date": "2026-04-23T06:56:40.694483Z",
       "notes": "Luxon's leadership and integrity continue to be scrutinized by media and the public",
@@ -1167,17 +1191,14 @@
       "date": "2026-06-11T09:07:39.766301Z",
       "notes": "Lobbying controversy and potential corruption concerns noted, further investigation recommended",
       "new_items": true
+    },
+    {
+      "date": "2026-06-12T08:53:36.721002Z",
+      "notes": "RNZ article on Luxon's tweet and Winston Peters' correction",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-18T08:40:27.219661Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-19T08:20:50.437303Z",
       "sources": [
@@ -1324,7 +1345,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-12T08:53:36.721133Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-11T09:07:39.766430Z"
+  "last_updated": "2026-06-12T08:53:36.721155Z"
 }
