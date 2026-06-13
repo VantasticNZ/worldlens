@@ -73,6 +73,34 @@
       "discrepancy": null,
       "_id": "34d8b99e",
       "_crawled": "2026-06-08T09:19:31.189596Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Budget 2026 leaves New Zealand with no plan",
+      "verified_by": "Green Party of Aotearoa New Zealand",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Claim of no plan contradicts Government's Budget 2026 statement",
+        "source": "https://www.greens.org.nz/budget_2026_leaves_new_zealand_with_no_plan",
+        "severity": "med"
+      },
+      "_id": "13d32c68",
+      "_crawled": "2026-06-13T08:18:17.362072Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Luxon quietly borrows $1.4 billion more to hide climate failure",
+      "verified_by": "Green Party of Aotearoa New Zealand",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "Claim of $1.4 billion borrowing not verified by official sources",
+        "source": "https://www.greens.org.nz/luxon_quietly_borrows_1_4_billion_more_to_hide_climate_failure",
+        "severity": "low"
+      },
+      "_id": "809e1e33",
+      "_crawled": "2026-06-13T08:18:17.362072Z"
     }
   ],
   "votes": [],
@@ -247,6 +275,15 @@
       "source": "www.greens.org.nz",
       "_id": "5b3530ec",
       "_crawled": "2026-06-06T07:42:18.543571Z"
+    },
+    {
+      "year": 2026,
+      "title": "Chlöe Swarbrick's Budget speech",
+      "desc": "Chlöe Swarbrick delivers speech on Budget 2026, criticizing Government's plan",
+      "type": "negative",
+      "source": "https://www.greens.org.nz/chloe_swarbrick_budget_speech_2026",
+      "_id": "d3eeadf4",
+      "_crawled": "2026-06-13T08:18:17.362072Z"
     }
   ],
   "score_adjustments": {
@@ -280,14 +317,13 @@
     {
       "date": "2026-06-06T07:42:18.543571Z",
       "text": "Chlöe Swarbrick continues to criticize the government's climate policies and budget, while promoting the Green Party's vision for a sustainable future."
+    },
+    {
+      "date": "2026-06-13T08:18:17.362072Z",
+      "text": "Chlöe Swarbrick criticizes Government's Budget 2026, claiming it leaves New Zealand with no plan."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-22T06:33:55.084043Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-23T07:00:39.199663Z",
       "notes": "No significant new findings",
@@ -532,16 +568,14 @@
       "date": "2026-06-12T08:55:39.142624Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-13T08:18:17.362072Z",
+      "notes": "Reviewed Green Party press releases and speeches",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-20T08:22:56.740131Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-05-21T08:30:12.225796Z",
       "sources": [
@@ -672,7 +706,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-06-13T08:18:17.362167Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-12T08:55:39.142659Z"
+  "last_updated": "2026-06-13T08:18:17.362193Z"
 }

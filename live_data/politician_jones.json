@@ -166,6 +166,20 @@
       },
       "_id": "f0f2caaf",
       "_crawled": "2026-06-11T09:08:34.266490Z"
+    },
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "Shane Jones apologises for Nicola Willis weight loss comments",
+      "verified_by": "The Spinoff",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "previously made a jab at the Finance Minister's weight loss",
+        "source": "The Spinoff",
+        "severity": "med"
+      },
+      "_id": "c5ba6b40",
+      "_crawled": "2026-06-13T08:17:13.579077Z"
     }
   ],
   "votes": [],
@@ -511,13 +525,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' recent comments and actions have raised concerns about his integrity and accountability"
+    },
+    "2026-06-13T08:17:13.579077Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' labeling of critics as 'noisy voices' and his apology for Nicola Willis weight loss comments suggest a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-02T09:02:28.488262Z",
-      "text": "Shane Jones continues to be involved in controversies, including his comments on the India FTA and his apology for comments about Nicola Willis' weight loss."
-    },
     {
       "date": "2026-06-03T09:22:06.473273Z",
       "text": "Shane Jones faces criticism for his comments on the fisheries bill and his remarks on Ngāti Ruanui."
@@ -553,14 +568,13 @@
     {
       "date": "2026-06-12T08:54:25.729034Z",
       "text": "Shane Jones faces criticism for his comments on the fisheries bill and his apology for remarks about Nicola Willis' weight loss"
+    },
+    {
+      "date": "2026-06-13T08:17:13.579077Z",
+      "text": "Shane Jones has been involved in several controversies, including his fisheries bill proposals and his apology for Nicola Willis weight loss comments"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-22T06:32:21.980285Z",
-      "notes": "Multiple sources reported on Shane Jones' controversial comments, but no new lies or social posts were found",
-      "new_items": true
-    },
     {
       "date": "2026-04-23T06:58:20.819378Z",
       "notes": "Shane Jones' recent comments have been widely reported and criticised in the media.",
@@ -805,16 +819,14 @@
       "date": "2026-06-12T08:54:25.729034Z",
       "notes": "Reviewed sources from RNZ News and The Spinoff",
       "new_items": true
+    },
+    {
+      "date": "2026-06-13T08:17:13.579077Z",
+      "notes": "Reviewed articles from The Spinoff and RNZ News",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-19T08:21:51.754039Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-05-20T08:21:19.573175Z",
       "sources": [
@@ -949,7 +961,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-06-13T08:17:13.579215Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-12T08:54:25.729147Z"
+  "last_updated": "2026-06-13T08:17:13.579241Z"
 }

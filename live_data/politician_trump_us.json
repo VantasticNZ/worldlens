@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 57,
+  "lie_count": 59,
   "lies": [
     {
       "date": "January 2026",
@@ -572,6 +572,26 @@
       "platform": "speech",
       "_id": "ea99ace9",
       "_crawled": "2026-06-12T08:55:55.534039Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Trump recounted a wildly inaccurate anecdote to bolster his support for consumers on the 'right to repair' debate",
+      "reality": "The anecdote was inaccurate",
+      "source": "FactCheck.org, June 12, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "d84789db",
+      "_crawled": "2026-06-13T08:18:33.606777Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Trump exaggerated previous spending on the Lincoln Memorial Reflecting Pool",
+      "reality": "The spending was not as high as claimed",
+      "source": "FactCheck.org, June 11, 2026",
+      "severity": "low",
+      "platform": "speech",
+      "_id": "157dedd1",
+      "_crawled": "2026-06-13T08:18:33.606777Z"
     }
   ],
   "social_posts": [
@@ -1027,13 +1047,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's repeated false claims and conflicting messages have raised concerns about his integrity"
+    },
+    "2026-06-13T08:18:33.606777Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's continued exaggerations and inaccuracies have further eroded his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-03T09:23:24.873818Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and consistency, with contradictory statements on Iran and consumer confidence"
-    },
     {
       "date": "2026-06-04T08:44:58.526460Z",
       "text": "Trump's lies and controversial policies continue to spark backlash, with the US House voting to halt the Iran war and Senate Republicans axing funds for his new White House ballroom"
@@ -1069,14 +1090,13 @@
     {
       "date": "2026-06-12T08:55:55.534039Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and ability to effectively lead the country"
+    },
+    {
+      "date": "2026-06-13T08:18:33.606777Z",
+      "text": "Trump's recent statements and actions have raised concerns about his honesty and approach to international relations"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-20T07:12:51.771522Z",
-      "notes": "New lies and events added, score adjustments made accordingly.",
-      "new_items": true
-    },
     {
       "date": "2026-04-22T06:34:26.391949Z",
       "notes": "The search results have provided new information about President Donald Trump's recent activities and statements.",
@@ -1321,18 +1341,14 @@
       "date": "2026-06-12T08:55:55.534039Z",
       "notes": "Multiple sources confirm Trump's pattern of making false claims and contradictory statements",
       "new_items": true
+    },
+    {
+      "date": "2026-06-13T08:18:33.606777Z",
+      "notes": "Trump's absence from the World Cup and his strategy on Iran are notable events, while his continued exaggerations and inaccuracies are a concern",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-24T07:48:19.788522Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-25T08:53:36.521190Z",
       "sources": [
@@ -1474,7 +1490,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-13T08:18:33.607014Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-12T08:55:55.534326Z"
+  "last_updated": "2026-06-13T08:18:33.607039Z"
 }

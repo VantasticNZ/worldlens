@@ -324,11 +324,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-22T06:33:32.995593Z",
-      "notes": "No significant new findings except for a demand of apology from Nicola Willis",
-      "new_items": true
-    },
-    {
       "date": "2026-04-23T07:00:07.519192Z",
       "notes": "New event added regarding Labour's support for India free trade deal",
       "new_items": true
@@ -572,17 +567,14 @@
       "date": "2026-06-12T08:55:14.447238Z",
       "notes": "No significant new lies or social posts found, but several new events related to Chris Hipkins and the Labour Party.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-13T08:18:01.260323Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but new events related to cost-of-living policy and Fieldays stand",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-19T08:22:45.968818Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-20T08:22:41.902458Z",
       "sources": [
@@ -720,7 +712,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-13T08:18:01.260420Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-12T08:55:14.447415Z"
+  "last_updated": "2026-06-13T08:18:01.260445Z"
 }

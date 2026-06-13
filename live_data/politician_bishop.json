@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 22,
+  "lie_count": 24,
   "lies": [
     {
       "date": "April 2026",
@@ -222,9 +222,44 @@
       "platform": "press_release",
       "_id": "9ca09757",
       "_crawled": "2026-06-10T08:44:22.045483Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Thousands more New Zealanders will get access to warm, dry, secure homes through Budget 2026",
+      "reality": "The Budget invests a further $69.2 million into the Flexible Fund to deliver between 1800 and 2250 additional social homes over three years starting from 2028/29, which may not necessarily result in thousands more New Zealanders getting access to warm, dry, secure homes",
+      "source": "Beehive.govt.nz",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "ef2cd04a",
+      "_crawled": "2026-06-13T08:17:44.405156Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "The government is making a major investment to back councils that support housing growth",
+      "reality": "The government's investment in housing growth is limited to $69.2 million for the Flexible Fund",
+      "source": "Beehive.govt.nz",
+      "severity": "low",
+      "platform": "press_release",
+      "_id": "003e30b2",
+      "_crawled": "2026-06-13T08:17:44.405156Z"
     }
   ],
-  "social_posts": [],
+  "social_posts": [
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Housing Minister Chris Bishop announcing a major social housing shake-up at Parliament",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "The shake-up may not align with the government's stated goal of increasing access to warm, dry, secure homes",
+        "source": "RNZ News",
+        "severity": "med"
+      },
+      "_id": "e9487a37",
+      "_crawled": "2026-06-13T08:17:44.405156Z"
+    }
+  ],
   "votes": [],
   "recent_events": [
     {
@@ -623,13 +658,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Bishop's claim that social housing delivery is on track contradicts warnings from officials, indicating a potential integrity issue"
+    },
+    "2026-06-13T08:17:44.405156Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The minister's claims about the government's investment in housing growth and access to warm, dry, secure homes may be misleading"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-03T09:22:39.918378Z",
-      "text": "Housing Minister Chris Bishop's announcement of social housing overhaul and contradiction with officials' warnings"
-    },
     {
       "date": "2026-06-04T08:44:15.800529Z",
       "text": "Housing Minister Chris Bishop announced a social housing overhaul, but has been criticized for his approach to addressing the housing shortage."
@@ -665,14 +701,13 @@
     {
       "date": "2026-06-12T08:54:54.249323Z",
       "text": "Chris Bishop's claim about social housing delivery has been contradicted by officials, raising concerns about his integrity"
+    },
+    {
+      "date": "2026-06-13T08:17:44.405156Z",
+      "text": "Housing Minister Chris Bishop's recent announcements and statements have raised concerns about the government's commitment to increasing access to warm, dry, secure homes"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-16T06:30:40.932804Z",
-      "notes": "Multiple sources confirm the government has scaled down its housing plans for Auckland, contradicting the minister's claims",
-      "new_items": true
-    },
     {
       "date": "2026-04-17T06:30:32.624500Z",
       "notes": "Multiple sources confirm changes to the Auckland housing plan, contradicting the Minister's claims",
@@ -917,16 +952,14 @@
       "date": "2026-06-12T08:54:54.249323Z",
       "notes": "Contradiction found between Chris Bishop's statement and official warnings on social housing delivery",
       "new_items": true
+    },
+    {
+      "date": "2026-06-13T08:17:44.405156Z",
+      "notes": "Further review of the minister's statements and policies is needed to fully assess the implications of the social housing shake-up",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-19T08:22:29.979870Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-20T08:22:25.264591Z",
       "sources": [
@@ -1060,7 +1093,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-13T08:17:44.405299Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-12T08:54:54.249433Z"
+  "last_updated": "2026-06-13T08:17:44.405324Z"
 }
