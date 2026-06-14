@@ -506,6 +506,20 @@
       },
       "_id": "d9e62f77",
       "_crawled": "2026-06-12T08:53:36.721002Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "2026",
+      "text": "pre-recorded message on trade war aftermath of Trump tariffs",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "no specific details on the economic plan",
+        "source": "RNZ News",
+        "severity": "low"
+      },
+      "_id": "3f88aa2e",
+      "_crawled": "2026-06-14T08:36:42.069444Z"
     }
   ],
   "votes": [
@@ -907,13 +921,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Lobbying controversy and disappearing documents raise concerns about integrity and corruption risk"
+    },
+    "2026-06-14T08:36:42.069444Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's claim about supporting the Crusaders since he was a little boy is a low-severity lie, but it still affects his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-04T08:43:03.066088Z",
-      "text": "New event and potential lie found, but no significant impact on overall score"
-    },
     {
       "date": "2026-06-05T08:38:37.257682Z",
       "text": "Christopher Luxon faces criticism for inconsistencies in climate change policies and statements on China sanctions, while surviving a party leadership vote."
@@ -949,14 +964,13 @@
     {
       "date": "2026-06-13T08:16:22.794748Z",
       "text": "New lobbying controversy and disappearing documents raise concerns about PM Christopher Luxon's integrity and corruption risk"
+    },
+    {
+      "date": "2026-06-14T08:36:42.069444Z",
+      "text": "Christopher Luxon's integrity score has been adjusted due to a low-severity lie about his support for the Crusaders"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-24T07:00:10.506148Z",
-      "notes": "Multiple sources reported on Luxon's cancellation of his TVNZ Breakfast slot and his responses to business concerns.",
-      "new_items": true
-    },
     {
       "date": "2026-04-25T06:16:30.245116Z",
       "notes": "Reviewed RNZ News and Guardian NZ articles for updates on Christopher Luxon",
@@ -1201,17 +1215,14 @@
       "date": "2026-06-13T08:16:22.794748Z",
       "notes": "Reviewed sources from The Spinoff, NZ Herald, and other publications",
       "new_items": true
+    },
+    {
+      "date": "2026-06-14T08:36:42.069444Z",
+      "notes": "Luxon's social media posts and public statements have been reviewed for discrepancies and lies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-20T08:20:16.838962Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-21T08:27:21.523272Z",
       "sources": [
@@ -1356,7 +1367,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-14T08:36:42.069572Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-13T08:16:22.794918Z"
+  "last_updated": "2026-06-14T08:36:42.069595Z"
 }

@@ -325,11 +325,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-23T07:00:39.199663Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-04-24T07:02:12.176743Z",
       "notes": "No results",
       "new_items": false
@@ -573,16 +568,14 @@
       "date": "2026-06-13T08:18:17.362072Z",
       "notes": "Reviewed Green Party press releases and speeches",
       "new_items": true
+    },
+    {
+      "date": "2026-06-14T08:38:25.764520Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-21T08:30:12.225796Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-05-22T08:20:26.475236Z",
       "sources": [
@@ -713,7 +706,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-06-14T08:38:25.764534Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-13T08:18:17.362193Z"
+  "last_updated": "2026-06-14T08:38:25.764555Z"
 }

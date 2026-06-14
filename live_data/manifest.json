@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-13T08:19:04.541944Z",
+  "generated": "2026-06-14T08:39:05.129726Z",
   "files": {
     "politician_jones": {
-      "last_updated": "2026-06-13T08:17:13.579241Z",
-      "lie_count": 12,
+      "last_updated": "2026-06-14T08:37:29.969995Z",
+      "lie_count": 13,
       "event_count": 20,
       "post_count": 4,
       "vote_count": 0,
@@ -15,34 +15,34 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-06-13T08:17:29.422053Z",
+      "last_updated": "2026-06-14T08:37:42.099829Z",
       "lie_count": 14,
       "event_count": 20,
       "post_count": 13,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Nicola Willis finance minister contradic",
           "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-06-13T08:18:50.408853Z",
+      "last_updated": "2026-06-14T08:38:51.428736Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 3,
       "vote_count": 0,
       "sources": [
         [
-          "GDELT global news database",
           "Tavily: Anthony Albanese contradiction fact chec",
           "Tavily: Anthony Albanese statement 2026"
         ]
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-06-13T08:16:39.945720Z",
+      "last_updated": "2026-06-14T08:37:01.733572Z",
       "lie_count": 21,
       "event_count": 20,
       "post_count": 17,
@@ -55,7 +55,7 @@
       ]
     },
     "politician_starmer_uk": {
-      "last_updated": "2026-06-13T08:19:03.540380Z",
+      "last_updated": "2026-06-14T08:39:04.128193Z",
       "lie_count": 24,
       "event_count": 20,
       "post_count": 9,
@@ -68,21 +68,20 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-06-13T08:16:55.858854Z",
+      "last_updated": "2026-06-14T08:37:16.031334Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: David Seymour ACT contradiction fact che",
           "Tavily: David Seymour statement 2026"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-06-13T08:18:01.260445Z",
+      "last_updated": "2026-06-14T08:38:10.802998Z",
       "lie_count": 5,
       "event_count": 20,
       "post_count": 1,
@@ -95,7 +94,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-06-13T08:18:17.362193Z",
+      "last_updated": "2026-06-14T08:38:25.764555Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 8,
@@ -108,10 +107,10 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-06-13T08:16:22.794918Z",
+      "last_updated": "2026-06-14T08:36:42.069595Z",
       "lie_count": 25,
       "event_count": 20,
-      "post_count": 18,
+      "post_count": 19,
       "vote_count": 1,
       "sources": [
         [
@@ -121,28 +120,27 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-06-13T08:18:33.607039Z",
-      "lie_count": 59,
+      "last_updated": "2026-06-14T08:38:39.616665Z",
+      "lie_count": 60,
       "event_count": 20,
       "post_count": 3,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
+          "RSS (4 articles from NZ/intl media)",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-06-13T08:17:44.405324Z",
+      "last_updated": "2026-06-14T08:37:55.683804Z",
       "lie_count": 24,
       "event_count": 20,
-      "post_count": 1,
+      "post_count": 2,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Chris Bishop housing minister statement ",
           "Tavily: Chris Bishop housing contradiction 2026"
         ]

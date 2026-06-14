@@ -270,11 +270,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-17T06:32:13.245690Z",
-      "notes": "No significant new findings related to Anthony Albanese's statements or actions, but a relevant event in the Middle East crisis",
-      "new_items": true
-    },
-    {
       "date": "2026-04-20T07:13:02.533940Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -518,16 +513,14 @@
       "date": "2026-06-13T08:18:50.408811Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-14T08:38:51.428660Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-21T08:31:19.778364Z",
-      "sources": [
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-05-22T08:21:09.025714Z",
       "sources": [
@@ -666,7 +659,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-14T08:38:51.428674Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-13T08:18:50.408853Z"
+  "last_updated": "2026-06-14T08:38:51.428736Z"
 }

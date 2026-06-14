@@ -258,6 +258,20 @@
       },
       "_id": "e9487a37",
       "_crawled": "2026-06-13T08:17:44.405156Z"
+    },
+    {
+      "platform": "press",
+      "date": "June 2026",
+      "text": "Housing Minister Chris Bishop announces social housing overhaul with potential duration limits, changes to how need is assessed",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Previous statements emphasized support for social housing, while new policy introduces potential duration limits",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "e4c48d49",
+      "_crawled": "2026-06-14T08:37:55.683592Z"
     }
   ],
   "votes": [],
@@ -663,13 +677,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The minister's claims about the government's investment in housing growth and access to warm, dry, secure homes may be misleading"
+    },
+    "2026-06-14T08:37:55.683592Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Minister's statements and policy changes raise concerns about consistency and commitment to social housing"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-04T08:44:15.800529Z",
-      "text": "Housing Minister Chris Bishop announced a social housing overhaul, but has been criticized for his approach to addressing the housing shortage."
-    },
     {
       "date": "2026-06-05T08:39:46.408220Z",
       "text": "Housing Minister Chris Bishop announced a social housing overhaul, but his statements have been found to be misleading or inaccurate."
@@ -705,14 +720,13 @@
     {
       "date": "2026-06-13T08:17:44.405156Z",
       "text": "Housing Minister Chris Bishop's recent announcements and statements have raised concerns about the government's commitment to increasing access to warm, dry, secure homes"
+    },
+    {
+      "date": "2026-06-14T08:37:55.683592Z",
+      "text": "Housing Minister Chris Bishop's recent announcements and policy changes have raised concerns about the government's commitment to social housing and support for vulnerable populations"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-17T06:30:32.624500Z",
-      "notes": "Multiple sources confirm changes to the Auckland housing plan, contradicting the Minister's claims",
-      "new_items": true
-    },
     {
       "date": "2026-04-22T06:33:15.812216Z",
       "notes": "Multiple sources confirm the government's reduction of housing intensification rules for Auckland, contradicting Chris Bishop's claims",
@@ -957,16 +971,14 @@
       "date": "2026-06-13T08:17:44.405156Z",
       "notes": "Further review of the minister's statements and policies is needed to fully assess the implications of the social housing shake-up",
       "new_items": true
+    },
+    {
+      "date": "2026-06-14T08:37:55.683592Z",
+      "notes": "Minister's statements and policy changes warrant further review and analysis",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-20T08:22:25.264591Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-21T08:29:20.887459Z",
       "sources": [
@@ -1101,7 +1113,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-14T08:37:55.683782Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-13T08:17:44.405324Z"
+  "last_updated": "2026-06-14T08:37:55.683804Z"
 }
