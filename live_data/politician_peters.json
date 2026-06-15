@@ -821,10 +821,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-05T08:38:51.345589Z",
-      "text": "Winston Peters continues to make statements on coalition negotiations and energy policy, while facing criticism for his comments on Labour and the Iran war emails."
-    },
-    {
       "date": "2026-06-06T07:40:36.225209Z",
       "text": "Winston Peters' recent comments and actions have sparked concerns about his reliability in coalition negotiations and his consistency on key issues"
     },
@@ -859,14 +855,13 @@
     {
       "date": "2026-06-14T08:37:01.733404Z",
       "text": "Winston Peters' recent comments on Labour and immigration policies have raised concerns about his integrity and consistency"
+    },
+    {
+      "date": "2026-06-15T10:50:04.889607Z",
+      "text": "Winston Peters' recent statements and actions suggest a potential shift in his stance on Labour and immigration, while his criticism of National and Act reflects ongoing tensions between the parties"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-25T06:17:02.764253Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-04-26T06:55:50.361191Z",
       "notes": "No results",
@@ -1111,16 +1106,14 @@
       "date": "2026-06-14T08:37:01.733404Z",
       "notes": "Peters' statements and actions continue to be scrutinized for inconsistencies and contradictions",
       "new_items": true
+    },
+    {
+      "date": "2026-06-15T10:50:04.889607Z",
+      "notes": "Peters' tweets and interviews continue to be a source of controversy and insight into his political views",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-23T07:26:26.598877Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-24T07:46:04.461968Z",
       "sources": [
@@ -1260,7 +1253,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-15T10:50:04.889762Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-14T08:37:01.733572Z"
+  "last_updated": "2026-06-15T10:50:04.889787Z"
 }

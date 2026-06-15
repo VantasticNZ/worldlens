@@ -324,11 +324,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-24T07:01:54.395455Z",
-      "notes": "Added new event regarding Labour's support for India free trade deal",
-      "new_items": true
-    },
-    {
       "date": "2026-04-25T06:19:15.970628Z",
       "notes": "No results",
       "new_items": false
@@ -572,16 +567,14 @@
       "date": "2026-06-14T08:38:10.802851Z",
       "notes": "No significant new findings on lies, social posts, or votes, but several new events related to Chris Hipkins and the Labour party.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-15T10:51:35.433252Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins' speeches and policies.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-21T08:29:47.115895Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-22T08:19:57.513479Z",
       "sources": [
@@ -719,7 +712,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-15T10:51:35.433340Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-14T08:38:10.802998Z"
+  "last_updated": "2026-06-15T10:51:35.433360Z"
 }
