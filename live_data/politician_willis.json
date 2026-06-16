@@ -600,10 +600,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-22T08:19:11.122544Z",
-      "text": "Nicola Willis announces public service cuts and expresses regret over social housing comment, potentially impacting her integrity score"
-    },
-    {
       "date": "2026-05-23T07:27:31.263421Z",
       "text": "Nicola Willis announced significant public service cuts, sparking surprise and concern from Wellington Mayor Andrew Little."
     },
@@ -638,14 +634,13 @@
     {
       "date": "2026-06-14T08:37:42.099667Z",
       "text": "Nicola Willis delivered Budget 2026 and issued a statement expressing regret about a social housing comment."
+    },
+    {
+      "date": "2026-06-16T10:03:22.374452Z",
+      "text": "Nicola Willis announced significant changes in the Budget 2026, including job cuts and government agency mergers."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-25T06:18:16.282279Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-04-26T06:57:00.700887Z",
       "notes": "No results",
@@ -890,15 +885,14 @@
       "date": "2026-06-15T10:51:02.543686Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to Nicola Willis's recent activities.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-16T10:03:22.374452Z",
+      "notes": "No significant new lies or social posts found, but new events related to Budget 2026 announcement",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-26T08:28:20.735562Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-05-27T08:35:21.299735Z",
       "sources": [
@@ -1031,7 +1025,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-16T10:03:22.374548Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-15T10:51:02.543793Z"
+  "last_updated": "2026-06-16T10:03:22.374571Z"
 }

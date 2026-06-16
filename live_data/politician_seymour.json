@@ -197,13 +197,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Apology for using violent rhetoric may indicate a lapse in judgment"
+    },
+    "2026-06-16T10:02:40.420245Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Apology for using violent rhetoric may indicate a lapse in judgment"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-09T07:03:26.031034Z",
-      "text": "David Seymour's recent comments on RNZ leadership and media criticism have sparked controversy"
-    },
     {
       "date": "2026-05-10T07:22:26.387054Z",
       "text": "David Seymour has been involved in several controversies, including criticizing a media trust survey, proposing a migrant tax, and commenting on RNZ leadership changes."
@@ -239,14 +240,13 @@
     {
       "date": "2026-06-15T10:50:23.701241Z",
       "text": "David Seymour apologised for using violent rhetoric in an email to an abuse victim, raising concerns about his judgment."
+    },
+    {
+      "date": "2026-06-16T10:02:40.420245Z",
+      "text": "David Seymour apologised for using violent rhetoric in an email to an abuse victim, raising concerns about his judgment."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-24T07:00:54.280787Z",
-      "notes": "RNZ News articles reviewed, one new event added regarding investment programme proposal",
-      "new_items": true
-    },
     {
       "date": "2026-04-26T06:56:12.783611Z",
       "notes": "New event added regarding support for Seymour's investment programme idea",
@@ -491,16 +491,14 @@
       "date": "2026-06-15T10:50:23.701241Z",
       "notes": "Apology from David Seymour for using violent rhetoric, potential impact on integrity score",
       "new_items": true
+    },
+    {
+      "date": "2026-06-16T10:02:40.420245Z",
+      "notes": "RNZ News article reports on David Seymour's apology for using violent rhetoric",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-23T07:26:51.658626Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-05-24T07:46:23.969876Z",
       "sources": [
@@ -636,7 +634,15 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-16T10:02:40.420323Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-15T10:50:23.701341Z"
+  "last_updated": "2026-06-16T10:02:40.420351Z"
 }

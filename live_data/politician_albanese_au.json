@@ -56,6 +56,20 @@
       },
       "_id": "3bf643ef",
       "_crawled": "2026-06-06T07:42:46.578646Z"
+    },
+    {
+      "platform": "press",
+      "date": "June 2026",
+      "text": "Albanese signals fuel excise cut may be extended to help motorists amid Middle East crisis",
+      "verified_by": "The Guardian",
+      "discrepancy": {
+        "type": "none",
+        "detail": "",
+        "source": "",
+        "severity": ""
+      },
+      "_id": "f6116d97",
+      "_crawled": "2026-06-16T10:04:59.029650Z"
     }
   ],
   "votes": [],
@@ -266,14 +280,13 @@
     {
       "date": "2026-06-06T07:42:46.578646Z",
       "text": "Anthony Albanese met with Christopher Luxon for the Australia-New Zealand Leaders' Meeting and announced a crackdown on hate speech."
+    },
+    {
+      "date": "2026-06-16T10:04:59.029650Z",
+      "text": "Anthony Albanese attended the Australia-New Zealand Leaders' Meeting and signaled a possible extension of the fuel excise cut."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-22T06:34:54.812099Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-23T07:01:26.297524Z",
       "notes": "No significant new findings",
@@ -518,17 +531,14 @@
       "date": "2026-06-15T10:52:17.626851Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-16T10:04:59.029650Z",
+      "notes": "No significant lies or discrepancies found, but new events and social posts were discovered.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-23T07:29:43.783539Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-05-24T07:48:33.483568Z",
       "sources": [
@@ -666,7 +676,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-16T10:04:59.029755Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-15T10:52:17.626887Z"
+  "last_updated": "2026-06-16T10:04:59.029777Z"
 }

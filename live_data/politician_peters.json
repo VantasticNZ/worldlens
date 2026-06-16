@@ -452,6 +452,20 @@
       },
       "_id": "46139e92",
       "_crawled": "2026-06-11T09:07:57.464185Z"
+    },
+    {
+      "platform": "speech",
+      "date": "June 2026",
+      "text": "Winston Peters says NZ First won't do a deal with Labour",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Peters' statement contradicts his previous actions and statements",
+        "source": "NZ Herald",
+        "severity": "high"
+      },
+      "_id": "263e473e",
+      "_crawled": "2026-06-16T10:02:20.631085Z"
     }
   ],
   "votes": [],
@@ -817,13 +831,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' contradictory comments on Labour and immigration policies raise concerns about his integrity"
+    },
+    "2026-06-16T10:02:20.631085Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' contradictory statements and actions have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-06T07:40:36.225209Z",
-      "text": "Winston Peters' recent comments and actions have sparked concerns about his reliability in coalition negotiations and his consistency on key issues"
-    },
     {
       "date": "2026-06-07T08:18:44.445911Z",
       "text": "Winston Peters continues to make statements and proposals that may be misleading or contradictory, and his party's stance on various issues remains unclear"
@@ -859,14 +874,13 @@
     {
       "date": "2026-06-15T10:50:04.889607Z",
       "text": "Winston Peters' recent statements and actions suggest a potential shift in his stance on Labour and immigration, while his criticism of National and Act reflects ongoing tensions between the parties"
+    },
+    {
+      "date": "2026-06-16T10:02:20.631085Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-26T06:55:50.361191Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-04-27T07:30:43.086507Z",
       "notes": "No results",
@@ -1111,16 +1125,14 @@
       "date": "2026-06-15T10:50:04.889607Z",
       "notes": "Peters' tweets and interviews continue to be a source of controversy and insight into his political views",
       "new_items": true
+    },
+    {
+      "date": "2026-06-16T10:02:20.631085Z",
+      "notes": "Peters' statements and actions continue to be contradictory and inconsistent",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-24T07:46:04.461968Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-05-25T08:51:02.774947Z",
       "sources": [
@@ -1261,7 +1273,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-16T10:02:20.631230Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-15T10:50:04.889787Z"
+  "last_updated": "2026-06-16T10:02:20.631257Z"
 }

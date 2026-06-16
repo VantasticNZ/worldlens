@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 25,
+  "lie_count": 26,
   "lies": [
     {
       "date": "2026",
@@ -252,6 +252,16 @@
       "platform": "twitter",
       "_id": "d9e62f77",
       "_crawled": "2026-06-12T08:53:36.721002Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Luxon scolded the media and told them he would no longer engage with them on questions about his leadership",
+      "reality": "Luxon did engage with the media on questions about his leadership after the incident",
+      "source": "The Guardian, April 23, 2026",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "a14a1cae",
+      "_crawled": "2026-06-16T10:01:56.959748Z"
     }
   ],
   "social_posts": [
@@ -520,6 +530,20 @@
       },
       "_id": "3f88aa2e",
       "_crawled": "2026-06-14T08:36:42.069444Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Luxon sees himself as CEO of NZ and it shows in the budget",
+      "verified_by": "The Spinoff, May 29, 2026",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Luxon's budget priorities contradict his previous statements on climate change",
+        "source": "The Spinoff, May 29, 2026",
+        "severity": "high"
+      },
+      "_id": "56bb0b00",
+      "_crawled": "2026-06-16T10:01:56.959748Z"
     }
   ],
   "votes": [
@@ -926,13 +950,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's claim about supporting the Crusaders since he was a little boy is a low-severity lie, but it still affects his integrity score"
+    },
+    "2026-06-16T10:01:56.959748Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Luxon's handling of the media and the disappearing documents controversy raise concerns about his integrity and transparency"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-05T08:38:37.257682Z",
-      "text": "Christopher Luxon faces criticism for inconsistencies in climate change policies and statements on China sanctions, while surviving a party leadership vote."
-    },
     {
       "date": "2026-06-06T07:40:20.756315Z",
       "text": "Luxon's recent statements and actions have raised concerns about his integrity and commitment to climate change policies"
@@ -968,14 +993,13 @@
     {
       "date": "2026-06-14T08:36:42.069444Z",
       "text": "Christopher Luxon's integrity score has been adjusted due to a low-severity lie about his support for the Crusaders"
+    },
+    {
+      "date": "2026-06-16T10:01:56.959748Z",
+      "text": "Luxon faces criticism for his leadership and handling of various issues, including climate change policies and the disappearing documents controversy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-26T06:55:28.354296Z",
-      "notes": "New events added, including Luxon's cancellation of TVNZ Breakfast slot and the India-New Zealand FTA.",
-      "new_items": true
-    },
     {
       "date": "2026-04-27T07:30:19.766381Z",
       "notes": "RNZ News and Guardian NZ articles reviewed, no new lies or social posts found.",
@@ -1220,17 +1244,14 @@
       "date": "2026-06-15T10:49:50.855577Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-16T10:01:56.959748Z",
+      "notes": "Multiple sources indicate Luxon's leadership is under scrutiny, with concerns about his integrity and transparency",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-22T08:17:33.826261Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-23T07:26:03.203097Z",
       "sources": [
@@ -1374,7 +1395,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-16T10:01:56.959911Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-15T10:49:50.855616Z"
+  "last_updated": "2026-06-16T10:01:56.959938Z"
 }

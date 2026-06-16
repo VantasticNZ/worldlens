@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 60,
+  "lie_count": 61,
   "lies": [
     {
       "date": "January 2026",
@@ -602,6 +602,16 @@
       "platform": "press_release",
       "_id": "4fba9c4c",
       "_crawled": "2026-06-14T08:38:39.616346Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "The ongoing ballot counting in California means 'they're cheating on the election'",
+      "reality": "No evidence of cheating in the California election",
+      "source": "PolitiFact, June 7, 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "e6090d32",
+      "_crawled": "2026-06-16T10:04:43.500204Z"
     }
   ],
   "social_posts": [
@@ -1072,13 +1082,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Additional lies and controversial events have negatively impacted Trump's integrity score"
+    },
+    "2026-06-16T10:04:43.500204Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Multiple new lies found, indicating a decrease in integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-06T07:42:32.159823Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and policy decisions"
-    },
     {
       "date": "2026-06-07T08:20:16.345763Z",
       "text": "Trump's recent statements and actions have continued to raise concerns about his integrity and honesty, with multiple fact-checking organizations debunking his claims"
@@ -1114,14 +1125,13 @@
     {
       "date": "2026-06-15T10:52:04.285941Z",
       "text": "Trump's recent lies and controversial events have further eroded his integrity, with his score being adjusted downward"
+    },
+    {
+      "date": "2026-06-16T10:04:43.500204Z",
+      "text": "Donald Trump's recent statements have been found to be false, including claims about gasoline prices, consumer confidence, and the California election"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-24T07:02:42.252170Z",
-      "notes": "Reviewed 6 articles from BBC World, found 3 new events",
-      "new_items": true
-    },
     {
       "date": "2026-04-26T06:58:34.936320Z",
       "notes": "New events added related to a shooting incident and a cancelled diplomatic trip",
@@ -1366,15 +1376,14 @@
       "date": "2026-06-15T10:52:04.285941Z",
       "notes": "Multiple new lies and events found, with a focus on Trump's recent statements and actions",
       "new_items": true
+    },
+    {
+      "date": "2026-06-16T10:04:43.500204Z",
+      "notes": "PolitiFact and BBC World sources used to verify new lies and events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-27T08:36:17.436310Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-05-28T08:40:26.922194Z",
       "sources": [
@@ -1521,7 +1530,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-16T10:04:43.500500Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-15T10:52:04.286264Z"
+  "last_updated": "2026-06-16T10:04:43.500522Z"
 }
