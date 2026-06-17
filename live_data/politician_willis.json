@@ -600,10 +600,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-23T07:27:31.263421Z",
-      "text": "Nicola Willis announced significant public service cuts, sparking surprise and concern from Wellington Mayor Andrew Little."
-    },
-    {
       "date": "2026-05-24T07:46:55.479241Z",
       "text": "Nicola Willis faces criticism for her comments on social housing and her plan to cut public sector jobs"
     },
@@ -638,14 +634,13 @@
     {
       "date": "2026-06-16T10:03:22.374452Z",
       "text": "Nicola Willis announced significant changes in the Budget 2026, including job cuts and government agency mergers."
+    },
+    {
+      "date": "2026-06-17T09:26:48.518060Z",
+      "text": "Nicola Willis announces Budget 2026 and expresses regret over social housing comment."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-26T06:57:00.700887Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-04-27T07:31:57.286416Z",
       "notes": "No results",
@@ -890,15 +885,14 @@
       "date": "2026-06-16T10:03:22.374452Z",
       "notes": "No significant new lies or social posts found, but new events related to Budget 2026 announcement",
       "new_items": true
+    },
+    {
+      "date": "2026-06-17T09:26:48.518060Z",
+      "notes": "No significant new lies or social posts found.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-27T08:35:21.299735Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-05-28T08:39:08.032016Z",
       "sources": [
@@ -1032,7 +1026,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-17T09:26:48.518160Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-16T10:03:22.374571Z"
+  "last_updated": "2026-06-17T09:26:48.518182Z"
 }

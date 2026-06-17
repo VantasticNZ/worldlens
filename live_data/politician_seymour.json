@@ -248,11 +248,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-26T06:56:12.783611Z",
-      "notes": "New event added regarding support for Seymour's investment programme idea",
-      "new_items": true
-    },
-    {
       "date": "2026-04-28T07:28:15.187933Z",
       "notes": "No results",
       "new_items": false
@@ -496,17 +491,14 @@
       "date": "2026-06-16T10:02:40.420245Z",
       "notes": "RNZ News article reports on David Seymour's apology for using violent rhetoric",
       "new_items": true
+    },
+    {
+      "date": "2026-06-17T09:26:18.276378Z",
+      "notes": "New events and policies announced by David Seymour",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-24T07:46:23.969876Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-05-25T08:51:21.020976Z",
       "sources": [
@@ -642,7 +634,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-17T09:26:18.276479Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-16T10:02:40.420351Z"
+  "last_updated": "2026-06-17T09:26:18.276506Z"
 }

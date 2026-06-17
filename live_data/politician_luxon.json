@@ -955,13 +955,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Luxon's handling of the media and the disappearing documents controversy raise concerns about his integrity and transparency"
+    },
+    "2026-06-17T09:25:43.622805Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistent statements and fracturing coalition on climate policies raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-06T07:40:20.756315Z",
-      "text": "Luxon's recent statements and actions have raised concerns about his integrity and commitment to climate change policies"
-    },
     {
       "date": "2026-06-07T08:18:31.643851Z",
       "text": "Luxon meets with Australian PM and addresses China's ban on New Zealand MPs"
@@ -997,14 +998,13 @@
     {
       "date": "2026-06-16T10:01:56.959748Z",
       "text": "Luxon faces criticism for his leadership and handling of various issues, including climate change policies and the disappearing documents controversy"
+    },
+    {
+      "date": "2026-06-17T09:25:43.622805Z",
+      "text": "Luxon faces criticism and controversy over climate policies and his leadership, with his coalition fracturing and his integrity being questioned"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-27T07:30:19.766381Z",
-      "notes": "RNZ News and Guardian NZ articles reviewed, no new lies or social posts found.",
-      "new_items": true
-    },
     {
       "date": "2026-04-28T07:27:19.758371Z",
       "notes": "RNZ News and Guardian NZ articles reviewed, no new lies or social posts found.",
@@ -1249,17 +1249,14 @@
       "date": "2026-06-16T10:01:56.959748Z",
       "notes": "Multiple sources indicate Luxon's leadership is under scrutiny, with concerns about his integrity and transparency",
       "new_items": true
+    },
+    {
+      "date": "2026-06-17T09:25:43.622805Z",
+      "notes": "Luxon's statements and actions on climate policies and his leadership are under scrutiny",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-23T07:26:03.203097Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-24T07:45:48.868081Z",
       "sources": [
@@ -1402,7 +1399,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-17T09:25:43.622908Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-16T10:01:56.959938Z"
+  "last_updated": "2026-06-17T09:25:43.622931Z"
 }

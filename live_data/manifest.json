@@ -1,22 +1,21 @@
 {
-  "generated": "2026-06-16T10:05:21.052230Z",
+  "generated": "2026-06-17T09:28:34.163153Z",
   "files": {
     "politician_jones": {
-      "last_updated": "2026-06-16T10:02:59.584929Z",
+      "last_updated": "2026-06-17T09:26:32.848001Z",
       "lie_count": 13,
       "event_count": 20,
       "post_count": 4,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Shane Jones NZ First controversy 2026",
           "Tavily: Shane Jones statement tweet 2026"
         ]
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-06-16T10:03:22.374571Z",
+      "last_updated": "2026-06-17T09:26:48.518182Z",
       "lie_count": 14,
       "event_count": 20,
       "post_count": 13,
@@ -29,33 +28,35 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-06-16T10:04:59.029777Z",
+      "last_updated": "2026-06-17T09:28:18.333383Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
       "vote_count": 0,
       "sources": [
         [
+          "GDELT global news database",
           "Tavily: Anthony Albanese contradiction fact chec",
           "Tavily: Anthony Albanese statement 2026"
         ]
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-06-16T10:02:20.631257Z",
+      "last_updated": "2026-06-17T09:26:02.823134Z",
       "lie_count": 21,
       "event_count": 20,
       "post_count": 18,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Winston Peters NZ First contradiction 20",
           "Tavily: Winston Peters tweet statement 2026"
         ]
       ]
     },
     "politician_starmer_uk": {
-      "last_updated": "2026-06-16T10:05:20.050663Z",
+      "last_updated": "2026-06-17T09:28:33.161704Z",
       "lie_count": 24,
       "event_count": 20,
       "post_count": 9,
@@ -68,35 +69,33 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-06-16T10:02:40.420351Z",
+      "last_updated": "2026-06-17T09:26:18.276506Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
           "Tavily: David Seymour ACT contradiction fact che",
           "Tavily: David Seymour statement 2026"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-06-16T10:04:01.305899Z",
+      "last_updated": "2026-06-17T09:27:22.548068Z",
       "lie_count": 5,
       "event_count": 20,
       "post_count": 1,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Chris Hipkins Labour statement 2026",
           "Tavily: Chris Hipkins contradiction 2026"
         ]
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-06-16T10:04:23.869267Z",
+      "last_updated": "2026-06-17T09:27:37.180737Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 8,
@@ -109,7 +108,7 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-06-16T10:01:56.959938Z",
+      "last_updated": "2026-06-17T09:25:43.622931Z",
       "lie_count": 26,
       "event_count": 20,
       "post_count": 20,
@@ -122,21 +121,20 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-06-16T10:04:43.500522Z",
-      "lie_count": 61,
+      "last_updated": "2026-06-17T09:27:52.763736Z",
+      "lie_count": 63,
       "event_count": 20,
       "post_count": 3,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (3 articles from NZ/intl media)",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-06-16T10:03:41.363182Z",
+      "last_updated": "2026-06-17T09:27:04.672074Z",
       "lie_count": 24,
       "event_count": 20,
       "post_count": 3,

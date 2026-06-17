@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 61,
+  "lie_count": 63,
   "lies": [
     {
       "date": "January 2026",
@@ -612,6 +612,26 @@
       "platform": "interview",
       "_id": "e6090d32",
       "_crawled": "2026-06-16T10:04:43.500204Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Gasoline prices have 'come down very substantially today.'",
+      "reality": "Gasoline prices have not come down substantially",
+      "source": "PolitiFact",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "5b13ea29",
+      "_crawled": "2026-06-17T09:27:52.763371Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Consumer confidence is way up.",
+      "reality": "Consumer confidence has not increased significantly",
+      "source": "PolitiFact",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "06e6c5f8",
+      "_crawled": "2026-06-17T09:27:52.763371Z"
     }
   ],
   "social_posts": [
@@ -1087,13 +1107,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Multiple new lies found, indicating a decrease in integrity score"
+    },
+    "2026-06-17T09:27:52.763371Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Repeated lies and exaggerations by Trump"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-07T08:20:16.345763Z",
-      "text": "Trump's recent statements and actions have continued to raise concerns about his integrity and honesty, with multiple fact-checking organizations debunking his claims"
-    },
     {
       "date": "2026-06-08T09:19:46.893173Z",
       "text": "Trump's recent actions and statements have raised concerns about his integrity and commitment to truth"
@@ -1129,14 +1150,13 @@
     {
       "date": "2026-06-16T10:04:43.500204Z",
       "text": "Donald Trump's recent statements have been found to be false, including claims about gasoline prices, consumer confidence, and the California election"
+    },
+    {
+      "date": "2026-06-17T09:27:52.763371Z",
+      "text": "Trump's recent statements have been found to be false or exaggerated, further eroding his integrity score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-26T06:58:34.936320Z",
-      "notes": "New events added related to a shooting incident and a cancelled diplomatic trip",
-      "new_items": true
-    },
     {
       "date": "2026-04-28T07:30:38.356122Z",
       "notes": "No significant new findings",
@@ -1381,15 +1401,14 @@
       "date": "2026-06-16T10:04:43.500204Z",
       "notes": "PolitiFact and BBC World sources used to verify new lies and events",
       "new_items": true
+    },
+    {
+      "date": "2026-06-17T09:27:52.763371Z",
+      "notes": "Multiple sources confirm Trump's lies and exaggerations, with a focus on his recent statements about gasoline prices, consumer confidence, and the Lincoln Memorial Reflecting Pool",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-28T08:40:26.922194Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-05-29T08:38:56.062199Z",
       "sources": [
@@ -1538,7 +1557,14 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-17T09:27:52.763716Z",
+      "sources": [
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-16T10:04:43.500522Z"
+  "last_updated": "2026-06-17T09:27:52.763736Z"
 }
