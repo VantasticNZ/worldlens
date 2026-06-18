@@ -1112,13 +1112,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Repeated lies and exaggerations by Trump"
+    },
+    "2026-06-18T09:11:34.206029Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's exaggeration of previous administrations' spending on the Lincoln Memorial Reflecting Pool and his claim about Thom Tillis being no longer a senator contribute to the integrity delta decrease"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-08T09:19:46.893173Z",
-      "text": "Trump's recent actions and statements have raised concerns about his integrity and commitment to truth"
-    },
     {
       "date": "2026-06-09T08:28:13.801890Z",
       "text": "Trump's integrity score has decreased due to additional lies and negative events"
@@ -1154,14 +1155,13 @@
     {
       "date": "2026-06-17T09:27:52.763371Z",
       "text": "Trump's recent statements have been found to be false or exaggerated, further eroding his integrity score"
+    },
+    {
+      "date": "2026-06-18T09:11:34.206029Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity, with exaggerations and false claims about the Lincoln Memorial Reflecting Pool and Thom Tillis' senator status"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-28T07:30:38.356122Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-29T07:17:15.600516Z",
       "notes": "BBC World and GDELT sources provided new information on Trump's activities and statements",
@@ -1406,16 +1406,14 @@
       "date": "2026-06-17T09:27:52.763371Z",
       "notes": "Multiple sources confirm Trump's lies and exaggerations, with a focus on his recent statements about gasoline prices, consumer confidence, and the Lincoln Memorial Reflecting Pool",
       "new_items": true
+    },
+    {
+      "date": "2026-06-18T09:11:34.206029Z",
+      "notes": "Trump's US-Iran agreement and Israel's strikes on Lebanon are notable events, but do not directly impact his integrity score",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-29T08:38:56.062199Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-05-30T07:37:45.256895Z",
       "sources": [
@@ -1564,7 +1562,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-18T09:11:34.206238Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-17T09:27:52.763736Z"
+  "last_updated": "2026-06-18T09:11:34.206259Z"
 }

@@ -554,10 +554,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-07T08:19:10.581255Z",
-      "text": "Shane Jones has made several controversial comments, including comparing the India FTA to a 'butter chicken tsunami' and making a jab at the Finance Minister's weight loss."
-    },
-    {
       "date": "2026-06-08T09:18:32.705726Z",
       "text": "Shane Jones faces criticism for his comments on Ngāti Ruanui and the India FTA."
     },
@@ -592,14 +588,13 @@
     {
       "date": "2026-06-17T09:26:32.847869Z",
       "text": "Shane Jones faces criticism for his comments on various topics, including the India FTA and fossil fuels."
+    },
+    {
+      "date": "2026-06-18T09:09:46.134557Z",
+      "text": "Shane Jones' travel bill and fisheries amendment Bill have sparked controversy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-27T07:31:27.552471Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-04-28T07:28:41.797713Z",
       "notes": "No significant new findings",
@@ -844,16 +839,14 @@
       "date": "2026-06-17T09:26:32.847869Z",
       "notes": "Multiple sources report on Shane Jones' controversial comments and actions.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-18T09:09:46.134557Z",
+      "notes": "New events related to Shane Jones' travel bill and fisheries amendment Bill",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-24T07:46:37.838550Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-05-25T08:51:43.347111Z",
       "sources": [
@@ -989,7 +982,15 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-06-18T09:09:46.134648Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-17T09:26:32.848001Z"
+  "last_updated": "2026-06-18T09:09:46.134670Z"
 }

@@ -544,6 +544,20 @@
       },
       "_id": "56bb0b00",
       "_crawled": "2026-06-16T10:01:56.959748Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "April 2026",
+      "text": "participated in a virtual meeting with other world leaders about opening the Strait of Hormuz",
+      "verified_by": "The Spinoff, April 20, 2026",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "no further information on the meeting's outcome",
+        "source": "The Spinoff, April 20, 2026",
+        "severity": "low"
+      },
+      "_id": "ed435fb1",
+      "_crawled": "2026-06-18T09:08:51.399563Z"
     }
   ],
   "votes": [
@@ -960,13 +974,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistent statements and fracturing coalition on climate policies raise concerns about his integrity"
+    },
+    "2026-06-18T09:08:51.399563Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistent statements and the coalition's instability raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-07T08:18:31.643851Z",
-      "text": "Luxon meets with Australian PM and addresses China's ban on New Zealand MPs"
-    },
     {
       "date": "2026-06-08T09:17:46.487590Z",
       "text": "Luxon comments on international events and meets with Australian PM"
@@ -1002,14 +1017,13 @@
     {
       "date": "2026-06-17T09:25:43.622805Z",
       "text": "Luxon faces criticism and controversy over climate policies and his leadership, with his coalition fracturing and his integrity being questioned"
+    },
+    {
+      "date": "2026-06-18T09:08:51.399563Z",
+      "text": "Luxon's coalition faces instability on climate issues, and his inconsistent statements raise concerns about his integrity"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-28T07:27:19.758371Z",
-      "notes": "RNZ News and Guardian NZ articles reviewed, no new lies or social posts found.",
-      "new_items": true
-    },
     {
       "date": "2026-04-29T07:15:33.202110Z",
       "notes": "Leadership confidence vote and potential implications for Luxon's integrity score.",
@@ -1254,17 +1268,14 @@
       "date": "2026-06-17T09:25:43.622805Z",
       "notes": "Luxon's statements and actions on climate policies and his leadership are under scrutiny",
       "new_items": true
+    },
+    {
+      "date": "2026-06-18T09:08:51.399563Z",
+      "notes": "Luxon's statements and actions continue to be scrutinized, with a focus on his integrity and the coalition's stability",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-24T07:45:48.868081Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-05-25T08:50:48.030805Z",
       "sources": [
@@ -1406,7 +1417,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-18T09:08:51.399698Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-17T09:25:43.622931Z"
+  "last_updated": "2026-06-18T09:08:51.399727Z"
 }

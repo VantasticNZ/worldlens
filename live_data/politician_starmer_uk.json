@@ -370,6 +370,20 @@
       },
       "_id": "993eb81a",
       "_crawled": "2026-06-06T07:42:57.080131Z"
+    },
+    {
+      "platform": "press",
+      "date": "June 2026",
+      "text": "Keir Starmer vows to 'defeat decline and division' in new year message",
+      "verified_by": "BBC",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "previous statements on decline and division",
+        "source": "The Guardian",
+        "severity": "med"
+      },
+      "_id": "2c50e559",
+      "_crawled": "2026-06-18T09:12:05.474408Z"
     }
   ],
   "votes": [],
@@ -760,13 +774,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "inconsistencies in statements and lack of evidence for positive change"
+    },
+    "2026-06-18T09:12:05.474408Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "inconsistencies in policy statements and actions"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-07T08:20:43.200458Z",
-      "text": "Keir Starmer's leadership faces increasing scrutiny as promises of change remain unfulfilled"
-    },
     {
       "date": "2026-06-09T08:28:40.707872Z",
       "text": "Keir Starmer's leadership is under threat due to unfulfilled promises and declining poll ratings."
@@ -802,14 +817,13 @@
     {
       "date": "2026-06-17T09:28:33.161562Z",
       "text": "Keir Starmer's new year message and G7 summit appearance raise concerns about his leadership and integrity"
+    },
+    {
+      "date": "2026-06-18T09:12:05.474408Z",
+      "text": "Keir Starmer faces increasing pressure over defence spending and policy decisions, with inconsistencies in his statements and actions."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-26T06:59:20.453796Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-28T07:31:27.242995Z",
       "notes": "No significant new findings",
@@ -1054,15 +1068,14 @@
       "date": "2026-06-17T09:28:33.161562Z",
       "notes": "inconsistencies in statements and lack of evidence for positive change",
       "new_items": true
+    },
+    {
+      "date": "2026-06-18T09:12:05.474408Z",
+      "notes": "Multiple sources indicate inconsistencies in Keir Starmer's policy statements and actions, with potential implications for his integrity score.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-28T08:40:48.078891Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-05-29T08:39:24.865448Z",
       "sources": [
@@ -1195,7 +1208,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-18T09:12:05.474560Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-17T09:28:33.161704Z"
+  "last_updated": "2026-06-18T09:12:05.474580Z"
 }
