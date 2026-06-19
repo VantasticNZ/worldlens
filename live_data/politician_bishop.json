@@ -706,13 +706,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The Minister's statements and announcements have raised concerns about the effectiveness and fairness of the social housing system"
+    },
+    "2026-06-19T09:25:47.997850Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The minister's claims about the current system and the budget have been disputed, and the social housing shake-up has been criticized for potentially leaving many households worse off"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-09T08:27:34.349422Z",
-      "text": "Housing Minister Chris Bishop has been accused of breaking promises on social housing delivery and Auckland housing numbers, with officials warning that the Government is not on track to meet its targets"
-    },
     {
       "date": "2026-06-10T08:44:22.045483Z",
       "text": "Housing Minister Chris Bishop has announced a social housing overhaul, but his claims about the current system and social housing delivery have been disputed, raising concerns about his integrity"
@@ -748,14 +749,13 @@
     {
       "date": "2026-06-18T09:10:27.197481Z",
       "text": "Housing Minister Chris Bishop announced a social housing shake-up, which may have both positive and negative consequences"
+    },
+    {
+      "date": "2026-06-19T09:25:47.997850Z",
+      "text": "Housing Minister Chris Bishop has announced a major social housing shake-up, but his claims about the current system and the budget have been disputed, and the shake-up has been criticized for potentially leaving many households worse off"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-28T07:29:26.783272Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-29T07:16:40.849621Z",
       "notes": "No results",
@@ -1000,16 +1000,14 @@
       "date": "2026-06-18T09:10:27.197481Z",
       "notes": "Reviewed RNZ News and Beehive.govt.nz articles",
       "new_items": true
+    },
+    {
+      "date": "2026-06-19T09:25:47.997850Z",
+      "notes": "Minister's statements and actions on social housing have been controversial",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-25T08:52:36.143304Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-28T08:39:22.676297Z",
       "sources": [
@@ -1145,7 +1143,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-19T09:25:47.997972Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-18T09:10:27.197610Z"
+  "last_updated": "2026-06-19T09:25:47.997989Z"
 }

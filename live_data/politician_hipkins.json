@@ -311,10 +311,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-05T08:39:59.049003Z",
-      "text": "Chris Hipkins denies ex-wife's allegations, potentially impacting his public image"
-    },
-    {
       "date": "2026-06-06T07:42:00.147026Z",
       "text": "Chris Hipkins faces challenges to his integrity due to his handling of personal and policy issues"
     },
@@ -349,14 +345,13 @@
     {
       "date": "2026-06-18T09:10:46.079353Z",
       "text": "Chris Hipkins and Labour have made announcements regarding the cost of living relief policy and the upcoming election"
+    },
+    {
+      "date": "2026-06-19T09:26:05.449805Z",
+      "text": "Chris Hipkins has made statements about the upcoming election and Labour's cost of living relief policy, which may have discrepancies and implications for farmers"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-28T07:29:50.411185Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-04-29T07:16:50.441439Z",
       "notes": "No results",
@@ -601,17 +596,14 @@
       "date": "2026-06-18T09:10:46.079353Z",
       "notes": "Sources include NZ Herald, RNZ News, and Labour.org.nz",
       "new_items": true
+    },
+    {
+      "date": "2026-06-19T09:26:05.449805Z",
+      "notes": "Reviewed sources from NZ Herald, RNZ News, and Labour Party website",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-25T08:53:06.138458Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-05-30T07:36:59.917739Z",
       "sources": [
@@ -749,7 +741,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-19T09:26:05.449917Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-18T09:10:46.079493Z"
+  "last_updated": "2026-06-19T09:26:05.449936Z"
 }

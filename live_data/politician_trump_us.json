@@ -1117,13 +1117,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's exaggeration of previous administrations' spending on the Lincoln Memorial Reflecting Pool and his claim about Thom Tillis being no longer a senator contribute to the integrity delta decrease"
+    },
+    "2026-06-19T09:26:38.366781Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Additional lies and contradictions were found, affecting Trump's integrity score."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-09T08:28:13.801890Z",
-      "text": "Trump's integrity score has decreased due to additional lies and negative events"
-    },
     {
       "date": "2026-06-10T08:45:02.094172Z",
       "text": "Donald Trump's recent statements on gasoline prices and consumer confidence have been found to be false, further eroding his integrity score."
@@ -1159,14 +1160,13 @@
     {
       "date": "2026-06-18T09:11:34.206029Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity, with exaggerations and false claims about the Lincoln Memorial Reflecting Pool and Thom Tillis' senator status"
+    },
+    {
+      "date": "2026-06-19T09:26:38.366781Z",
+      "text": "New lies and events were found, affecting Trump's integrity score."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-29T07:17:15.600516Z",
-      "notes": "BBC World and GDELT sources provided new information on Trump's activities and statements",
-      "new_items": true
-    },
     {
       "date": "2026-04-30T07:24:53.211522Z",
       "notes": "New events related to Trump's safety and international relations",
@@ -1411,15 +1411,14 @@
       "date": "2026-06-18T09:11:34.206029Z",
       "notes": "Trump's US-Iran agreement and Israel's strikes on Lebanon are notable events, but do not directly impact his integrity score",
       "new_items": true
+    },
+    {
+      "date": "2026-06-19T09:26:38.366781Z",
+      "notes": "PolitiFact and FactCheck.org were used to verify the claims.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-30T07:37:45.256895Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-05-31T08:10:54.143746Z",
       "sources": [
@@ -1570,7 +1569,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-19T09:26:38.366967Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-18T09:11:34.206259Z"
+  "last_updated": "2026-06-19T09:26:38.366984Z"
 }

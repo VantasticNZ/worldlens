@@ -288,11 +288,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-26T06:58:57.811088Z",
-      "notes": "Extracted new event related to Albanese's response to the Washington shooting",
-      "new_items": true
-    },
-    {
       "date": "2026-04-28T07:31:08.713085Z",
       "notes": "No results",
       "new_items": false
@@ -536,15 +531,14 @@
       "date": "2026-06-18T09:11:49.196840Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-19T09:26:59.622078Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-26T08:29:44.331504Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-05-29T08:39:06.041417Z",
       "sources": [
@@ -685,7 +679,15 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-19T09:26:59.622091Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-18T09:11:49.196880Z"
+  "last_updated": "2026-06-19T09:26:59.622109Z"
 }

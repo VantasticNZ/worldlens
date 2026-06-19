@@ -384,6 +384,20 @@
       },
       "_id": "2c50e559",
       "_crawled": "2026-06-18T09:12:05.474408Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "defeat the decline and division offered by others",
+      "verified_by": "BBC",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "limits his European ambition with a prohibition on single market membership",
+        "source": "The Guardian",
+        "severity": "med"
+      },
+      "_id": "79808759",
+      "_crawled": "2026-06-19T09:27:16.718012Z"
     }
   ],
   "votes": [],
@@ -779,13 +793,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "inconsistencies in policy statements and actions"
+    },
+    "2026-06-19T09:27:16.718012Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "perceived broken promises and policy U-turns"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-09T08:28:40.707872Z",
-      "text": "Keir Starmer's leadership is under threat due to unfulfilled promises and declining poll ratings."
-    },
     {
       "date": "2026-06-10T08:45:38.810029Z",
       "text": "Sir Keir Starmer's leadership is under scrutiny due to reported broken promises and lack of significant action"
@@ -821,14 +836,13 @@
     {
       "date": "2026-06-18T09:12:05.474408Z",
       "text": "Keir Starmer faces increasing pressure over defence spending and policy decisions, with inconsistencies in his statements and actions."
+    },
+    {
+      "date": "2026-06-19T09:27:16.718012Z",
+      "text": "Keir Starmer faces criticism for perceived broken promises and policy U-turns, and senior cabinet ministers call for his resignation."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-28T07:31:27.242995Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-29T07:17:35.381982Z",
       "notes": "No significant new findings",
@@ -1073,15 +1087,14 @@
       "date": "2026-06-18T09:12:05.474408Z",
       "notes": "Multiple sources indicate inconsistencies in Keir Starmer's policy statements and actions, with potential implications for his integrity score.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-19T09:27:16.718012Z",
+      "notes": "Multiple sources report on Keir Starmer's struggles with his leadership and policy decisions.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-29T08:39:24.865448Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-05-31T08:11:21.291411Z",
       "sources": [
@@ -1215,7 +1228,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-19T09:27:16.718161Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-18T09:12:05.474580Z"
+  "last_updated": "2026-06-19T09:27:16.718178Z"
 }

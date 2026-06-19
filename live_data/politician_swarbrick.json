@@ -325,11 +325,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-28T07:30:08.792390Z",
-      "notes": "No results",
-      "new_items": false
-    },
-    {
       "date": "2026-04-29T07:16:59.644706Z",
       "notes": "No results",
       "new_items": false
@@ -573,15 +568,14 @@
       "date": "2026-06-18T09:11:16.316670Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-19T09:26:21.569479Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-27T08:36:05.244910Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-05-28T08:40:06.727312Z",
       "sources": [
@@ -713,7 +707,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-06-19T09:26:21.569492Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-18T09:11:16.316709Z"
+  "last_updated": "2026-06-19T09:26:21.569512Z"
 }
