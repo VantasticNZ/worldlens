@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 24,
+  "lie_count": 25,
   "lies": [
     {
       "date": "2026",
@@ -242,6 +242,16 @@
       "platform": "speech",
       "_id": "887a9b07",
       "_crawled": "2026-06-06T07:42:57.080131Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "things have been tough in Britain for a while but the public should now start to see positive change in their lives",
+      "reality": "no significant improvement in the lives of the public",
+      "source": "BBC, June 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "c3a3188b",
+      "_crawled": "2026-06-20T08:20:03.764790Z"
     }
   ],
   "social_posts": [
@@ -798,13 +808,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "perceived broken promises and policy U-turns"
+    },
+    "2026-06-20T08:20:03.764790Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Keir Starmer's claims of positive change and defeating decline and division are not supported by reality"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-10T08:45:38.810029Z",
-      "text": "Sir Keir Starmer's leadership is under scrutiny due to reported broken promises and lack of significant action"
-    },
     {
       "date": "2026-06-11T09:10:51.824593Z",
       "text": "Keir Starmer's New Year Message acknowledged tough times in Britain, but promised positive change, contradicting previous statements."
@@ -840,14 +851,13 @@
     {
       "date": "2026-06-19T09:27:16.718012Z",
       "text": "Keir Starmer faces criticism for perceived broken promises and policy U-turns, and senior cabinet ministers call for his resignation."
+    },
+    {
+      "date": "2026-06-20T08:20:03.764790Z",
+      "text": "Keir Starmer's leadership is in question after Andy Burnham's byelection win, and his claims of positive change are not supported by reality"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-29T07:17:35.381982Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-04-30T07:25:12.847853Z",
       "notes": "No results",
@@ -1092,15 +1102,14 @@
       "date": "2026-06-19T09:27:16.718012Z",
       "notes": "Multiple sources report on Keir Starmer's struggles with his leadership and policy decisions.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-20T08:20:03.764790Z",
+      "notes": "Reviewed BBC and The Guardian articles for Keir Starmer's recent statements and events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-31T08:11:21.291411Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-06-01T10:14:08.304443Z",
       "sources": [
@@ -1235,7 +1244,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-20T08:20:03.764907Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-19T09:27:16.718178Z"
+  "last_updated": "2026-06-20T08:20:03.764925Z"
 }

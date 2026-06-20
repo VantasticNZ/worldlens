@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 63,
+  "lie_count": 64,
   "lies": [
     {
       "date": "January 2026",
@@ -632,6 +632,16 @@
       "platform": "speech",
       "_id": "06e6c5f8",
       "_crawled": "2026-06-17T09:27:52.763371Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Italy's Meloni begged him for a photo at G7",
+      "reality": "Italy's Meloni did not beg him for a photo at G7",
+      "source": "BBC World, June 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "06994014",
+      "_crawled": "2026-06-20T08:19:35.040687Z"
     }
   ],
   "social_posts": [
@@ -1122,13 +1132,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Additional lies and contradictions were found, affecting Trump's integrity score."
+    },
+    "2026-06-20T08:19:35.040687Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's endorsement of both candidates for South Carolina Governor and his false claims about gasoline prices and consumer confidence have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-10T08:45:02.094172Z",
-      "text": "Donald Trump's recent statements on gasoline prices and consumer confidence have been found to be false, further eroding his integrity score."
-    },
     {
       "date": "2026-06-11T09:10:11.608629Z",
       "text": "Trump's recent statements have sparked controversy and backlash, including his comments on inflation and use of anime characters"
@@ -1164,14 +1175,13 @@
     {
       "date": "2026-06-19T09:26:38.366781Z",
       "text": "New lies and events were found, affecting Trump's integrity score."
+    },
+    {
+      "date": "2026-06-20T08:19:35.040687Z",
+      "text": "Trump's recent actions and statements have raised concerns about his integrity and honesty, with multiple fact-checking organizations debunking his claims"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-30T07:24:53.211522Z",
-      "notes": "New events related to Trump's safety and international relations",
-      "new_items": true
-    },
     {
       "date": "2026-05-01T07:23:30.747880Z",
       "notes": "Reviewed 3 BBC World RSS articles and 5 GDELT global news database articles",
@@ -1416,16 +1426,14 @@
       "date": "2026-06-19T09:26:38.366781Z",
       "notes": "PolitiFact and FactCheck.org were used to verify the claims.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-20T08:19:35.040687Z",
+      "notes": "Multiple sources confirm Trump's false claims and contradictory statements, highlighting the need for continued monitoring of his actions and statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-31T08:10:54.143746Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-06-01T10:13:41.822018Z",
       "sources": [
@@ -1577,7 +1585,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-20T08:19:35.040926Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-19T09:26:38.366984Z"
+  "last_updated": "2026-06-20T08:19:35.040943Z"
 }

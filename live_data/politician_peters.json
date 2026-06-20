@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 21,
+  "lie_count": 22,
   "lies": [
     {
       "date": "March 2026",
@@ -212,6 +212,16 @@
       "platform": "speech",
       "_id": "836b23fb",
       "_crawled": "2026-06-11T09:07:57.464185Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Buying back BNZ is 'kick arse'",
+      "reality": "PM says it's not 'kick arse'",
+      "source": "RNZ News",
+      "severity": "low",
+      "platform": "speech",
+      "_id": "41b8e75b",
+      "_crawled": "2026-06-20T08:17:33.054463Z"
     }
   ],
   "social_posts": [
@@ -855,10 +865,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-10T08:43:09.574438Z",
-      "text": "Winston Peters continues to make statements and proposals on various topics, including trade deals and energy sector overhauls"
-    },
-    {
       "date": "2026-06-11T09:07:57.464185Z",
       "text": "Winston Peters continues to make statements and take actions that are contradictory and potentially misleading"
     },
@@ -893,14 +899,13 @@
     {
       "date": "2026-06-19T09:24:40.082427Z",
       "text": "Winston Peters' recent statements and actions have sparked controversy and raised concerns about his integrity"
+    },
+    {
+      "date": "2026-06-20T08:17:33.054463Z",
+      "text": "Winston Peters continues to make contradictory statements and engage in controversial events"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-30T07:24:09.616577Z",
-      "notes": "New events related to Winston Peters and Iran war emails",
-      "new_items": true
-    },
     {
       "date": "2026-05-01T07:22:37.925536Z",
       "notes": "New events and comments from Winston Peters, but no significant new lies or social posts found",
@@ -1145,15 +1150,14 @@
       "date": "2026-06-19T09:24:40.082427Z",
       "notes": "Winston Peters' social media posts and public statements have been inconsistent and contradictory",
       "new_items": true
+    },
+    {
+      "date": "2026-06-20T08:17:33.054463Z",
+      "notes": "Reviewed RNZ News, The Spinoff, and RNZ NZ articles",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-28T08:38:09.912339Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-01T10:11:41.571897Z",
       "sources": [
@@ -1299,7 +1303,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-20T08:17:33.054584Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-19T09:24:40.082630Z"
+  "last_updated": "2026-06-20T08:17:33.054619Z"
 }

@@ -325,11 +325,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-29T07:16:59.644706Z",
-      "notes": "No results",
-      "new_items": false
-    },
-    {
       "date": "2026-04-30T07:24:48.119053Z",
       "notes": "No results",
       "new_items": false
@@ -573,15 +568,14 @@
       "date": "2026-06-19T09:26:21.569479Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-20T08:19:17.236716Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but new events related to the Green Party's State of the Planet address and Chlöe Swarbrick's Budget speech were found.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-28T08:40:06.727312Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-01T10:13:28.571069Z",
       "sources": [
@@ -714,7 +708,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-06-20T08:19:17.236790Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-19T09:26:21.569512Z"
+  "last_updated": "2026-06-20T08:19:17.236808Z"
 }

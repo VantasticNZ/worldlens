@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 26,
+  "lie_count": 27,
   "lies": [
     {
       "date": "2026",
@@ -262,6 +262,16 @@
       "platform": "press_release",
       "_id": "a14a1cae",
       "_crawled": "2026-06-16T10:01:56.959748Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Christopher Luxon's statement on the India deal",
+      "reality": "Winston Peters contradicts Luxon's statement on the India deal",
+      "source": "The Spinoff, February 11, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "fa1b2836",
+      "_crawled": "2026-06-20T08:17:12.066228Z"
     }
   ],
   "social_posts": [
@@ -558,6 +568,20 @@
       },
       "_id": "ed435fb1",
       "_crawled": "2026-06-18T09:08:51.399563Z"
+    },
+    {
+      "platform": "speech",
+      "date": "January 19, 2026",
+      "text": "2026 State of the Nation speech",
+      "verified_by": "The Spinoff",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Luxon's statement on the India deal contradicts Winston Peters' statement",
+        "source": "The Spinoff, February 11, 2026",
+        "severity": "med"
+      },
+      "_id": "92533817",
+      "_crawled": "2026-06-20T08:17:12.066228Z"
     }
   ],
   "votes": [
@@ -984,13 +1008,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's claim about supporting the Crusaders since he was a little boy was found to be false"
+    },
+    "2026-06-20T08:17:12.066228Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's contradictory statements on the India deal and climate change policies"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-09T08:26:16.905014Z",
-      "text": "Christopher Luxon met with Australian Prime Minister Anthony Albanese and declined an invitation to join Donald Trump's Board of Peace for Gaza"
-    },
     {
       "date": "2026-06-10T08:42:53.795342Z",
       "text": "Prime Minister Christopher Luxon survived a confidence vote and faced questions over the disappearance of documents related to a court case brought by a climate activist."
@@ -1026,14 +1051,13 @@
     {
       "date": "2026-06-19T09:24:24.673072Z",
       "text": "Christopher Luxon's integrity score has been adjusted due to a newly discovered false claim about his sports team allegiance"
+    },
+    {
+      "date": "2026-06-20T08:17:12.066228Z",
+      "text": "Christopher Luxon's coalition fractures on climate change policies, and he makes contradictory statements on the India deal"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-30T07:23:53.805132Z",
-      "notes": "RNZ News and Guardian NZ articles reviewed, one new event added.",
-      "new_items": true
-    },
     {
       "date": "2026-05-01T07:22:30.325910Z",
       "notes": "Notable findings include Luxon's claim of being mischaracterised in emails and the US invitation to NZ to help reopen the Strait of Hormuz",
@@ -1278,15 +1302,14 @@
       "date": "2026-06-19T09:24:24.673072Z",
       "notes": "The Spinoff articles provided new information on Luxon's statements and events",
       "new_items": true
+    },
+    {
+      "date": "2026-06-20T08:17:12.066228Z",
+      "notes": "Reviewed articles from NZ Herald, The Spinoff, and Labour.org.nz",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-05-26T08:26:55.492075Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-01T10:11:21.555831Z",
       "sources": [
@@ -1428,7 +1451,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-20T08:17:12.066356Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-19T09:24:24.673193Z"
+  "last_updated": "2026-06-20T08:17:12.066379Z"
 }
