@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 27,
+  "lie_count": 28,
   "lies": [
     {
       "date": "2026",
@@ -272,6 +272,16 @@
       "platform": "speech",
       "_id": "fa1b2836",
       "_crawled": "2026-06-20T08:17:12.066228Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Documents regarding a court case brought against Fonterra and Z Energy by climate activist Mike Smith were not presented to the PMO",
+      "reality": "Hard copies of briefing notes were presented to the PMO in 2024, but they have vanished",
+      "source": "The Spinoff, 28 May 2026",
+      "severity": "high",
+      "platform": "press",
+      "_id": "898bba46",
+      "_crawled": "2026-06-21T08:53:48.093197Z"
     }
   ],
   "social_posts": [
@@ -1013,13 +1023,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's contradictory statements on the India deal and climate change policies"
+    },
+    "2026-06-21T08:53:48.093197Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's handling of the disappearing documents and his coalition's fracture on climate change policy raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-10T08:42:53.795342Z",
-      "text": "Prime Minister Christopher Luxon survived a confidence vote and faced questions over the disappearance of documents related to a court case brought by a climate activist."
-    },
     {
       "date": "2026-06-11T09:07:39.766301Z",
       "text": "Christopher Luxon's office has been embroiled in a lobbying controversy, raising concerns over potential corruption"
@@ -1055,14 +1066,13 @@
     {
       "date": "2026-06-20T08:17:12.066228Z",
       "text": "Christopher Luxon's coalition fractures on climate change policies, and he makes contradictory statements on the India deal"
+    },
+    {
+      "date": "2026-06-21T08:53:48.093197Z",
+      "text": "Luxon's integrity is under scrutiny due to his handling of the disappearing documents and his coalition's fracture on climate change policy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-01T07:22:30.325910Z",
-      "notes": "Notable findings include Luxon's claim of being mischaracterised in emails and the US invitation to NZ to help reopen the Strait of Hormuz",
-      "new_items": true
-    },
     {
       "date": "2026-05-02T06:57:55.227099Z",
       "notes": "Multiple sources indicate Luxon's leadership is under pressure",
@@ -1307,17 +1317,14 @@
       "date": "2026-06-20T08:17:12.066228Z",
       "notes": "Reviewed articles from NZ Herald, The Spinoff, and Labour.org.nz",
       "new_items": true
+    },
+    {
+      "date": "2026-06-21T08:53:48.093197Z",
+      "notes": "Multiple sources indicate Luxon's coalition is fracturing, and he is facing criticism for his handling of documents and social media policy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-01T10:11:21.555831Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-02T09:01:22.267364Z",
       "sources": [
@@ -1459,7 +1466,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-21T08:53:48.093347Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-20T08:17:12.066379Z"
+  "last_updated": "2026-06-21T08:53:48.093372Z"
 }

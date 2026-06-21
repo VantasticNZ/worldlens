@@ -813,13 +813,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Keir Starmer's claims of positive change and defeating decline and division are not supported by reality"
+    },
+    "2026-06-21T08:56:28.433179Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "increased pressure on leadership and speculation about stepping aside"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-11T09:10:51.824593Z",
-      "text": "Keir Starmer's New Year Message acknowledged tough times in Britain, but promised positive change, contradicting previous statements."
-    },
     {
       "date": "2026-06-12T08:56:24.122937Z",
       "text": "Starmer's leadership is under pressure after Healey's resignation and his claims of positive change are not supported by evidence"
@@ -855,14 +856,13 @@
     {
       "date": "2026-06-20T08:20:03.764790Z",
       "text": "Keir Starmer's leadership is in question after Andy Burnham's byelection win, and his claims of positive change are not supported by reality"
+    },
+    {
+      "date": "2026-06-21T08:56:28.433179Z",
+      "text": "Keir Starmer's leadership faces increased pressure after Andy Burnham's by-election win and growing speculation about his future"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-30T07:25:12.847853Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-01T07:23:47.229770Z",
       "notes": "No significant new findings",
@@ -1107,16 +1107,14 @@
       "date": "2026-06-20T08:20:03.764790Z",
       "notes": "Reviewed BBC and The Guardian articles for Keir Starmer's recent statements and events",
       "new_items": true
+    },
+    {
+      "date": "2026-06-21T08:56:28.433179Z",
+      "notes": "Reviewed BBC and Guardian articles for updates on Keir Starmer's leadership",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-01T10:14:08.304443Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-06-02T09:04:40.283363Z",
       "sources": [
@@ -1251,7 +1249,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-21T08:56:28.433305Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-20T08:20:03.764925Z"
+  "last_updated": "2026-06-21T08:56:28.433326Z"
 }

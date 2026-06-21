@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 64,
+  "lie_count": 66,
   "lies": [
     {
       "date": "January 2026",
@@ -642,6 +642,26 @@
       "platform": "speech",
       "_id": "06994014",
       "_crawled": "2026-06-20T08:19:35.040687Z"
+    },
+    {
+      "date": "May 22, 2026",
+      "claim": "No Republican wins in Nassau",
+      "reality": "This claim is barely true",
+      "source": "PolitiFact, May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "228fcf15",
+      "_crawled": "2026-06-21T08:56:01.541515Z"
+    },
+    {
+      "date": "June 7, 2026",
+      "claim": "The ongoing ballot counting in California means they're cheating on the election",
+      "reality": "There is no evidence of cheating",
+      "source": "PolitiFact, June 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "d6b0c13b",
+      "_crawled": "2026-06-21T08:56:01.541515Z"
     }
   ],
   "social_posts": [
@@ -1137,13 +1157,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's endorsement of both candidates for South Carolina Governor and his false claims about gasoline prices and consumer confidence have raised concerns about his integrity"
+    },
+    "2026-06-21T08:56:01.541515Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Multiple new lies and contradictions found"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-11T09:10:11.608629Z",
-      "text": "Trump's recent statements have sparked controversy and backlash, including his comments on inflation and use of anime characters"
-    },
     {
       "date": "2026-06-12T08:55:55.534039Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and ability to effectively lead the country"
@@ -1179,14 +1200,13 @@
     {
       "date": "2026-06-20T08:19:35.040687Z",
       "text": "Trump's recent actions and statements have raised concerns about his integrity and honesty, with multiple fact-checking organizations debunking his claims"
+    },
+    {
+      "date": "2026-06-21T08:56:01.541515Z",
+      "text": "Donald Trump has been found to have made multiple new false claims, including about the Lincoln Memorial Reflecting Pool and the US-Iran agreement."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-01T07:23:30.747880Z",
-      "notes": "Reviewed 3 BBC World RSS articles and 5 GDELT global news database articles",
-      "new_items": true
-    },
     {
       "date": "2026-05-02T07:02:04.756042Z",
       "notes": "Multiple new lies and events found, including claims about the economy, credit card companies, and Iran.",
@@ -1431,17 +1451,14 @@
       "date": "2026-06-20T08:19:35.040687Z",
       "notes": "Multiple sources confirm Trump's false claims and contradictory statements, highlighting the need for continued monitoring of his actions and statements",
       "new_items": true
+    },
+    {
+      "date": "2026-06-21T08:56:01.541515Z",
+      "notes": "Multiple new lies and events found, including a new agreement with Iran and a row with Meloni",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-01T10:13:41.822018Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-02T09:04:05.959894Z",
       "sources": [
@@ -1594,7 +1611,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-21T08:56:01.541837Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-20T08:19:35.040943Z"
+  "last_updated": "2026-06-21T08:56:01.541858Z"
 }

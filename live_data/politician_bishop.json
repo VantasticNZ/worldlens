@@ -730,13 +730,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The government's social housing overhaul and decision to slash Auckland housing numbers have raised concerns about the government's commitment to addressing the housing crisis"
+    },
+    "2026-06-21T08:55:10.283782Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The minister's claims about the current system and the budget's impact on social housing have been found to be misleading or exaggerated"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-11T09:09:13.202036Z",
-      "text": "Housing Minister Chris Bishop's recent statements on social housing delivery and Auckland housing plans have been found to be misleading, prompting concerns about the government's handling of the housing crisis"
-    },
     {
       "date": "2026-06-12T08:54:54.249323Z",
       "text": "Chris Bishop's claim about social housing delivery has been contradicted by officials, raising concerns about his integrity"
@@ -772,14 +773,13 @@
     {
       "date": "2026-06-20T08:18:43.926969Z",
       "text": "The government's social housing overhaul and decision to slash Auckland housing numbers have raised concerns about the government's commitment to addressing the housing crisis"
+    },
+    {
+      "date": "2026-06-21T08:55:10.283782Z",
+      "text": "Chris Bishop's recent statements and announcements have raised concerns about the government's approach to social housing and its commitment to providing affordable and permanent housing solutions"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-04-30T07:24:37.283370Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-01T07:23:04.751383Z",
       "notes": "No results",
@@ -1024,16 +1024,14 @@
       "date": "2026-06-20T08:18:43.926969Z",
       "notes": "Reviewed NZ Herald, RNZ, and The Spinoff articles for updates on Chris Bishop and the government's social housing policies",
       "new_items": true
+    },
+    {
+      "date": "2026-06-21T08:55:10.283782Z",
+      "notes": "Further investigation into the government's social housing policies and their impact on vulnerable populations is recommended",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-01T10:12:54.358130Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-02T09:03:06.306223Z",
       "sources": [
@@ -1172,7 +1170,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-21T08:55:10.283931Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-20T08:18:43.927128Z"
+  "last_updated": "2026-06-21T08:55:10.283951Z"
 }

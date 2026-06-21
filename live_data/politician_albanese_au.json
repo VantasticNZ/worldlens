@@ -288,11 +288,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-04-29T07:17:23.916099Z",
-      "notes": "No results",
-      "new_items": false
-    },
-    {
       "date": "2026-04-30T07:25:06.439045Z",
       "notes": "New events related to the antisemitic attack in Sydney and the Bondi shooting have been added.",
       "new_items": true
@@ -536,17 +531,14 @@
       "date": "2026-06-20T08:19:48.595677Z",
       "notes": "New events and meetings attended by Anthony Albanese",
       "new_items": true
+    },
+    {
+      "date": "2026-06-21T08:56:14.567486Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-01T10:13:56.231527Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-06-02T09:04:23.061997Z",
       "sources": [
@@ -688,7 +680,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-21T08:56:14.567502Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-20T08:19:48.595785Z"
+  "last_updated": "2026-06-21T08:56:14.567525Z"
 }
