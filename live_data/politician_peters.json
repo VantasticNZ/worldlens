@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 23,
+  "lie_count": 24,
   "lies": [
     {
       "date": "March 2026",
@@ -232,6 +232,16 @@
       "platform": "speech",
       "_id": "f20db80d",
       "_crawled": "2026-06-21T08:54:02.770553Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Willis' superannuation comments an 'unfortunate mistake'",
+      "reality": "No evidence of Willis making a mistake",
+      "source": "RNZ, June 2026",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "489976eb",
+      "_crawled": "2026-06-22T10:32:46.335423Z"
     }
   ],
   "social_posts": [
@@ -876,13 +886,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' contradictory statements and actions have raised concerns about his integrity"
+    },
+    "2026-06-22T10:32:46.335423Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' contradictory statements and actions have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-12T08:53:52.826116Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
-    },
     {
       "date": "2026-06-13T08:16:39.945519Z",
       "text": "Winston Peters' recent statements and actions suggest a potential contradiction with his previous promises, affecting his integrity score"
@@ -918,14 +929,13 @@
     {
       "date": "2026-06-21T08:54:02.770553Z",
       "text": "Winston Peters has made several contradictory statements and taken actions that have raised concerns about his integrity"
+    },
+    {
+      "date": "2026-06-22T10:32:46.335423Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-02T06:58:22.196970Z",
-      "notes": "Peters' tweets and statements require closer monitoring for discrepancies and contradictions",
-      "new_items": true
-    },
     {
       "date": "2026-05-03T07:13:59.503645Z",
       "notes": "Peters' social media activity and public statements require continued monitoring for potential discrepancies and misrepresentations",
@@ -1170,17 +1180,14 @@
       "date": "2026-06-21T08:54:02.770553Z",
       "notes": "Peters' social media posts and public statements have been inconsistent, and his actions have been criticized by other parties",
       "new_items": true
+    },
+    {
+      "date": "2026-06-22T10:32:46.335423Z",
+      "notes": "Peters' energy sector proposal and Fieldays speech notable, but contradictory statements and actions raise red flags",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-02T09:01:44.973399Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-03T09:21:28.675536Z",
       "sources": [
@@ -1326,7 +1333,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-22T10:32:46.335561Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-21T08:54:02.770732Z"
+  "last_updated": "2026-06-22T10:32:46.335584Z"
 }

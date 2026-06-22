@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 28,
+  "lie_count": 29,
   "lies": [
     {
       "date": "2026",
@@ -282,6 +282,16 @@
       "platform": "press",
       "_id": "898bba46",
       "_crawled": "2026-06-21T08:53:48.093197Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Christopher Luxon scolded the media and told them he would no longer engage with them on questions about his leadership",
+      "reality": "He did engage with the media on questions about his leadership after the incident",
+      "source": "The Guardian, April 23 2026",
+      "severity": "med",
+      "platform": "press",
+      "_id": "a04f5a53",
+      "_crawled": "2026-06-22T10:32:24.552284Z"
     }
   ],
   "social_posts": [
@@ -1028,13 +1038,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's handling of the disappearing documents and his coalition's fracture on climate change policy raise concerns about his integrity"
+    },
+    "2026-06-22T10:32:24.552284Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The incident where Christopher Luxon scolded the media and told them he would no longer engage with them on questions about his leadership raises concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-11T09:07:39.766301Z",
-      "text": "Christopher Luxon's office has been embroiled in a lobbying controversy, raising concerns over potential corruption"
-    },
     {
       "date": "2026-06-12T08:53:36.721002Z",
       "text": "Luxon's tweet on a trade deal was corrected by Winston Peters, raising questions about the accuracy of his statements"
@@ -1070,14 +1081,13 @@
     {
       "date": "2026-06-21T08:53:48.093197Z",
       "text": "Luxon's integrity is under scrutiny due to his handling of the disappearing documents and his coalition's fracture on climate change policy"
+    },
+    {
+      "date": "2026-06-22T10:32:24.552284Z",
+      "text": "Christopher Luxon's integrity score has been adjusted downward due to his behavior towards the media"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-02T06:57:55.227099Z",
-      "notes": "Multiple sources indicate Luxon's leadership is under pressure",
-      "new_items": true
-    },
     {
       "date": "2026-05-03T07:13:44.526733Z",
       "notes": "Multiple sources indicate Luxon's coalition is in trouble, and his statements on climate change have been inconsistent",
@@ -1322,17 +1332,14 @@
       "date": "2026-06-21T08:53:48.093197Z",
       "notes": "Multiple sources indicate Luxon's coalition is fracturing, and he is facing criticism for his handling of documents and social media policy",
       "new_items": true
+    },
+    {
+      "date": "2026-06-22T10:32:24.552284Z",
+      "notes": "The search results included several articles about Christopher Luxon's statements and actions, but only a few notable findings were extracted",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-02T09:01:22.267364Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-03T09:21:11.553727Z",
       "sources": [
@@ -1473,7 +1480,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-22T10:32:24.552419Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-21T08:53:48.093372Z"
+  "last_updated": "2026-06-22T10:32:24.552442Z"
 }

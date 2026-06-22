@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 13,
+  "lie_count": 14,
   "lies": [
     {
       "date": "March 2026",
@@ -132,6 +132,16 @@
       "platform": "speech",
       "_id": "95b160da",
       "_crawled": "2026-06-14T08:37:29.969850Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "comparing critics of fisheries bill to 'noisy voices'",
+      "reality": "critics had valid concerns about the bill",
+      "source": "RNZ, May 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "c3a626be",
+      "_crawled": "2026-06-22T10:33:24.477940Z"
     }
   ],
   "social_posts": [
@@ -550,13 +560,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' recent comments and apologies have raised concerns about his integrity and judgment."
+    },
+    "2026-06-22T10:33:24.477940Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' recent comments and actions have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-11T09:08:34.266490Z",
-      "text": "Shane Jones' recent comments and actions have raised concerns about his integrity and sparked controversy"
-    },
     {
       "date": "2026-06-12T08:54:25.729034Z",
       "text": "Shane Jones faces criticism for his comments on the fisheries bill and his apology for remarks about Nicola Willis' weight loss"
@@ -592,14 +603,13 @@
     {
       "date": "2026-06-21T08:54:34.005041Z",
       "text": "Shane Jones' controversial comments and actions continue to spark criticism and demands for apology."
+    },
+    {
+      "date": "2026-06-22T10:33:24.477940Z",
+      "text": "Shane Jones' recent comments and actions have raised concerns about his integrity and sparked controversy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-01T07:22:50.700232Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-02T06:59:20.039888Z",
       "notes": "Shane Jones' recent comments have sparked controversy and criticism from other politicians.",
@@ -844,16 +854,14 @@
       "date": "2026-06-21T08:54:34.005041Z",
       "notes": "Multiple sources report on Shane Jones' controversies, including delayed fisheries bill and apologies for comments",
       "new_items": true
+    },
+    {
+      "date": "2026-06-22T10:33:24.477940Z",
+      "notes": "Shane Jones' recent activities have been marked by controversy and criticism",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-02T09:02:28.488342Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-03T09:22:06.473350Z",
       "sources": [
@@ -992,7 +1000,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-06-22T10:33:24.478058Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-21T08:54:34.005180Z"
+  "last_updated": "2026-06-22T10:33:24.478076Z"
 }

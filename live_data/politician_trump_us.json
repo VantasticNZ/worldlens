@@ -1162,13 +1162,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Multiple new lies and contradictions found"
+    },
+    "2026-06-22T10:34:56.514107Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Additional lies and contradictory statements"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-12T08:55:55.534039Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and ability to effectively lead the country"
-    },
     {
       "date": "2026-06-13T08:18:33.606777Z",
       "text": "Trump's recent statements and actions have raised concerns about his honesty and approach to international relations"
@@ -1204,14 +1205,13 @@
     {
       "date": "2026-06-21T08:56:01.541515Z",
       "text": "Donald Trump has been found to have made multiple new false claims, including about the Lincoln Memorial Reflecting Pool and the US-Iran agreement."
+    },
+    {
+      "date": "2026-06-22T10:34:56.514107Z",
+      "text": "Donald Trump has been found to have made additional false claims, and his backed candidate has won the Colombia election"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-02T07:02:04.756042Z",
-      "notes": "Multiple new lies and events found, including claims about the economy, credit card companies, and Iran.",
-      "new_items": true
-    },
     {
       "date": "2026-05-03T07:15:26.465589Z",
       "notes": "Multiple sources were used to verify the findings, including factcheck.org, politifact.com, and apnews.com",
@@ -1456,17 +1456,14 @@
       "date": "2026-06-21T08:56:01.541515Z",
       "notes": "Multiple new lies and events found, including a new agreement with Iran and a row with Meloni",
       "new_items": true
+    },
+    {
+      "date": "2026-06-22T10:34:56.514107Z",
+      "notes": "Multiple sources confirm Trump's false claims and election win",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-02T09:04:05.959894Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-03T09:23:24.873975Z",
       "sources": [
@@ -1619,7 +1616,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-22T10:34:56.514387Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-21T08:56:01.541858Z"
+  "last_updated": "2026-06-22T10:34:56.514405Z"
 }

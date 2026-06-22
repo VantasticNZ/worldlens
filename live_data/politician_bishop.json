@@ -300,6 +300,20 @@
       },
       "_id": "0f003386",
       "_crawled": "2026-06-20T08:18:43.926969Z"
+    },
+    {
+      "platform": "press",
+      "date": "June 2026",
+      "text": "Thousands more New Zealanders will get access to warm, dry, secure homes through Budget 2026",
+      "verified_by": "Beehive.govt.nz",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "The actual number of new homes is not specified",
+        "source": "Beehive.govt.nz",
+        "severity": "low"
+      },
+      "_id": "ef2cd04a",
+      "_crawled": "2026-06-22T10:34:03.272146Z"
     }
   ],
   "votes": [],
@@ -739,10 +753,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-12T08:54:54.249323Z",
-      "text": "Chris Bishop's claim about social housing delivery has been contradicted by officials, raising concerns about his integrity"
-    },
-    {
       "date": "2026-06-13T08:17:44.405156Z",
       "text": "Housing Minister Chris Bishop's recent announcements and statements have raised concerns about the government's commitment to increasing access to warm, dry, secure homes"
     },
@@ -777,14 +787,13 @@
     {
       "date": "2026-06-21T08:55:10.283782Z",
       "text": "Chris Bishop's recent statements and announcements have raised concerns about the government's approach to social housing and its commitment to providing affordable and permanent housing solutions"
+    },
+    {
+      "date": "2026-06-22T10:34:03.272146Z",
+      "text": "Housing Minister Chris Bishop announced a social housing overhaul, but details are still emerging"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-01T07:23:04.751383Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-02T07:00:22.095190Z",
       "notes": "Multiple sources confirm the government's plan to reduce Auckland housing numbers, contradicting Chris Bishop's statement",
@@ -1029,16 +1038,14 @@
       "date": "2026-06-21T08:55:10.283782Z",
       "notes": "Further investigation into the government's social housing policies and their impact on vulnerable populations is recommended",
       "new_items": true
+    },
+    {
+      "date": "2026-06-22T10:34:03.272146Z",
+      "notes": "Contradictions between Chris Bishop and other National ministers on house prices and social housing policies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-02T09:03:06.306223Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-03T09:22:39.918480Z",
       "sources": [
@@ -1177,7 +1184,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-22T10:34:03.272292Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-21T08:55:10.283951Z"
+  "last_updated": "2026-06-22T10:34:03.272313Z"
 }
