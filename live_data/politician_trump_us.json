@@ -1213,11 +1213,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-03T07:15:26.465589Z",
-      "notes": "Multiple sources were used to verify the findings, including factcheck.org, politifact.com, and apnews.com",
-      "new_items": true
-    },
-    {
       "date": "2026-05-04T07:44:43.368388Z",
       "notes": "Reviewed 9 sources, including PolitiFact and BBC World, and found two new lies and one new event",
       "new_items": true
@@ -1461,17 +1456,14 @@
       "date": "2026-06-22T10:34:56.514107Z",
       "notes": "Multiple sources confirm Trump's false claims and election win",
       "new_items": true
+    },
+    {
+      "date": "2026-06-23T08:26:13.498731Z",
+      "notes": "Two new events related to Trump's influence and actions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-03T09:23:24.873975Z",
-      "sources": [
-        "RSS (5 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-04T08:44:58.526621Z",
       "sources": [
@@ -1624,7 +1616,13 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-23T08:26:13.498827Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-22T10:34:56.514405Z"
+  "last_updated": "2026-06-23T08:26:13.498886Z"
 }

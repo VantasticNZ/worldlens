@@ -611,11 +611,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-02T06:59:20.039888Z",
-      "notes": "Shane Jones' recent comments have sparked controversy and criticism from other politicians.",
-      "new_items": true
-    },
-    {
       "date": "2026-05-03T07:14:19.967176Z",
       "notes": "Shane Jones' recent comments have sparked controversy and raised concerns about his integrity and judgment",
       "new_items": true
@@ -859,16 +854,14 @@
       "date": "2026-06-22T10:33:24.477940Z",
       "notes": "Shane Jones' recent activities have been marked by controversy and criticism",
       "new_items": true
+    },
+    {
+      "date": "2026-06-23T08:24:42.175079Z",
+      "notes": "No significant new findings except for new events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-03T09:22:06.473350Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-04T08:43:46.603646Z",
       "sources": [
@@ -1007,7 +1000,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-06-23T08:24:42.175169Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-22T10:33:24.478076Z"
+  "last_updated": "2026-06-23T08:24:42.175190Z"
 }

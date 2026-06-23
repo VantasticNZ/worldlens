@@ -642,11 +642,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-02T06:59:48.387206Z",
-      "notes": "Reviewed Tavily sources for Nicola Willis, found one notable statement on cost of living",
-      "new_items": true
-    },
-    {
       "date": "2026-05-03T07:14:34.939363Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -890,16 +885,14 @@
       "date": "2026-06-22T10:33:41.692707Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-23T08:24:56.954339Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but a notable event was found related to the Budget 2026 announcement.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-03T09:22:21.643028Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-06-04T08:44:01.569192Z",
       "sources": [
@@ -1039,7 +1032,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-23T08:24:56.954400Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-22T10:33:41.692740Z"
+  "last_updated": "2026-06-23T08:24:56.954418Z"
 }

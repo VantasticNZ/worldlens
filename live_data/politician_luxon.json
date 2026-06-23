@@ -1089,11 +1089,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-03T07:13:44.526733Z",
-      "notes": "Multiple sources indicate Luxon's coalition is in trouble, and his statements on climate change have been inconsistent",
-      "new_items": true
-    },
-    {
       "date": "2026-05-04T07:43:10.635755Z",
       "notes": "Multiple sources indicate Luxon's struggles with his coalition and his own statements on climate change",
       "new_items": true
@@ -1337,16 +1332,14 @@
       "date": "2026-06-22T10:32:24.552284Z",
       "notes": "The search results included several articles about Christopher Luxon's statements and actions, but only a few notable findings were extracted",
       "new_items": true
+    },
+    {
+      "date": "2026-06-23T08:23:52.899772Z",
+      "notes": "No significant new findings except for a neutral event",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-03T09:21:11.553727Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-04T08:43:03.066209Z",
       "sources": [
@@ -1488,7 +1481,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-06-23T08:23:52.899841Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-22T10:32:24.552442Z"
+  "last_updated": "2026-06-23T08:23:52.899884Z"
 }

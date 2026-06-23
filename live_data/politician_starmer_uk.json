@@ -822,10 +822,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-13T08:19:03.540260Z",
-      "text": "Keir Starmer's leadership is under pressure as he faces criticism and a wave of resignation calls, despite his promises to 'defeat decline and division' in his new year message."
-    },
-    {
       "date": "2026-06-14T08:39:04.128059Z",
       "text": "Keir Starmer faces pressure over defence spending and declines to rule out breaking manifesto tax pledges"
     },
@@ -860,14 +856,13 @@
     {
       "date": "2026-06-22T10:35:32.427714Z",
       "text": "Keir Starmer is expected to resign as Prime Minister and leader of the Labour party."
+    },
+    {
+      "date": "2026-06-23T08:26:41.503556Z",
+      "text": "Keir Starmer announced his resignation, marking a significant development in UK politics."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-02T07:03:11.399657Z",
-      "notes": "The Mandelson vetting scandal is a significant event that may impact Keir Starmer's leadership and the Labour party",
-      "new_items": true
-    },
     {
       "date": "2026-05-04T07:45:02.417610Z",
       "notes": "The search results suggest that Keir Starmer is facing significant challenges to his leadership and integrity, with multiple sources reporting on concerns about his actions and statements",
@@ -1112,16 +1107,14 @@
       "date": "2026-06-22T10:35:32.427714Z",
       "notes": "Resignation announcement expected, potential leadership contest",
       "new_items": true
+    },
+    {
+      "date": "2026-06-23T08:26:41.503556Z",
+      "notes": "Resignation announcement and reactions from European leaders and Christopher Luxon",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-03T09:23:53.473829Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-06-04T08:45:34.942170Z",
       "sources": [
@@ -1256,7 +1249,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-23T08:26:41.503625Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-06-22T10:35:32.427792Z"
+  "last_updated": "2026-06-23T08:26:41.503646Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 6,
+  "lie_count": 7,
   "lies": [
     {
       "date": "May 2026",
@@ -62,6 +62,16 @@
       "platform": "speech",
       "_id": "24c709f5",
       "_crawled": "2026-06-18T09:10:46.079353Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Labour's cost-of-living policy will help all New Zealanders",
+      "reality": "The policy won't help farmers",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "bb4d3416",
+      "_crawled": "2026-06-23T08:25:41.517646Z"
     }
   ],
   "social_posts": [
@@ -106,6 +116,20 @@
       },
       "_id": "e30c2582",
       "_crawled": "2026-06-21T08:55:27.985009Z"
+    },
+    {
+      "platform": "press",
+      "date": "June 2026",
+      "text": "Labour leader Chris Hipkins denies his party is writing off the rural vote",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Labour's cost-of-living policy won't help farmers",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "7d786feb",
+      "_crawled": "2026-06-23T08:25:41.517646Z"
     }
   ],
   "votes": [],
@@ -325,10 +349,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-08T09:19:16.547846Z",
-      "text": "Chris Hipkins continues to make statements about Labour's policies and commitments, while navigating personal and political challenges"
-    },
-    {
       "date": "2026-06-09T08:27:49.073869Z",
       "text": "Chris Hipkins announced a cost-of-living policy and faced personal allegations from his ex-wife"
     },
@@ -363,14 +383,13 @@
     {
       "date": "2026-06-21T08:55:27.985009Z",
       "text": "Chris Hipkins has made statements about the upcoming election and Labour's policies, while also addressing personal allegations"
+    },
+    {
+      "date": "2026-06-23T08:25:41.517646Z",
+      "text": "Chris Hipkins has unveiled a new economic team and is waiting to make commitments until after the budget"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-02T07:00:56.056130Z",
-      "notes": "New events and policies announced by Chris Hipkins and Labour Party",
-      "new_items": true
-    },
     {
       "date": "2026-05-03T07:14:58.008850Z",
       "notes": "No significant new findings",
@@ -615,16 +634,14 @@
       "date": "2026-06-22T10:34:22.660133Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to the Labour Party and Chris Hipkins' statements",
       "new_items": true
+    },
+    {
+      "date": "2026-06-23T08:25:41.517646Z",
+      "notes": "Labour's cost-of-living policy and Chris Hipkins' comments on the rural vote were notable findings",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-03T09:22:54.731880Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-04T08:44:29.680317Z",
       "sources": [
@@ -763,7 +780,15 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-23T08:25:41.517749Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-22T10:34:22.660232Z"
+  "last_updated": "2026-06-23T08:25:41.517767Z"
 }
