@@ -1048,6 +1048,11 @@
       "date": "2026-06-23T08:25:15.894732Z",
       "notes": "Inconsistencies in Minister Bishop's statements on social housing warrant further review",
       "new_items": true
+    },
+    {
+      "date": "2026-06-24T08:19:12.855302Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1199,5 +1204,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-23T08:25:15.894930Z"
+  "last_updated": "2026-06-24T08:19:12.855345Z"
 }

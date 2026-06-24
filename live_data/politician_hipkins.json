@@ -639,6 +639,11 @@
       "date": "2026-06-23T08:25:41.517646Z",
       "notes": "Labour's cost-of-living policy and Chris Hipkins' comments on the rural vote were notable findings",
       "new_items": true
+    },
+    {
+      "date": "2026-06-24T08:19:24.918401Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -790,5 +795,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-23T08:25:41.517767Z"
+  "last_updated": "2026-06-24T08:19:24.918442Z"
 }

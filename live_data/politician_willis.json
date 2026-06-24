@@ -890,6 +890,11 @@
       "date": "2026-06-23T08:24:56.954339Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but a notable event was found related to the Budget 2026 announcement.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-24T08:18:59.192024Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1041,5 +1046,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-23T08:24:56.954418Z"
+  "last_updated": "2026-06-24T08:18:59.192064Z"
 }

@@ -1213,11 +1213,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-04T07:44:43.368388Z",
-      "notes": "Reviewed 9 sources, including PolitiFact and BBC World, and found two new lies and one new event",
-      "new_items": true
-    },
-    {
       "date": "2026-05-05T07:14:33.232930Z",
       "notes": "PolitiFact and CNN were the main sources of new information",
       "new_items": true
@@ -1461,17 +1456,14 @@
       "date": "2026-06-23T08:26:13.498731Z",
       "notes": "Two new events related to Trump's influence and actions",
       "new_items": true
+    },
+    {
+      "date": "2026-06-24T08:19:50.336764Z",
+      "notes": "Congress breaks with Trump over Iran, Trump comments on Colombia",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-04T08:44:58.526621Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-05T08:40:31.212605Z",
       "sources": [
@@ -1622,7 +1614,13 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-24T08:19:50.336828Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-23T08:26:13.498886Z"
+  "last_updated": "2026-06-24T08:19:50.336847Z"
 }

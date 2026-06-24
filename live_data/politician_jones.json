@@ -611,11 +611,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-03T07:14:19.967176Z",
-      "notes": "Shane Jones' recent comments have sparked controversy and raised concerns about his integrity and judgment",
-      "new_items": true
-    },
-    {
       "date": "2026-05-04T07:43:40.669635Z",
       "notes": "Shane Jones' comments have sparked controversy and criticism from other MPs",
       "new_items": true
@@ -859,18 +854,14 @@
       "date": "2026-06-23T08:24:42.175079Z",
       "notes": "No significant new findings except for new events",
       "new_items": true
+    },
+    {
+      "date": "2026-06-24T08:18:43.577945Z",
+      "notes": "Shane Jones' statement on Kaitāia mill owners not seeking Government help",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-04T08:43:46.603646Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-05T08:39:18.886138Z",
       "sources": [
@@ -1007,7 +998,13 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-06-24T08:18:43.578011Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-23T08:24:42.175190Z"
+  "last_updated": "2026-06-24T08:18:43.578033Z"
 }

@@ -937,11 +937,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-04T07:43:20.955626Z",
-      "notes": "Reviewed sources from Newsroom, The Spinoff, Stuff, and NZ Herald",
-      "new_items": true
-    },
-    {
       "date": "2026-05-05T07:13:07.931521Z",
       "notes": "Peters' social media activity and public statements continue to be scrutinized for discrepancies and contradictions",
       "new_items": true
@@ -1185,17 +1180,14 @@
       "date": "2026-06-23T08:24:10.013255Z",
       "notes": "Peters' recent statements and events suggest a continued aggressive approach to National and potential contradictions in his statements",
       "new_items": true
+    },
+    {
+      "date": "2026-06-24T08:18:06.593886Z",
+      "notes": "RNZ News article found, but no significant new lies, social posts, or votes",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-04T08:43:17.754861Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-05T08:38:51.345713Z",
       "sources": [
@@ -1341,7 +1333,13 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-24T08:18:06.593950Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-23T08:24:10.013390Z"
+  "last_updated": "2026-06-24T08:18:06.593972Z"
 }
