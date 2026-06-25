@@ -1213,11 +1213,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-05T07:14:33.232930Z",
-      "notes": "PolitiFact and CNN were the main sources of new information",
-      "new_items": true
-    },
-    {
       "date": "2026-05-06T07:35:13.721146Z",
       "notes": "Multiple sources confirm Trump's false claims and the rising disapproval of his handling of the war with Iran",
       "new_items": true
@@ -1461,17 +1456,14 @@
       "date": "2026-06-24T08:19:50.336764Z",
       "notes": "Congress breaks with Trump over Iran, Trump comments on Colombia",
       "new_items": true
+    },
+    {
+      "date": "2026-06-25T08:19:01.365976Z",
+      "notes": "New event found related to Trump's request for funding",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-05T08:40:31.212605Z",
-      "sources": [
-        "RSS (7 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-06T07:42:32.160105Z",
       "sources": [
@@ -1620,7 +1612,13 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-25T08:19:01.366034Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-24T08:19:50.336847Z"
+  "last_updated": "2026-06-25T08:19:01.366052Z"
 }

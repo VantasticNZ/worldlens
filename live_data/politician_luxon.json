@@ -1089,11 +1089,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-05T07:12:55.098054Z",
-      "notes": "Multiple sources suggest Luxon's coalition government is on shaky ground",
-      "new_items": true
-    },
-    {
       "date": "2026-05-06T07:32:24.625797Z",
       "notes": "Reviewed 9 sources, including The Guardian, Newsroom, and Labour.org.nz",
       "new_items": true
@@ -1337,17 +1332,14 @@
       "date": "2026-06-24T08:17:53.661547Z",
       "notes": "Two new events related to Christopher Luxon's recent activities",
       "new_items": true
+    },
+    {
+      "date": "2026-06-25T08:17:11.140922Z",
+      "notes": "Two new events related to Christopher Luxon's statements on AI and trade with China",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-05T08:38:37.257850Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-06T07:40:20.756464Z",
       "sources": [
@@ -1487,7 +1479,13 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-25T08:17:11.141001Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-24T08:17:53.661687Z"
+  "last_updated": "2026-06-25T08:17:11.141023Z"
 }
