@@ -864,21 +864,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-04T07:45:02.417610Z",
-      "notes": "The search results suggest that Keir Starmer is facing significant challenges to his leadership and integrity, with multiple sources reporting on concerns about his actions and statements",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-05T07:14:55.785537Z",
-      "notes": "Mandelson vetting controversy continues to affect Starmer's reputation",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-06T07:35:47.258886Z",
-      "notes": "New lies and events found, score adjustments made accordingly",
-      "new_items": true
-    },
-    {
       "date": "2026-05-07T07:41:57.946345Z",
       "notes": "New lies and events found, score adjustments made",
       "new_items": true
@@ -1122,16 +1107,14 @@
       "date": "2026-06-25T08:19:27.819307Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-26T08:28:17.138199Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-04T08:45:34.942170Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-06-05T08:41:03.542078Z",
       "sources": [
@@ -1266,7 +1249,13 @@
         "RSS (1 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-06-26T08:28:17.138214Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-06-25T08:19:27.819347Z"
+  "last_updated": "2026-06-26T08:28:17.138233Z"
 }

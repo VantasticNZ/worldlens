@@ -1167,13 +1167,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Additional lies and contradictory statements"
+    },
+    "2026-06-26T08:27:44.728921Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Trump's actions on immigrant status and request for war funding contribute to a decrease in integrity score and an increase in corruption risk."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-13T08:18:33.606777Z",
-      "text": "Trump's recent statements and actions have raised concerns about his honesty and approach to international relations"
-    },
     {
       "date": "2026-06-14T08:38:39.616346Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and honesty"
@@ -1209,14 +1210,13 @@
     {
       "date": "2026-06-22T10:34:56.514107Z",
       "text": "Donald Trump has been found to have made additional false claims, and his backed candidate has won the Colombia election"
+    },
+    {
+      "date": "2026-06-26T08:27:44.728921Z",
+      "text": "Trump's recent actions on immigrant status and request for war funding have raised concerns about his integrity and increased corruption risk."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-06T07:35:13.721146Z",
-      "notes": "Multiple sources confirm Trump's false claims and the rising disapproval of his handling of the war with Iran",
-      "new_items": true
-    },
     {
       "date": "2026-05-07T07:41:00.126159Z",
       "notes": "The search results included several articles from reputable sources that fact-checked Trump's claims and found them to be false or misleading.",
@@ -1461,17 +1461,14 @@
       "date": "2026-06-25T08:19:01.365976Z",
       "notes": "New event found related to Trump's request for funding",
       "new_items": true
+    },
+    {
+      "date": "2026-06-26T08:27:44.728921Z",
+      "notes": "Two new events related to Trump's actions on immigrant status and request for war funding.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-06T07:42:32.160105Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-07T08:20:16.345968Z",
       "sources": [
@@ -1618,7 +1615,13 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-26T08:27:44.729010Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-25T08:19:01.366052Z"
+  "last_updated": "2026-06-26T08:27:44.729026Z"
 }

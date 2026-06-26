@@ -611,11 +611,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-05T07:13:30.914664Z",
-      "notes": "Reviewed Tavily sources for Shane Jones",
-      "new_items": true
-    },
-    {
       "date": "2026-05-06T07:33:31.430005Z",
       "notes": "Shane Jones' recent comments have sparked controversy and criticism from other MPs and the media",
       "new_items": true
@@ -859,16 +854,14 @@
       "date": "2026-06-25T08:17:50.962178Z",
       "notes": "New event found related to Shane Jones",
       "new_items": true
+    },
+    {
+      "date": "2026-06-26T08:26:21.137453Z",
+      "notes": "New event found related to Shane Jones",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-06T07:41:12.603475Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-07T08:19:10.581381Z",
       "sources": [
@@ -1003,7 +996,13 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-26T08:26:21.137521Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-25T08:17:50.962258Z"
+  "last_updated": "2026-06-26T08:26:21.137540Z"
 }

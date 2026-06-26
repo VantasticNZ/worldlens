@@ -248,21 +248,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-04T07:43:30.025629Z",
-      "notes": "New immigration policy announcement and Waitangi Pōwhiri speech",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-05T07:13:19.083294Z",
-      "notes": "Reviewed RNZ News, ACT NZ, NZ Herald, and other sources for updates on David Seymour's activities and statements.",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-06T07:33:14.337150Z",
-      "notes": "David Seymour's recent activities and statements have been tracked, including his immigration policy announcement and speech at Waitangi Pōwhiri.",
-      "new_items": true
-    },
-    {
       "date": "2026-05-07T07:38:36.658092Z",
       "notes": "Disagreements and controversies surrounding David Seymour's statements and policies.",
       "new_items": true
@@ -506,16 +491,14 @@
       "date": "2026-06-25T08:17:38.901621Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-26T08:26:05.827843Z",
+      "notes": "New event added regarding Associate Health Minister David Seymour's proposal for Pharmac to use AI",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-04T08:43:31.989940Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-06-05T08:39:05.309947Z",
       "sources": [
@@ -656,7 +639,13 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-06-26T08:26:05.827919Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-25T08:17:38.901666Z"
+  "last_updated": "2026-06-26T08:26:05.827948Z"
 }

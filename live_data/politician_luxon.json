@@ -1089,11 +1089,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-06T07:32:24.625797Z",
-      "notes": "Reviewed 9 sources, including The Guardian, Newsroom, and Labour.org.nz",
-      "new_items": true
-    },
-    {
       "date": "2026-05-07T07:37:51.575554Z",
       "notes": "Multiple sources indicate Luxon's inconsistent statements and actions",
       "new_items": true
@@ -1337,17 +1332,14 @@
       "date": "2026-06-25T08:17:11.140922Z",
       "notes": "Two new events related to Christopher Luxon's statements on AI and trade with China",
       "new_items": true
+    },
+    {
+      "date": "2026-06-26T08:25:36.784853Z",
+      "notes": "Article from RNZ NZ regarding Luxon's comments on AI uptake",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-06T07:40:20.756464Z",
-      "sources": [
-        "RSS (6 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-07T08:18:31.643969Z",
       "sources": [
@@ -1485,7 +1477,13 @@
       "sources": [
         "RSS (3 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-26T08:25:36.784918Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-25T08:17:11.141023Z"
+  "last_updated": "2026-06-26T08:25:36.784940Z"
 }

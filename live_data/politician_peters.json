@@ -906,13 +906,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' claim about the immigration policy targeting India is unsubstantiated and may be misleading"
+    },
+    "2026-06-26T08:25:51.449974Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' claim about the immigration policy targeting India is unsubstantiated and may be misleading"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-15T10:50:04.889607Z",
-      "text": "Winston Peters' recent statements and actions suggest a potential shift in his stance on Labour and immigration, while his criticism of National and Act reflects ongoing tensions between the parties"
-    },
     {
       "date": "2026-06-16T10:02:20.631085Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
@@ -948,14 +949,13 @@
     {
       "date": "2026-06-25T08:17:25.741217Z",
       "text": "Winston Peters has made a potentially misleading claim about the India Free Trade Agreement's immigration policy"
+    },
+    {
+      "date": "2026-06-26T08:25:51.449974Z",
+      "text": "Winston Peters made unsubstantiated claims about the restrictive immigration policy targeting India, potentially damaging his integrity score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-06T07:32:48.483439Z",
-      "notes": "Reviewed sources from The Spinoff, NZ Herald, and RNZ",
-      "new_items": true
-    },
     {
       "date": "2026-05-07T07:38:16.523684Z",
       "notes": "Reviewed Tavily sources and NZ news outlets for updates on Winston Peters and NZ First",
@@ -1200,16 +1200,14 @@
       "date": "2026-06-25T08:17:25.741217Z",
       "notes": "RNZ News article reviewed, one new lie and one new event added",
       "new_items": true
+    },
+    {
+      "date": "2026-06-26T08:25:51.449974Z",
+      "notes": "Reviewed RNZ News article from June 2026",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-06T07:40:36.225328Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-07T08:18:44.446040Z",
       "sources": [
@@ -1352,7 +1350,13 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-26T08:25:51.450088Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-25T08:17:25.741330Z"
+  "last_updated": "2026-06-26T08:25:51.450112Z"
 }
