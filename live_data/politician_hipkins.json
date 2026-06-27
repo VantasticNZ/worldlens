@@ -391,26 +391,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-03T07:14:58.008850Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-05-05T07:14:07.666198Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-05-06T07:34:42.046155Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-05-07T07:40:04.116382Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-05-08T06:30:39.049975Z",
       "notes": "New events and speeches from Chris Hipkins, focusing on Labour's vision and responsible commitments.",
       "new_items": true
@@ -654,16 +634,14 @@
       "date": "2026-06-26T08:27:18.036591Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-27T07:44:32.504221Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-04T08:44:29.680317Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-05T08:39:59.049057Z",
       "sources": [
@@ -803,7 +781,13 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-06-27T07:44:32.504243Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-06-26T08:27:18.036632Z"
+  "last_updated": "2026-06-27T07:44:32.504272Z"
 }

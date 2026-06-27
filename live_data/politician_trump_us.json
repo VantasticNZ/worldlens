@@ -1176,10 +1176,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-14T08:38:39.616346Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and honesty"
-    },
-    {
       "date": "2026-06-15T10:52:04.285941Z",
       "text": "Trump's recent lies and controversial events have further eroded his integrity, with his score being adjusted downward"
     },
@@ -1214,14 +1210,13 @@
     {
       "date": "2026-06-26T08:27:44.728921Z",
       "text": "Trump's recent actions on immigrant status and request for war funding have raised concerns about his integrity and increased corruption risk."
+    },
+    {
+      "date": "2026-06-27T07:44:50.539938Z",
+      "text": "Trump's request for war funding and the Supreme Court's ruling on immigrant protected status have raised concerns about his policies."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-07T07:41:00.126159Z",
-      "notes": "The search results included several articles from reputable sources that fact-checked Trump's claims and found them to be false or misleading.",
-      "new_items": true
-    },
     {
       "date": "2026-05-08T06:31:45.980706Z",
       "notes": "multiple sources confirm Trump's pattern of dishonesty",
@@ -1466,17 +1461,14 @@
       "date": "2026-06-26T08:27:44.728921Z",
       "notes": "Two new events related to Trump's actions on immigrant status and request for war funding.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-27T07:44:50.539938Z",
+      "notes": "New events added related to Trump's request for war funding, Supreme Court ruling on immigrant protected status, and John Bolton's guilty plea.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-07T08:20:16.345968Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-08T09:19:46.893369Z",
       "sources": [
@@ -1621,7 +1613,13 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-27T07:44:50.540082Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-26T08:27:44.729026Z"
+  "last_updated": "2026-06-27T07:44:50.540109Z"
 }

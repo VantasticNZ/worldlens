@@ -800,11 +800,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-07T07:39:37.633997Z",
-      "notes": "Multiple sources confirm Auckland housing plan reduction and Chris Bishop's comments on the change",
-      "new_items": true
-    },
-    {
       "date": "2026-05-08T06:30:17.776765Z",
       "notes": "Multiple sources confirm the reduction in Auckland's housing plan, contradicting Chris Bishop's claim of 'no actual change'",
       "new_items": true
@@ -1048,16 +1043,14 @@
       "date": "2026-06-26T08:26:48.883162Z",
       "notes": "New event added regarding Chris Bishop's decision on truck weight restrictions",
       "new_items": true
+    },
+    {
+      "date": "2026-06-27T07:44:23.693306Z",
+      "notes": "New event added regarding Chris Bishop's decision on truck weight restrictions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-05T08:39:46.408386Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-06T07:41:47.403744Z",
       "sources": [
@@ -1196,7 +1189,13 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-27T07:44:23.693387Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-26T08:26:48.883250Z"
+  "last_updated": "2026-06-27T07:44:23.693412Z"
 }

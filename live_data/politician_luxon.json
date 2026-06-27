@@ -1337,6 +1337,11 @@
       "date": "2026-06-26T08:25:36.784853Z",
       "notes": "Article from RNZ NZ regarding Luxon's comments on AI uptake",
       "new_items": true
+    },
+    {
+      "date": "2026-06-27T07:43:34.843571Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1485,5 +1490,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-26T08:25:36.784940Z"
+  "last_updated": "2026-06-27T07:43:34.843639Z"
 }
