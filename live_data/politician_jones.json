@@ -859,6 +859,11 @@
       "date": "2026-06-27T07:44:06.812576Z",
       "notes": "New event found related to Shane Jones",
       "new_items": true
+    },
+    {
+      "date": "2026-06-28T08:16:40.129414Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1003,5 +1008,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-27T07:44:06.812695Z"
+  "last_updated": "2026-06-28T08:16:40.129462Z"
 }

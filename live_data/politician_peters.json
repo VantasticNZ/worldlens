@@ -1210,6 +1210,11 @@
       "date": "2026-06-27T07:43:48.157000Z",
       "notes": "RNZ News article from June 2026",
       "new_items": true
+    },
+    {
+      "date": "2026-06-28T08:16:11.006564Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1361,5 +1366,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-27T07:43:48.157175Z"
+  "last_updated": "2026-06-28T08:16:11.006619Z"
 }

@@ -1176,10 +1176,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-15T10:52:04.285941Z",
-      "text": "Trump's recent lies and controversial events have further eroded his integrity, with his score being adjusted downward"
-    },
-    {
       "date": "2026-06-16T10:04:43.500204Z",
       "text": "Donald Trump's recent statements have been found to be false, including claims about gasoline prices, consumer confidence, and the California election"
     },
@@ -1214,14 +1210,13 @@
     {
       "date": "2026-06-27T07:44:50.539938Z",
       "text": "Trump's request for war funding and the Supreme Court's ruling on immigrant protected status have raised concerns about his policies."
+    },
+    {
+      "date": "2026-06-28T08:17:45.929099Z",
+      "text": "New events related to Trump's public image and an ex-adviser's guilty plea have emerged."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-08T06:31:45.980706Z",
-      "notes": "multiple sources confirm Trump's pattern of dishonesty",
-      "new_items": true
-    },
     {
       "date": "2026-05-09T07:04:48.770492Z",
       "notes": "Multiple sources confirm Trump's false claims and contradictory policy statements",
@@ -1466,18 +1461,14 @@
       "date": "2026-06-27T07:44:50.539938Z",
       "notes": "New events added related to Trump's request for war funding, Supreme Court ruling on immigrant protected status, and John Bolton's guilty plea.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-28T08:17:45.929099Z",
+      "notes": "BBC World RSS articles reviewed, no new social posts or votes found.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-08T09:19:46.893369Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-09T08:28:13.802144Z",
       "sources": [
@@ -1619,7 +1610,13 @@
       "sources": [
         "RSS (4 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-28T08:17:45.929199Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-27T07:44:50.540109Z"
+  "last_updated": "2026-06-28T08:17:45.929219Z"
 }

@@ -1089,16 +1089,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-07T07:37:51.575554Z",
-      "notes": "Multiple sources indicate Luxon's inconsistent statements and actions",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-08T06:28:08.263316Z",
-      "notes": "Multiple sources indicate Luxon's ongoing challenges with the media and his own party",
-      "new_items": true
-    },
-    {
       "date": "2026-05-09T07:02:50.086523Z",
       "notes": "Luxon's response to Iran strikes and his contradictory statements on the issue have been noted",
       "new_items": true
@@ -1342,17 +1332,14 @@
       "date": "2026-06-27T07:43:34.843571Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-28T08:15:54.476295Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-07T08:18:31.643969Z",
-      "sources": [
-        "RSS (5 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-08T09:17:46.487713Z",
       "sources": [
@@ -1488,7 +1475,13 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-28T08:15:54.476313Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-06-27T07:43:34.843639Z"
+  "last_updated": "2026-06-28T08:15:54.476338Z"
 }

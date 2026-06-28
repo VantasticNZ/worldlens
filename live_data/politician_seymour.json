@@ -248,11 +248,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-08T06:29:07.796933Z",
-      "notes": "Disagreement between David Seymour and RNZ Board on leadership changes",
-      "new_items": true
-    },
-    {
       "date": "2026-05-09T07:03:26.031034Z",
       "notes": "Reviewed RNZ News and Tavily sources for updates on David Seymour",
       "new_items": true
@@ -496,16 +491,14 @@
       "date": "2026-06-27T07:43:57.599943Z",
       "notes": "New event added regarding Associate Health Minister David Seymour's announcement on AI use in Pharmac",
       "new_items": true
+    },
+    {
+      "date": "2026-06-28T08:16:26.785744Z",
+      "notes": "Two new events found related to David Seymour's recent statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-06T07:40:53.783132Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-06-07T08:18:55.011960Z",
       "sources": [
@@ -644,7 +637,13 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-28T08:16:26.785849Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-27T07:43:57.600054Z"
+  "last_updated": "2026-06-28T08:16:26.785875Z"
 }
