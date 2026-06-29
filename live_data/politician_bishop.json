@@ -1048,6 +1048,11 @@
       "date": "2026-06-28T08:17:07.787411Z",
       "notes": "New event added regarding Chris Bishop's decision on truck weight restrictions",
       "new_items": true
+    },
+    {
+      "date": "2026-06-29T09:22:49.136935Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1196,5 +1201,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-28T08:17:07.787515Z"
+  "last_updated": "2026-06-29T09:22:49.136998Z"
 }

@@ -288,26 +288,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-04T07:44:52.100384Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-05-05T07:14:44.605154Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-05-06T07:35:34.408172Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-05-07T07:41:23.940866Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-05-08T06:32:11.142811Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -551,17 +531,14 @@
       "date": "2026-06-28T08:17:55.662908Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-29T09:23:40.665175Z",
+      "notes": "New events related to international relations and social media regulation",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-04T08:45:16.925572Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-06-05T08:40:46.382680Z",
       "sources": [
@@ -701,7 +678,13 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-06-29T09:23:40.665280Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-06-28T08:17:55.662980Z"
+  "last_updated": "2026-06-29T09:23:40.665306Z"
 }

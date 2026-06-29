@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 29,
+  "lie_count": 30,
   "lies": [
     {
       "date": "2026",
@@ -292,6 +292,16 @@
       "platform": "press",
       "_id": "a04f5a53",
       "_crawled": "2026-06-22T10:32:24.552284Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Prime Minister Christopher Luxon was unaware of the lack of night shelter for rough sleepers in Auckland",
+      "reality": "The lack of night shelter for rough sleepers in Auckland was a known issue, but the Prime Minister claimed he was unaware",
+      "source": "RNZ News, NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "03072a69",
+      "_crawled": "2026-06-29T09:21:52.787579Z"
     }
   ],
   "social_posts": [
@@ -1043,13 +1053,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The incident where Christopher Luxon scolded the media and told them he would no longer engage with them on questions about his leadership raises concerns about his integrity"
+    },
+    "2026-06-29T09:21:52.787579Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The Prime Minister's claim of being unaware of the lack of night shelter for rough sleepers in Auckland raises concerns about his integrity and awareness of social issues"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-12T08:53:36.721002Z",
-      "text": "Luxon's tweet on a trade deal was corrected by Winston Peters, raising questions about the accuracy of his statements"
-    },
     {
       "date": "2026-06-13T08:16:22.794748Z",
       "text": "New lobbying controversy and disappearing documents raise concerns about PM Christopher Luxon's integrity and corruption risk"
@@ -1085,14 +1096,13 @@
     {
       "date": "2026-06-22T10:32:24.552284Z",
       "text": "Christopher Luxon's integrity score has been adjusted downward due to his behavior towards the media"
+    },
+    {
+      "date": "2026-06-29T09:21:52.787579Z",
+      "text": "Prime Minister Christopher Luxon's admission of being unaware of the lack of night shelter for rough sleepers in Auckland has sparked controversy and raised concerns about his integrity"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-09T07:02:50.086523Z",
-      "notes": "Luxon's response to Iran strikes and his contradictory statements on the issue have been noted",
-      "new_items": true
-    },
     {
       "date": "2026-05-10T07:22:05.892822Z",
       "notes": "Luxon's statements and actions are being closely monitored for potential discrepancies and contradictions",
@@ -1337,17 +1347,14 @@
       "date": "2026-06-28T08:15:54.476295Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-06-29T09:21:52.787579Z",
+      "notes": "Reviewed RNZ News and NZ Herald articles, found notable admission by Prime Minister Christopher Luxon on homelessness issue",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-08T09:17:46.487713Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-09T08:26:16.905146Z",
       "sources": [
@@ -1481,7 +1488,13 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-06-29T09:21:52.787738Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-28T08:15:54.476338Z"
+  "last_updated": "2026-06-29T09:21:52.787770Z"
 }

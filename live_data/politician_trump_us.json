@@ -1218,11 +1218,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-09T07:04:48.770492Z",
-      "notes": "Multiple sources confirm Trump's false claims and contradictory policy statements",
-      "new_items": true
-    },
-    {
       "date": "2026-05-10T07:23:26.926733Z",
       "notes": "New lies and events found, score adjustments made accordingly",
       "new_items": true
@@ -1466,17 +1461,14 @@
       "date": "2026-06-28T08:17:45.929099Z",
       "notes": "BBC World RSS articles reviewed, no new social posts or votes found.",
       "new_items": true
+    },
+    {
+      "date": "2026-06-29T09:23:27.004870Z",
+      "notes": "No direct quotes or claims from Donald Trump found in the provided sources",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-09T08:28:13.802144Z",
-      "sources": [
-        "RSS (5 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-10T08:45:02.094349Z",
       "sources": [
@@ -1616,7 +1608,13 @@
       "sources": [
         "RSS (3 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-29T09:23:27.004948Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-28T08:17:45.929219Z"
+  "last_updated": "2026-06-29T09:23:27.004972Z"
 }

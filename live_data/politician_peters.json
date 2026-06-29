@@ -962,16 +962,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-08T06:28:44.538613Z",
-      "notes": "Peters' comments on the fees-free university scheme and the Iran war emails require further verification",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-09T07:03:06.337895Z",
-      "notes": "Winston Peters' social media posts and public statements require close monitoring for discrepancies and contradictions",
-      "new_items": true
-    },
-    {
       "date": "2026-05-10T07:22:16.215682Z",
       "notes": "Multiple sources report on Winston Peters' recent speeches and statements, including his proclamation of a 'war on woke' and his contradictory claims about DEI regulations",
       "new_items": true
@@ -1215,17 +1205,14 @@
       "date": "2026-06-28T08:16:11.006564Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-29T09:22:05.238290Z",
+      "notes": "No significant new findings, only neutral events related to Winston Peters' comments and stance",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-08T09:18:00.706176Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-09T08:26:33.235669Z",
       "sources": [
@@ -1364,7 +1351,13 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-06-29T09:22:05.238387Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-28T08:16:11.006619Z"
+  "last_updated": "2026-06-29T09:22:05.238415Z"
 }

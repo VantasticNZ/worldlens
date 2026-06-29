@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 7,
+  "lie_count": 8,
   "lies": [
     {
       "date": "May 2026",
@@ -72,6 +72,16 @@
       "platform": "interview",
       "_id": "bb4d3416",
       "_crawled": "2026-06-23T08:25:41.517646Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Are you better off than three years ago?",
+      "reality": "The statement is a rhetorical question and lacks context, making it difficult to verify",
+      "source": "Newsroom, June 29, 2026",
+      "severity": "low",
+      "platform": "speech",
+      "_id": "f2ed6d17",
+      "_crawled": "2026-06-29T09:23:00.666334Z"
     }
   ],
   "social_posts": [
@@ -349,10 +359,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-09T08:27:49.073869Z",
-      "text": "Chris Hipkins announced a cost-of-living policy and faced personal allegations from his ex-wife"
-    },
-    {
       "date": "2026-06-10T08:44:35.394358Z",
       "text": "Chris Hipkins announced a cost-of-living relief policy and criticized the Police Commissioner"
     },
@@ -387,19 +393,13 @@
     {
       "date": "2026-06-23T08:25:41.517646Z",
       "text": "Chris Hipkins has unveiled a new economic team and is waiting to make commitments until after the budget"
+    },
+    {
+      "date": "2026-06-29T09:23:00.666334Z",
+      "text": "Chris Hipkins posed a rhetorical question, echoing Ronald Reagan, about whether New Zealanders are better off than three years ago"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-08T06:30:39.049975Z",
-      "notes": "New events and speeches from Chris Hipkins, focusing on Labour's vision and responsible commitments.",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-09T07:04:22.898326Z",
-      "notes": "No significant contradictions or lies found, but several new events and statements from Chris Hipkins",
-      "new_items": true
-    },
     {
       "date": "2026-05-10T07:23:05.238758Z",
       "notes": "No significant new findings",
@@ -644,16 +644,14 @@
       "date": "2026-06-28T08:17:21.166344Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-29T09:23:00.666334Z",
+      "notes": "Article from Newsroom, June 29, 2026",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-05T08:39:59.049057Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-06T07:42:00.147098Z",
       "sources": [
@@ -792,7 +790,13 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-06-29T09:23:00.666439Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-06-28T08:17:21.166392Z"
+  "last_updated": "2026-06-29T09:23:00.666465Z"
 }
