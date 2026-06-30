@@ -1053,6 +1053,11 @@
       "date": "2026-06-29T09:22:49.136935Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-06-30T08:25:24.861155Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1201,5 +1206,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-29T09:22:49.136998Z"
+  "last_updated": "2026-06-30T08:25:24.861221Z"
 }

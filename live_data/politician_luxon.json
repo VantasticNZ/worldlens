@@ -1352,6 +1352,11 @@
       "date": "2026-06-29T09:21:52.787579Z",
       "notes": "Reviewed RNZ News and NZ Herald articles, found notable admission by Prime Minister Christopher Luxon on homelessness issue",
       "new_items": true
+    },
+    {
+      "date": "2026-06-30T08:23:55.856272Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1496,5 +1501,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-29T09:21:52.787770Z"
+  "last_updated": "2026-06-30T08:23:55.856329Z"
 }

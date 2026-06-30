@@ -536,6 +536,11 @@
       "date": "2026-06-29T09:23:40.665175Z",
       "notes": "New events related to international relations and social media regulation",
       "new_items": true
+    },
+    {
+      "date": "2026-06-30T08:26:23.146355Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -686,5 +691,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-29T09:23:40.665306Z"
+  "last_updated": "2026-06-30T08:26:23.146408Z"
 }
