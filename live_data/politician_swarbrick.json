@@ -325,36 +325,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-05T07:14:16.909894Z",
-      "notes": "No significant lies or score adjustments found",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-06T07:34:55.910406Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-05-07T07:40:33.271295Z",
-      "notes": "New statements and events from Chloe Swarbrick regarding the 2026 election and cost of living issues.",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-08T06:31:10.723448Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-05-09T07:04:35.223898Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-05-10T07:23:18.305791Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-05-11T08:22:41.893819Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -598,16 +568,14 @@
       "date": "2026-06-30T08:25:54.898901Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-07-01T08:47:37.343749Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-05T08:40:15.391177Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-06T07:42:18.543650Z",
       "sources": [
@@ -739,7 +707,14 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-01T08:47:37.343764Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-30T08:25:54.898999Z"
+  "last_updated": "2026-07-01T08:47:37.343785Z"
 }

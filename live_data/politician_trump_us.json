@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 66,
+  "lie_count": 67,
   "lies": [
     {
       "date": "January 2026",
@@ -662,6 +662,16 @@
       "platform": "interview",
       "_id": "d6b0c13b",
       "_crawled": "2026-06-21T08:56:01.541515Z"
+    },
+    {
+      "date": "June 24, 2026",
+      "claim": "Benefits of the 21st Century ROAD to Housing Act are going to go to a lot of people that are here illegally to build houses for them.",
+      "reality": "The claim is false.",
+      "source": "PolitiFact, June 24, 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "4f85c2d0",
+      "_crawled": "2026-07-01T08:48:05.239797Z"
     }
   ],
   "social_posts": [
@@ -1172,13 +1182,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Trump's actions on immigrant status and request for war funding contribute to a decrease in integrity score and an increase in corruption risk."
+    },
+    "2026-07-01T08:48:05.239797Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's exaggerated claim about the Lincoln Memorial Reflecting Pool and his false statement about the 21st Century ROAD to Housing Act have decreased his integrity score."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-16T10:04:43.500204Z",
-      "text": "Donald Trump's recent statements have been found to be false, including claims about gasoline prices, consumer confidence, and the California election"
-    },
     {
       "date": "2026-06-17T09:27:52.763371Z",
       "text": "Trump's recent statements have been found to be false or exaggerated, further eroding his integrity score"
@@ -1214,14 +1225,13 @@
     {
       "date": "2026-06-28T08:17:45.929099Z",
       "text": "New events related to Trump's public image and an ex-adviser's guilty plea have emerged."
+    },
+    {
+      "date": "2026-07-01T08:48:05.239797Z",
+      "text": "Trump's recent actions and statements have raised concerns about his integrity and policies."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-11T08:22:58.511790Z",
-      "notes": "Multiple sources confirm Trump's false claims and contradictory statements, with a focus on his statements on the economy, prices, and investments",
-      "new_items": true
-    },
     {
       "date": "2026-05-12T07:41:05.166140Z",
       "notes": "Multiple sources confirm Trump's false claims, including PolitiFact and BBC World",
@@ -1466,17 +1476,14 @@
       "date": "2026-06-30T08:26:09.614061Z",
       "notes": "Supreme Court rulings and Biden criticism",
       "new_items": true
+    },
+    {
+      "date": "2026-07-01T08:48:05.239797Z",
+      "notes": "Trump's claims and actions continue to be fact-checked and reported on by various sources.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-11T09:10:11.608930Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-12T08:55:55.534307Z",
       "sources": [
@@ -1612,7 +1619,15 @@
       "sources": [
         "RSS (3 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-01T08:48:05.240032Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-30T08:26:09.614232Z"
+  "last_updated": "2026-07-01T08:48:05.240051Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 30,
+  "lie_count": 32,
   "lies": [
     {
       "date": "2026",
@@ -302,6 +302,26 @@
       "platform": "interview",
       "_id": "03072a69",
       "_crawled": "2026-06-29T09:21:52.787579Z"
+    },
+    {
+      "date": "February 2026",
+      "claim": "Christopher Luxon's parents let him stay up late to watch State of Origin",
+      "reality": "This claim is likely false as it sets off alarm bells among the gatekeepers of New Zealand sporting fandom",
+      "source": "The Spinoff, February 17, 2026",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "9a43e39a",
+      "_crawled": "2026-07-01T08:44:04.690444Z"
+    },
+    {
+      "date": "2024",
+      "claim": "Christopher Luxon supported the Crusaders since he was a little boy",
+      "reality": "The Crusaders played their first game in 1996, when Luxon was 25",
+      "source": "The Spinoff, February 17, 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "e7166402",
+      "_crawled": "2026-07-01T08:44:04.690444Z"
     }
   ],
   "social_posts": [
@@ -612,6 +632,20 @@
       },
       "_id": "92533817",
       "_crawled": "2026-06-20T08:17:12.066228Z"
+    },
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "New Zealand Prime Minister Christopher Luxon announces the 2026 election date",
+      "verified_by": "AP News",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "Luxon's announcement of the election date may contradict his previous statements on the topic",
+        "source": "AP News",
+        "severity": "low"
+      },
+      "_id": "1806e6e0",
+      "_crawled": "2026-07-01T08:44:04.690444Z"
     }
   ],
   "votes": [
@@ -1058,13 +1092,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The Prime Minister's claim of being unaware of the lack of night shelter for rough sleepers in Auckland raises concerns about his integrity and awareness of social issues"
+    },
+    "2026-07-01T08:44:04.690444Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's potential lies and discrepancies in his statements may affect his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-13T08:16:22.794748Z",
-      "text": "New lobbying controversy and disappearing documents raise concerns about PM Christopher Luxon's integrity and corruption risk"
-    },
     {
       "date": "2026-06-14T08:36:42.069444Z",
       "text": "Christopher Luxon's integrity score has been adjusted due to a low-severity lie about his support for the Crusaders"
@@ -1100,19 +1135,13 @@
     {
       "date": "2026-06-29T09:21:52.787579Z",
       "text": "Prime Minister Christopher Luxon's admission of being unaware of the lack of night shelter for rough sleepers in Auckland has sparked controversy and raised concerns about his integrity"
+    },
+    {
+      "date": "2026-07-01T08:44:04.690444Z",
+      "text": "Christopher Luxon's leadership and integrity are under scrutiny after potential lies and discrepancies in his statements were discovered"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-10T07:22:05.892822Z",
-      "notes": "Luxon's statements and actions are being closely monitored for potential discrepancies and contradictions",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-11T08:20:25.930095Z",
-      "notes": "Multiple sources reported on Luxon's response to the Iran strikes and his claim about the fees-free university scheme",
-      "new_items": true
-    },
     {
       "date": "2026-05-12T07:37:54.796619Z",
       "notes": "Multiple sources indicate inconsistencies in Luxon's statements and actions",
@@ -1357,16 +1386,14 @@
       "date": "2026-06-30T08:23:55.856272Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-07-01T08:44:04.690444Z",
+      "notes": "Multiple sources indicate Luxon's potential dishonesty and contradictions in his statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-09T08:26:16.905146Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-10T08:42:53.795465Z",
       "sources": [
@@ -1499,7 +1526,15 @@
       "sources": [
         "RSS (3 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-01T08:44:04.690657Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-06-30T08:23:55.856329Z"
+  "last_updated": "2026-07-01T08:44:04.690680Z"
 }

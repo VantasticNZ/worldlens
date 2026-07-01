@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 25,
+  "lie_count": 26,
   "lies": [
     {
       "date": "March 2026",
@@ -252,6 +252,16 @@
       "platform": "interview",
       "_id": "36f537e2",
       "_crawled": "2026-06-25T08:17:25.741217Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Winston Peters expresses no concern over China's new ethnic unity law",
+      "reality": "The law has been widely criticized by human rights groups",
+      "source": "RNZ News",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "3d0af7d3",
+      "_crawled": "2026-07-01T08:44:26.600313Z"
     }
   ],
   "social_posts": [
@@ -920,10 +930,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-17T09:26:02.822966Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency, particularly regarding his stance on Labour and immigration"
-    },
-    {
       "date": "2026-06-18T09:09:10.823798Z",
       "text": "Winston Peters' recent statements and actions have sparked controversy and raised concerns about his integrity"
     },
@@ -958,14 +964,13 @@
     {
       "date": "2026-06-27T07:43:48.157000Z",
       "text": "Winston Peters criticized the India free trade agreement and made a potentially misleading claim about the immigration policy"
+    },
+    {
+      "date": "2026-07-01T08:44:26.600313Z",
+      "text": "Winston Peters continues to make statements that contradict his previous claims and policies, and has taken aim at other parties over immigration and coalition forming."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-11T08:20:43.319524Z",
-      "notes": "Reviewed 9 sources, including RNZ News, NZ Herald, and Stuff",
-      "new_items": true
-    },
     {
       "date": "2026-05-12T07:38:17.701123Z",
       "notes": "Peters' comments on DEI regulations and coalition negotiations require further review",
@@ -1210,17 +1215,14 @@
       "date": "2026-06-30T08:24:11.296877Z",
       "notes": "New event added regarding Winston Peters' actions on NZ-India relationship",
       "new_items": true
+    },
+    {
+      "date": "2026-07-01T08:44:26.600313Z",
+      "notes": "Peters' statements and actions continue to be scrutinized by the media and other parties",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-10T08:43:09.574614Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-11T09:07:57.464326Z",
       "sources": [
@@ -1355,7 +1357,15 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-01T08:44:26.600477Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-30T08:24:11.297016Z"
+  "last_updated": "2026-07-01T08:44:26.600501Z"
 }

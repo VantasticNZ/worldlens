@@ -642,46 +642,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-03T07:14:34.939363Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-05-04T07:43:53.389629Z",
-      "notes": "Reviewed NZ Herald and Newsroom articles",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-06T07:33:58.095445Z",
-      "notes": "Further review of Nicola Willis' statements and policies is recommended to assess her integrity and transparency",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-07T07:39:17.560802Z",
-      "notes": "Reviewed Tavily sources for Nicola Willis",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-08T06:29:58.147578Z",
-      "notes": "Reviewed articles from NZ Herald, RNZ News, and other sources",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-09T07:03:58.674576Z",
-      "notes": "Fees-free university scheme scrapping confirmed by Nicola Willis, contradicting previous claims",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-10T07:22:44.093816Z",
-      "notes": "Fees-free university scheme contradiction found",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-11T08:21:39.433904Z",
-      "notes": "Reviewed recent statements and announcements from Nicola Willis and the Government",
-      "new_items": true
-    },
-    {
       "date": "2026-05-12T07:39:27.173337Z",
       "notes": "Reviewed recent news articles for updates on Nicola Willis",
       "new_items": true
@@ -925,16 +885,14 @@
       "date": "2026-06-30T08:25:10.980747Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-07-01T08:45:27.519879Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-04T08:44:01.569192Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-06-05T08:39:31.731029Z",
       "sources": [
@@ -1074,7 +1032,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-01T08:45:27.519895Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-30T08:25:10.980799Z"
+  "last_updated": "2026-07-01T08:45:27.519917Z"
 }

@@ -611,26 +611,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-07T07:38:55.556309Z",
-      "notes": "Reviewed RNZ News and NZ Herald articles for updates on Shane Jones",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-08T06:29:31.651332Z",
-      "notes": "Shane Jones' recent comments have sparked controversy and criticism from other MPs",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-09T07:03:45.528740Z",
-      "notes": "Shane Jones' recent comments have sparked controversy and criticism from other MPs.",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-11T08:21:17.699800Z",
-      "notes": "Shane Jones' recent comments have sparked controversy and led to an apology.",
-      "new_items": true
-    },
-    {
       "date": "2026-05-12T07:39:08.342189Z",
       "notes": "Shane Jones' recent comments have sparked controversy and led to an apology and a defence of his statement.",
       "new_items": true
@@ -874,17 +854,14 @@
       "date": "2026-06-30T08:24:46.721975Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-07-01T08:45:04.540323Z",
+      "notes": "No significant new findings, but existing controversies surrounding Shane Jones continue to be reported",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-08T09:18:32.705809Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-09T08:27:01.549079Z",
       "sources": [
@@ -1016,7 +993,14 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-01T08:45:04.540387Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-30T08:24:46.722028Z"
+  "last_updated": "2026-07-01T08:45:04.540408Z"
 }

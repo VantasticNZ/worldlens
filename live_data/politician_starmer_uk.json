@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 25,
+  "lie_count": 26,
   "lies": [
     {
       "date": "2026",
@@ -252,6 +252,16 @@
       "platform": "speech",
       "_id": "c3a3188b",
       "_crawled": "2026-06-20T08:20:03.764790Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "declines to rule out breaking manifesto tax pledges",
+      "reality": "manifesto commitments not to raise key taxes may be broken",
+      "source": "BBC, June 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "51f22444",
+      "_crawled": "2026-07-01T08:48:52.085814Z"
     }
   ],
   "social_posts": [
@@ -818,13 +828,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "increased pressure on leadership and speculation about stepping aside"
+    },
+    "2026-07-01T08:48:52.085814Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "resignation announcement and potential broken tax pledges"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-14T08:39:04.128059Z",
-      "text": "Keir Starmer faces pressure over defence spending and declines to rule out breaking manifesto tax pledges"
-    },
     {
       "date": "2026-06-15T10:52:31.422652Z",
       "text": "Starmer's popularity continues to decline amid broken promises and lack of progress on key issues"
@@ -860,34 +871,13 @@
     {
       "date": "2026-06-23T08:26:41.503556Z",
       "text": "Keir Starmer announced his resignation, marking a significant development in UK politics."
+    },
+    {
+      "date": "2026-07-01T08:48:52.085814Z",
+      "text": "Keir Starmer announces resignation as UK prime minister and declines to rule out breaking manifesto tax pledges"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-07T07:41:57.946345Z",
-      "notes": "New lies and events found, score adjustments made",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-08T06:32:28.766521Z",
-      "notes": "No significant new lies or votes found, but some discrepancies in social posts and negative events",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-09T07:05:18.539701Z",
-      "notes": "Reviewed sources from BBC and The Guardian, focusing on Keir Starmer's statements and Labour's election performance",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-10T07:23:41.992980Z",
-      "notes": "Controversy over Mandelson's appointment and local election losses dominate the news",
-      "new_items": true
-    },
-    {
-      "date": "2026-05-11T08:23:44.017363Z",
-      "notes": "Local election losses and EU relations statements",
-      "new_items": true
-    },
     {
       "date": "2026-05-12T07:41:46.591190Z",
       "notes": "Labour leadership crisis and potential contradictions in Keir Starmer's statements",
@@ -1132,16 +1122,14 @@
       "date": "2026-06-30T08:26:35.948793Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-07-01T08:48:52.085814Z",
+      "notes": "Resignation and potential broken tax pledges are significant findings",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-05T08:41:03.542078Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-06-06T07:42:57.080265Z",
       "sources": [
@@ -1275,7 +1263,14 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-07-01T08:48:52.085922Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-30T08:26:35.948853Z"
+  "last_updated": "2026-07-01T08:48:52.085940Z"
 }

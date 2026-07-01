@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 8,
+  "lie_count": 10,
   "lies": [
     {
       "date": "May 2026",
@@ -82,6 +82,26 @@
       "platform": "speech",
       "_id": "f2ed6d17",
       "_crawled": "2026-06-29T09:23:00.666334Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Rental support is a subsidy for private landlords",
+      "reality": "Labour increased rental support while in government",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "27f3ad16",
+      "_crawled": "2026-07-01T08:46:48.799362Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "New Zealanders don't care about key details of the NZ Future Fund policy",
+      "reality": "The public may care about the lack of transparency in the policy",
+      "source": "NZ Herald",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "fe80177f",
+      "_crawled": "2026-07-01T08:46:48.799362Z"
     }
   ],
   "social_posts": [
@@ -355,13 +375,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Hipkins' statement about the public not caring about the detail of the NZ Future Fund policy may be seen as misleading"
+    },
+    "2026-07-01T08:46:48.799362Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Hipkins' contradictory statements and lack of transparency in his party's policies"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-10T08:44:35.394358Z",
-      "text": "Chris Hipkins announced a cost-of-living relief policy and criticized the Police Commissioner"
-    },
     {
       "date": "2026-06-11T09:09:31.162691Z",
       "text": "Chris Hipkins announced a cost-of-living relief policy and criticized the Police Commissioner"
@@ -397,19 +418,13 @@
     {
       "date": "2026-06-29T09:23:00.666334Z",
       "text": "Chris Hipkins posed a rhetorical question, echoing Ronald Reagan, about whether New Zealanders are better off than three years ago"
+    },
+    {
+      "date": "2026-07-01T08:46:48.799362Z",
+      "text": "Chris Hipkins' integrity score has been adjusted due to contradictory statements and lack of transparency in his party's policies."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-10T07:23:05.238758Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-05-11T08:22:22.978585Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-12T07:40:15.372529Z",
       "notes": "No significant new findings",
@@ -654,16 +669,14 @@
       "date": "2026-06-30T08:25:39.613487Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-07-01T08:46:48.799362Z",
+      "notes": "Multiple sources indicate Hipkins' contradictory statements and lack of transparency in his party's policies.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-06T07:42:00.147098Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-07T08:19:47.882830Z",
       "sources": [
@@ -801,7 +814,15 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-01T08:46:48.799495Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-06-30T08:25:39.613542Z"
+  "last_updated": "2026-07-01T08:46:48.799515Z"
 }
