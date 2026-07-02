@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 26,
+  "lie_count": 27,
   "lies": [
     {
       "date": "March 2026",
@@ -262,6 +262,16 @@
       "platform": "interview",
       "_id": "3d0af7d3",
       "_crawled": "2026-07-01T08:44:26.600313Z"
+    },
+    {
+      "date": "March 2026",
+      "claim": "NZ First will overhaul the energy sector",
+      "reality": "No clear plan or details provided",
+      "source": "RNZ, 22 March 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "ba62719c",
+      "_crawled": "2026-07-02T08:00:14.305870Z"
     }
   ],
   "social_posts": [
@@ -926,13 +936,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' claim about the immigration policy may be misleading"
+    },
+    "2026-07-02T08:00:14.305870Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Lack of clear plan for energy sector overhaul and contradictory statements on immigration"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-18T09:09:10.823798Z",
-      "text": "Winston Peters' recent statements and actions have sparked controversy and raised concerns about his integrity"
-    },
     {
       "date": "2026-06-19T09:24:40.082427Z",
       "text": "Winston Peters' recent statements and actions have sparked controversy and raised concerns about his integrity"
@@ -968,14 +979,13 @@
     {
       "date": "2026-07-01T08:44:26.600313Z",
       "text": "Winston Peters continues to make statements that contradict his previous claims and policies, and has taken aim at other parties over immigration and coalition forming."
+    },
+    {
+      "date": "2026-07-02T08:00:14.305870Z",
+      "text": "Winston Peters' recent statements and proposals have raised concerns about his party's policies and intentions."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-12T07:38:17.701123Z",
-      "notes": "Peters' comments on DEI regulations and coalition negotiations require further review",
-      "new_items": true
-    },
     {
       "date": "2026-05-13T07:45:26.913038Z",
       "notes": "Multiple sources indicate Winston Peters' contradictory statements and actions",
@@ -1220,17 +1230,14 @@
       "date": "2026-07-01T08:44:26.600313Z",
       "notes": "Peters' statements and actions continue to be scrutinized by the media and other parties",
       "new_items": true
+    },
+    {
+      "date": "2026-07-02T08:00:14.305870Z",
+      "notes": "Reviewed sources from RNZ, NZ Herald, and The Spinoff",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-11T09:07:57.464326Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-12T08:53:52.826277Z",
       "sources": [
@@ -1365,7 +1372,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-02T08:00:14.306019Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-01T08:44:26.600501Z"
+  "last_updated": "2026-07-02T08:00:14.306051Z"
 }

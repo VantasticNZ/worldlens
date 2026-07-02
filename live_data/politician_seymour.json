@@ -248,11 +248,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-12T07:38:46.200920Z",
-      "notes": "Reviewed articles from RNZ News, NZ Herald, and other sources",
-      "new_items": true
-    },
-    {
       "date": "2026-05-13T07:45:38.692031Z",
       "notes": "No significant new findings beyond existing data, except for a recent statement on operational spending",
       "new_items": true
@@ -496,16 +491,14 @@
       "date": "2026-07-01T08:44:45.895728Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-02T08:00:39.429222Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-10T08:43:25.356009Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-06-11T09:08:16.633818Z",
       "sources": [
@@ -642,7 +635,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-02T08:00:39.429236Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-01T08:44:45.895768Z"
+  "last_updated": "2026-07-02T08:00:39.429259Z"
 }

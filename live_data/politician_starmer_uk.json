@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 26,
+  "lie_count": 28,
   "lies": [
     {
       "date": "2026",
@@ -262,6 +262,26 @@
       "platform": "interview",
       "_id": "51f22444",
       "_crawled": "2026-07-01T08:48:52.085814Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "growth was the government’s top priority",
+      "reality": "the OBR cut its prediction for UK economic growth in 2026 from 1.4% to 1.1%",
+      "source": "The Guardian, June 22, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "a4406ca5",
+      "_crawled": "2026-07-02T08:04:11.012363Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "the government is committed to changing Britain for the better",
+      "reality": "the government has been criticized for broken promises and policy U-turns",
+      "source": "Reuters, June 12, 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "e7e96246",
+      "_crawled": "2026-07-02T08:04:11.012363Z"
     }
   ],
   "social_posts": [
@@ -833,13 +853,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "resignation announcement and potential broken tax pledges"
+    },
+    "2026-07-02T08:04:11.012363Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Starmer's resignation and criticism of his government's actions and policies have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-15T10:52:31.422652Z",
-      "text": "Starmer's popularity continues to decline amid broken promises and lack of progress on key issues"
-    },
     {
       "date": "2026-06-16T10:05:20.050462Z",
       "text": "Keir Starmer faces growing criticism and minister resignations, contradicting his claims of positive change"
@@ -875,14 +896,13 @@
     {
       "date": "2026-07-01T08:48:52.085814Z",
       "text": "Keir Starmer announces resignation as UK prime minister and declines to rule out breaking manifesto tax pledges"
+    },
+    {
+      "date": "2026-07-02T08:04:11.012363Z",
+      "text": "Keir Starmer's resignation as UK PM has highlighted concerns about his government's actions and policies, including broken promises and policy U-turns."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-12T07:41:46.591190Z",
-      "notes": "Labour leadership crisis and potential contradictions in Keir Starmer's statements",
-      "new_items": true
-    },
     {
       "date": "2026-05-13T07:47:07.159404Z",
       "notes": "Multiple sources indicate growing dissatisfaction with Starmer's leadership",
@@ -1127,16 +1147,14 @@
       "date": "2026-07-01T08:48:52.085814Z",
       "notes": "Resignation and potential broken tax pledges are significant findings",
       "new_items": true
+    },
+    {
+      "date": "2026-07-02T08:04:11.012363Z",
+      "notes": "Starmer's resignation and criticism of his government's actions and policies have raised concerns about his integrity and the government's effectiveness",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-06T07:42:57.080265Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-06-07T08:20:43.200573Z",
       "sources": [
@@ -1270,7 +1288,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-02T08:04:11.012499Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-01T08:48:52.085940Z"
+  "last_updated": "2026-07-02T08:04:11.012517Z"
 }

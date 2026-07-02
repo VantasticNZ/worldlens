@@ -1187,13 +1187,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's exaggerated claim about the Lincoln Memorial Reflecting Pool and his false statement about the 21st Century ROAD to Housing Act have decreased his integrity score."
+    },
+    "2026-07-02T08:03:22.694955Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's continued exaggeration and false claims have negatively impacted his integrity score."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-17T09:27:52.763371Z",
-      "text": "Trump's recent statements have been found to be false or exaggerated, further eroding his integrity score"
-    },
     {
       "date": "2026-06-18T09:11:34.206029Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity, with exaggerations and false claims about the Lincoln Memorial Reflecting Pool and Thom Tillis' senator status"
@@ -1229,14 +1230,13 @@
     {
       "date": "2026-07-01T08:48:05.239797Z",
       "text": "Trump's recent actions and statements have raised concerns about his integrity and policies."
+    },
+    {
+      "date": "2026-07-02T08:03:22.694955Z",
+      "text": "Trump's appeal has failed, and he has been ordered to pay $5m, while the US Supreme Court has dealt heavy defeats to him."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-12T07:41:05.166140Z",
-      "notes": "Multiple sources confirm Trump's false claims, including PolitiFact and BBC World",
-      "new_items": true
-    },
     {
       "date": "2026-05-13T07:46:47.974187Z",
       "notes": "Multiple sources confirm Trump's false claims, including PolitiFact and BBC World",
@@ -1481,17 +1481,14 @@
       "date": "2026-07-01T08:48:05.239797Z",
       "notes": "Trump's claims and actions continue to be fact-checked and reported on by various sources.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-02T08:03:22.694955Z",
+      "notes": "Trump's financial dealings and legal issues continue to be a focus of attention.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-12T08:55:55.534307Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-13T08:18:33.607014Z",
       "sources": [
@@ -1627,7 +1624,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-02T08:03:22.695241Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-01T08:48:05.240051Z"
+  "last_updated": "2026-07-02T08:03:22.695264Z"
 }

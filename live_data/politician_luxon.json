@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 32,
+  "lie_count": 33,
   "lies": [
     {
       "date": "2026",
@@ -322,6 +322,16 @@
       "platform": "interview",
       "_id": "e7166402",
       "_crawled": "2026-07-01T08:44:04.690444Z"
+    },
+    {
+      "date": "February 2026",
+      "claim": "Winston Peters and Christopher Luxon have different views on the India deal",
+      "reality": "Both Winston Peters and Christopher Luxon have made statements that contradict each other on the India deal",
+      "source": "The Spinoff, February 11, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "9ab6af1b",
+      "_crawled": "2026-07-02T07:59:51.995022Z"
     }
   ],
   "social_posts": [
@@ -1097,13 +1107,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's potential lies and discrepancies in his statements may affect his integrity score"
+    },
+    "2026-07-02T07:59:51.995022Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Contradictory statements on the India deal and climate change policy controversy"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-14T08:36:42.069444Z",
-      "text": "Christopher Luxon's integrity score has been adjusted due to a low-severity lie about his support for the Crusaders"
-    },
     {
       "date": "2026-06-16T10:01:56.959748Z",
       "text": "Luxon faces criticism for his leadership and handling of various issues, including climate change policies and the disappearing documents controversy"
@@ -1139,14 +1150,13 @@
     {
       "date": "2026-07-01T08:44:04.690444Z",
       "text": "Christopher Luxon's leadership and integrity are under scrutiny after potential lies and discrepancies in his statements were discovered"
+    },
+    {
+      "date": "2026-07-02T07:59:51.995022Z",
+      "text": "Christopher Luxon's integrity score has been adjusted due to contradictory statements and climate change policy controversy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-12T07:37:54.796619Z",
-      "notes": "Multiple sources indicate inconsistencies in Luxon's statements and actions",
-      "new_items": true
-    },
     {
       "date": "2026-05-13T07:45:13.086861Z",
       "notes": "Reviewed RNZ News, NZ Herald, and The Spinoff articles",
@@ -1391,16 +1401,14 @@
       "date": "2026-07-01T08:44:04.690444Z",
       "notes": "Multiple sources indicate Luxon's potential dishonesty and contradictions in his statements",
       "new_items": true
+    },
+    {
+      "date": "2026-07-02T07:59:51.995022Z",
+      "notes": "Notable findings include contradictory statements and climate change policy controversy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-10T08:42:53.795465Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-11T09:07:39.766404Z",
       "sources": [
@@ -1534,7 +1542,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-02T07:59:51.995178Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-01T08:44:04.690680Z"
+  "last_updated": "2026-07-02T07:59:51.995200Z"
 }

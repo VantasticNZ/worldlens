@@ -565,13 +565,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' recent comments and actions have raised concerns about his integrity"
+    },
+    "2026-07-02T08:01:06.514288Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' comments and actions have led to criticism from various groups, including Ngāti Ruanui and the Prime Minister."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-12T08:54:25.729034Z",
-      "text": "Shane Jones faces criticism for his comments on the fisheries bill and his apology for remarks about Nicola Willis' weight loss"
-    },
     {
       "date": "2026-06-13T08:17:13.579077Z",
       "text": "Shane Jones has been involved in several controversies, including his fisheries bill proposals and his apology for Nicola Willis weight loss comments"
@@ -607,14 +608,13 @@
     {
       "date": "2026-06-22T10:33:24.477940Z",
       "text": "Shane Jones' recent comments and actions have raised concerns about his integrity and sparked controversy"
+    },
+    {
+      "date": "2026-07-02T08:01:06.514288Z",
+      "text": "Shane Jones' controversial fishing bill has failed, and he has faced criticism for his comments and actions, including a demand for an apology from Ngāti Ruanui."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-12T07:39:08.342189Z",
-      "notes": "Shane Jones' recent comments have sparked controversy and led to an apology and a defence of his statement.",
-      "new_items": true
-    },
     {
       "date": "2026-05-13T07:45:49.844535Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but a new event was found related to Shane Jones' meeting with critical minerals heavyweights.",
@@ -859,16 +859,14 @@
       "date": "2026-07-01T08:45:04.540323Z",
       "notes": "No significant new findings, but existing controversies surrounding Shane Jones continue to be reported",
       "new_items": true
+    },
+    {
+      "date": "2026-07-02T08:01:06.514288Z",
+      "notes": "Multiple sources report on Shane Jones' controversies, including his fishing bill, travel expenses, and comments on the India FTA and Ngāti Ruanui.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-09T08:27:01.549079Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-10T08:43:38.084785Z",
       "sources": [
@@ -1000,7 +998,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-02T08:01:06.514473Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-01T08:45:04.540408Z"
+  "last_updated": "2026-07-02T08:01:06.514495Z"
 }

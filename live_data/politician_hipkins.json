@@ -380,13 +380,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Hipkins' contradictory statements and lack of transparency in his party's policies"
+    },
+    "2026-07-02T08:02:26.402147Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Hipkins' claim about rental support being a subsidy for private landlords contradicts Labour's past actions"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-11T09:09:31.162691Z",
-      "text": "Chris Hipkins announced a cost-of-living relief policy and criticized the Police Commissioner"
-    },
     {
       "date": "2026-06-12T08:55:14.447238Z",
       "text": "Chris Hipkins and Labour Party continue to face challenges and controversies in the lead-up to the 2026 election."
@@ -422,14 +423,13 @@
     {
       "date": "2026-07-01T08:46:48.799362Z",
       "text": "Chris Hipkins' integrity score has been adjusted due to contradictory statements and lack of transparency in his party's policies."
+    },
+    {
+      "date": "2026-07-02T08:02:26.402147Z",
+      "text": "Chris Hipkins' recent statements have raised concerns about Labour's policies and his own integrity"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-12T07:40:15.372529Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-13T07:46:25.318595Z",
       "notes": "No significant new findings",
@@ -674,16 +674,14 @@
       "date": "2026-07-01T08:46:48.799362Z",
       "notes": "Multiple sources indicate Hipkins' contradictory statements and lack of transparency in his party's policies.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-02T08:02:26.402147Z",
+      "notes": "Reviewed Tavily sources from NZ Herald and The Spinoff",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-07T08:19:47.882830Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-08T09:19:16.547956Z",
       "sources": [
@@ -822,7 +820,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-02T08:02:26.402246Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-01T08:46:48.799515Z"
+  "last_updated": "2026-07-02T08:02:26.402266Z"
 }

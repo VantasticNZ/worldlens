@@ -1,7 +1,7 @@
 {
   "id": "swarbrick",
   "type": "politician",
-  "lie_count": 1,
+  "lie_count": 2,
   "lies": [
     {
       "date": "May 2026",
@@ -12,6 +12,16 @@
       "platform": "interview",
       "_id": "4dd1c149",
       "_crawled": "2026-05-27T08:36:05.244807Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Green Party's tax hole is $1.4 billion",
+      "reality": "The hole was later corrected to $500 million",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "21df5678",
+      "_crawled": "2026-07-02T08:03:00.578060Z"
     }
   ],
   "social_posts": [
@@ -101,6 +111,20 @@
       },
       "_id": "809e1e33",
       "_crawled": "2026-06-13T08:18:17.362072Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Chlöe Swarbrick says Greens are 'rolling with punches' and 'transparent'",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "The party had accidentally uploaded its entire tax plan online early",
+        "source": "NZ Herald",
+        "severity": "low"
+      },
+      "_id": "57b4bea1",
+      "_crawled": "2026-07-02T08:03:00.578060Z"
     }
   ],
   "votes": [],
@@ -321,14 +345,13 @@
     {
       "date": "2026-06-13T08:18:17.362072Z",
       "text": "Chlöe Swarbrick criticizes Government's Budget 2026, claiming it leaves New Zealand with no plan."
+    },
+    {
+      "date": "2026-07-02T08:03:00.578060Z",
+      "text": "Chlöe Swarbrick and the Green Party have announced their tax plan, which aims to tackle inequality and corporate greed."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-11T08:22:41.893819Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-12T07:40:36.431306Z",
       "notes": "New events and updates on Chlöe Swarbrick's activities and the Green Party's initiatives.",
@@ -573,16 +596,14 @@
       "date": "2026-07-01T08:47:37.343749Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-02T08:03:00.578060Z",
+      "notes": "Reviewed recent news articles and press releases for updates on Chlöe Swarbrick and the Green Party.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-06T07:42:18.543650Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-07T08:19:59.214650Z",
       "sources": [
@@ -714,7 +735,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-02T08:03:00.578185Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-01T08:47:37.343785Z"
+  "last_updated": "2026-07-02T08:03:00.578205Z"
 }
