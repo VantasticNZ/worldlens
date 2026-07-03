@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 10,
+  "lie_count": 11,
   "lies": [
     {
       "date": "May 2026",
@@ -102,6 +102,16 @@
       "platform": "interview",
       "_id": "fe80177f",
       "_crawled": "2026-07-01T08:46:48.799362Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "New Zealanders don't 'really care' about key details of the NZ Future Fund policy",
+      "reality": "The statement is misleading as it downplays the importance of the policy details to New Zealanders",
+      "source": "NZ Herald, July 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "5d42ada7",
+      "_crawled": "2026-07-03T07:57:32.656584Z"
     }
   ],
   "social_posts": [
@@ -385,13 +395,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Hipkins' claim about rental support being a subsidy for private landlords contradicts Labour's past actions"
+    },
+    "2026-07-03T07:57:32.656584Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The claim about New Zealanders not caring about key details of the NZ Future Fund policy is misleading and downplays the importance of the policy details"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-12T08:55:14.447238Z",
-      "text": "Chris Hipkins and Labour Party continue to face challenges and controversies in the lead-up to the 2026 election."
-    },
     {
       "date": "2026-06-17T09:27:22.547974Z",
       "text": "Chris Hipkins' recent statements and actions have raised concerns about his integrity and transparency"
@@ -427,14 +438,13 @@
     {
       "date": "2026-07-02T08:02:26.402147Z",
       "text": "Chris Hipkins' recent statements have raised concerns about Labour's policies and his own integrity"
+    },
+    {
+      "date": "2026-07-03T07:57:32.656584Z",
+      "text": "Chris Hipkins made a misleading statement about the NZ Future Fund policy and announced a cost of living relief policy that may not help farmers"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-13T07:46:25.318595Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-14T07:39:37.705784Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins' statements and allegations.",
@@ -679,17 +689,14 @@
       "date": "2026-07-02T08:02:26.402147Z",
       "notes": "Reviewed Tavily sources from NZ Herald and The Spinoff",
       "new_items": true
+    },
+    {
+      "date": "2026-07-03T07:57:32.656584Z",
+      "notes": "Reviewed Labour Party Congress 2026 speech and NZ Herald articles",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-08T09:19:16.547956Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-09T08:27:49.073964Z",
       "sources": [
@@ -827,7 +834,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-03T07:57:32.656745Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-02T08:02:26.402266Z"
+  "last_updated": "2026-07-03T07:57:32.656769Z"
 }

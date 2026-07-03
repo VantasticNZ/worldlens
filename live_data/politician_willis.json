@@ -642,11 +642,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-13T07:46:00.636472Z",
-      "notes": "Reviewed 7 sources, including RNZ News and NZ Herald",
-      "new_items": true
-    },
-    {
       "date": "2026-05-14T07:38:53.666512Z",
       "notes": "Notable criticism from former finance minister Sir Roger Douglas and contradictory statements about NZ's fiscal outlook",
       "new_items": true
@@ -890,17 +885,14 @@
       "date": "2026-07-02T08:01:32.678212Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-03T07:56:51.644721Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-06T07:41:28.287669Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-06-07T08:19:23.105281Z",
       "sources": [
@@ -1040,7 +1032,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-03T07:56:51.644740Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-02T08:01:32.678244Z"
+  "last_updated": "2026-07-03T07:56:51.644759Z"
 }

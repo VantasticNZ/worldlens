@@ -858,13 +858,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Starmer's resignation and criticism of his government's actions and policies have raised concerns about his integrity"
+    },
+    "2026-07-03T07:58:47.814053Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Starmer's decline to rule out breaking manifesto tax pledges and his resignation as prime minister and Labour Party leader contribute to the integrity delta"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-16T10:05:20.050462Z",
-      "text": "Keir Starmer faces growing criticism and minister resignations, contradicting his claims of positive change"
-    },
     {
       "date": "2026-06-17T09:28:33.161562Z",
       "text": "Keir Starmer's new year message and G7 summit appearance raise concerns about his leadership and integrity"
@@ -900,14 +901,13 @@
     {
       "date": "2026-07-02T08:04:11.012363Z",
       "text": "Keir Starmer's resignation as UK PM has highlighted concerns about his government's actions and policies, including broken promises and policy U-turns."
+    },
+    {
+      "date": "2026-07-03T07:58:47.814053Z",
+      "text": "Keir Starmer's resignation and decline to rule out breaking manifesto tax pledges contribute to a decrease in his integrity score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-13T07:47:07.159404Z",
-      "notes": "Multiple sources indicate growing dissatisfaction with Starmer's leadership",
-      "new_items": true
-    },
     {
       "date": "2026-05-14T07:40:48.647931Z",
       "notes": "Starmer's leadership is under scrutiny, with many perceiving him as indecisive and lacking charisma",
@@ -1152,16 +1152,14 @@
       "date": "2026-07-02T08:04:11.012363Z",
       "notes": "Starmer's resignation and criticism of his government's actions and policies have raised concerns about his integrity and the government's effectiveness",
       "new_items": true
+    },
+    {
+      "date": "2026-07-03T07:58:47.814053Z",
+      "notes": "Resignation and tax pledge controversy are notable events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-07T08:20:43.200573Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-06-08T09:20:17.239084Z",
       "sources": [
@@ -1295,7 +1293,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-03T07:58:47.814198Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-02T08:04:11.012517Z"
+  "last_updated": "2026-07-03T07:58:47.814216Z"
 }

@@ -526,6 +526,20 @@
       },
       "_id": "263e473e",
       "_crawled": "2026-06-16T10:02:20.631085Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "2026",
+      "text": "Winston Peters makes hilarious Twitter faux pas",
+      "verified_by": "stuff.co.nz",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "No specific details on the faux pas",
+        "source": "stuff.co.nz",
+        "severity": "low"
+      },
+      "_id": "bc2271b9",
+      "_crawled": "2026-07-03T07:55:46.899469Z"
     }
   ],
   "votes": [],
@@ -945,10 +959,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-19T09:24:40.082427Z",
-      "text": "Winston Peters' recent statements and actions have sparked controversy and raised concerns about his integrity"
-    },
-    {
       "date": "2026-06-20T08:17:33.054463Z",
       "text": "Winston Peters continues to make contradictory statements and engage in controversial events"
     },
@@ -983,14 +993,13 @@
     {
       "date": "2026-07-02T08:00:14.305870Z",
       "text": "Winston Peters' recent statements and proposals have raised concerns about his party's policies and intentions."
+    },
+    {
+      "date": "2026-07-03T07:55:46.899469Z",
+      "text": "Winston Peters continues to make statements and proposals, but details are often flexible or lacking"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-13T07:45:26.913038Z",
-      "notes": "Multiple sources indicate Winston Peters' contradictory statements and actions",
-      "new_items": true
-    },
     {
       "date": "2026-05-14T07:37:56.542140Z",
       "notes": "Peters' comments on DEI regulations and Iran war emails contradict his previous statements and actions",
@@ -1235,16 +1244,14 @@
       "date": "2026-07-02T08:00:14.305870Z",
       "notes": "Reviewed sources from RNZ, NZ Herald, and The Spinoff",
       "new_items": true
+    },
+    {
+      "date": "2026-07-03T07:55:46.899469Z",
+      "notes": "Multiple sources confirm Peters' statements and proposals, but some discrepancies and contradictions were found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-12T08:53:52.826277Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-13T08:16:39.945690Z",
       "sources": [
@@ -1379,7 +1386,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-03T07:55:46.899607Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-02T08:00:14.306051Z"
+  "last_updated": "2026-07-03T07:55:46.899628Z"
 }

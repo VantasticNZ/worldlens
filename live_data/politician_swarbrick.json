@@ -349,14 +349,13 @@
     {
       "date": "2026-07-02T08:03:00.578060Z",
       "text": "Chlöe Swarbrick and the Green Party have announced their tax plan, which aims to tackle inequality and corporate greed."
+    },
+    {
+      "date": "2026-07-03T07:57:53.361209Z",
+      "text": "Chlöe Swarbrick and the Green Party have been actively promoting their 2026 tax policy and calling on New Zealanders to join their movement."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-12T07:40:36.431306Z",
-      "notes": "New events and updates on Chlöe Swarbrick's activities and the Green Party's initiatives.",
-      "new_items": true
-    },
     {
       "date": "2026-05-14T07:40:01.763586Z",
       "notes": "No significant new findings",
@@ -601,16 +600,14 @@
       "date": "2026-07-02T08:03:00.578060Z",
       "notes": "Reviewed recent news articles and press releases for updates on Chlöe Swarbrick and the Green Party.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-03T07:57:53.361209Z",
+      "notes": "No significant lies or discrepancies found, but new events and policy announcements were discovered.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-07T08:19:59.214650Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-08T09:19:31.189698Z",
       "sources": [
@@ -742,7 +739,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-03T07:57:53.361311Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-02T08:03:00.578205Z"
+  "last_updated": "2026-07-03T07:57:53.361334Z"
 }

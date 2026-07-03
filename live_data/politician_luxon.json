@@ -1116,10 +1116,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-16T10:01:56.959748Z",
-      "text": "Luxon faces criticism for his leadership and handling of various issues, including climate change policies and the disappearing documents controversy"
-    },
-    {
       "date": "2026-06-17T09:25:43.622805Z",
       "text": "Luxon faces criticism and controversy over climate policies and his leadership, with his coalition fracturing and his integrity being questioned"
     },
@@ -1154,14 +1150,13 @@
     {
       "date": "2026-07-02T07:59:51.995022Z",
       "text": "Christopher Luxon's integrity score has been adjusted due to contradictory statements and climate change policy controversy"
+    },
+    {
+      "date": "2026-07-03T07:55:24.937833Z",
+      "text": "Christopher Luxon's recent statements and policies have been scrutinized, including his support for the Crusaders and his immigration policy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-13T07:45:13.086861Z",
-      "notes": "Reviewed RNZ News, NZ Herald, and The Spinoff articles",
-      "new_items": true
-    },
     {
       "date": "2026-05-14T07:37:33.974614Z",
       "notes": "Luxon's statements and actions require closer monitoring for potential discrepancies and contradictions",
@@ -1406,17 +1401,14 @@
       "date": "2026-07-02T07:59:51.995022Z",
       "notes": "Notable findings include contradictory statements and climate change policy controversy",
       "new_items": true
+    },
+    {
+      "date": "2026-07-03T07:55:24.937833Z",
+      "notes": "Reviewed sources from The Spinoff, RNZ, and other publications",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-11T09:07:39.766404Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-12T08:53:36.721133Z",
       "sources": [
@@ -1549,7 +1541,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-03T07:55:24.937985Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-02T07:59:51.995200Z"
+  "last_updated": "2026-07-03T07:55:24.938006Z"
 }
