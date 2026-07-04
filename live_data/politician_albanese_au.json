@@ -288,11 +288,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-14T07:40:33.487043Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-05-16T07:13:59.808085Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -536,17 +531,14 @@
       "date": "2026-07-03T07:58:28.653640Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-04T07:39:45.159541Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-08T09:19:59.001484Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-06-09T08:28:25.181391Z",
       "sources": [
@@ -681,7 +673,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-04T07:39:45.159555Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-03T07:58:28.653720Z"
+  "last_updated": "2026-07-04T07:39:45.159576Z"
 }

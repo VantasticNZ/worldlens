@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 33,
+  "lie_count": 34,
   "lies": [
     {
       "date": "2026",
@@ -332,6 +332,16 @@
       "platform": "speech",
       "_id": "9ab6af1b",
       "_crawled": "2026-07-02T07:59:51.995022Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Christopher Luxon's statement on social cohesion",
+      "reality": "Helen Clark Foundation report found a worrying collapse in the nation's social cohesion",
+      "source": "Newsroom, June 11, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "7c63c738",
+      "_crawled": "2026-07-04T07:36:58.155639Z"
     }
   ],
   "social_posts": [
@@ -656,6 +666,20 @@
       },
       "_id": "1806e6e0",
       "_crawled": "2026-07-01T08:44:04.690444Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "January 2026",
+      "text": "Tweet about trade deal",
+      "verified_by": "RNZ, January 2026",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Winston Peters' account corrects Christopher Luxon's tweet about trade deal",
+        "source": "RNZ, January 2026",
+        "severity": "med"
+      },
+      "_id": "192c966b",
+      "_crawled": "2026-07-04T07:36:58.155639Z"
     }
   ],
   "votes": [
@@ -1116,10 +1140,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-17T09:25:43.622805Z",
-      "text": "Luxon faces criticism and controversy over climate policies and his leadership, with his coalition fracturing and his integrity being questioned"
-    },
-    {
       "date": "2026-06-18T09:08:51.399563Z",
       "text": "Luxon's coalition faces instability on climate issues, and his inconsistent statements raise concerns about his integrity"
     },
@@ -1154,14 +1174,13 @@
     {
       "date": "2026-07-03T07:55:24.937833Z",
       "text": "Christopher Luxon's recent statements and policies have been scrutinized, including his support for the Crusaders and his immigration policy"
+    },
+    {
+      "date": "2026-07-04T07:36:58.155639Z",
+      "text": "Christopher Luxon's recent statements and events have been added to the database"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-14T07:37:33.974614Z",
-      "notes": "Luxon's statements and actions require closer monitoring for potential discrepancies and contradictions",
-      "new_items": true
-    },
     {
       "date": "2026-05-16T07:10:49.966449Z",
       "notes": "Reviewed 9 sources, including The Spinoff, NZ Herald, and Labour.org.nz",
@@ -1406,16 +1425,14 @@
       "date": "2026-07-03T07:55:24.937833Z",
       "notes": "Reviewed sources from The Spinoff, RNZ, and other publications",
       "new_items": true
+    },
+    {
+      "date": "2026-07-04T07:36:58.155639Z",
+      "notes": "New social cohesion statement and trade deal tweet discrepancy found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-12T08:53:36.721133Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-13T08:16:22.794885Z",
       "sources": [
@@ -1548,7 +1565,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-04T07:36:58.155825Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-03T07:55:24.938006Z"
+  "last_updated": "2026-07-04T07:36:58.155851Z"
 }

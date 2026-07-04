@@ -248,11 +248,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-14T07:38:17.616848Z",
-      "notes": "Reviewed recent news articles and statements from David Seymour.",
-      "new_items": true
-    },
-    {
       "date": "2026-05-16T07:11:37.955529Z",
       "notes": "New events and statements from David Seymour",
       "new_items": true
@@ -496,17 +491,14 @@
       "date": "2026-07-03T07:56:10.624118Z",
       "notes": "New events and statements from David Seymour found",
       "new_items": true
+    },
+    {
+      "date": "2026-07-04T07:37:32.899461Z",
+      "notes": "New events and criticisms of David Seymour's actions and statements.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-12T08:54:09.637481Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-06-13T08:16:55.858823Z",
       "sources": [
@@ -641,7 +633,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-04T07:37:32.899591Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-03T07:56:10.624239Z"
+  "last_updated": "2026-07-04T07:37:32.899614Z"
 }

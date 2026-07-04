@@ -863,13 +863,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Starmer's decline to rule out breaking manifesto tax pledges and his resignation as prime minister and Labour Party leader contribute to the integrity delta"
+    },
+    "2026-07-04T07:40:02.180729Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Resignation announcement and contradiction on growth priority"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-17T09:28:33.161562Z",
-      "text": "Keir Starmer's new year message and G7 summit appearance raise concerns about his leadership and integrity"
-    },
     {
       "date": "2026-06-18T09:12:05.474408Z",
       "text": "Keir Starmer faces increasing pressure over defence spending and policy decisions, with inconsistencies in his statements and actions."
@@ -905,14 +906,13 @@
     {
       "date": "2026-07-03T07:58:47.814053Z",
       "text": "Keir Starmer's resignation and decline to rule out breaking manifesto tax pledges contribute to a decrease in his integrity score"
+    },
+    {
+      "date": "2026-07-04T07:40:02.180729Z",
+      "text": "Keir Starmer announces resignation and faces criticism for contradiction on growth priority"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-14T07:40:48.647931Z",
-      "notes": "Starmer's leadership is under scrutiny, with many perceiving him as indecisive and lacking charisma",
-      "new_items": true
-    },
     {
       "date": "2026-05-16T07:14:18.116885Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new event regarding UK government uncertainty",
@@ -1157,17 +1157,14 @@
       "date": "2026-07-03T07:58:47.814053Z",
       "notes": "Resignation and tax pledge controversy are notable events",
       "new_items": true
+    },
+    {
+      "date": "2026-07-04T07:40:02.180729Z",
+      "notes": "Resignation and growth priority contradiction are significant findings",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-08T09:20:17.239084Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-06-09T08:28:40.708015Z",
       "sources": [
@@ -1300,7 +1297,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-04T07:40:02.180887Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-03T07:58:47.814216Z"
+  "last_updated": "2026-07-04T07:40:02.180906Z"
 }

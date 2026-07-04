@@ -570,13 +570,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' comments and actions have led to criticism from various groups, including Ngāti Ruanui and the Prime Minister."
+    },
+    "2026-07-04T07:37:49.882228Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Shane Jones' defense of his $63k travel bill and his 'shameful' comments have raised concerns about his integrity and corruption risk"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-14T08:37:29.969850Z",
-      "text": "Shane Jones faces criticism for comments on India FTA and apologises for comments on Nicola Willis' weight loss"
-    },
     {
       "date": "2026-06-15T10:50:46.073712Z",
       "text": "Shane Jones has faced criticism for his recent comments, including comparing the India FTA to a 'butter chicken tsunami' and making a jab at the Finance Minister's weight loss."
@@ -612,14 +613,13 @@
     {
       "date": "2026-07-03T07:56:28.610829Z",
       "text": "Shane Jones faces controversy over his $63k travel bill and comments deemed 'shameful' by Ngāti Ruanui."
+    },
+    {
+      "date": "2026-07-04T07:37:49.882228Z",
+      "text": "Shane Jones faces criticism for his $63k travel bill and 'shameful' comments, raising concerns about his integrity and corruption risk"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-14T07:38:34.226098Z",
-      "notes": "Shane Jones' apology for his comments on Nicola Willis' weight loss was found in RNZ News",
-      "new_items": true
-    },
     {
       "date": "2026-05-16T07:12:04.853730Z",
       "notes": "Multiple sources report on Shane Jones' controversial comments and actions, but no new social posts or votes found",
@@ -864,16 +864,14 @@
       "date": "2026-07-03T07:56:28.610829Z",
       "notes": "Multiple sources report on Shane Jones' travel bill and comments controversy.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-04T07:37:49.882228Z",
+      "notes": "Shane Jones' recent statements and events have raised significant concerns about his integrity and corruption risk",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-11T09:08:34.266595Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-12T08:54:25.729127Z",
       "sources": [
@@ -1005,7 +1003,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-04T07:37:49.882367Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-03T07:56:28.610955Z"
+  "last_updated": "2026-07-04T07:37:49.882387Z"
 }
