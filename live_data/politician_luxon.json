@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 34,
+  "lie_count": 35,
   "lies": [
     {
       "date": "2026",
@@ -342,6 +342,16 @@
       "platform": "speech",
       "_id": "7c63c738",
       "_crawled": "2026-07-04T07:36:58.155639Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Tweet about trade deal",
+      "reality": "Winston Peters' account corrects Christopher Luxon's tweet about trade deal",
+      "source": "RNZ, July 2026",
+      "severity": "med",
+      "platform": "twitter",
+      "_id": "192c966b",
+      "_crawled": "2026-07-05T07:51:56.822108Z"
     }
   ],
   "social_posts": [
@@ -1136,13 +1146,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Contradictory statements on the India deal and climate change policy controversy"
+    },
+    "2026-07-05T07:51:56.822108Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's tweet about trade deal was corrected by Peters, indicating a potential integrity issue"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-18T09:08:51.399563Z",
-      "text": "Luxon's coalition faces instability on climate issues, and his inconsistent statements raise concerns about his integrity"
-    },
     {
       "date": "2026-06-19T09:24:24.673072Z",
       "text": "Christopher Luxon's integrity score has been adjusted due to a newly discovered false claim about his sports team allegiance"
@@ -1178,14 +1189,13 @@
     {
       "date": "2026-07-04T07:36:58.155639Z",
       "text": "Christopher Luxon's recent statements and events have been added to the database"
+    },
+    {
+      "date": "2026-07-05T07:51:56.822108Z",
+      "text": "Christopher Luxon's tweet about trade deal was corrected by Winston Peters, sparking controversy and raising questions about Luxon's integrity"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-16T07:10:49.966449Z",
-      "notes": "Reviewed 9 sources, including The Spinoff, NZ Herald, and Labour.org.nz",
-      "new_items": true
-    },
     {
       "date": "2026-05-17T07:29:49.347012Z",
       "notes": "Reviewed 9 sources, including The Spinoff, NZ Herald, and Beehive.govt.nz",
@@ -1430,16 +1440,14 @@
       "date": "2026-07-04T07:36:58.155639Z",
       "notes": "New social cohesion statement and trade deal tweet discrepancy found",
       "new_items": true
+    },
+    {
+      "date": "2026-07-05T07:51:56.822108Z",
+      "notes": "Notable discrepancy found between Luxon's tweet and Peters' correction",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-13T08:16:22.794885Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-14T08:36:42.069572Z",
       "sources": [
@@ -1572,7 +1580,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-05T07:51:56.822271Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-04T07:36:58.155851Z"
+  "last_updated": "2026-07-05T07:51:56.822294Z"
 }

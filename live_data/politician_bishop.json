@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 24,
+  "lie_count": 25,
   "lies": [
     {
       "date": "April 2026",
@@ -242,6 +242,16 @@
       "platform": "press_release",
       "_id": "003e30b2",
       "_crawled": "2026-06-13T08:17:44.405156Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "National has built 7,000 homes",
+      "reality": "National has only funded 2,050 homes",
+      "source": "Labour Party release",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "4ab86f1f",
+      "_crawled": "2026-07-05T07:53:27.267551Z"
     }
   ],
   "social_posts": [
@@ -778,13 +788,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The discrepancy between the claimed benefits of the social housing overhaul and the actual impact on those in need has decreased Chris Bishop's integrity score"
+    },
+    "2026-07-05T07:53:27.267551Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Claim of building 7,000 homes contradicts actual funding of 2,050 homes"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-18T09:10:27.197481Z",
-      "text": "Housing Minister Chris Bishop announced a social housing shake-up, which may have both positive and negative consequences"
-    },
     {
       "date": "2026-06-19T09:25:47.997850Z",
       "text": "Housing Minister Chris Bishop has announced a major social housing shake-up, but his claims about the current system and the budget have been disputed, and the shake-up has been criticized for potentially leaving many households worse off"
@@ -820,14 +831,13 @@
     {
       "date": "2026-07-04T07:38:31.232768Z",
       "text": "Chris Bishop's social housing overhaul announcement has raised concerns about the potential negative impact on those in need, contradicting his claims of improving the system"
+    },
+    {
+      "date": "2026-07-05T07:53:27.267551Z",
+      "text": "Chris Bishop's recent statements and policy announcements have raised concerns about his integrity and commitment to social housing"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-16T07:12:36.225542Z",
-      "notes": "Multiple sources confirm the reduction in minimum housing capacity required by Plan Change 120.",
-      "new_items": true
-    },
     {
       "date": "2026-05-17T07:31:06.544942Z",
       "notes": "Checked Tavily sources for Chris Bishop",
@@ -1072,17 +1082,14 @@
       "date": "2026-07-04T07:38:31.232768Z",
       "notes": "Further investigation into the specifics of the social housing overhaul and its potential consequences is recommended",
       "new_items": true
+    },
+    {
+      "date": "2026-07-05T07:53:27.267551Z",
+      "notes": "Labour Party release and NZ Herald articles provided significant new information",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-11T09:09:13.202168Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-12T08:54:54.249415Z",
       "sources": [
@@ -1220,7 +1227,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-05T07:53:27.267662Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-04T07:38:31.232963Z"
+  "last_updated": "2026-07-05T07:53:27.267680Z"
 }

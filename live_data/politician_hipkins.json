@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 11,
+  "lie_count": 12,
   "lies": [
     {
       "date": "May 2026",
@@ -112,6 +112,16 @@
       "platform": "interview",
       "_id": "5d42ada7",
       "_crawled": "2026-07-03T07:57:32.656584Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "New Zealanders don’t ‘really care’ about key detail of party’s NZ Future Fund policy",
+      "reality": "No evidence to support this claim",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "a8ef98d3",
+      "_crawled": "2026-07-05T07:53:46.786260Z"
     }
   ],
   "social_posts": [
@@ -170,6 +180,20 @@
       },
       "_id": "7d786feb",
       "_crawled": "2026-06-23T08:25:41.517646Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Labour will have a policy on state housing support that is different from the Government’s approach",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Previous statements on state housing support were unclear",
+        "source": "NZ Herald",
+        "severity": "low"
+      },
+      "_id": "384f0340",
+      "_crawled": "2026-07-05T07:53:46.786260Z"
     }
   ],
   "votes": [],
@@ -409,10 +433,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-18T09:10:46.079353Z",
-      "text": "Chris Hipkins and Labour have made announcements regarding the cost of living relief policy and the upcoming election"
-    },
-    {
       "date": "2026-06-19T09:26:05.449805Z",
       "text": "Chris Hipkins has made statements about the upcoming election and Labour's cost of living relief policy, which may have discrepancies and implications for farmers"
     },
@@ -447,14 +467,13 @@
     {
       "date": "2026-07-04T07:38:50.246680Z",
       "text": "Chris Hipkins delivered a speech at the Labour Party Congress 2026 and announced a cost of living relief policy, which may not help farmers."
+    },
+    {
+      "date": "2026-07-05T07:53:46.786260Z",
+      "text": "Chris Hipkins provided more information on Labour's state housing support policy and acknowledged limitations of the cost-of-living policy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-16T07:12:57.026338Z",
-      "notes": "Sources: NZ Herald, RNZ, thespinoff.co.nz",
-      "new_items": true
-    },
     {
       "date": "2026-05-17T07:31:23.765254Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to infrastructure and budget commitments",
@@ -699,17 +718,14 @@
       "date": "2026-07-04T07:38:50.246680Z",
       "notes": "Reviewed Tavily sources and NZ Herald articles for updates on Chris Hipkins",
       "new_items": true
+    },
+    {
+      "date": "2026-07-05T07:53:46.786260Z",
+      "notes": "Reviewed recent articles and interviews for notable statements and events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-10T08:44:35.394508Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-11T09:09:31.162792Z",
       "sources": [
@@ -845,7 +861,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-05T07:53:46.786376Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-04T07:38:50.246852Z"
+  "last_updated": "2026-07-05T07:53:46.786395Z"
 }

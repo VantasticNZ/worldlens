@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 27,
+  "lie_count": 28,
   "lies": [
     {
       "date": "March 2026",
@@ -272,6 +272,16 @@
       "platform": "speech",
       "_id": "ba62719c",
       "_crawled": "2026-07-02T08:00:14.305870Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Winston Peters announces citizens-only voting policy",
+      "reality": "No previous announcement of such policy found",
+      "source": "NZ Herald, July 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "ee7aeff7",
+      "_crawled": "2026-07-05T07:52:18.553024Z"
     }
   ],
   "social_posts": [
@@ -955,13 +965,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Lack of clear plan for energy sector overhaul and contradictory statements on immigration"
+    },
+    "2026-07-05T07:52:18.553024Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Announcement of citizens-only voting policy without previous discussion"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-21T08:54:02.770553Z",
-      "text": "Winston Peters has made several contradictory statements and taken actions that have raised concerns about his integrity"
-    },
     {
       "date": "2026-06-22T10:32:46.335423Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
@@ -997,14 +1008,13 @@
     {
       "date": "2026-07-04T07:37:16.704547Z",
       "text": "Winston Peters has made several statements and announcements, including a proposal to overhaul the energy sector and criticism of National and Labour's immigration policies."
+    },
+    {
+      "date": "2026-07-05T07:52:18.553024Z",
+      "text": "Winston Peters announces citizens-only voting policy and takes aim at National and own Government policy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-16T07:11:14.262286Z",
-      "notes": "Peters' statements and actions have been closely scrutinized, with several sources highlighting contradictions and potential integrity issues",
-      "new_items": true
-    },
     {
       "date": "2026-05-17T07:30:00.482311Z",
       "notes": "Peters' social media activity and policy announcements were reviewed",
@@ -1249,16 +1259,14 @@
       "date": "2026-07-04T07:37:16.704547Z",
       "notes": "Peters' statements and announcements have been inconsistent and contradictory at times, requiring further review and analysis.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-05T07:52:18.553024Z",
+      "notes": "Multiple sources indicate increased rhetoric from Winston Peters",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-14T08:37:01.733549Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-15T10:50:04.889762Z",
       "sources": [
@@ -1393,7 +1401,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-05T07:52:18.553214Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-04T07:37:16.704738Z"
+  "last_updated": "2026-07-05T07:52:18.553237Z"
 }

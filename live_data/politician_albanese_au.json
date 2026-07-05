@@ -288,11 +288,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-16T07:13:59.808085Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-05-17T07:32:53.284087Z",
       "notes": "No significant lies found, but some discrepancies in social posts and events.",
       "new_items": true
@@ -536,16 +531,14 @@
       "date": "2026-07-04T07:39:45.159541Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-05T07:54:35.049210Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-09T08:28:25.181391Z",
-      "sources": [
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-06-10T08:45:21.662061Z",
       "sources": [
@@ -680,7 +673,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-05T07:54:35.049224Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-04T07:39:45.159576Z"
+  "last_updated": "2026-07-05T07:54:35.049244Z"
 }

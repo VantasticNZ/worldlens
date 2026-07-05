@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 14,
+  "lie_count": 15,
   "lies": [
     {
       "date": "March 2026",
@@ -142,6 +142,16 @@
       "platform": "speech",
       "_id": "c3a626be",
       "_crawled": "2026-06-22T10:33:24.477940Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "public land will still be up for development",
+      "reality": "projected income streams do not exist and development would largely benefit overseas investors",
+      "source": "newsroom.co.nz, 26 June 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "d289563e",
+      "_crawled": "2026-07-05T07:52:55.316547Z"
     }
   ],
   "social_posts": [
@@ -575,13 +585,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Shane Jones' defense of his $63k travel bill and his 'shameful' comments have raised concerns about his integrity and corruption risk"
+    },
+    "2026-07-05T07:52:55.316547Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "investigation over passport scandal and failure of controversial fishing bill"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-15T10:50:46.073712Z",
-      "text": "Shane Jones has faced criticism for his recent comments, including comparing the India FTA to a 'butter chicken tsunami' and making a jab at the Finance Minister's weight loss."
-    },
     {
       "date": "2026-06-17T09:26:32.847869Z",
       "text": "Shane Jones faces criticism for his comments on various topics, including the India FTA and fossil fuels."
@@ -617,14 +628,13 @@
     {
       "date": "2026-07-04T07:37:49.882228Z",
       "text": "Shane Jones faces criticism for his $63k travel bill and 'shameful' comments, raising concerns about his integrity and corruption risk"
+    },
+    {
+      "date": "2026-07-05T07:52:55.316547Z",
+      "text": "Shane Jones is facing investigation over a passport scandal and his controversial fishing bill has failed, raising concerns about his integrity and corruption risk"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-16T07:12:04.853730Z",
-      "notes": "Multiple sources report on Shane Jones' controversial comments and actions, but no new social posts or votes found",
-      "new_items": true
-    },
     {
       "date": "2026-05-17T07:30:31.973970Z",
       "notes": "Multiple sources report on Shane Jones' controversial comments and actions",
@@ -869,16 +879,14 @@
       "date": "2026-07-04T07:37:49.882228Z",
       "notes": "Shane Jones' recent statements and events have raised significant concerns about his integrity and corruption risk",
       "new_items": true
+    },
+    {
+      "date": "2026-07-05T07:52:55.316547Z",
+      "notes": "investigation and bill failure indicate potential integrity and corruption issues",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-12T08:54:25.729127Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-13T08:17:13.579215Z",
       "sources": [
@@ -1010,7 +1018,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-05T07:52:55.316661Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-04T07:37:49.882387Z"
+  "last_updated": "2026-07-05T07:52:55.316679Z"
 }
