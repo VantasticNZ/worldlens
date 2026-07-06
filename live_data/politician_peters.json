@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 28,
+  "lie_count": 29,
   "lies": [
     {
       "date": "March 2026",
@@ -282,6 +282,16 @@
       "platform": "speech",
       "_id": "ee7aeff7",
       "_crawled": "2026-07-05T07:52:18.553024Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Winston Peters expresses deep concern over China's missile test in the South Pacific",
+      "reality": "This contradicts his previous statement of no concern over China's actions",
+      "source": "RNZ News, July 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "fc267af0",
+      "_crawled": "2026-07-06T08:55:01.635422Z"
     }
   ],
   "social_posts": [
@@ -550,6 +560,20 @@
       },
       "_id": "bc2271b9",
       "_crawled": "2026-07-03T07:55:46.899469Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "April 2026",
+      "text": "Nothing has changed. In fact, they are even worse. No, we won’t do a deal with Labour or their Marxist and separatist mates.",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Peters' statement contradicts his previous stance on working with Labour",
+        "source": "NZ Herald, April 2026",
+        "severity": "high"
+      },
+      "_id": "52210ce7",
+      "_crawled": "2026-07-06T08:55:01.635422Z"
     }
   ],
   "votes": [],
@@ -970,13 +994,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Announcement of citizens-only voting policy without previous discussion"
+    },
+    "2026-07-06T08:55:01.635422Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' contradictory statements on China's actions and his stance on working with Labour raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-22T10:32:46.335423Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and policy consistency"
-    },
     {
       "date": "2026-06-23T08:24:10.013255Z",
       "text": "Winston Peters made statements at Fieldays and on social media, sparking discussion about his party's stance on various issues"
@@ -1012,14 +1037,13 @@
     {
       "date": "2026-07-05T07:52:18.553024Z",
       "text": "Winston Peters announces citizens-only voting policy and takes aim at National and own Government policy"
+    },
+    {
+      "date": "2026-07-06T08:55:01.635422Z",
+      "text": "Winston Peters' recent statements on China's missile test and his stance on working with Labour have raised concerns about his integrity and consistency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-17T07:30:00.482311Z",
-      "notes": "Peters' social media activity and policy announcements were reviewed",
-      "new_items": true
-    },
     {
       "date": "2026-05-18T08:40:49.669159Z",
       "notes": "Peters' recent activities and statements have been reviewed, but no major discrepancies or concerns have been identified",
@@ -1264,17 +1288,14 @@
       "date": "2026-07-05T07:52:18.553024Z",
       "notes": "Multiple sources indicate increased rhetoric from Winston Peters",
       "new_items": true
+    },
+    {
+      "date": "2026-07-06T08:55:01.635422Z",
+      "notes": "Peters' comments on China's missile test and his tweet about not working with Labour were found to be contradictory to his previous statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-15T10:50:04.889762Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-16T10:02:20.631230Z",
       "sources": [
@@ -1409,7 +1430,16 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-06T08:55:01.635593Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-05T07:52:18.553237Z"
+  "last_updated": "2026-07-06T08:55:01.635618Z"
 }

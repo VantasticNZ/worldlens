@@ -248,11 +248,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-17T07:30:16.748095Z",
-      "notes": "New events and statements from David Seymour",
-      "new_items": true
-    },
-    {
       "date": "2026-05-18T08:41:10.573037Z",
       "notes": "New events and statements from David Seymour, including a speech at Waitangi Pōwhiri and comments on media",
       "new_items": true
@@ -496,16 +491,14 @@
       "date": "2026-07-05T07:52:34.162460Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-06T08:55:27.887659Z",
+      "notes": "New events and statements from David Seymour",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-14T08:37:16.031311Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-06-15T10:50:23.701317Z",
       "sources": [
@@ -639,7 +632,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-06T08:55:27.887814Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-05T07:52:34.162503Z"
+  "last_updated": "2026-07-06T08:55:27.887838Z"
 }

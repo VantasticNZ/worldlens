@@ -438,6 +438,20 @@
       },
       "_id": "79808759",
       "_crawled": "2026-06-19T09:27:16.718012Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Labour should win next election under Burnham after work already done",
+      "verified_by": "The Guardian",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "previously stated commitment to leading the party",
+        "source": "The Guardian",
+        "severity": "med"
+      },
+      "_id": "e8111a33",
+      "_crawled": "2026-07-06T08:59:11.867495Z"
     }
   ],
   "votes": [],
@@ -873,13 +887,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Resignation and contradiction of previous statements on growth"
+    },
+    "2026-07-06T08:59:11.867495Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "contradiction in statements and failure to deliver on growth promises"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-19T09:27:16.718012Z",
-      "text": "Keir Starmer faces criticism for perceived broken promises and policy U-turns, and senior cabinet ministers call for his resignation."
-    },
     {
       "date": "2026-06-20T08:20:03.764790Z",
       "text": "Keir Starmer's leadership is in question after Andy Burnham's byelection win, and his claims of positive change are not supported by reality"
@@ -915,14 +930,13 @@
     {
       "date": "2026-07-05T07:54:49.545385Z",
       "text": "Keir Starmer's resignation and contradiction of previous statements on growth have raised concerns about his integrity."
+    },
+    {
+      "date": "2026-07-06T08:59:11.867495Z",
+      "text": "Keir Starmer's integrity score takes a hit due to contradictions in his statements and failure to deliver on growth promises."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-17T07:33:10.505471Z",
-      "notes": "Multiple sources indicate Keir Starmer is facing significant pressure to step down",
-      "new_items": true
-    },
     {
       "date": "2026-05-18T08:43:57.828399Z",
       "notes": "Multiple sources indicate a decline in Starmer's authority and popularity",
@@ -1167,16 +1181,14 @@
       "date": "2026-07-05T07:54:49.545385Z",
       "notes": "Resignation and growth contradiction found, score adjustments made accordingly",
       "new_items": true
+    },
+    {
+      "date": "2026-07-06T08:59:11.867495Z",
+      "notes": "Notable findings include Starmer's contradiction on growth priority and announcement of departure",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-10T08:45:38.810180Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-06-11T09:10:51.824762Z",
       "sources": [
@@ -1309,7 +1321,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-06T08:59:11.867640Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-05T07:54:49.545522Z"
+  "last_updated": "2026-07-06T08:59:11.867659Z"
 }

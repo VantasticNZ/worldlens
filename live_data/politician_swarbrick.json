@@ -125,6 +125,34 @@
       },
       "_id": "57b4bea1",
       "_crawled": "2026-07-02T08:03:00.578060Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Greens commit to tax the super-rich and large corporates fairly, cut income tax for 96%",
+      "verified_by": "www.greens.org.nz",
+      "discrepancy": {
+        "type": "none",
+        "detail": "",
+        "source": "",
+        "severity": "none"
+      },
+      "_id": "87e425b8",
+      "_crawled": "2026-07-06T08:58:15.106607Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Chlöe Swarbrick says Greens 'rolling with punches', 'transparent', as it issues another correction",
+      "verified_by": "www.nzherald.co.nz",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "The Green Party had accidentally uploaded its entire tax plan online early",
+        "source": "www.nzherald.co.nz",
+        "severity": "med"
+      },
+      "_id": "6144a43a",
+      "_crawled": "2026-07-06T08:58:15.106607Z"
     }
   ],
   "votes": [],
@@ -353,14 +381,13 @@
     {
       "date": "2026-07-03T07:57:53.361209Z",
       "text": "Chlöe Swarbrick and the Green Party have been actively promoting their 2026 tax policy and calling on New Zealanders to join their movement."
+    },
+    {
+      "date": "2026-07-06T08:58:15.106607Z",
+      "text": "Chlöe Swarbrick and the Green Party have been active in promoting their tax policy and candidate list for the 2026 General Election"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-17T07:31:57.796746Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-18T08:42:48.750616Z",
       "notes": "No significant new findings",
@@ -605,16 +632,14 @@
       "date": "2026-07-05T07:54:01.683106Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-06T08:58:15.106607Z",
+      "notes": "No significant new lies or votes found, but some discrepancies in social posts and new events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-10T08:44:48.252107Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-11T09:09:51.856346Z",
       "sources": [
@@ -746,7 +771,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-06T08:58:15.106699Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-05T07:54:01.683143Z"
+  "last_updated": "2026-07-06T08:58:15.106719Z"
 }

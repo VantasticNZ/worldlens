@@ -590,13 +590,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "investigation over passport scandal and failure of controversial fishing bill"
+    },
+    "2026-07-06T08:56:03.988994Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Investigation over passport scandal and defense of $63k travel bill raise concerns about integrity and corruption risk."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-17T09:26:32.847869Z",
-      "text": "Shane Jones faces criticism for his comments on various topics, including the India FTA and fossil fuels."
-    },
     {
       "date": "2026-06-18T09:09:46.134557Z",
       "text": "Shane Jones' travel bill and fisheries amendment Bill have sparked controversy"
@@ -632,14 +633,13 @@
     {
       "date": "2026-07-05T07:52:55.316547Z",
       "text": "Shane Jones is facing investigation over a passport scandal and his controversial fishing bill has failed, raising concerns about his integrity and corruption risk"
+    },
+    {
+      "date": "2026-07-06T08:56:03.988994Z",
+      "text": "Shane Jones faces investigation over passport scandal and criticism for $63k travel bill, prompting concerns about his integrity and corruption risk."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-17T07:30:31.973970Z",
-      "notes": "Multiple sources report on Shane Jones' controversial comments and actions",
-      "new_items": true
-    },
     {
       "date": "2026-05-18T08:41:31.144349Z",
       "notes": "Shane Jones' recent comments have sparked controversy and criticism, with some deemed hurtful or 'shameful'.",
@@ -884,16 +884,14 @@
       "date": "2026-07-05T07:52:55.316547Z",
       "notes": "investigation and bill failure indicate potential integrity and corruption issues",
       "new_items": true
+    },
+    {
+      "date": "2026-07-06T08:56:03.988994Z",
+      "notes": "Multiple sources report on Shane Jones' controversies, including a passport scandal and a $63k travel bill.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-13T08:17:13.579215Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-14T08:37:29.969974Z",
       "sources": [
@@ -1025,7 +1023,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-06T08:56:03.989120Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-05T07:52:55.316679Z"
+  "last_updated": "2026-07-06T08:56:03.989141Z"
 }

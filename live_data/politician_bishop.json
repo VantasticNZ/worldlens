@@ -793,13 +793,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Claim of building 7,000 homes contradicts actual funding of 2,050 homes"
+    },
+    "2026-07-06T08:57:34.125338Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The introduction of potential duration limits and changes to how need is assessed may be seen as contradictory to previous statements and policies, affecting the integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-19T09:25:47.997850Z",
-      "text": "Housing Minister Chris Bishop has announced a major social housing shake-up, but his claims about the current system and the budget have been disputed, and the shake-up has been criticized for potentially leaving many households worse off"
-    },
     {
       "date": "2026-06-20T08:18:43.926969Z",
       "text": "The government's social housing overhaul and decision to slash Auckland housing numbers have raised concerns about the government's commitment to addressing the housing crisis"
@@ -835,14 +836,13 @@
     {
       "date": "2026-07-05T07:53:27.267551Z",
       "text": "Chris Bishop's recent statements and policy announcements have raised concerns about his integrity and commitment to social housing"
+    },
+    {
+      "date": "2026-07-06T08:57:34.125338Z",
+      "text": "Housing Minister Chris Bishop announced an overhaul of the social housing system, introducing potential duration limits and changes to how need is assessed, which may be seen as contradictory to previous statements and policies"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-17T07:31:06.544942Z",
-      "notes": "Checked Tavily sources for Chris Bishop",
-      "new_items": true
-    },
     {
       "date": "2026-05-18T08:42:04.032522Z",
       "notes": "Reviewed Tavily sources and found new information about Chris Bishop's statements and actions as Housing Minister",
@@ -1087,17 +1087,14 @@
       "date": "2026-07-05T07:53:27.267551Z",
       "notes": "Labour Party release and NZ Herald articles provided significant new information",
       "new_items": true
+    },
+    {
+      "date": "2026-07-06T08:57:34.125338Z",
+      "notes": "Reviewed press releases and news articles from Beehive.govt.nz and NZ Herald",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-12T08:54:54.249415Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-13T08:17:44.405299Z",
       "sources": [
@@ -1235,7 +1232,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-06T08:57:34.125451Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-05T07:53:27.267680Z"
+  "last_updated": "2026-07-06T08:57:34.125470Z"
 }
