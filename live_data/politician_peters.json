@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 29,
+  "lie_count": 30,
   "lies": [
     {
       "date": "March 2026",
@@ -292,6 +292,16 @@
       "platform": "speech",
       "_id": "fc267af0",
       "_crawled": "2026-07-06T08:55:01.635422Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Winston Peters announces proposal to overhaul energy sector",
+      "reality": "The proposal was already announced in March 2026",
+      "source": "RNZ, 22 March 2026",
+      "severity": "low",
+      "platform": "speech",
+      "_id": "8cad7b21",
+      "_crawled": "2026-07-07T08:15:46.075767Z"
     }
   ],
   "social_posts": [
@@ -999,13 +1009,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' contradictory statements on China's actions and his stance on working with Labour raise concerns about his integrity"
+    },
+    "2026-07-07T08:15:46.075767Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Winston Peters' repeated contradictions and accusations of racism"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-23T08:24:10.013255Z",
-      "text": "Winston Peters made statements at Fieldays and on social media, sparking discussion about his party's stance on various issues"
-    },
     {
       "date": "2026-06-25T08:17:25.741217Z",
       "text": "Winston Peters has made a potentially misleading claim about the India Free Trade Agreement's immigration policy"
@@ -1041,14 +1052,13 @@
     {
       "date": "2026-07-06T08:55:01.635422Z",
       "text": "Winston Peters' recent statements on China's missile test and his stance on working with Labour have raised concerns about his integrity and consistency"
+    },
+    {
+      "date": "2026-07-07T08:15:46.075767Z",
+      "text": "Winston Peters' recent statements and policies have raised concerns about his integrity and consistency."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-18T08:40:49.669159Z",
-      "notes": "Peters' recent activities and statements have been reviewed, but no major discrepancies or concerns have been identified",
-      "new_items": true
-    },
     {
       "date": "2026-05-19T08:21:14.866190Z",
       "notes": "Peters' State of the Nation speech and subsequent statements have been scrutinized for inconsistencies and potential contradictions",
@@ -1293,16 +1303,14 @@
       "date": "2026-07-06T08:55:01.635422Z",
       "notes": "Peters' comments on China's missile test and his tweet about not working with Labour were found to be contradictory to his previous statements",
       "new_items": true
+    },
+    {
+      "date": "2026-07-07T08:15:46.075767Z",
+      "notes": "Reviewed RNZ, NZ Herald, and The Spinoff articles",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-16T10:02:20.631230Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-17T09:26:02.823112Z",
       "sources": [
@@ -1439,7 +1447,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-07T08:15:46.075944Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-06T08:55:01.635618Z"
+  "last_updated": "2026-07-07T08:15:46.075969Z"
 }

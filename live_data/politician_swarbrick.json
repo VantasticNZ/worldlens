@@ -347,10 +347,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-04-15T06:29:16.822585Z",
-      "text": "Chloe Swarbrick continues to advocate for the Green Party's vision and is focused on the 2026 election."
-    },
-    {
       "date": "2026-04-17T06:31:27.701704Z",
       "text": "Chloe Swarbrick and the Green Party continue to advocate for solutions to homelessness and the housing crisis, while criticizing the government's approach."
     },
@@ -385,14 +381,13 @@
     {
       "date": "2026-07-06T08:58:15.106607Z",
       "text": "Chlöe Swarbrick and the Green Party have been active in promoting their tax policy and candidate list for the 2026 General Election"
+    },
+    {
+      "date": "2026-07-07T08:18:02.039006Z",
+      "text": "Chlöe Swarbrick and the Green Party have been actively promoting their tax policy and preparing for the 2026 election."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-18T08:42:48.750616Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-19T08:23:00.252759Z",
       "notes": "No significant new findings",
@@ -637,16 +632,14 @@
       "date": "2026-07-06T08:58:15.106607Z",
       "notes": "No significant new lies or votes found, but some discrepancies in social posts and new events",
       "new_items": true
+    },
+    {
+      "date": "2026-07-07T08:18:02.039006Z",
+      "notes": "No significant lies or corruption findings, but some discrepancies in tax plan statements.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-11T09:09:51.856346Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-12T08:55:39.142639Z",
       "sources": [
@@ -778,7 +771,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-07T08:18:02.039114Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-06T08:58:15.106719Z"
+  "last_updated": "2026-07-07T08:18:02.039136Z"
 }

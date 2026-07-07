@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 12,
+  "lie_count": 13,
   "lies": [
     {
       "date": "May 2026",
@@ -122,6 +122,16 @@
       "platform": "interview",
       "_id": "a8ef98d3",
       "_crawled": "2026-07-05T07:53:46.786260Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Labour's cost-of-living policy will help farmers",
+      "reality": "Chris Hipkins accepts the policy won't help farmers",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "5b9037e9",
+      "_crawled": "2026-07-07T08:17:38.324574Z"
     }
   ],
   "social_posts": [
@@ -433,10 +443,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-20T08:19:02.661506Z",
-      "text": "Chris Hipkins has outlined Labour's vision for New Zealand's future and announced a cost of living relief policy, while also stating the election cannot come soon enough"
-    },
-    {
       "date": "2026-06-21T08:55:27.985009Z",
       "text": "Chris Hipkins has made statements about the upcoming election and Labour's policies, while also addressing personal allegations"
     },
@@ -471,14 +477,13 @@
     {
       "date": "2026-07-06T08:57:55.041185Z",
       "text": "Chris Hipkins continues to face scrutiny over his statements and policies, particularly regarding the NZ Future Fund and cost-of-living relief"
+    },
+    {
+      "date": "2026-07-07T08:17:38.324574Z",
+      "text": "Chris Hipkins denies Labour is writing off the rural vote, but accepts the cost-of-living policy won't help farmers"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-18T08:42:28.215962Z",
-      "notes": "No significant new findings related to lies, social posts, or votes, but several new events were discovered.",
-      "new_items": true
-    },
     {
       "date": "2026-05-19T08:22:45.968718Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins' comments and personal life",
@@ -723,17 +728,14 @@
       "date": "2026-07-06T08:57:55.041185Z",
       "notes": "Reviewed Tavily sources, focusing on recent statements and events",
       "new_items": true
+    },
+    {
+      "date": "2026-07-07T08:17:38.324574Z",
+      "notes": "Reviewed Tavily sources for Chris Hipkins",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-12T08:55:14.447396Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-13T08:18:01.260420Z",
       "sources": [
@@ -867,7 +869,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-07T08:17:38.324666Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-06T08:57:55.041333Z"
+  "last_updated": "2026-07-07T08:17:38.324688Z"
 }
