@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 13,
+  "lie_count": 14,
   "lies": [
     {
       "date": "May 2026",
@@ -132,6 +132,16 @@
       "platform": "interview",
       "_id": "5b9037e9",
       "_crawled": "2026-07-07T08:17:38.324574Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "New Zealanders don't 'really care' about key detail of party's NZ Future Fund policy",
+      "reality": "The statement is misleading as it downplays the importance of the policy details to New Zealanders",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "a097cfe4",
+      "_crawled": "2026-07-08T07:25:34.080917Z"
     }
   ],
   "social_posts": [
@@ -204,6 +214,20 @@
       },
       "_id": "384f0340",
       "_crawled": "2026-07-05T07:53:46.786260Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Labour leader Chris Hipkins says New Zealanders don't 'really care' about key detail of party's NZ Future Fund policy",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "Downplaying the importance of policy details",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "af3bd768",
+      "_crawled": "2026-07-08T07:25:34.080917Z"
     }
   ],
   "votes": [],
@@ -439,13 +463,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The addition of a new lie and a discrepancy in a social post contribute to the integrity delta"
+    },
+    "2026-07-08T07:25:34.080917Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The repeated instances of downplaying or misleading statements about key policy details have negatively impacted the integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-21T08:55:27.985009Z",
-      "text": "Chris Hipkins has made statements about the upcoming election and Labour's policies, while also addressing personal allegations"
-    },
     {
       "date": "2026-06-23T08:25:41.517646Z",
       "text": "Chris Hipkins has unveiled a new economic team and is waiting to make commitments until after the budget"
@@ -481,14 +506,13 @@
     {
       "date": "2026-07-07T08:17:38.324574Z",
       "text": "Chris Hipkins denies Labour is writing off the rural vote, but accepts the cost-of-living policy won't help farmers"
+    },
+    {
+      "date": "2026-07-08T07:25:34.080917Z",
+      "text": "Chris Hipkins' recent statements and actions have raised concerns about his integrity and transparency, particularly regarding Labour's policies and their impact on various groups"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-19T08:22:45.968718Z",
-      "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins' comments and personal life",
-      "new_items": true
-    },
     {
       "date": "2026-05-20T08:22:41.902349Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but several new events related to Chris Hipkins' policies and personal life.",
@@ -733,16 +757,14 @@
       "date": "2026-07-07T08:17:38.324574Z",
       "notes": "Reviewed Tavily sources for Chris Hipkins",
       "new_items": true
+    },
+    {
+      "date": "2026-07-08T07:25:34.080917Z",
+      "notes": "Reviewed Tavily sources and NZ Herald articles for updates on Chris Hipkins' statements and actions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-13T08:18:01.260420Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-14T08:38:10.802978Z",
       "sources": [
@@ -876,7 +898,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-08T07:25:34.081031Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-07T08:17:38.324688Z"
+  "last_updated": "2026-07-08T07:25:34.081049Z"
 }

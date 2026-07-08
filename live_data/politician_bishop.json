@@ -348,6 +348,20 @@
       },
       "_id": "5cdcfd51",
       "_crawled": "2026-07-04T07:38:31.232768Z"
+    },
+    {
+      "platform": "press",
+      "date": "March 2026",
+      "text": "Green light for Te Awa Lakes development",
+      "verified_by": "National Party website",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "Claim of 1,500 new homes does not provide context on affordability or timeline",
+        "source": "National Party website",
+        "severity": "med"
+      },
+      "_id": "97ac565a",
+      "_crawled": "2026-07-08T07:25:13.551402Z"
     }
   ],
   "votes": [],
@@ -813,13 +827,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Housing Minister Chris Bishop's claim of 7,000 homes built is contradicted by Labour party release"
+    },
+    "2026-07-08T07:25:13.551402Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The discrepancy in the number of homes built and the misleading statement about the Te Awa Lakes development contribute to a decrease in integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-21T08:55:10.283782Z",
-      "text": "Chris Bishop's recent statements and announcements have raised concerns about the government's approach to social housing and its commitment to providing affordable and permanent housing solutions"
-    },
     {
       "date": "2026-06-22T10:34:03.272146Z",
       "text": "Housing Minister Chris Bishop announced a social housing overhaul, but details are still emerging"
@@ -855,14 +870,13 @@
     {
       "date": "2026-07-07T08:17:17.768684Z",
       "text": "Housing Minister Chris Bishop's credibility questioned over misleading housing numbers"
+    },
+    {
+      "date": "2026-07-08T07:25:13.551402Z",
+      "text": "Housing Minister Chris Bishop's statements on social housing and new developments have raised concerns about transparency and accuracy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-19T08:22:29.979745Z",
-      "notes": "Multiple sources indicate contradictions and backtracks by Chris Bishop on housing issues",
-      "new_items": true
-    },
     {
       "date": "2026-05-20T08:22:25.264462Z",
       "notes": "Minister's statements and actions on Auckland housing plans require further scrutiny",
@@ -1107,16 +1121,14 @@
       "date": "2026-07-07T08:17:17.768684Z",
       "notes": "Labour party release contradicts National's housing claims",
       "new_items": true
+    },
+    {
+      "date": "2026-07-08T07:25:13.551402Z",
+      "notes": "Labour Party releases and National Party website provided notable updates",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-14T08:37:55.683782Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-15T10:51:20.332594Z",
       "sources": [
@@ -1253,7 +1265,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-08T07:25:13.551536Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-07T08:17:17.768812Z"
+  "last_updated": "2026-07-08T07:25:13.551553Z"
 }

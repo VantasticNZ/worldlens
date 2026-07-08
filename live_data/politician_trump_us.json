@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 73,
+  "lie_count": 74,
   "lies": [
     {
       "date": "January 2026",
@@ -732,6 +732,16 @@
       "platform": "speech",
       "_id": "6c8c02ff",
       "_crawled": "2026-07-07T08:18:24.404494Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "The United States Supreme Court just ruled against men playing in women's sports",
+      "reality": "The claim is half-true",
+      "source": "PolitiFact, June 30, 2026",
+      "severity": "med",
+      "platform": "Truth Social",
+      "_id": "032b00cf",
+      "_crawled": "2026-07-08T07:26:44.250554Z"
     }
   ],
   "social_posts": [
@@ -1277,13 +1287,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's continued spread of false information and exaggerations"
+    },
+    "2026-07-08T07:26:44.250554Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Repeated false claims and contradictory messaging"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-26T08:27:44.728921Z",
-      "text": "Trump's recent actions on immigrant status and request for war funding have raised concerns about his integrity and increased corruption risk."
-    },
     {
       "date": "2026-06-27T07:44:50.539938Z",
       "text": "Trump's request for war funding and the Supreme Court's ruling on immigrant protected status have raised concerns about his policies."
@@ -1319,14 +1330,13 @@
     {
       "date": "2026-07-07T08:18:24.404494Z",
       "text": "Trump continues to spread false information and exaggerate facts, including claims about his cognitive test results and the Lincoln Memorial Reflecting Pool."
+    },
+    {
+      "date": "2026-07-08T07:26:44.250554Z",
+      "text": "Donald Trump continues to make false claims and contradictory statements, including on his cognitive test results and the US Supreme Court's ruling on men playing in women's sports."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-19T08:23:15.841148Z",
-      "notes": "New lies and events found, including a $1.7bn fund to compensate Trump's allies",
-      "new_items": true
-    },
     {
       "date": "2026-05-20T08:23:14.941661Z",
       "notes": "Multiple sources confirm Trump's lies and contradictory statements, with PolitiFact and BBC World providing detailed fact-checks and analysis",
@@ -1571,17 +1581,14 @@
       "date": "2026-07-07T08:18:24.404494Z",
       "notes": "Multiple sources confirm Trump's lies and exaggerations, including PolitiFact and FactCheck.org",
       "new_items": true
+    },
+    {
+      "date": "2026-07-08T07:26:44.250554Z",
+      "notes": "Multiple sources confirm Trump's pattern of dishonesty and contradictory messaging",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-18T09:11:34.206238Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-19T09:26:38.366967Z",
       "sources": [
@@ -1719,7 +1726,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-08T07:26:44.250824Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-07T08:18:24.404751Z"
+  "last_updated": "2026-07-08T07:26:44.250841Z"
 }

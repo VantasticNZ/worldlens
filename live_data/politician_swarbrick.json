@@ -389,11 +389,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-19T08:23:00.252759Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-05-20T08:22:56.740116Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -637,16 +632,14 @@
       "date": "2026-07-07T08:18:02.039006Z",
       "notes": "No significant lies or corruption findings, but some discrepancies in tax plan statements.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-08T07:26:08.873854Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-12T08:55:39.142639Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-13T08:18:17.362167Z",
       "sources": [
@@ -778,7 +771,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-08T07:26:08.873866Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-07T08:18:02.039136Z"
+  "last_updated": "2026-07-08T07:26:08.873886Z"
 }

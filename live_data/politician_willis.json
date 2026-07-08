@@ -642,11 +642,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-19T08:22:08.741144Z",
-      "notes": "Multiple sources confirm Nicola Willis' contradictory statements and announcement of public sector job cuts",
-      "new_items": true
-    },
-    {
       "date": "2026-05-20T08:21:48.066630Z",
       "notes": "Multiple sources confirm public service reforms and budget announcements",
       "new_items": true
@@ -890,16 +885,14 @@
       "date": "2026-07-07T08:16:46.077361Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-08T07:24:51.563649Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-11T09:08:56.033461Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-06-12T08:54:41.019489Z",
       "sources": [
@@ -1041,7 +1034,16 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-08T07:24:51.563663Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-07T08:16:46.077394Z"
+  "last_updated": "2026-07-08T07:24:51.563684Z"
 }
