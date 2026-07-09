@@ -1184,10 +1184,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-22T10:32:24.552284Z",
-      "text": "Christopher Luxon's integrity score has been adjusted downward due to his behavior towards the media"
-    },
-    {
       "date": "2026-06-29T09:21:52.787579Z",
       "text": "Prime Minister Christopher Luxon's admission of being unaware of the lack of night shelter for rough sleepers in Auckland has sparked controversy and raised concerns about his integrity"
     },
@@ -1222,14 +1218,13 @@
     {
       "date": "2026-07-08T07:23:19.776878Z",
       "text": "Christopher Luxon's integrity has taken a hit due to his handling of documents and his coalition's fracture on climate policy"
+    },
+    {
+      "date": "2026-07-09T08:29:08.553408Z",
+      "text": "Christopher Luxon faces challenges to his leadership and policy decisions, including a party leadership vote and coalition fractures on climate change."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-20T08:20:16.838844Z",
-      "notes": "Reviewed recent articles and statements from Christopher Luxon",
-      "new_items": true
-    },
     {
       "date": "2026-05-21T08:27:21.523156Z",
       "notes": "RNZ News article found a new lie by Luxon",
@@ -1474,16 +1469,14 @@
       "date": "2026-07-08T07:23:19.776878Z",
       "notes": "Multiple sources indicate Luxon's government is struggling with climate policy and document management",
       "new_items": true
+    },
+    {
+      "date": "2026-07-09T08:29:08.553408Z",
+      "notes": "Multiple sources indicate Luxon's leadership and policy decisions are under scrutiny.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-17T09:25:43.622908Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-18T09:08:51.399698Z",
       "sources": [
@@ -1619,7 +1612,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-09T08:29:08.553523Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-08T07:23:19.777052Z"
+  "last_updated": "2026-07-09T08:29:08.553547Z"
 }

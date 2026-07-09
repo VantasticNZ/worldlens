@@ -642,11 +642,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-20T08:21:48.066630Z",
-      "notes": "Multiple sources confirm public service reforms and budget announcements",
-      "new_items": true
-    },
-    {
       "date": "2026-05-21T08:28:58.267398Z",
       "notes": "Reviewed RSS and Tavily sources, found new events related to Nicola Willis' statement and public service cuts.",
       "new_items": true
@@ -890,16 +885,14 @@
       "date": "2026-07-08T07:24:51.563649Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-09T08:30:48.629933Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-12T08:54:41.019489Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-06-13T08:17:29.422029Z",
       "sources": [
@@ -1043,7 +1036,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-09T08:30:48.629948Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-08T07:24:51.563684Z"
+  "last_updated": "2026-07-09T08:30:48.629971Z"
 }

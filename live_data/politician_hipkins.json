@@ -468,13 +468,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The repeated instances of downplaying or misleading statements about key policy details have negatively impacted the integrity score"
+    },
+    "2026-07-09T08:32:01.272220Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Hipkins' acceptance of his cost-of-living policy not helping farmers and his denial of his ex-wife's claims may impact his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-23T08:25:41.517646Z",
-      "text": "Chris Hipkins has unveiled a new economic team and is waiting to make commitments until after the budget"
-    },
     {
       "date": "2026-06-29T09:23:00.666334Z",
       "text": "Chris Hipkins posed a rhetorical question, echoing Ronald Reagan, about whether New Zealanders are better off than three years ago"
@@ -510,14 +511,13 @@
     {
       "date": "2026-07-08T07:25:34.080917Z",
       "text": "Chris Hipkins' recent statements and actions have raised concerns about his integrity and transparency, particularly regarding Labour's policies and their impact on various groups"
+    },
+    {
+      "date": "2026-07-09T08:32:01.272220Z",
+      "text": "Chris Hipkins faces challenges to his integrity due to his cost-of-living policy and personal life"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-20T08:22:41.902349Z",
-      "notes": "No significant new findings related to lies, social posts, or votes, but several new events related to Chris Hipkins' policies and personal life.",
-      "new_items": true
-    },
     {
       "date": "2026-05-21T08:29:47.115824Z",
       "notes": "Multiple sources report on Hipkins' personal and political struggles, with potential implications for his leadership and Labour's campaign",
@@ -762,16 +762,14 @@
       "date": "2026-07-08T07:25:34.080917Z",
       "notes": "Reviewed Tavily sources and NZ Herald articles for updates on Chris Hipkins' statements and actions",
       "new_items": true
+    },
+    {
+      "date": "2026-07-09T08:32:01.272220Z",
+      "notes": "Reviewed Tavily sources and NZ Herald articles",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-14T08:38:10.802978Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-15T10:51:35.433340Z",
       "sources": [
@@ -905,7 +903,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-09T08:32:01.272326Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-08T07:25:34.081049Z"
+  "last_updated": "2026-07-09T08:32:01.272345Z"
 }

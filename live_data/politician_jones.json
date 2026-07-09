@@ -605,13 +605,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Shane Jones' $63k travel bill and his refusal to apologize for his comments have raised concerns about his integrity and corruption risk."
+    },
+    "2026-07-09T08:30:15.442864Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Investigation over passport scandal and criticism over travel bill suggest potential integrity and corruption risks"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-20T08:18:05.880583Z",
-      "text": "Shane Jones has been involved in several controversies, including the delay of the fisheries amendment bill and apologising for comments about Nicola Willis' weight loss."
-    },
     {
       "date": "2026-06-21T08:54:34.005041Z",
       "text": "Shane Jones' controversial comments and actions continue to spark criticism and demands for apology."
@@ -647,14 +648,13 @@
     {
       "date": "2026-07-08T07:24:25.835157Z",
       "text": "Shane Jones faces controversy over his $63k travel bill and his comments, which have sparked demands for an apology."
+    },
+    {
+      "date": "2026-07-09T08:30:15.442864Z",
+      "text": "Shane Jones is facing multiple controversies, including an investigation over a passport scandal and criticism over a $63k travel bill"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-20T08:21:19.573079Z",
-      "notes": "Shane Jones' comments on the India FTA have sparked controversy and criticism",
-      "new_items": true
-    },
     {
       "date": "2026-05-21T08:28:37.303340Z",
       "notes": "Shane Jones' recent events and controversies have been noted",
@@ -899,17 +899,14 @@
       "date": "2026-07-08T07:24:25.835157Z",
       "notes": "Reviewed Tavily sources, including RNZ and Stuff, for updates on Shane Jones' activities and controversies.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-09T08:30:15.442864Z",
+      "notes": "Multiple sources report on Shane Jones' controversies, including a passport scandal and travel bill criticism",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-16T10:02:59.584908Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-17T09:26:32.847983Z",
       "sources": [
@@ -1040,7 +1037,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-09T08:30:15.443006Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-08T07:24:25.835274Z"
+  "last_updated": "2026-07-09T08:30:15.443028Z"
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-08T07:27:45.730608Z",
+  "generated": "2026-07-09T08:34:02.876790Z",
   "files": {
     "politician_jones": {
-      "last_updated": "2026-07-08T07:24:25.835274Z",
+      "last_updated": "2026-07-09T08:30:15.443028Z",
       "lie_count": 15,
       "event_count": 20,
       "post_count": 4,
@@ -15,7 +15,7 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-07-08T07:24:51.563684Z",
+      "last_updated": "2026-07-09T08:30:48.629971Z",
       "lie_count": 14,
       "event_count": 20,
       "post_count": 13,
@@ -23,14 +23,13 @@
       "sources": [
         [
           "RSS (1 articles from NZ/intl media)",
-          "GDELT global news database",
           "Tavily: Nicola Willis finance minister contradic",
           "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-07-08T07:27:19.192889Z",
+      "last_updated": "2026-07-09T08:33:39.876774Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
@@ -43,10 +42,10 @@
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-07-08T07:23:42.234376Z",
+      "last_updated": "2026-07-09T08:29:30.675277Z",
       "lie_count": 30,
       "event_count": 20,
-      "post_count": 20,
+      "post_count": 21,
       "vote_count": 0,
       "sources": [
         [
@@ -56,34 +55,34 @@
       ]
     },
     "politician_starmer_uk": {
-      "last_updated": "2026-07-08T07:27:44.728866Z",
+      "last_updated": "2026-07-09T08:34:01.875169Z",
       "lie_count": 28,
       "event_count": 20,
       "post_count": 12,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Keir Starmer contradiction promise broke",
           "Tavily: Keir Starmer statement 2026"
         ]
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-07-08T07:24:03.647876Z",
+      "last_updated": "2026-07-09T08:29:52.610709Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: David Seymour ACT contradiction fact che",
           "Tavily: David Seymour statement 2026"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-07-08T07:25:34.081049Z",
+      "last_updated": "2026-07-09T08:32:01.272345Z",
       "lie_count": 14,
       "event_count": 20,
       "post_count": 6,
@@ -96,10 +95,10 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-07-08T07:26:08.873886Z",
+      "last_updated": "2026-07-09T08:32:43.152793Z",
       "lie_count": 2,
       "event_count": 20,
-      "post_count": 11,
+      "post_count": 12,
       "vote_count": 0,
       "sources": [
         [
@@ -109,41 +108,42 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-07-08T07:23:19.777052Z",
+      "last_updated": "2026-07-09T08:29:08.553547Z",
       "lie_count": 36,
       "event_count": 20,
       "post_count": 25,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-07-08T07:26:44.250841Z",
+      "last_updated": "2026-07-09T08:33:17.599947Z",
       "lie_count": 74,
       "event_count": 20,
-      "post_count": 3,
+      "post_count": 4,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
+          "RSS (3 articles from NZ/intl media)",
+          "GDELT global news database",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-07-08T07:25:13.551553Z",
+      "last_updated": "2026-07-09T08:31:30.388096Z",
       "lie_count": 26,
       "event_count": 20,
       "post_count": 7,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (2 articles from NZ/intl media)",
           "Tavily: Chris Bishop housing minister statement ",
           "Tavily: Chris Bishop housing contradiction 2026"
         ]

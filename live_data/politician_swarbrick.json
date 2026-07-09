@@ -153,6 +153,20 @@
       },
       "_id": "6144a43a",
       "_crawled": "2026-07-06T08:58:15.106607Z"
+    },
+    {
+      "platform": "press",
+      "date": "June 2026",
+      "text": "Chlöe Swarbrick Budget speech 2026",
+      "verified_by": "Green Party of Aotearoa New Zealand",
+      "discrepancy": {
+        "type": "none",
+        "detail": "",
+        "source": "",
+        "severity": "none"
+      },
+      "_id": "35ea574a",
+      "_crawled": "2026-07-09T08:32:43.152629Z"
     }
   ],
   "votes": [],
@@ -388,11 +402,6 @@
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-20T08:22:56.740116Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-21T08:30:12.225781Z",
       "notes": "No significant new findings",
@@ -637,16 +646,14 @@
       "date": "2026-07-08T07:26:08.873854Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-09T08:32:43.152629Z",
+      "notes": "No significant new findings, mostly reiteration of existing policies and events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-13T08:18:17.362167Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-14T08:38:25.764534Z",
       "sources": [
@@ -778,7 +785,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-09T08:32:43.152771Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-08T07:26:08.873886Z"
+  "last_updated": "2026-07-09T08:32:43.152793Z"
 }
