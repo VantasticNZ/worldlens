@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 30,
+  "lie_count": 31,
   "lies": [
     {
       "date": "March 2026",
@@ -302,6 +302,16 @@
       "platform": "speech",
       "_id": "8cad7b21",
       "_crawled": "2026-07-07T08:15:46.075767Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Nothing has changed. In fact they are even worse. No, we won’t do a deal with Labour",
+      "reality": "Previous statements and actions suggest potential for deal with Labour",
+      "source": "nzherald.co.nz, April 2026",
+      "severity": "med",
+      "platform": "twitter",
+      "_id": "8471d77b",
+      "_crawled": "2026-07-10T08:16:00.998929Z"
     }
   ],
   "social_posts": [
@@ -1038,13 +1048,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' repeated contradictions and divisive rhetoric have raised concerns about his integrity"
+    },
+    "2026-07-10T08:16:00.998929Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Winston Peters' contradictory statements and actions suggest a potential integrity issue"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-27T07:43:48.157000Z",
-      "text": "Winston Peters criticized the India free trade agreement and made a potentially misleading claim about the immigration policy"
-    },
     {
       "date": "2026-07-01T08:44:26.600313Z",
       "text": "Winston Peters continues to make statements that contradict his previous claims and policies, and has taken aim at other parties over immigration and coalition forming."
@@ -1080,14 +1091,13 @@
     {
       "date": "2026-07-09T08:29:30.675090Z",
       "text": "Winston Peters' recent statements and actions have sparked controversy and raised questions about his integrity"
+    },
+    {
+      "date": "2026-07-10T08:16:00.998929Z",
+      "text": "Winston Peters' recent statements and actions suggest potential integrity issues and contradictions in his policy positions"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-21T08:27:45.947685Z",
-      "notes": "Peters' social media activity and public statements continue to be scrutinized",
-      "new_items": true
-    },
     {
       "date": "2026-05-22T08:17:52.758768Z",
       "notes": "Reviewed RNZ News and NZ Herald articles, as well as The Spinoff and NZ Herald Tavily sources",
@@ -1332,17 +1342,14 @@
       "date": "2026-07-09T08:29:30.675090Z",
       "notes": "Peters' Twitter activity and public statements have been inconsistent with his previous policies and actions",
       "new_items": true
+    },
+    {
+      "date": "2026-07-10T08:16:00.998929Z",
+      "notes": "Reviewed tavily sources from newsroom.co.nz, thespinoff.co.nz, rnz.co.nz, and nzherald.co.nz",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-19T09:24:40.082603Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-20T08:17:33.054584Z",
       "sources": [
@@ -1477,7 +1484,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-10T08:16:00.999085Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-09T08:29:30.675277Z"
+  "last_updated": "2026-07-10T08:16:00.999107Z"
 }

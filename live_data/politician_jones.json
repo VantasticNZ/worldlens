@@ -610,13 +610,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Investigation over passport scandal and criticism over travel bill suggest potential integrity and corruption risks"
+    },
+    "2026-07-10T08:16:58.398986Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' $63k travel bill and personal attacks on Nicola Willis have raised concerns about his integrity."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-21T08:54:34.005041Z",
-      "text": "Shane Jones' controversial comments and actions continue to spark criticism and demands for apology."
-    },
     {
       "date": "2026-06-22T10:33:24.477940Z",
       "text": "Shane Jones' recent comments and actions have raised concerns about his integrity and sparked controversy"
@@ -652,14 +653,13 @@
     {
       "date": "2026-07-09T08:30:15.442864Z",
       "text": "Shane Jones is facing multiple controversies, including an investigation over a passport scandal and criticism over a $63k travel bill"
+    },
+    {
+      "date": "2026-07-10T08:16:58.398986Z",
+      "text": "Shane Jones has faced criticism for his $63k travel bill and personal attacks on Nicola Willis, raising concerns about his integrity."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-21T08:28:37.303340Z",
-      "notes": "Shane Jones' recent events and controversies have been noted",
-      "new_items": true
-    },
     {
       "date": "2026-05-22T08:18:42.227004Z",
       "notes": "Shane Jones' recent events and comments have been added to the database",
@@ -904,16 +904,14 @@
       "date": "2026-07-09T08:30:15.442864Z",
       "notes": "Multiple sources report on Shane Jones' controversies, including a passport scandal and travel bill criticism",
       "new_items": true
+    },
+    {
+      "date": "2026-07-10T08:16:58.398986Z",
+      "notes": "Shane Jones' recent controversies have sparked debate and criticism, with some sources questioning his integrity and judgment.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-17T09:26:32.847983Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-18T09:09:46.134648Z",
       "sources": [
@@ -1044,7 +1042,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-10T08:16:58.399065Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-09T08:30:15.443028Z"
+  "last_updated": "2026-07-10T08:16:58.399085Z"
 }

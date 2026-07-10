@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 26,
+  "lie_count": 27,
   "lies": [
     {
       "date": "April 2026",
@@ -262,6 +262,16 @@
       "platform": "press_release",
       "_id": "dfc2c725",
       "_crawled": "2026-07-07T08:17:17.768684Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "National will build 1000 additional public homes in Auckland each year",
+      "reality": "Auckland will have a net loss of 285 Kāinga Ora homes in 2026",
+      "source": "Labour.org.nz, June 2026",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "0bdc94e9",
+      "_crawled": "2026-07-10T08:17:49.518403Z"
     }
   ],
   "social_posts": [
@@ -837,13 +847,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Claim of building 7,000 homes contradicted by actual funding of 2,050 homes"
+    },
+    "2026-07-10T08:17:49.518403Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Housing Minister Chris Bishop's admission of broken election promises and lack of significant progress in addressing housing shortage"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-23T08:25:15.894732Z",
-      "text": "Housing Minister Chris Bishop's recent statements on social housing have been inconsistent, prompting concerns about the government's approach to the issue"
-    },
     {
       "date": "2026-07-01T08:46:05.016504Z",
       "text": "Housing Minister Chris Bishop announced an overhaul of the social housing system, but has faced criticism and backdowns on housing density plans"
@@ -879,14 +890,13 @@
     {
       "date": "2026-07-09T08:31:30.387914Z",
       "text": "Chris Bishop's claim of building 7,000 homes has been contradicted, and the Government's housing plan has been reduced, leading to a net loss of homes in Auckland."
+    },
+    {
+      "date": "2026-07-10T08:17:49.518403Z",
+      "text": "Housing Minister Chris Bishop's credibility has taken a hit due to broken election promises and lack of progress in addressing housing shortage"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-21T08:29:20.887366Z",
-      "notes": "Reviewed Tavily sources, found one potential lie and a significant event",
-      "new_items": true
-    },
     {
       "date": "2026-05-22T08:19:37.303578Z",
       "notes": "Multiple sources indicate a significant overhaul of social housing, with potential negative consequences for many households",
@@ -1131,16 +1141,14 @@
       "date": "2026-07-09T08:31:30.387914Z",
       "notes": "Contradictions found in housing claims and actions",
       "new_items": true
+    },
+    {
+      "date": "2026-07-10T08:17:49.518403Z",
+      "notes": "Multiple sources indicate broken promises and lack of progress in housing sector",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-16T10:03:41.363160Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-17T09:27:04.672056Z",
       "sources": [
@@ -1278,7 +1286,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-10T08:17:49.518520Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-09T08:31:30.388096Z"
+  "last_updated": "2026-07-10T08:17:49.518539Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 36,
+  "lie_count": 37,
   "lies": [
     {
       "date": "2026",
@@ -362,6 +362,16 @@
       "platform": "interview",
       "_id": "bfcd3eea",
       "_crawled": "2026-07-07T08:15:24.037407Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Ongoing disruption is a reason to deepen China trade ties",
+      "reality": "This statement may be misleading as it does not consider the potential risks and complexities of deepening trade ties with China",
+      "source": "RNZ, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "1c7368c3",
+      "_crawled": "2026-07-10T08:15:37.666355Z"
     }
   ],
   "social_posts": [
@@ -714,6 +724,20 @@
       },
       "_id": "baff74f7",
       "_crawled": "2026-07-07T08:15:24.037407Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "July 2026",
+      "text": "PM Modi emplanes for Auckland, New Zealand from Melbourne for final leg of his three-nation tour",
+      "verified_by": "GDELT",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Luxon's government has been criticized for its handling of international relations, particularly with regards to China",
+        "source": "The Spinoff, 2026",
+        "severity": "med"
+      },
+      "_id": "6f11a2cc",
+      "_crawled": "2026-07-10T08:15:37.666355Z"
     }
   ],
   "votes": [
@@ -1184,10 +1208,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-29T09:21:52.787579Z",
-      "text": "Prime Minister Christopher Luxon's admission of being unaware of the lack of night shelter for rough sleepers in Auckland has sparked controversy and raised concerns about his integrity"
-    },
-    {
       "date": "2026-07-01T08:44:04.690444Z",
       "text": "Christopher Luxon's leadership and integrity are under scrutiny after potential lies and discrepancies in his statements were discovered"
     },
@@ -1222,14 +1242,13 @@
     {
       "date": "2026-07-09T08:29:08.553408Z",
       "text": "Christopher Luxon faces challenges to his leadership and policy decisions, including a party leadership vote and coalition fractures on climate change."
+    },
+    {
+      "date": "2026-07-10T08:15:37.666355Z",
+      "text": "PM Modi's visit to New Zealand marks a significant event in international relations, with potential implications for Luxon's government and its handling of trade ties with China"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-21T08:27:21.523156Z",
-      "notes": "RNZ News article found a new lie by Luxon",
-      "new_items": true
-    },
     {
       "date": "2026-05-22T08:17:33.826162Z",
       "notes": "RNZ News article contradicts Luxon's claim about Peters",
@@ -1474,16 +1493,14 @@
       "date": "2026-07-09T08:29:08.553408Z",
       "notes": "Multiple sources indicate Luxon's leadership and policy decisions are under scrutiny.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-10T08:15:37.666355Z",
+      "notes": "Reviewed GDELT and Tavily sources for updates on Christopher Luxon",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-18T09:08:51.399698Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-19T09:24:24.673171Z",
       "sources": [
@@ -1619,7 +1636,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-10T08:15:37.666508Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-09T08:29:08.553547Z"
+  "last_updated": "2026-07-10T08:15:37.666531Z"
 }

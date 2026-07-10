@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 14,
+  "lie_count": 16,
   "lies": [
     {
       "date": "May 2026",
@@ -142,6 +142,26 @@
       "platform": "interview",
       "_id": "a097cfe4",
       "_crawled": "2026-07-08T07:25:34.080917Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Labour's cost-of-living policy will help families and businesses",
+      "reality": "Labour leader Chris Hipkins accepts new cost-of-living policy won't help farmers",
+      "source": "NZ Herald, July 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "766a4dd0",
+      "_crawled": "2026-07-10T08:18:15.817296Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Rental support is not a subsidy for private landlords",
+      "reality": "Labour increased rental support in Government",
+      "source": "NZ Herald, July 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "e77b540f",
+      "_crawled": "2026-07-10T08:18:15.817296Z"
     }
   ],
   "social_posts": [
@@ -228,6 +248,20 @@
       },
       "_id": "af3bd768",
       "_crawled": "2026-07-08T07:25:34.080917Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Labour will make different choices, we have a plan that chooses real action on the cost of living",
+      "verified_by": "Labour Party Congress 2026",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Labour's cost-of-living policy won't help farmers",
+        "source": "NZ Herald, July 2026",
+        "severity": "med"
+      },
+      "_id": "9aadd656",
+      "_crawled": "2026-07-10T08:18:15.817296Z"
     }
   ],
   "votes": [],
@@ -473,13 +507,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Hipkins' acceptance of his cost-of-living policy not helping farmers and his denial of his ex-wife's claims may impact his integrity score"
+    },
+    "2026-07-10T08:18:15.817296Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Hipkins' acceptance of Labour's cost-of-living policy not helping farmers and contradiction on rental support"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-29T09:23:00.666334Z",
-      "text": "Chris Hipkins posed a rhetorical question, echoing Ronald Reagan, about whether New Zealanders are better off than three years ago"
-    },
     {
       "date": "2026-07-01T08:46:48.799362Z",
       "text": "Chris Hipkins' integrity score has been adjusted due to contradictory statements and lack of transparency in his party's policies."
@@ -515,14 +550,13 @@
     {
       "date": "2026-07-09T08:32:01.272220Z",
       "text": "Chris Hipkins faces challenges to his integrity due to his cost-of-living policy and personal life"
+    },
+    {
+      "date": "2026-07-10T08:18:15.817296Z",
+      "text": "Chris Hipkins' recent statements and policies have raised concerns about his integrity and Labour's commitment to helping all New Zealanders"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-21T08:29:47.115824Z",
-      "notes": "Multiple sources report on Hipkins' personal and political struggles, with potential implications for his leadership and Labour's campaign",
-      "new_items": true
-    },
     {
       "date": "2026-05-22T08:19:57.513396Z",
       "notes": "No significant new lies or social posts found, but new events related to Chris Hipkins' personal life and leadership",
@@ -767,16 +801,14 @@
       "date": "2026-07-09T08:32:01.272220Z",
       "notes": "Reviewed Tavily sources and NZ Herald articles",
       "new_items": true
+    },
+    {
+      "date": "2026-07-10T08:18:15.817296Z",
+      "notes": "Reviewed Labour Party Congress 2026 speech and recent news articles",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-15T10:51:35.433340Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-16T10:04:01.305874Z",
       "sources": [
@@ -910,7 +942,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-10T08:18:15.817438Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-09T08:32:01.272345Z"
+  "last_updated": "2026-07-10T08:18:15.817458Z"
 }
