@@ -800,6 +800,20 @@
       },
       "_id": "4f62f697",
       "_crawled": "2026-07-09T08:33:17.599680Z"
+    },
+    {
+      "platform": "Truth Social",
+      "date": "June 30, 2026",
+      "text": "The United States Supreme Court just ruled against men playing in women's sports.",
+      "verified_by": "politifact.com",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "The statement is half-true.",
+        "source": "politifact.com",
+        "severity": "med"
+      },
+      "_id": "032b00cf",
+      "_crawled": "2026-07-11T07:10:31.797426Z"
     }
   ],
   "votes": [
@@ -1316,13 +1330,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's exaggeration of the amount spent by previous administrations on the Lincoln Memorial Reflecting Pool reduces his integrity score."
+    },
+    "2026-07-11T07:10:31.797426Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The addition of a new lie and a misleading social post statement have negatively impacted the integrity score."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-01T08:48:05.239797Z",
-      "text": "Trump's recent actions and statements have raised concerns about his integrity and policies."
-    },
     {
       "date": "2026-07-02T08:03:22.694955Z",
       "text": "Trump's appeal has failed, and he has been ordered to pay $5m, while the US Supreme Court has dealt heavy defeats to him."
@@ -1358,14 +1373,13 @@
     {
       "date": "2026-07-10T08:19:02.721075Z",
       "text": "Trump's recent statements have been fact-checked and found to be inaccurate, further eroding his credibility."
+    },
+    {
+      "date": "2026-07-11T07:10:31.797426Z",
+      "text": "Donald Trump's administration has rolled back a key protection for imperiled wildlife, and he has made several misleading statements, including a claim about the Biden and Obama administrations' spending on the Lincoln Memorial Reflecting Pool."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-22T08:20:52.330745Z",
-      "notes": "Multiple sources confirm Trump's continued pattern of dishonesty and contradictory statements",
-      "new_items": true
-    },
     {
       "date": "2026-05-23T07:29:16.285998Z",
       "notes": "Multiple sources indicate ongoing controversies and potential corruption risks surrounding Trump",
@@ -1610,17 +1624,14 @@
       "date": "2026-07-10T08:19:02.721075Z",
       "notes": "FactCheck.org and PolitiFact provided the most relevant information for this update.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-11T07:10:31.797426Z",
+      "notes": "Multiple sources confirm Trump's statements and actions, including factcheck.org, kuaf.com, and newsradio1410.iheart.com.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-21T08:56:01.541837Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-22T10:34:56.514387Z",
       "sources": [
@@ -1757,7 +1768,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-11T07:10:31.797605Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-10T08:19:02.721329Z"
+  "last_updated": "2026-07-11T07:10:31.797626Z"
 }

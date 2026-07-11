@@ -1053,13 +1053,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Winston Peters' contradictory statements and actions suggest a potential integrity issue"
+    },
+    "2026-07-11T07:07:11.470031Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' inconsistent statements and actions suggest a potential integrity issue"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-01T08:44:26.600313Z",
-      "text": "Winston Peters continues to make statements that contradict his previous claims and policies, and has taken aim at other parties over immigration and coalition forming."
-    },
     {
       "date": "2026-07-02T08:00:14.305870Z",
       "text": "Winston Peters' recent statements and proposals have raised concerns about his party's policies and intentions."
@@ -1095,14 +1096,13 @@
     {
       "date": "2026-07-10T08:16:00.998929Z",
       "text": "Winston Peters' recent statements and actions suggest potential integrity issues and contradictions in his policy positions"
+    },
+    {
+      "date": "2026-07-11T07:07:11.470031Z",
+      "text": "Winston Peters' recent statements and actions suggest potential integrity issues and contradictions with previous policies"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-22T08:17:52.758768Z",
-      "notes": "Reviewed RNZ News and NZ Herald articles, as well as The Spinoff and NZ Herald Tavily sources",
-      "new_items": true
-    },
     {
       "date": "2026-05-23T07:26:26.598747Z",
       "notes": "Multiple sources indicate ongoing contradictions and controversies surrounding Winston Peters",
@@ -1347,17 +1347,14 @@
       "date": "2026-07-10T08:16:00.998929Z",
       "notes": "Reviewed tavily sources from newsroom.co.nz, thespinoff.co.nz, rnz.co.nz, and nzherald.co.nz",
       "new_items": true
+    },
+    {
+      "date": "2026-07-11T07:07:11.470031Z",
+      "notes": "Peters' Twitter activity and public statements show inconsistencies and potential for deal with Labour despite denials",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-20T08:17:33.054584Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-21T08:54:02.770703Z",
       "sources": [
@@ -1491,7 +1488,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-11T07:07:11.470170Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-10T08:16:00.999107Z"
+  "last_updated": "2026-07-11T07:07:11.470193Z"
 }

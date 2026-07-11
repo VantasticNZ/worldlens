@@ -452,6 +452,20 @@
       },
       "_id": "e8111a33",
       "_crawled": "2026-07-06T08:59:11.867495Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "only Labour is putting the national interest first",
+      "verified_by": "The Guardian, May 6, 2026",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "Labour's actions have been criticized for being indecisive and lacking charisma",
+        "source": "Reuters, May 12, 2026",
+        "severity": "med"
+      },
+      "_id": "b34625fa",
+      "_crawled": "2026-07-11T07:11:15.209479Z"
     }
   ],
   "votes": [],
@@ -912,13 +926,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "resignation and contradiction with previous statements"
+    },
+    "2026-07-11T07:11:15.209479Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Keir Starmer's resignation and criticism of his actions and policies have negatively impacted his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-01T08:48:52.085814Z",
-      "text": "Keir Starmer announces resignation as UK prime minister and declines to rule out breaking manifesto tax pledges"
-    },
     {
       "date": "2026-07-02T08:04:11.012363Z",
       "text": "Keir Starmer's resignation as UK PM has highlighted concerns about his government's actions and policies, including broken promises and policy U-turns."
@@ -954,14 +969,13 @@
     {
       "date": "2026-07-10T08:19:44.868179Z",
       "text": "Keir Starmer resigned as Prime Minister in June 2026, and his previous statements have been contradicted by his actions"
+    },
+    {
+      "date": "2026-07-11T07:11:15.209479Z",
+      "text": "Keir Starmer's resignation as Prime Minister has significant implications for UK politics, following criticism of his actions and policies"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-22T08:21:27.865956Z",
-      "notes": "The Guardian and BBC News were the main sources for this update",
-      "new_items": true
-    },
     {
       "date": "2026-05-23T07:29:59.162591Z",
       "notes": "multiple sources indicate leadership challenge and criticism of Starmer's promises",
@@ -1206,17 +1220,14 @@
       "date": "2026-07-10T08:19:44.868179Z",
       "notes": "Resignation and contradictions with previous statements",
       "new_items": true
+    },
+    {
+      "date": "2026-07-11T07:11:15.209479Z",
+      "notes": "Resignation and criticism of Keir Starmer's actions and policies have been verified through multiple sources",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-15T10:52:31.422808Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-06-16T10:05:20.050638Z",
       "sources": [
@@ -1350,7 +1361,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-11T07:11:15.209596Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-10T08:19:44.868349Z"
+  "last_updated": "2026-07-11T07:11:15.209615Z"
 }

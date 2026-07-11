@@ -852,13 +852,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Housing Minister Chris Bishop's admission of broken election promises and lack of significant progress in addressing housing shortage"
+    },
+    "2026-07-11T07:09:16.531194Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Broken promise on Auckland housing"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-01T08:46:05.016504Z",
-      "text": "Housing Minister Chris Bishop announced an overhaul of the social housing system, but has faced criticism and backdowns on housing density plans"
-    },
     {
       "date": "2026-07-02T08:01:54.907214Z",
       "text": "Housing Minister Chris Bishop announced an overhaul of the social housing system, but some statements have been misleading or lacking in detail"
@@ -894,14 +895,13 @@
     {
       "date": "2026-07-10T08:17:49.518403Z",
       "text": "Housing Minister Chris Bishop's credibility has taken a hit due to broken election promises and lack of progress in addressing housing shortage"
+    },
+    {
+      "date": "2026-07-11T07:09:16.531194Z",
+      "text": "Housing Minister Chris Bishop has announced an overhaul of the social housing system, but has also broken a promise on building additional public homes in Auckland."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-22T08:19:37.303578Z",
-      "notes": "Multiple sources indicate a significant overhaul of social housing, with potential negative consequences for many households",
-      "new_items": true
-    },
     {
       "date": "2026-05-23T07:28:01.262480Z",
       "notes": "Minister's statements and actions may be contradictory, further review recommended",
@@ -1146,16 +1146,14 @@
       "date": "2026-07-10T08:17:49.518403Z",
       "notes": "Multiple sources indicate broken promises and lack of progress in housing sector",
       "new_items": true
+    },
+    {
+      "date": "2026-07-11T07:09:16.531194Z",
+      "notes": "Multiple sources confirm broken promise on Auckland housing",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-17T09:27:04.672056Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-18T09:10:27.197590Z",
       "sources": [
@@ -1294,7 +1292,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-11T07:09:16.531311Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-10T08:17:49.518539Z"
+  "last_updated": "2026-07-11T07:09:16.531330Z"
 }

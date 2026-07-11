@@ -738,6 +738,20 @@
       },
       "_id": "6f11a2cc",
       "_crawled": "2026-07-10T08:15:37.666355Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "July 2026",
+      "text": "Luxon and Modi agree on partnership with trade and maritime security ambitions",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Previous statements on trade and security ambitions may contradict this new partnership",
+        "source": "RNZ News",
+        "severity": "low"
+      },
+      "_id": "a8f8fcc1",
+      "_crawled": "2026-07-11T07:06:34.371055Z"
     }
   ],
   "votes": [
@@ -1208,10 +1222,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-01T08:44:04.690444Z",
-      "text": "Christopher Luxon's leadership and integrity are under scrutiny after potential lies and discrepancies in his statements were discovered"
-    },
-    {
       "date": "2026-07-02T07:59:51.995022Z",
       "text": "Christopher Luxon's integrity score has been adjusted due to contradictory statements and climate change policy controversy"
     },
@@ -1246,14 +1256,13 @@
     {
       "date": "2026-07-10T08:15:37.666355Z",
       "text": "PM Modi's visit to New Zealand marks a significant event in international relations, with potential implications for Luxon's government and its handling of trade ties with China"
+    },
+    {
+      "date": "2026-07-11T07:06:34.371055Z",
+      "text": "Luxon agrees on partnership with Modi, potentially contradicting previous trade and security ambitions statements"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-22T08:17:33.826162Z",
-      "notes": "RNZ News article contradicts Luxon's claim about Peters",
-      "new_items": true
-    },
     {
       "date": "2026-05-23T07:26:03.203005Z",
       "notes": "The Spinoff articles provided significant new information about the Prime Minister's statements and actions",
@@ -1498,16 +1507,14 @@
       "date": "2026-07-10T08:15:37.666355Z",
       "notes": "Reviewed GDELT and Tavily sources for updates on Christopher Luxon",
       "new_items": true
+    },
+    {
+      "date": "2026-07-11T07:06:34.371055Z",
+      "notes": "RNZ News and Tavily sources used to extract new information",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-19T09:24:24.673171Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-20T08:17:12.066356Z",
       "sources": [
@@ -1644,7 +1651,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-11T07:06:34.371185Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-10T08:15:37.666531Z"
+  "last_updated": "2026-07-11T07:06:34.371205Z"
 }

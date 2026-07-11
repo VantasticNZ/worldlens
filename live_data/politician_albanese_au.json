@@ -288,11 +288,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-22T08:21:09.025699Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-05-23T07:29:43.783525Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -536,16 +531,14 @@
       "date": "2026-07-10T08:19:23.600677Z",
       "notes": "No significant new findings except for Albanese skipping Garma festival",
       "new_items": true
+    },
+    {
+      "date": "2026-07-11T07:10:53.438632Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-15T10:52:17.626867Z",
-      "sources": [
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-06-16T10:04:59.029755Z",
       "sources": [
@@ -678,7 +671,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-11T07:10:53.438646Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-10T08:19:23.600760Z"
+  "last_updated": "2026-07-11T07:10:53.438666Z"
 }
