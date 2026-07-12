@@ -1264,11 +1264,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-23T07:26:03.203005Z",
-      "notes": "The Spinoff articles provided significant new information about the Prime Minister's statements and actions",
-      "new_items": true
-    },
-    {
       "date": "2026-05-24T07:45:48.867988Z",
       "notes": "Reviewed articles from The Spinoff, The Guardian, and other sources",
       "new_items": true
@@ -1512,17 +1507,14 @@
       "date": "2026-07-11T07:06:34.371055Z",
       "notes": "RNZ News and Tavily sources used to extract new information",
       "new_items": true
+    },
+    {
+      "date": "2026-07-12T07:24:14.336867Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-20T08:17:12.066356Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-21T08:53:48.093347Z",
       "sources": [
@@ -1659,7 +1651,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-12T07:24:14.336883Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-11T07:06:34.371205Z"
+  "last_updated": "2026-07-12T07:24:14.336909Z"
 }

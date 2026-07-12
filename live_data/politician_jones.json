@@ -620,13 +620,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Investigation over passport scandal and defense of $63k travel bill raise concerns about integrity and corruption risk."
+    },
+    "2026-07-12T07:25:29.661417Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Shane Jones' travel bill controversy and demands for apology have raised concerns about his integrity and corruption risk."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-02T08:01:06.514288Z",
-      "text": "Shane Jones' controversial fishing bill has failed, and he has faced criticism for his comments and actions, including a demand for an apology from Ngāti Ruanui."
-    },
     {
       "date": "2026-07-03T07:56:28.610829Z",
       "text": "Shane Jones faces controversy over his $63k travel bill and comments deemed 'shameful' by Ngāti Ruanui."
@@ -662,14 +663,13 @@
     {
       "date": "2026-07-11T07:08:27.372452Z",
       "text": "Shane Jones is facing investigation over a passport scandal and has defended his $63k travel bill, raising concerns about his integrity and corruption risk."
+    },
+    {
+      "date": "2026-07-12T07:25:29.661417Z",
+      "text": "Shane Jones has faced criticism and controversy over his travel bill and comments, leading to demands for apology and concerns about his integrity and corruption risk."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-23T07:27:12.523580Z",
-      "notes": "Shane Jones' recent comments and actions have raised concerns about his integrity and judgment",
-      "new_items": true
-    },
     {
       "date": "2026-05-24T07:46:37.838462Z",
       "notes": "No significant new lies or social posts found, but new events and summary update added",
@@ -914,17 +914,14 @@
       "date": "2026-07-11T07:08:27.372452Z",
       "notes": "Investigation and travel bill defense may impact public perception of Shane Jones",
       "new_items": true
+    },
+    {
+      "date": "2026-07-12T07:25:29.661417Z",
+      "notes": "Multiple sources report on Shane Jones' controversies, including travel bill and comments.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-19T09:25:13.263738Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-20T08:18:05.880671Z",
       "sources": [
@@ -1053,7 +1050,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-12T07:25:29.661573Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-11T07:08:27.372556Z"
+  "last_updated": "2026-07-12T07:25:29.661597Z"
 }

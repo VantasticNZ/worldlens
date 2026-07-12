@@ -903,11 +903,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-23T07:28:01.262480Z",
-      "notes": "Minister's statements and actions may be contradictory, further review recommended",
-      "new_items": true
-    },
-    {
       "date": "2026-05-24T07:47:11.471377Z",
       "notes": "Minister's statements and actions on social housing reform may be contradictory and misleading",
       "new_items": true
@@ -1151,17 +1146,14 @@
       "date": "2026-07-11T07:09:16.531194Z",
       "notes": "Multiple sources confirm broken promise on Auckland housing",
       "new_items": true
+    },
+    {
+      "date": "2026-07-12T07:26:27.269789Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-18T09:10:27.197590Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-19T09:25:47.997972Z",
       "sources": [
@@ -1300,7 +1292,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-12T07:26:27.269804Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-11T07:09:16.531330Z"
+  "last_updated": "2026-07-12T07:26:27.269826Z"
 }

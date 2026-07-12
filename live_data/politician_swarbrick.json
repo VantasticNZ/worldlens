@@ -403,11 +403,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-23T07:28:52.615349Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-05-24T07:47:43.292653Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -651,16 +646,14 @@
       "date": "2026-07-11T07:10:06.644138Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-12T07:27:41.398933Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-16T10:04:23.869243Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-17T09:27:37.180715Z",
       "sources": [
@@ -792,7 +785,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-12T07:27:41.398949Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-11T07:10:06.644173Z"
+  "last_updated": "2026-07-12T07:27:41.398973Z"
 }

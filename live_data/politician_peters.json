@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 31,
+  "lie_count": 32,
   "lies": [
     {
       "date": "March 2026",
@@ -312,6 +312,16 @@
       "platform": "twitter",
       "_id": "8471d77b",
       "_crawled": "2026-07-10T08:16:00.998929Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Winston Peters says NZ First won't do a deal with Labour",
+      "reality": "Previous statements and actions suggest otherwise, with potential for future coalition",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "twitter",
+      "_id": "263e473e",
+      "_crawled": "2026-07-12T07:24:39.809152Z"
     }
   ],
   "social_posts": [
@@ -1058,13 +1068,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' inconsistent statements and actions suggest a potential integrity issue"
+    },
+    "2026-07-12T07:24:39.809152Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' inconsistent statements on coalition with Labour"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-02T08:00:14.305870Z",
-      "text": "Winston Peters' recent statements and proposals have raised concerns about his party's policies and intentions."
-    },
     {
       "date": "2026-07-03T07:55:46.899469Z",
       "text": "Winston Peters continues to make statements and proposals, but details are often flexible or lacking"
@@ -1100,14 +1111,13 @@
     {
       "date": "2026-07-11T07:07:11.470031Z",
       "text": "Winston Peters' recent statements and actions suggest potential integrity issues and contradictions with previous policies"
+    },
+    {
+      "date": "2026-07-12T07:24:39.809152Z",
+      "text": "Winston Peters' recent statements and policies suggest inconsistency and potential for future coalition with Labour, despite claims otherwise"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-23T07:26:26.598747Z",
-      "notes": "Multiple sources indicate ongoing contradictions and controversies surrounding Winston Peters",
-      "new_items": true
-    },
     {
       "date": "2026-05-24T07:46:04.461845Z",
       "notes": "Peters' social media posts and public statements have been inconsistent and contradictory",
@@ -1352,16 +1362,14 @@
       "date": "2026-07-11T07:07:11.470031Z",
       "notes": "Peters' Twitter activity and public statements show inconsistencies and potential for deal with Labour despite denials",
       "new_items": true
+    },
+    {
+      "date": "2026-07-12T07:24:39.809152Z",
+      "notes": "Peters' tweets and public statements often contradict previous actions and policies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-21T08:54:02.770703Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-06-22T10:32:46.335561Z",
       "sources": [
@@ -1495,7 +1503,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-12T07:24:39.809344Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-11T07:07:11.470193Z"
+  "last_updated": "2026-07-12T07:24:39.809367Z"
 }

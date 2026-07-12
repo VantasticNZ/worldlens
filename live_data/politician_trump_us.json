@@ -1335,13 +1335,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The addition of a new lie and a misleading social post statement have negatively impacted the integrity score."
+    },
+    "2026-07-12T07:28:16.806494Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Due to the discovery of new lies and discrepancies in Trump's statements."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-02T08:03:22.694955Z",
-      "text": "Trump's appeal has failed, and he has been ordered to pay $5m, while the US Supreme Court has dealt heavy defeats to him."
-    },
     {
       "date": "2026-07-03T07:58:11.831698Z",
       "text": "New findings suggest President Trump has made additional false claims and is involved in controversial events"
@@ -1377,14 +1378,13 @@
     {
       "date": "2026-07-11T07:10:31.797426Z",
       "text": "Donald Trump's administration has rolled back a key protection for imperiled wildlife, and he has made several misleading statements, including a claim about the Biden and Obama administrations' spending on the Lincoln Memorial Reflecting Pool."
+    },
+    {
+      "date": "2026-07-12T07:28:16.806494Z",
+      "text": "New lies and discrepancies were found in Trump's statements, including the exaggeration of previous administrations' spending on the Lincoln Memorial Reflecting Pool and false claims about his cognitive test results."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-23T07:29:16.285998Z",
-      "notes": "Multiple sources indicate ongoing controversies and potential corruption risks surrounding Trump",
-      "new_items": true
-    },
     {
       "date": "2026-05-24T07:48:19.788380Z",
       "notes": "Multiple sources confirm Trump's lies and contradictory statements, including PolitiFact and BBC World",
@@ -1629,17 +1629,14 @@
       "date": "2026-07-11T07:10:31.797426Z",
       "notes": "Multiple sources confirm Trump's statements and actions, including factcheck.org, kuaf.com, and newsradio1410.iheart.com.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-12T07:28:16.806494Z",
+      "notes": "Multiple sources confirm Trump's pattern of making false or misleading statements.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-22T10:34:56.514387Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-23T08:26:13.498827Z",
       "sources": [
@@ -1776,7 +1773,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-12T07:28:16.806672Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-11T07:10:31.797626Z"
+  "last_updated": "2026-07-12T07:28:16.806691Z"
 }
