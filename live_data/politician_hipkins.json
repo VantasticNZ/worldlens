@@ -535,10 +535,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-02T08:02:26.402147Z",
-      "text": "Chris Hipkins' recent statements have raised concerns about Labour's policies and his own integrity"
-    },
-    {
       "date": "2026-07-03T07:57:32.656584Z",
       "text": "Chris Hipkins made a misleading statement about the NZ Future Fund policy and announced a cost of living relief policy that may not help farmers"
     },
@@ -573,14 +569,13 @@
     {
       "date": "2026-07-11T07:09:39.535847Z",
       "text": "Chris Hipkins faces scrutiny over personal scandal and contradictory statements on rental support"
+    },
+    {
+      "date": "2026-07-13T08:12:05.441647Z",
+      "text": "Chris Hipkins' recent statements and events continue to raise questions about his integrity and policy consistency."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-24T07:47:26.326803Z",
-      "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins and Labour Party",
-      "new_items": true
-    },
     {
       "date": "2026-05-25T08:53:06.138350Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins' statements and approach to election 2026",
@@ -825,16 +820,14 @@
       "date": "2026-07-12T07:27:04.752890Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins' recent activities",
       "new_items": true
+    },
+    {
+      "date": "2026-07-13T08:12:05.441647Z",
+      "notes": "Reviewed RNZ News, NZ Herald, and Labour Party Congress 2026 sources",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-18T09:10:46.079471Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-19T09:26:05.449917Z",
       "sources": [
@@ -968,7 +961,15 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-13T08:12:05.441782Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-12T07:27:04.753002Z"
+  "last_updated": "2026-07-13T08:12:05.441805Z"
 }

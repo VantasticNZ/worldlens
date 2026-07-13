@@ -752,6 +752,20 @@
       },
       "_id": "a8f8fcc1",
       "_crawled": "2026-07-11T07:06:34.371055Z"
+    },
+    {
+      "platform": "speech",
+      "date": "July 2026",
+      "text": "wants to brutally commercialise our science system",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "previous statements emphasized cautious approach to science commercialization",
+        "source": "RNZ News",
+        "severity": "med"
+      },
+      "_id": "fadb9d47",
+      "_crawled": "2026-07-13T08:09:38.150292Z"
     }
   ],
   "votes": [
@@ -1222,10 +1236,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-02T07:59:51.995022Z",
-      "text": "Christopher Luxon's integrity score has been adjusted due to contradictory statements and climate change policy controversy"
-    },
-    {
       "date": "2026-07-03T07:55:24.937833Z",
       "text": "Christopher Luxon's recent statements and policies have been scrutinized, including his support for the Crusaders and his immigration policy"
     },
@@ -1260,14 +1270,13 @@
     {
       "date": "2026-07-11T07:06:34.371055Z",
       "text": "Luxon agrees on partnership with Modi, potentially contradicting previous trade and security ambitions statements"
+    },
+    {
+      "date": "2026-07-13T08:09:38.150292Z",
+      "text": "Luxon agrees on partnership with India and survives party leadership vote"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-24T07:45:48.867988Z",
-      "notes": "Reviewed articles from The Spinoff, The Guardian, and other sources",
-      "new_items": true
-    },
     {
       "date": "2026-05-25T08:50:48.030670Z",
       "notes": "RNZ News and AP News articles reviewed",
@@ -1512,16 +1521,14 @@
       "date": "2026-07-12T07:24:14.336867Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-13T08:09:38.150292Z",
+      "notes": "Reviewed RNZ News, AP News, and The Spinoff articles for updates on Christopher Luxon",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-21T08:53:48.093347Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-22T10:32:24.552419Z",
       "sources": [
@@ -1659,7 +1666,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-13T08:09:38.150455Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-12T07:24:14.336909Z"
+  "last_updated": "2026-07-13T08:09:38.150481Z"
 }
