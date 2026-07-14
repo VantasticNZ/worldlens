@@ -642,11 +642,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-25T08:52:12.412735Z",
-      "notes": "Multiple sources reported on Nicola Willis' recent statements and actions, including her apology for a social housing comment and her announcement of public service cuts.",
-      "new_items": true
-    },
-    {
       "date": "2026-05-26T08:28:20.735467Z",
       "notes": "No significant new lies, social posts, or votes found",
       "new_items": true
@@ -890,16 +885,14 @@
       "date": "2026-07-13T08:11:18.006781Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-14T07:05:17.280312Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-17T09:26:48.518160Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-06-18T09:10:01.856469Z",
       "sources": [
@@ -1043,7 +1036,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-14T07:05:17.280325Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-13T08:11:18.006822Z"
+  "last_updated": "2026-07-14T07:05:17.280345Z"
 }

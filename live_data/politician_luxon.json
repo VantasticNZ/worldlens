@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 37,
+  "lie_count": 39,
   "lies": [
     {
       "date": "2026",
@@ -372,6 +372,26 @@
       "platform": "speech",
       "_id": "1c7368c3",
       "_crawled": "2026-07-10T08:15:37.666355Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "More unfunded spending from Labour",
+      "reality": "No evidence of more unfunded spending from Labour",
+      "source": "RNZ, 29 June 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "c8dd95a0",
+      "_crawled": "2026-07-14T07:03:35.944324Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Winston Peters is 'just simply wrong' about the India FTA",
+      "reality": "No clear evidence to support this claim",
+      "source": "RNZ, 29 June 2026",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "ccdc4114",
+      "_crawled": "2026-07-14T07:03:35.944324Z"
     }
   ],
   "social_posts": [
@@ -1232,13 +1252,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's handling of documents and his coalition's fracture on climate policy raise concerns about his integrity"
+    },
+    "2026-07-14T07:03:35.944324Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Recent lies and discrepancies in statements have led to a decrease in integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-03T07:55:24.937833Z",
-      "text": "Christopher Luxon's recent statements and policies have been scrutinized, including his support for the Crusaders and his immigration policy"
-    },
     {
       "date": "2026-07-04T07:36:58.155639Z",
       "text": "Christopher Luxon's recent statements and events have been added to the database"
@@ -1274,14 +1295,13 @@
     {
       "date": "2026-07-13T08:09:38.150292Z",
       "text": "Luxon agrees on partnership with India and survives party leadership vote"
+    },
+    {
+      "date": "2026-07-14T07:03:35.944324Z",
+      "text": "Luxon faces increasing criticism over his leadership and statements, with recent polls showing the National party at a new low"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-25T08:50:48.030670Z",
-      "notes": "RNZ News and AP News articles reviewed",
-      "new_items": true
-    },
     {
       "date": "2026-05-26T08:26:55.492016Z",
       "notes": "Staffer who received climate lobbying document reportedly left their position",
@@ -1526,17 +1546,14 @@
       "date": "2026-07-13T08:09:38.150292Z",
       "notes": "Reviewed RNZ News, AP News, and The Spinoff articles for updates on Christopher Luxon",
       "new_items": true
+    },
+    {
+      "date": "2026-07-14T07:03:35.944324Z",
+      "notes": "Multiple sources indicate a decline in Luxon's popularity and integrity",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-22T10:32:24.552419Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-23T08:23:52.899841Z",
       "sources": [
@@ -1674,7 +1691,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-14T07:03:35.944529Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-13T08:09:38.150481Z"
+  "last_updated": "2026-07-14T07:03:35.944552Z"
 }

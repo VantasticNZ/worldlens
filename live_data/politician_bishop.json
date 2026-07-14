@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 28,
+  "lie_count": 29,
   "lies": [
     {
       "date": "April 2026",
@@ -282,6 +282,16 @@
       "platform": "press_release",
       "_id": "98c26b07",
       "_crawled": "2026-07-13T08:11:41.490467Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Everything is 'on track' with social housing delivery",
+      "reality": "Officials had been warning of delays since at least August",
+      "source": "Labour Party release, www.labour.org.nz",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "5a10694a",
+      "_crawled": "2026-07-14T07:05:42.153991Z"
     }
   ],
   "social_posts": [
@@ -872,13 +882,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Introduction of duration limits and potential conflicts of interest regarding the City Link bridge"
+    },
+    "2026-07-14T07:05:42.153991Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "The Auditor General's criticism of Chris Bishop's conflict of interest management and the broken promise on Auckland housing suggest a lack of integrity and increased corruption risk"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-03T07:57:12.310475Z",
-      "text": "Chris Bishop's recent statements and actions on social housing have sparked controversy and raised questions about the government's approach to addressing housing needs"
-    },
     {
       "date": "2026-07-04T07:38:31.232768Z",
       "text": "Chris Bishop's social housing overhaul announcement has raised concerns about the potential negative impact on those in need, contradicting his claims of improving the system"
@@ -914,14 +925,13 @@
     {
       "date": "2026-07-13T08:11:41.490467Z",
       "text": "Housing Minister Chris Bishop announces social housing overhaul with potential duration limits, raising concerns about support for those in need."
+    },
+    {
+      "date": "2026-07-14T07:05:42.153991Z",
+      "text": "Chris Bishop faces criticism for conflict of interest management and broken promises on housing"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-25T08:52:36.143206Z",
-      "notes": "Minister's statements and actions on social housing reform may be contradictory and misleading",
-      "new_items": true
-    },
     {
       "date": "2026-05-26T08:28:36.396232Z",
       "notes": "No results",
@@ -1166,17 +1176,14 @@
       "date": "2026-07-13T08:11:41.490467Z",
       "notes": "Multiple sources indicate a shift in social housing policy, with potential negative consequences for those in need.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-14T07:05:42.153991Z",
+      "notes": "Multiple sources indicate Chris Bishop's credibility is under question due to conflict of interest and broken promises",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-20T08:18:43.927078Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-21T08:55:10.283931Z",
       "sources": [
@@ -1314,7 +1321,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-14T07:05:42.154157Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-13T08:11:41.490639Z"
+  "last_updated": "2026-07-14T07:05:42.154177Z"
 }

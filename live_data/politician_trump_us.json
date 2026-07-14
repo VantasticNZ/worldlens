@@ -1345,13 +1345,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The new lies and discrepancies found in the social posts contribute to the decrease in integrity score."
+    },
+    "2026-07-14T07:07:05.437578Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "The new findings of lies and discrepancies in Trump's statements and actions have decreased his integrity score and increased his corruption risk score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-04T07:39:27.756187Z",
-      "text": "Donald Trump has made several false claims in recent months, including statements on gasoline prices, consumer confidence, and the Lincoln Memorial Reflecting Pool maintenance."
-    },
     {
       "date": "2026-07-05T07:54:21.226075Z",
       "text": "Donald Trump has been found to have made additional false claims, including about gasoline prices and consumer confidence"
@@ -1387,14 +1388,13 @@
     {
       "date": "2026-07-13T08:12:54.784286Z",
       "text": "New lies and discrepancies were found, and the US-Iran conflict is escalating."
+    },
+    {
+      "date": "2026-07-14T07:07:05.437578Z",
+      "text": "New findings of lies and discrepancies in Trump's statements and actions have decreased his integrity score and increased his corruption risk score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-25T08:53:36.520987Z",
-      "notes": "New events and developments related to Trump's activities and policies",
-      "new_items": true
-    },
     {
       "date": "2026-05-26T08:29:21.480113Z",
       "notes": "No significant new findings",
@@ -1639,15 +1639,14 @@
       "date": "2026-07-13T08:12:54.784286Z",
       "notes": "Lindsey Graham's death and the US-Iran conflict are significant events that may impact Trump's policies and actions.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-14T07:07:05.437578Z",
+      "notes": "New lies and discrepancies found in Trump's statements and actions, including a voided settlement with the IRS",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-24T08:19:50.336828Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-25T08:19:01.366034Z",
       "sources": [
@@ -1790,7 +1789,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-14T07:07:05.437856Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-13T08:12:54.784526Z"
+  "last_updated": "2026-07-14T07:07:05.437874Z"
 }
