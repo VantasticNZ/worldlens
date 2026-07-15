@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 15,
+  "lie_count": 16,
   "lies": [
     {
       "date": "March 2026",
@@ -152,6 +152,16 @@
       "platform": "interview",
       "_id": "d289563e",
       "_crawled": "2026-07-05T07:52:55.316547Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Critics of fisheries bill are 'noisy voices'",
+      "reality": "Critics argue that the bill has significant environmental and social implications",
+      "source": "RNZ, June 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "851641b3",
+      "_crawled": "2026-07-15T07:08:15.057774Z"
     }
   ],
   "social_posts": [
@@ -630,13 +640,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Shane Jones' travel bill and comparison of India FTA to 'butter chicken tsunami' raise concerns about his integrity and corruption risk"
+    },
+    "2026-07-15T07:08:15.057774Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Shane Jones' comments on India FTA and critics of fisheries bill, as well as his $63k travel bill, have raised concerns about his integrity and corruption risk"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-05T07:52:55.316547Z",
-      "text": "Shane Jones is facing investigation over a passport scandal and his controversial fishing bill has failed, raising concerns about his integrity and corruption risk"
-    },
     {
       "date": "2026-07-06T08:56:03.988994Z",
       "text": "Shane Jones faces investigation over passport scandal and criticism for $63k travel bill, prompting concerns about his integrity and corruption risk."
@@ -672,14 +683,13 @@
     {
       "date": "2026-07-14T07:04:54.043902Z",
       "text": "Shane Jones' recent statements and actions have raised concerns about his integrity and corruption risk"
+    },
+    {
+      "date": "2026-07-15T07:08:15.057774Z",
+      "text": "Shane Jones has faced criticism over his comments on India FTA and critics of fisheries bill, as well as his $63k travel bill, which has raised concerns about his integrity and corruption risk"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-26T08:27:51.622231Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-27T08:35:07.623875Z",
       "notes": "Article from Newsroom highlights Jones' controversial comments, but no specific quotes or claims could be verified as lies.",
@@ -924,16 +934,14 @@
       "date": "2026-07-14T07:04:54.043902Z",
       "notes": "Reviewed Tavily sources and RNZ articles",
       "new_items": true
+    },
+    {
+      "date": "2026-07-15T07:08:15.057774Z",
+      "notes": "Shane Jones' recent comments and actions have sparked controversy and criticism",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-22T10:33:24.478058Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-06-23T08:24:42.175169Z",
       "sources": [
@@ -1063,7 +1071,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-15T07:08:15.057915Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-14T07:04:54.044012Z"
+  "last_updated": "2026-07-15T07:08:15.057934Z"
 }

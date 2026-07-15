@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 74,
+  "lie_count": 75,
   "lies": [
     {
       "date": "January 2026",
@@ -742,6 +742,16 @@
       "platform": "Truth Social",
       "_id": "032b00cf",
       "_crawled": "2026-07-08T07:26:44.250554Z"
+    },
+    {
+      "date": "July 1, 2026",
+      "claim": "You know why I'm profiting? Because the stock market's going up. ... I'm profiting because the stock market is going up.",
+      "reality": "No evidence to support the claim that Trump's profits are directly related to the stock market's performance.",
+      "source": "PolitiFact, July 2026",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "ea895867",
+      "_crawled": "2026-07-15T07:10:19.021720Z"
     }
   ],
   "social_posts": [
@@ -1350,13 +1360,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "The new findings of lies and discrepancies in Trump's statements and actions have decreased his integrity score and increased his corruption risk score"
+    },
+    "2026-07-15T07:10:19.021720Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Trump's continued pattern of dishonesty and contradictory statements, as well as the voiding of his settlement with the IRS, contribute to the adjustments."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-05T07:54:21.226075Z",
-      "text": "Donald Trump has been found to have made additional false claims, including about gasoline prices and consumer confidence"
-    },
     {
       "date": "2026-07-06T08:58:34.269209Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and commitment to truth"
@@ -1392,14 +1403,13 @@
     {
       "date": "2026-07-14T07:07:05.437578Z",
       "text": "New findings of lies and discrepancies in Trump's statements and actions have decreased his integrity score and increased his corruption risk score"
+    },
+    {
+      "date": "2026-07-15T07:10:19.021720Z",
+      "text": "Trump's recent lies and social posts continue to raise concerns about his integrity, while the voiding of his settlement with the IRS increases his corruption risk."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-26T08:29:21.480113Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-27T08:36:17.436296Z",
       "notes": "No significant new findings",
@@ -1644,15 +1654,14 @@
       "date": "2026-07-14T07:07:05.437578Z",
       "notes": "New lies and discrepancies found in Trump's statements and actions, including a voided settlement with the IRS",
       "new_items": true
+    },
+    {
+      "date": "2026-07-15T07:10:19.021720Z",
+      "notes": "Multiple sources confirm Trump's ongoing pattern of dishonesty and contradictory statements.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-25T08:19:01.366034Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-26T08:27:44.729010Z",
       "sources": [
@@ -1797,7 +1806,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-15T07:10:19.021996Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-14T07:07:05.437874Z"
+  "last_updated": "2026-07-15T07:10:19.022015Z"
 }

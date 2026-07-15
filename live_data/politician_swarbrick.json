@@ -1,7 +1,7 @@
 {
   "id": "swarbrick",
   "type": "politician",
-  "lie_count": 2,
+  "lie_count": 3,
   "lies": [
     {
       "date": "May 2026",
@@ -22,6 +22,16 @@
       "platform": "press_release",
       "_id": "21df5678",
       "_crawled": "2026-07-02T08:03:00.578060Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "fiscal hole of around half a billion dollars in the Budget",
+      "reality": "no hole in the government's accounts",
+      "source": "RNZ, www.rnz.co.nz",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "9d4d43f5",
+      "_crawled": "2026-07-15T07:09:56.118237Z"
     }
   ],
   "social_posts": [
@@ -167,6 +177,20 @@
       },
       "_id": "35ea574a",
       "_crawled": "2026-07-09T08:32:43.152629Z"
+    },
+    {
+      "platform": "facebook",
+      "date": "July 2026",
+      "text": "post about hateful online abuse",
+      "verified_by": "NZ Herald, www.nzherald.co.nz",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Swarbrick's response to online abuse contradicts her previous statements on social media",
+        "source": "NZ Herald, www.nzherald.co.nz",
+        "severity": "low"
+      },
+      "_id": "910da405",
+      "_crawled": "2026-07-15T07:09:56.118237Z"
     }
   ],
   "votes": [],
@@ -357,13 +381,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Claim rejected by Nicola Willis, potentially indicating a lack of transparency or accuracy"
+    },
+    "2026-07-15T07:09:56.118237Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Swarbrick's claim about the fiscal hole was contradicted by the government, affecting her integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-27T08:36:05.244807Z",
-      "text": "Chloe Swarbrick's claim on failed climate policies was rejected by Nicola Willis, potentially impacting her integrity score"
-    },
     {
       "date": "2026-06-01T10:13:28.571009Z",
       "text": "Chloe Swarbrick and the Green Party have spoken out against Budget 2026, citing its lack of vision and failure to address climate change."
@@ -399,14 +424,13 @@
     {
       "date": "2026-07-14T07:06:42.667623Z",
       "text": "Chlöe Swarbrick and the Green Party have made recent statements and announcements regarding their tax policy and transparency."
+    },
+    {
+      "date": "2026-07-15T07:09:56.118237Z",
+      "text": "Chlöe Swarbrick's integrity score has been adjusted due to a contradicted claim about the fiscal hole in the Budget."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-26T08:29:07.359434Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-27T08:36:05.244807Z",
       "notes": "Claim rejection by Nicola Willis may indicate a discrepancy in Chloe Swarbrick's statement",
@@ -651,16 +675,14 @@
       "date": "2026-07-14T07:06:42.667623Z",
       "notes": "Reviewed Tavily sources for Chlöe Swarbrick and the Green Party.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-15T07:09:56.118237Z",
+      "notes": "Reviewed Tavily sources and NZ Herald articles for new information on Chlöe Swarbrick",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-19T09:26:21.569492Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-20T08:19:17.236790Z",
       "sources": [
@@ -792,7 +814,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-15T07:09:56.118363Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-14T07:06:42.667748Z"
+  "last_updated": "2026-07-15T07:09:56.118384Z"
 }

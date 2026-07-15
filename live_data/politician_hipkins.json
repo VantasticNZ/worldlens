@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 16,
+  "lie_count": 17,
   "lies": [
     {
       "date": "May 2026",
@@ -162,6 +162,16 @@
       "platform": "speech",
       "_id": "e77b540f",
       "_crawled": "2026-07-10T08:18:15.817296Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Labour hasn't lost momentum despite drop in support",
+      "reality": "Labour has dropped in support",
+      "source": "RNZ News",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "4b377a68",
+      "_crawled": "2026-07-15T07:09:31.530589Z"
     }
   ],
   "social_posts": [
@@ -276,6 +286,20 @@
       },
       "_id": "ea47df52",
       "_crawled": "2026-07-11T07:09:39.535847Z"
+    },
+    {
+      "platform": "labour.org.nz",
+      "date": "July 2026",
+      "text": "These are our strengths. This is our moment. The Kiwi Dream has always been simple and powerful: if you work hard, you can build a decent life.",
+      "verified_by": "Tavily",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Labour's policy on cost of living and rental support contradicts Chris Hipkins' statement",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "cc8832f0",
+      "_crawled": "2026-07-15T07:09:31.530589Z"
     }
   ],
   "votes": [],
@@ -536,13 +560,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Hipkins' claim about New Zealanders not caring about the NZ Future Fund policy detail may indicate a lack of transparency"
+    },
+    "2026-07-15T07:09:31.530589Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Hipkins' claim about Labour's momentum and rental support subsidy contradicts reality and Labour's policy"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-04T07:38:50.246680Z",
-      "text": "Chris Hipkins delivered a speech at the Labour Party Congress 2026 and announced a cost of living relief policy, which may not help farmers."
-    },
     {
       "date": "2026-07-05T07:53:46.786260Z",
       "text": "Chris Hipkins provided more information on Labour's state housing support policy and acknowledged limitations of the cost-of-living policy"
@@ -578,14 +603,13 @@
     {
       "date": "2026-07-14T07:06:19.511231Z",
       "text": "Chris Hipkins faces challenges to his leadership and integrity due to personal and policy controversies"
+    },
+    {
+      "date": "2026-07-15T07:09:31.530589Z",
+      "text": "Chris Hipkins' recent statements have raised concerns about Labour's momentum and policy on rental support"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-26T08:28:48.705882Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-27T08:35:47.755350Z",
       "notes": "No results",
@@ -830,16 +854,14 @@
       "date": "2026-07-14T07:06:19.511231Z",
       "notes": "Multiple sources indicate potential issues with Chris Hipkins' leadership and policy consistency",
       "new_items": true
+    },
+    {
+      "date": "2026-07-15T07:09:31.530589Z",
+      "notes": "RNZ News and NZ Herald articles provided new information on Chris Hipkins' statements and Labour's policy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-20T08:19:02.661603Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-21T08:55:27.985117Z",
       "sources": [
@@ -975,7 +997,15 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-15T07:09:31.530763Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-14T07:06:19.511373Z"
+  "last_updated": "2026-07-15T07:09:31.530784Z"
 }

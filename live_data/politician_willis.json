@@ -642,11 +642,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-26T08:28:20.735467Z",
-      "notes": "No significant new lies, social posts, or votes found",
-      "new_items": true
-    },
-    {
       "date": "2026-05-27T08:35:21.299635Z",
       "notes": "No significant new findings, only neutral and negative events related to budget and climate policy",
       "new_items": true
@@ -890,16 +885,14 @@
       "date": "2026-07-14T07:05:17.280312Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-15T07:08:39.043053Z",
+      "notes": "No significant new lies or contradictory posts found, but new events related to Nicola Willis' announcements and statements were discovered.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-18T09:10:01.856469Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-06-19T09:25:30.047982Z",
       "sources": [
@@ -1043,7 +1036,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-15T07:08:39.043136Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-14T07:05:17.280345Z"
+  "last_updated": "2026-07-15T07:08:39.043154Z"
 }

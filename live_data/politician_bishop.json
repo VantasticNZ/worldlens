@@ -887,13 +887,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "The Auditor General's criticism of Chris Bishop's conflict of interest management and the broken promise on Auckland housing suggest a lack of integrity and increased corruption risk"
+    },
+    "2026-07-15T07:09:03.005711Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The Minister's claim about building 1000 additional public homes in Auckland each year was found to be false, which negatively impacts the integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-04T07:38:31.232768Z",
-      "text": "Chris Bishop's social housing overhaul announcement has raised concerns about the potential negative impact on those in need, contradicting his claims of improving the system"
-    },
     {
       "date": "2026-07-05T07:53:27.267551Z",
       "text": "Chris Bishop's recent statements and policy announcements have raised concerns about his integrity and commitment to social housing"
@@ -929,14 +930,13 @@
     {
       "date": "2026-07-14T07:05:42.153991Z",
       "text": "Chris Bishop faces criticism for conflict of interest management and broken promises on housing"
+    },
+    {
+      "date": "2026-07-15T07:09:03.005711Z",
+      "text": "Housing Minister Chris Bishop's claim about building 1000 additional public homes in Auckland each year was found to be false, and the Government plans to reduce the minimum housing capacity required for Auckland Council’s Plan Change 120"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-26T08:28:36.396232Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-27T08:35:34.371040Z",
       "notes": "No results",
@@ -1181,16 +1181,14 @@
       "date": "2026-07-14T07:05:42.153991Z",
       "notes": "Multiple sources indicate Chris Bishop's credibility is under question due to conflict of interest and broken promises",
       "new_items": true
+    },
+    {
+      "date": "2026-07-15T07:09:03.005711Z",
+      "notes": "Multiple sources confirm the Minister's false claim and the Government's plans to reduce housing numbers in Auckland",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-21T08:55:10.283931Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-22T10:34:03.272292Z",
       "sources": [
@@ -1329,7 +1327,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-15T07:09:03.005868Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-14T07:05:42.154177Z"
+  "last_updated": "2026-07-15T07:09:03.005888Z"
 }

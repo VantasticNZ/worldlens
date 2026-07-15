@@ -950,10 +950,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-05T07:54:49.545385Z",
-      "text": "Keir Starmer's resignation and contradiction of previous statements on growth have raised concerns about his integrity."
-    },
-    {
       "date": "2026-07-06T08:59:11.867495Z",
       "text": "Keir Starmer's integrity score takes a hit due to contradictions in his statements and failure to deliver on growth promises."
     },
@@ -988,14 +984,13 @@
     {
       "date": "2026-07-14T07:07:50.407311Z",
       "text": "Keir Starmer resigned as Prime Minister amidst criticism for broken promises and perceived dishonesty"
+    },
+    {
+      "date": "2026-07-15T07:11:00.082637Z",
+      "text": "Keir Starmer resigned as UK Prime Minister, planning for a new PM by September."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-26T08:29:54.639802Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-27T08:36:36.775277Z",
       "notes": "No results",
@@ -1240,16 +1235,14 @@
       "date": "2026-07-14T07:07:50.407311Z",
       "notes": "Resignation and potential dishonesty regarding migration and economic growth",
       "new_items": true
+    },
+    {
+      "date": "2026-07-15T07:11:00.082637Z",
+      "notes": "Resignation announcement found, no other significant new findings",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-19T09:27:16.718161Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-06-20T08:20:03.764907Z",
       "sources": [
@@ -1384,7 +1377,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-15T07:11:00.082699Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-14T07:07:50.407465Z"
+  "last_updated": "2026-07-15T07:11:00.082716Z"
 }

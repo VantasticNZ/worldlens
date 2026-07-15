@@ -1257,13 +1257,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Recent lies and discrepancies in statements have led to a decrease in integrity score"
+    },
+    "2026-07-15T07:07:00.465320Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's claim of 'more unfunded spending from Labour' is unsubstantiated and contradicts available evidence"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-04T07:36:58.155639Z",
-      "text": "Christopher Luxon's recent statements and events have been added to the database"
-    },
     {
       "date": "2026-07-05T07:51:56.822108Z",
       "text": "Christopher Luxon's tweet about trade deal was corrected by Winston Peters, sparking controversy and raising questions about Luxon's integrity"
@@ -1299,14 +1300,13 @@
     {
       "date": "2026-07-14T07:03:35.944324Z",
       "text": "Luxon faces increasing criticism over his leadership and statements, with recent polls showing the National party at a new low"
+    },
+    {
+      "date": "2026-07-15T07:07:00.465320Z",
+      "text": "Luxon's leadership is under scrutiny as National Party's popularity slumps to a new low"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-26T08:26:55.492016Z",
-      "notes": "Staffer who received climate lobbying document reportedly left their position",
-      "new_items": true
-    },
     {
       "date": "2026-05-27T08:34:27.316410Z",
       "notes": "No results",
@@ -1551,17 +1551,14 @@
       "date": "2026-07-14T07:03:35.944324Z",
       "notes": "Multiple sources indicate a decline in Luxon's popularity and integrity",
       "new_items": true
+    },
+    {
+      "date": "2026-07-15T07:07:00.465320Z",
+      "notes": "Multiple sources indicate Luxon's statements and policies are under increasing scrutiny",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-23T08:23:52.899841Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-06-24T08:17:53.661663Z",
       "sources": [
@@ -1699,7 +1696,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-15T07:07:00.465488Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-14T07:03:35.944552Z"
+  "last_updated": "2026-07-15T07:07:00.465511Z"
 }
