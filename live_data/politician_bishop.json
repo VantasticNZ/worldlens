@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 29,
+  "lie_count": 30,
   "lies": [
     {
       "date": "April 2026",
@@ -292,6 +292,16 @@
       "platform": "press_release",
       "_id": "5a10694a",
       "_crawled": "2026-07-14T07:05:42.153991Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "Housing system is not broken",
+      "reality": "Housing system is broken, but won't be fixed",
+      "source": "labour.org.nz, 17 June 2026",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "c81f1a12",
+      "_crawled": "2026-07-16T07:17:41.851691Z"
     }
   ],
   "social_posts": [
@@ -392,6 +402,20 @@
       },
       "_id": "97ac565a",
       "_crawled": "2026-07-08T07:25:13.551402Z"
+    },
+    {
+      "platform": "facebook",
+      "date": "June 2026",
+      "text": "Release: Bishop admits housing system broken, but won't fix it",
+      "verified_by": "labour.org.nz",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Contradicts previous statement on housing system",
+        "source": "labour.org.nz",
+        "severity": "high"
+      },
+      "_id": "d25b1318",
+      "_crawled": "2026-07-16T07:17:41.851691Z"
     }
   ],
   "votes": [],
@@ -892,13 +916,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The Minister's claim about building 1000 additional public homes in Auckland each year was found to be false, which negatively impacts the integrity score"
+    },
+    "2026-07-16T07:17:41.851691Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Claim of housing system not being broken contradicts reality"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-05T07:53:27.267551Z",
-      "text": "Chris Bishop's recent statements and policy announcements have raised concerns about his integrity and commitment to social housing"
-    },
     {
       "date": "2026-07-06T08:57:34.125338Z",
       "text": "Housing Minister Chris Bishop announced an overhaul of the social housing system, introducing potential duration limits and changes to how need is assessed, which may be seen as contradictory to previous statements and policies"
@@ -934,14 +959,13 @@
     {
       "date": "2026-07-15T07:09:03.005711Z",
       "text": "Housing Minister Chris Bishop's claim about building 1000 additional public homes in Auckland each year was found to be false, and the Government plans to reduce the minimum housing capacity required for Auckland Council’s Plan Change 120"
+    },
+    {
+      "date": "2026-07-16T07:17:41.851691Z",
+      "text": "Chris Bishop's claim of housing system not being broken contradicts reality, sparking criticism from Labour"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-27T08:35:34.371040Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-28T08:39:22.676281Z",
       "notes": "No significant new findings",
@@ -1186,17 +1210,14 @@
       "date": "2026-07-15T07:09:03.005711Z",
       "notes": "Multiple sources confirm the Minister's false claim and the Government's plans to reduce housing numbers in Auckland",
       "new_items": true
+    },
+    {
+      "date": "2026-07-16T07:17:41.851691Z",
+      "notes": "Labour releases statement criticizing National's housing policy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-22T10:34:03.272292Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-23T08:25:15.894907Z",
       "sources": [
@@ -1334,7 +1355,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-16T07:17:41.851816Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-15T07:09:03.005888Z"
+  "last_updated": "2026-07-16T07:17:41.851838Z"
 }

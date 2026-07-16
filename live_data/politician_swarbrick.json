@@ -432,11 +432,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-27T08:36:05.244807Z",
-      "notes": "Claim rejection by Nicola Willis may indicate a discrepancy in Chloe Swarbrick's statement",
-      "new_items": true
-    },
-    {
       "date": "2026-05-28T08:40:06.727248Z",
       "notes": "Article discusses Greens' climate change initiatives and Chlöe Swarbrick's revisitation of 'Okay boomer' speech",
       "new_items": true
@@ -680,16 +675,14 @@
       "date": "2026-07-15T07:09:56.118237Z",
       "notes": "Reviewed Tavily sources and NZ Herald articles for new information on Chlöe Swarbrick",
       "new_items": true
+    },
+    {
+      "date": "2026-07-16T07:18:31.179485Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-20T08:19:17.236790Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-21T08:55:45.620483Z",
       "sources": [
@@ -821,7 +814,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-16T07:18:31.179503Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-15T07:09:56.118384Z"
+  "last_updated": "2026-07-16T07:18:31.179526Z"
 }

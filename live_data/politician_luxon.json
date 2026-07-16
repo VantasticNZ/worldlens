@@ -786,6 +786,20 @@
       },
       "_id": "fadb9d47",
       "_crawled": "2026-07-13T08:09:38.150292Z"
+    },
+    {
+      "platform": "instagram",
+      "date": "June 2026",
+      "text": "NEW COLLECTION ONLINE NOW",
+      "verified_by": "instagram.com/christophermusiccom",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "No clear connection to policy or political action",
+        "source": "instagram.com/christophermusiccom",
+        "severity": "low"
+      },
+      "_id": "20496974",
+      "_crawled": "2026-07-16T07:15:30.143522Z"
     }
   ],
   "votes": [
@@ -1266,10 +1280,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-05T07:51:56.822108Z",
-      "text": "Christopher Luxon's tweet about trade deal was corrected by Winston Peters, sparking controversy and raising questions about Luxon's integrity"
-    },
-    {
       "date": "2026-07-06T08:54:35.025633Z",
       "text": "Christopher Luxon faced coup rumours and a cabinet reshuffle, and responded to claims of discrimination in the Free Trade Deal"
     },
@@ -1304,14 +1314,13 @@
     {
       "date": "2026-07-15T07:07:00.465320Z",
       "text": "Luxon's leadership is under scrutiny as National Party's popularity slumps to a new low"
+    },
+    {
+      "date": "2026-07-16T07:15:30.143522Z",
+      "text": "Prime Minister Christopher Luxon announced an investigation into banning social media for young people and survived a party leadership vote."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-27T08:34:27.316410Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-28T08:37:55.826954Z",
       "notes": "No results",
@@ -1556,15 +1565,14 @@
       "date": "2026-07-15T07:07:00.465320Z",
       "notes": "Multiple sources indicate Luxon's statements and policies are under increasing scrutiny",
       "new_items": true
+    },
+    {
+      "date": "2026-07-16T07:15:30.143522Z",
+      "notes": "Multiple events and social posts found, but no significant lies or votes",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-24T08:17:53.661663Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-25T08:17:11.141001Z",
       "sources": [
@@ -1704,7 +1712,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-16T07:15:30.143678Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-15T07:07:00.465511Z"
+  "last_updated": "2026-07-16T07:15:30.143702Z"
 }

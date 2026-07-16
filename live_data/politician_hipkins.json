@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 17,
+  "lie_count": 18,
   "lies": [
     {
       "date": "May 2026",
@@ -172,6 +172,16 @@
       "platform": "interview",
       "_id": "4b377a68",
       "_crawled": "2026-07-15T07:09:31.530589Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Labour's new cost-of-living policy will help farmers",
+      "reality": "The policy won't help farmers",
+      "source": "NZ Herald, July 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "9528162f",
+      "_crawled": "2026-07-16T07:18:05.671425Z"
     }
   ],
   "social_posts": [
@@ -565,13 +575,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Hipkins' claim about Labour's momentum and rental support subsidy contradicts reality and Labour's policy"
+    },
+    "2026-07-16T07:18:05.671425Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Hipkins' clarification on state housing support policy and acceptance that the new cost-of-living policy won't help farmers suggests a lack of transparency and potential inconsistency in Labour's policies"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-05T07:53:46.786260Z",
-      "text": "Chris Hipkins provided more information on Labour's state housing support policy and acknowledged limitations of the cost-of-living policy"
-    },
     {
       "date": "2026-07-06T08:57:55.041185Z",
       "text": "Chris Hipkins continues to face scrutiny over his statements and policies, particularly regarding the NZ Future Fund and cost-of-living relief"
@@ -607,14 +618,13 @@
     {
       "date": "2026-07-15T07:09:31.530589Z",
       "text": "Chris Hipkins' recent statements have raised concerns about Labour's momentum and policy on rental support"
+    },
+    {
+      "date": "2026-07-16T07:18:05.671425Z",
+      "text": "Chris Hipkins' recent statements and policies have raised concerns about Labour's transparency and consistency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-27T08:35:47.755350Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-28T08:39:35.935295Z",
       "notes": "No results",
@@ -859,16 +869,14 @@
       "date": "2026-07-15T07:09:31.530589Z",
       "notes": "RNZ News and NZ Herald articles provided new information on Chris Hipkins' statements and Labour's policy",
       "new_items": true
+    },
+    {
+      "date": "2026-07-16T07:18:05.671425Z",
+      "notes": "Reviewed Tavily sources from NZ Herald and Labour.org.nz",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-21T08:55:27.985117Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-22T10:34:22.660213Z",
       "sources": [
@@ -1005,7 +1013,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-16T07:18:05.671546Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-15T07:09:31.530784Z"
+  "last_updated": "2026-07-16T07:18:05.671567Z"
 }

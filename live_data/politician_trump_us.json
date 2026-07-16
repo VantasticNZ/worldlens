@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 75,
+  "lie_count": 76,
   "lies": [
     {
       "date": "January 2026",
@@ -752,6 +752,16 @@
       "platform": "interview",
       "_id": "ea895867",
       "_crawled": "2026-07-15T07:10:19.021720Z"
+    },
+    {
+      "date": "June 23, 2026",
+      "claim": "In the past 13 months, the typical 401(k) is up almost $30,000",
+      "reality": "The claim is not entirely accurate",
+      "source": "PolitiFact, June 23, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "e7b978bb",
+      "_crawled": "2026-07-16T07:18:54.599604Z"
     }
   ],
   "social_posts": [
@@ -1365,13 +1375,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Trump's continued pattern of dishonesty and contradictory statements, as well as the voiding of his settlement with the IRS, contribute to the adjustments."
+    },
+    "2026-07-16T07:18:54.599604Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Repeated lies and misleading statements"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-06T08:58:34.269209Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and commitment to truth"
-    },
     {
       "date": "2026-07-07T08:18:24.404494Z",
       "text": "Trump continues to spread false information and exaggerate facts, including claims about his cognitive test results and the Lincoln Memorial Reflecting Pool."
@@ -1407,14 +1418,13 @@
     {
       "date": "2026-07-15T07:10:19.021720Z",
       "text": "Trump's recent lies and social posts continue to raise concerns about his integrity, while the voiding of his settlement with the IRS increases his corruption risk."
+    },
+    {
+      "date": "2026-07-16T07:18:54.599604Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity and ability to accurately represent facts."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-27T08:36:17.436296Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-28T08:40:26.922129Z",
       "notes": "BBC World RSS feed analyzed, one new event found related to Trump-backed challenger winning Texas primary",
@@ -1659,15 +1669,14 @@
       "date": "2026-07-15T07:10:19.021720Z",
       "notes": "Multiple sources confirm Trump's ongoing pattern of dishonesty and contradictory statements.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-16T07:18:54.599604Z",
+      "notes": "Multiple sources confirm Trump's pattern of dishonesty and contradictory statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-26T08:27:44.729010Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-27T07:44:50.540082Z",
       "sources": [
@@ -1814,7 +1823,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-16T07:18:54.599869Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-15T07:10:19.022015Z"
+  "last_updated": "2026-07-16T07:18:54.599888Z"
 }
