@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 39,
+  "lie_count": 40,
   "lies": [
     {
       "date": "2026",
@@ -392,6 +392,16 @@
       "platform": "interview",
       "_id": "ccdc4114",
       "_crawled": "2026-07-14T07:03:35.944324Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "unfunded spending from Labour",
+      "reality": "no evidence provided",
+      "source": "RNZ, 29 Jun 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "22359cb4",
+      "_crawled": "2026-07-17T07:10:58.836299Z"
     }
   ],
   "social_posts": [
@@ -800,6 +810,20 @@
       },
       "_id": "20496974",
       "_crawled": "2026-07-16T07:15:30.143522Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "June 2026",
+      "text": "In challenging times, close friends matter more than ever. So it was good to speak with Japanese Prime Minister @takaichi_sanae this afternoon.",
+      "verified_by": "Stuff, 21.04",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "left question time early without explanation",
+        "source": "Stuff, 21.04",
+        "severity": "low"
+      },
+      "_id": "7d8b704d",
+      "_crawled": "2026-07-17T07:10:58.836299Z"
     }
   ],
   "votes": [
@@ -1276,13 +1300,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's claim of 'more unfunded spending from Labour' is unsubstantiated and contradicts available evidence"
+    },
+    "2026-07-17T07:10:58.836299Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "repeated claims of unfunded spending without evidence"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-06T08:54:35.025633Z",
-      "text": "Christopher Luxon faced coup rumours and a cabinet reshuffle, and responded to claims of discrimination in the Free Trade Deal"
-    },
     {
       "date": "2026-07-07T08:15:24.037407Z",
       "text": "PM Luxon responds to China's missile test in South Pacific, while Indian diaspora in New Zealand eagerly awaits PM Modi's visit"
@@ -1318,14 +1343,13 @@
     {
       "date": "2026-07-16T07:15:30.143522Z",
       "text": "Prime Minister Christopher Luxon announced an investigation into banning social media for young people and survived a party leadership vote."
+    },
+    {
+      "date": "2026-07-17T07:10:58.836299Z",
+      "text": "Christopher Luxon's integrity score adjusted downward due to repeated unsubstantiated claims."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-28T08:37:55.826954Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-29T08:37:23.552058Z",
       "notes": "No results",
@@ -1570,15 +1594,14 @@
       "date": "2026-07-16T07:15:30.143522Z",
       "notes": "Multiple events and social posts found, but no significant lies or votes",
       "new_items": true
+    },
+    {
+      "date": "2026-07-17T07:10:58.836299Z",
+      "notes": "RNZ and Stuff sources provided new information on Luxon's statements and actions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-25T08:17:11.141001Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-26T08:25:36.784918Z",
       "sources": [
@@ -1719,7 +1742,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-17T07:10:58.836433Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-16T07:15:30.143702Z"
+  "last_updated": "2026-07-17T07:10:58.836456Z"
 }

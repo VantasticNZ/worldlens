@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 16,
+  "lie_count": 17,
   "lies": [
     {
       "date": "March 2026",
@@ -162,6 +162,16 @@
       "platform": "interview",
       "_id": "851641b3",
       "_crawled": "2026-07-15T07:08:15.057774Z"
+    },
+    {
+      "date": "2026",
+      "claim": "provoke the matua at your peril",
+      "reality": "Jones is using a threatening tone to silence critics",
+      "source": "RNZ, 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "f7f8d5f4",
+      "_crawled": "2026-07-17T07:12:21.596058Z"
     }
   ],
   "social_posts": [
@@ -650,13 +660,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' handling of the fisheries bill and his defense of his travel expenses have raised concerns about his integrity"
+    },
+    "2026-07-17T07:12:21.596058Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Jones' recent statements and actions have raised concerns about his integrity and transparency"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-07T08:16:27.583725Z",
-      "text": "Shane Jones faces controversy over his $63k travel bill and his comments, which have sparked demands for an apology."
-    },
     {
       "date": "2026-07-08T07:24:25.835157Z",
       "text": "Shane Jones faces controversy over his $63k travel bill and his comments, which have sparked demands for an apology."
@@ -692,14 +703,13 @@
     {
       "date": "2026-07-16T07:16:53.231381Z",
       "text": "Shane Jones faces criticism over his handling of the fisheries bill and his travel expenses, raising concerns about his integrity"
+    },
+    {
+      "date": "2026-07-17T07:12:21.596058Z",
+      "text": "Shane Jones has faced criticism for his recent statements and actions, including his defense of a $63k travel bill and his comparison of critics to 'noisy voices'"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-28T08:38:53.798154Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-29T08:37:58.797489Z",
       "notes": "No results",
@@ -944,15 +954,14 @@
       "date": "2026-07-16T07:16:53.231381Z",
       "notes": "Reviewed RNZ and newsroom.co.nz articles for updates on Shane Jones",
       "new_items": true
+    },
+    {
+      "date": "2026-07-17T07:12:21.596058Z",
+      "notes": "Jones' behavior and statements continue to raise concerns about his integrity and transparency",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-24T08:18:43.578011Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-25T08:17:50.962239Z",
       "sources": [
@@ -1083,7 +1092,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-17T07:12:21.596173Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-16T07:16:53.231546Z"
+  "last_updated": "2026-07-17T07:12:21.596215Z"
 }

@@ -432,11 +432,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-28T08:40:06.727248Z",
-      "notes": "Article discusses Greens' climate change initiatives and Chlöe Swarbrick's revisitation of 'Okay boomer' speech",
-      "new_items": true
-    },
-    {
       "date": "2026-05-29T08:38:45.221352Z",
       "notes": "No results",
       "new_items": false
@@ -680,16 +675,14 @@
       "date": "2026-07-16T07:18:31.179485Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-17T07:14:08.393993Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but new events related to the 2026 election",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-21T08:55:45.620483Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-22T10:34:39.173014Z",
       "sources": [
@@ -821,7 +814,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-17T07:14:08.394062Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-16T07:18:31.179526Z"
+  "last_updated": "2026-07-17T07:14:08.394082Z"
 }

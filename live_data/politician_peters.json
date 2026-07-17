@@ -1093,13 +1093,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Winston Peters' recent statements and actions suggest potential contradictions and inconsistencies"
+    },
+    "2026-07-17T07:11:25.103645Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' statement on not working with Labour appears to be a contradiction of NZ First's previous stance"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-07T08:15:46.075767Z",
-      "text": "Winston Peters' recent statements and policies have raised concerns about his integrity and consistency."
-    },
     {
       "date": "2026-07-08T07:23:42.234198Z",
       "text": "Winston Peters faces accusations of racism and continues to make contradictory statements."
@@ -1135,14 +1136,13 @@
     {
       "date": "2026-07-16T07:15:57.962953Z",
       "text": "Winston Peters' recent statements and actions suggest potential contradictions and inconsistencies, particularly regarding his stance on dealing with Labour"
+    },
+    {
+      "date": "2026-07-17T07:11:25.103645Z",
+      "text": "Winston Peters' recent statements on Labour and NZ First's cooperation have raised questions about the party's policy and integrity"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-28T08:38:09.912265Z",
-      "notes": "Brief mention of Winston Peters' reaction to Budget 2026",
-      "new_items": true
-    },
     {
       "date": "2026-05-29T08:37:37.347433Z",
       "notes": "No results",
@@ -1387,15 +1387,14 @@
       "date": "2026-07-16T07:15:57.962953Z",
       "notes": "Reviewed RNZ News, NZ Herald, and Tavily sources for updates on Winston Peters",
       "new_items": true
+    },
+    {
+      "date": "2026-07-17T07:11:25.103645Z",
+      "notes": "Peters' Twitter activity and statements to media have been inconsistent with NZ First's previous positions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-26T08:25:51.450088Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-27T07:43:48.157146Z",
       "sources": [
@@ -1533,7 +1532,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-17T07:11:25.103797Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-16T07:15:57.963135Z"
+  "last_updated": "2026-07-17T07:11:25.103819Z"
 }

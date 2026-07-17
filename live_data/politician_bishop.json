@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 30,
+  "lie_count": 31,
   "lies": [
     {
       "date": "April 2026",
@@ -302,6 +302,16 @@
       "platform": "press_release",
       "_id": "c81f1a12",
       "_crawled": "2026-07-16T07:17:41.851691Z"
+    },
+    {
+      "date": "2026",
+      "claim": "National has funded 7,000 homes",
+      "reality": "National has only funded 2,050 homes",
+      "source": "Labour Party release, 2026",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "763260ef",
+      "_crawled": "2026-07-17T07:13:21.711868Z"
     }
   ],
   "social_posts": [
@@ -921,13 +931,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Claim of housing system not being broken contradicts reality"
+    },
+    "2026-07-17T07:13:21.711868Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The Minister's claims about housing numbers and plans have been contradicted by facts"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-06T08:57:34.125338Z",
-      "text": "Housing Minister Chris Bishop announced an overhaul of the social housing system, introducing potential duration limits and changes to how need is assessed, which may be seen as contradictory to previous statements and policies"
-    },
     {
       "date": "2026-07-07T08:17:17.768684Z",
       "text": "Housing Minister Chris Bishop's credibility questioned over misleading housing numbers"
@@ -963,14 +974,13 @@
     {
       "date": "2026-07-16T07:17:41.851691Z",
       "text": "Chris Bishop's claim of housing system not being broken contradicts reality, sparking criticism from Labour"
+    },
+    {
+      "date": "2026-07-17T07:13:21.711868Z",
+      "text": "Housing Minister Chris Bishop's claims about housing numbers and plans have been contradicted by facts, raising concerns about his integrity"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-28T08:39:22.676281Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-29T08:38:24.150045Z",
       "notes": "No results",
@@ -1215,16 +1225,14 @@
       "date": "2026-07-16T07:17:41.851691Z",
       "notes": "Labour releases statement criticizing National's housing policy",
       "new_items": true
+    },
+    {
+      "date": "2026-07-17T07:13:21.711868Z",
+      "notes": "Multiple sources indicate discrepancies in the Minister's statements and actions on housing",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-23T08:25:15.894907Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-06-26T08:26:48.883230Z",
       "sources": [
@@ -1362,7 +1370,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-17T07:13:21.712021Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-16T07:17:41.851838Z"
+  "last_updated": "2026-07-17T07:13:21.712042Z"
 }
