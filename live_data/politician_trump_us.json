@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 76,
+  "lie_count": 78,
   "lies": [
     {
       "date": "January 2026",
@@ -762,6 +762,26 @@
       "platform": "speech",
       "_id": "e7b978bb",
       "_crawled": "2026-07-16T07:18:54.599604Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "China meddled in 2020 election",
+      "reality": "No evidence of Chinese meddling in 2020 election",
+      "source": "BBC World, July 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "4fe848f7",
+      "_crawled": "2026-07-18T06:56:38.868713Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Cognitive test results showed he has 'extreme intelligence'",
+      "reality": "Cognitive test results do not support claim of 'extreme intelligence'",
+      "source": "PolitiFact, May 2026",
+      "severity": "med",
+      "platform": "Truth Social post",
+      "_id": "377b6334",
+      "_crawled": "2026-07-18T06:56:38.868713Z"
     }
   ],
   "social_posts": [
@@ -834,6 +854,20 @@
       },
       "_id": "032b00cf",
       "_crawled": "2026-07-11T07:10:31.797426Z"
+    },
+    {
+      "platform": "Truth Social",
+      "date": "May 2026",
+      "text": "Says his cognitive test results showed he has 'extreme intelligence'",
+      "verified_by": "PolitiFact",
+      "discrepancy": {
+        "type": "contradicts_fact",
+        "detail": "Cognitive test results do not support claim of 'extreme intelligence'",
+        "source": "PolitiFact",
+        "severity": "med"
+      },
+      "_id": "762756d6",
+      "_crawled": "2026-07-18T06:56:38.868713Z"
     }
   ],
   "votes": [
@@ -1385,13 +1419,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's exaggerated claim about the Lincoln Memorial Reflecting Pool spending reduces his integrity score."
+    },
+    "2026-07-18T06:56:38.868713Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Additional lies and discrepancies found, affecting integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-08T07:26:44.250554Z",
-      "text": "Donald Trump continues to make false claims and contradictory statements, including on his cognitive test results and the US Supreme Court's ruling on men playing in women's sports."
-    },
     {
       "date": "2026-07-09T08:33:17.599680Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and commitment to facts"
@@ -1427,14 +1462,13 @@
     {
       "date": "2026-07-17T07:14:31.879638Z",
       "text": "Trump made allegations about US election security and was found to have exaggerated claims about the Lincoln Memorial Reflecting Pool spending."
+    },
+    {
+      "date": "2026-07-18T06:56:38.868713Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity and truthfulness."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-29T08:38:56.062185Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-30T07:37:45.256825Z",
       "notes": "BBC World RSS feed analyzed, no new lies or social posts found",
@@ -1679,15 +1713,14 @@
       "date": "2026-07-17T07:14:31.879638Z",
       "notes": "Reviewed 3 BBC World articles and multiple fact-checking sources.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-18T06:56:38.868713Z",
+      "notes": "Multiple sources confirm Trump's false claims and contradictory statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-28T08:17:45.929199Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-29T09:23:27.004948Z",
       "sources": [
@@ -1838,7 +1871,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-18T06:56:38.868987Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-17T07:14:31.879853Z"
+  "last_updated": "2026-07-18T06:56:38.869011Z"
 }

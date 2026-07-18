@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 40,
+  "lie_count": 41,
   "lies": [
     {
       "date": "2026",
@@ -402,6 +402,16 @@
       "platform": "interview",
       "_id": "22359cb4",
       "_crawled": "2026-07-17T07:10:58.836299Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "I focus on what I can control – that is the National Party caucus",
+      "reality": "As Prime Minister, he has control over the entire government, not just his caucus",
+      "source": "newsroom.co.nz, May 22, 2024",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "285f5670",
+      "_crawled": "2026-07-18T06:53:27.949173Z"
     }
   ],
   "social_posts": [
@@ -1305,13 +1315,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "repeated claims of unfunded spending without evidence"
+    },
+    "2026-07-18T06:53:27.949173Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's statement about focusing on his caucus contradicts his role as Prime Minister"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-07T08:15:24.037407Z",
-      "text": "PM Luxon responds to China's missile test in South Pacific, while Indian diaspora in New Zealand eagerly awaits PM Modi's visit"
-    },
     {
       "date": "2026-07-08T07:23:19.776878Z",
       "text": "Christopher Luxon's integrity has taken a hit due to his handling of documents and his coalition's fracture on climate policy"
@@ -1347,14 +1358,13 @@
     {
       "date": "2026-07-17T07:10:58.836299Z",
       "text": "Christopher Luxon's integrity score adjusted downward due to repeated unsubstantiated claims."
+    },
+    {
+      "date": "2026-07-18T06:53:27.949173Z",
+      "text": "Christopher Luxon faced criticism from Shane Jones over his visit with Modi and was found to have made a contradictory statement about his role as Prime Minister"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-29T08:37:23.552058Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-30T07:35:17.349268Z",
       "notes": "No results",
@@ -1599,15 +1609,14 @@
       "date": "2026-07-17T07:10:58.836299Z",
       "notes": "RNZ and Stuff sources provided new information on Luxon's statements and actions",
       "new_items": true
+    },
+    {
+      "date": "2026-07-18T06:53:27.949173Z",
+      "notes": "Reviewed articles from NZ Herald, thespinoff.co.nz, and newsroom.co.nz",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-26T08:25:36.784918Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-28T08:15:54.476313Z",
       "sources": [
@@ -1749,7 +1758,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-18T06:53:27.949308Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-17T07:10:58.836456Z"
+  "last_updated": "2026-07-18T06:53:27.949335Z"
 }

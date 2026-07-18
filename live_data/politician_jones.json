@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 17,
+  "lie_count": 18,
   "lies": [
     {
       "date": "March 2026",
@@ -172,6 +172,16 @@
       "platform": "interview",
       "_id": "f7f8d5f4",
       "_crawled": "2026-07-17T07:12:21.596058Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "ACT is nationalist",
+      "reality": "No evidence to support this claim",
+      "source": "RNZ News",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "1ea5a7e2",
+      "_crawled": "2026-07-18T06:54:36.858561Z"
     }
   ],
   "social_posts": [
@@ -230,6 +240,20 @@
       },
       "_id": "c5ba6b40",
       "_crawled": "2026-06-13T08:17:13.579077Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "July 2026",
+      "text": "Take off your kneepads': Shane Jones' dig at Luxon over Modi visit",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Jones previously apologized for similar comments",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "7b1e57ca",
+      "_crawled": "2026-07-18T06:54:36.858561Z"
     }
   ],
   "votes": [],
@@ -665,13 +689,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Jones' recent statements and actions have raised concerns about his integrity and transparency"
+    },
+    "2026-07-18T06:54:36.858561Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Jones' continued use of divisive language and personal attacks"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-08T07:24:25.835157Z",
-      "text": "Shane Jones faces controversy over his $63k travel bill and his comments, which have sparked demands for an apology."
-    },
     {
       "date": "2026-07-09T08:30:15.442864Z",
       "text": "Shane Jones is facing multiple controversies, including an investigation over a passport scandal and criticism over a $63k travel bill"
@@ -707,14 +732,13 @@
     {
       "date": "2026-07-17T07:12:21.596058Z",
       "text": "Shane Jones has faced criticism for his recent statements and actions, including his defense of a $63k travel bill and his comparison of critics to 'noisy voices'"
+    },
+    {
+      "date": "2026-07-18T06:54:36.858561Z",
+      "text": "Shane Jones continues to make divisive comments and personal attacks, raising concerns about his integrity"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-29T08:37:58.797489Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-30T07:36:00.732062Z",
       "notes": "No results",
@@ -959,15 +983,14 @@
       "date": "2026-07-17T07:12:21.596058Z",
       "notes": "Jones' behavior and statements continue to raise concerns about his integrity and transparency",
       "new_items": true
+    },
+    {
+      "date": "2026-07-18T06:54:36.858561Z",
+      "notes": "Jones' comments and actions continue to be a source of controversy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-25T08:17:50.962239Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-26T08:26:21.137521Z",
       "sources": [
@@ -1099,7 +1122,15 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-18T06:54:36.858702Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-17T07:12:21.596215Z"
+  "last_updated": "2026-07-18T06:54:36.858725Z"
 }

@@ -191,6 +191,20 @@
       },
       "_id": "910da405",
       "_crawled": "2026-07-15T07:09:56.118237Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Greens 'rolling with punches', 'transparent', as it issues another correction",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "initially stated $23,000 increase, later corrected to $234,000",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "4d4c49ac",
+      "_crawled": "2026-07-18T06:56:18.236823Z"
     }
   ],
   "votes": [],
@@ -386,13 +400,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Swarbrick's claim about the fiscal hole was contradicted by the government, affecting her integrity score"
+    },
+    "2026-07-18T06:56:18.236823Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "initially stated incorrect information, later corrected"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-01T10:13:28.571009Z",
-      "text": "Chloe Swarbrick and the Green Party have spoken out against Budget 2026, citing its lack of vision and failure to address climate change."
-    },
     {
       "date": "2026-06-05T08:40:15.391098Z",
       "text": "Chloe Swarbrick continues to criticize the government's policies, particularly on climate change and the budget."
@@ -428,14 +443,13 @@
     {
       "date": "2026-07-15T07:09:56.118237Z",
       "text": "Chlöe Swarbrick's integrity score has been adjusted due to a contradicted claim about the fiscal hole in the Budget."
+    },
+    {
+      "date": "2026-07-18T06:56:18.236823Z",
+      "text": "Chlöe Swarbrick and the Green Party have been involved in several events, including the announcement of a new tax plan and a correction to a previous statement."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-29T08:38:45.221352Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-30T07:37:33.194649Z",
       "notes": "No results",
@@ -680,16 +694,14 @@
       "date": "2026-07-17T07:14:08.393993Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to the 2026 election",
       "new_items": true
+    },
+    {
+      "date": "2026-07-18T06:56:18.236823Z",
+      "notes": "Multiple sources confirm Chlöe Swarbrick's statements and events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-22T10:34:39.173014Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-06-23T08:26:00.075065Z",
       "sources": [
@@ -821,7 +833,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-18T06:56:18.236953Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-17T07:14:08.394082Z"
+  "last_updated": "2026-07-18T06:56:18.236978Z"
 }
