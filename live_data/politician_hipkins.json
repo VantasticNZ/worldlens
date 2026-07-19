@@ -599,13 +599,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The addition of a new lie and discrepancy in social posts contributes to the integrity delta decrease"
+    },
+    "2026-07-19T07:25:26.328517Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Hipkins' claim about the cost-of-living policy helping farmers was contradicted by his own statement"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-07T08:17:38.324574Z",
-      "text": "Chris Hipkins denies Labour is writing off the rural vote, but accepts the cost-of-living policy won't help farmers"
-    },
     {
       "date": "2026-07-08T07:25:34.080917Z",
       "text": "Chris Hipkins' recent statements and actions have raised concerns about his integrity and transparency, particularly regarding Labour's policies and their impact on various groups"
@@ -641,14 +642,13 @@
     {
       "date": "2026-07-18T06:55:56.361159Z",
       "text": "Chris Hipkins' recent statements and policy clarifications have raised questions about his integrity and the Labour party's transparency"
+    },
+    {
+      "date": "2026-07-19T07:25:26.328517Z",
+      "text": "Chris Hipkins' integrity score takes a hit due to contradictory statements about the cost-of-living policy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-30T07:36:59.917724Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-05-31T08:10:24.711855Z",
       "notes": "No results",
@@ -893,15 +893,14 @@
       "date": "2026-07-18T06:55:56.361159Z",
       "notes": "Multiple sources indicate a shift in Labour's policy focus and potential contradictions in Hipkins' statements",
       "new_items": true
+    },
+    {
+      "date": "2026-07-19T07:25:26.328517Z",
+      "notes": "Contradictory statements found, integrity score adjusted accordingly",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-27T07:44:32.504243Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-06-29T09:23:00.666439Z",
       "sources": [
@@ -1038,7 +1037,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-19T07:25:26.328610Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-18T06:55:56.361378Z"
+  "last_updated": "2026-07-19T07:25:26.328630Z"
 }

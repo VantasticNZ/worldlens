@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-18T06:57:23.943703Z",
+  "generated": "2026-07-19T07:26:58.132078Z",
   "files": {
     "politician_bishop": {
-      "last_updated": "2026-07-18T06:55:28.802769Z",
-      "lie_count": 31,
+      "last_updated": "2026-07-19T07:25:01.114792Z",
+      "lie_count": 33,
       "event_count": 20,
-      "post_count": 9,
+      "post_count": 10,
       "vote_count": 0,
       "sources": [
         [
@@ -15,21 +15,20 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-07-18T06:53:27.949335Z",
+      "last_updated": "2026-07-19T07:22:45.361102Z",
       "lie_count": 41,
       "event_count": 20,
       "post_count": 30,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-07-18T06:55:56.361378Z",
+      "last_updated": "2026-07-19T07:25:26.328630Z",
       "lie_count": 18,
       "event_count": 20,
       "post_count": 10,
@@ -42,21 +41,20 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-07-18T06:54:13.674595Z",
+      "last_updated": "2026-07-19T07:23:40.808222Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: David Seymour ACT contradiction fact che",
           "Tavily: David Seymour statement 2026"
         ]
       ]
     },
     "politician_starmer_uk": {
-      "last_updated": "2026-07-18T06:57:22.941813Z",
+      "last_updated": "2026-07-19T07:26:57.130310Z",
       "lie_count": 28,
       "event_count": 20,
       "post_count": 13,
@@ -69,21 +67,20 @@
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-07-18T06:53:49.952367Z",
+      "last_updated": "2026-07-19T07:23:15.087012Z",
       "lie_count": 32,
       "event_count": 20,
       "post_count": 21,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Winston Peters NZ First contradiction 20",
           "Tavily: Winston Peters tweet statement 2026"
         ]
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-07-18T06:56:18.236978Z",
+      "last_updated": "2026-07-19T07:25:50.741111Z",
       "lie_count": 3,
       "event_count": 20,
       "post_count": 14,
@@ -96,7 +93,7 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-07-18T06:55:00.878520Z",
+      "last_updated": "2026-07-19T07:24:40.338803Z",
       "lie_count": 14,
       "event_count": 20,
       "post_count": 13,
@@ -109,36 +106,36 @@
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-07-18T06:54:36.858725Z",
-      "lie_count": 18,
+      "last_updated": "2026-07-19T07:24:15.770696Z",
+      "lie_count": 19,
       "event_count": 20,
       "post_count": 5,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
+          "RSS (1 articles from NZ/intl media)",
+          "GDELT global news database",
           "Tavily: Shane Jones NZ First controversy 2026",
           "Tavily: Shane Jones statement tweet 2026"
         ]
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-07-18T06:57:02.337979Z",
+      "last_updated": "2026-07-19T07:26:34.250711Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
       "vote_count": 0,
       "sources": [
         [
-          "GDELT global news database",
           "Tavily: Anthony Albanese contradiction fact chec",
           "Tavily: Anthony Albanese statement 2026"
         ]
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-07-18T06:56:38.869011Z",
-      "lie_count": 78,
+      "last_updated": "2026-07-19T07:26:14.822712Z",
+      "lie_count": 79,
       "event_count": 20,
       "post_count": 6,
       "vote_count": 1,

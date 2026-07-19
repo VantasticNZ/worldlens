@@ -1320,13 +1320,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's statement about focusing on his caucus contradicts his role as Prime Minister"
+    },
+    "2026-07-19T07:22:45.360951Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's statement about focusing on what he can control contains a contradiction, which may indicate a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-08T07:23:19.776878Z",
-      "text": "Christopher Luxon's integrity has taken a hit due to his handling of documents and his coalition's fracture on climate policy"
-    },
     {
       "date": "2026-07-09T08:29:08.553408Z",
       "text": "Christopher Luxon faces challenges to his leadership and policy decisions, including a party leadership vote and coalition fractures on climate change."
@@ -1362,14 +1363,13 @@
     {
       "date": "2026-07-18T06:53:27.949173Z",
       "text": "Christopher Luxon faced criticism from Shane Jones over his visit with Modi and was found to have made a contradictory statement about his role as Prime Minister"
+    },
+    {
+      "date": "2026-07-19T07:22:45.360951Z",
+      "text": "Christopher Luxon survived a party leadership vote and announced a cabinet reshuffle, but his statement about focusing on what he can control contains a contradiction"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-30T07:35:17.349268Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-31T08:09:07.624903Z",
       "notes": "No results",
@@ -1614,15 +1614,14 @@
       "date": "2026-07-18T06:53:27.949173Z",
       "notes": "Reviewed articles from NZ Herald, thespinoff.co.nz, and newsroom.co.nz",
       "new_items": true
+    },
+    {
+      "date": "2026-07-19T07:22:45.360951Z",
+      "notes": "Reviewed sources from apnews.com, newsroom.co.nz, and thespinoff.co.nz",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-28T08:15:54.476313Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-06-29T09:21:52.787738Z",
       "sources": [
@@ -1766,7 +1765,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-19T07:22:45.361079Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-18T06:53:27.949335Z"
+  "last_updated": "2026-07-19T07:22:45.361102Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 18,
+  "lie_count": 19,
   "lies": [
     {
       "date": "March 2026",
@@ -182,6 +182,16 @@
       "platform": "interview",
       "_id": "1ea5a7e2",
       "_crawled": "2026-07-18T06:54:36.858561Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Shane Jones positions NZ First as 'nationalist', continues swipes at migrants",
+      "reality": "Critics argue this stance is divisive and targets migrants",
+      "source": "RNZ News",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "9697add4",
+      "_crawled": "2026-07-19T07:24:15.770518Z"
     }
   ],
   "social_posts": [
@@ -694,13 +704,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Jones' continued use of divisive language and personal attacks"
+    },
+    "2026-07-19T07:24:15.770518Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' continued divisive rhetoric may impact his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-09T08:30:15.442864Z",
-      "text": "Shane Jones is facing multiple controversies, including an investigation over a passport scandal and criticism over a $63k travel bill"
-    },
     {
       "date": "2026-07-10T08:16:58.398986Z",
       "text": "Shane Jones has faced criticism for his $63k travel bill and personal attacks on Nicola Willis, raising concerns about his integrity."
@@ -736,14 +747,13 @@
     {
       "date": "2026-07-18T06:54:36.858561Z",
       "text": "Shane Jones continues to make divisive comments and personal attacks, raising concerns about his integrity"
+    },
+    {
+      "date": "2026-07-19T07:24:15.770518Z",
+      "text": "Shane Jones' recent comments at the NZ First conference have sparked criticism for being divisive and targeting migrants"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-30T07:36:00.732062Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-31T08:09:42.855640Z",
       "notes": "No results",
@@ -988,15 +998,14 @@
       "date": "2026-07-18T06:54:36.858561Z",
       "notes": "Jones' comments and actions continue to be a source of controversy",
       "new_items": true
+    },
+    {
+      "date": "2026-07-19T07:24:15.770518Z",
+      "notes": "Reviewed RNZ News and Tavily sources for Shane Jones' recent activities and statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-26T08:26:21.137521Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-06-27T07:44:06.812666Z",
       "sources": [
@@ -1130,7 +1139,16 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-19T07:24:15.770660Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-18T06:54:36.858725Z"
+  "last_updated": "2026-07-19T07:24:15.770696Z"
 }

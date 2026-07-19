@@ -284,14 +284,13 @@
     {
       "date": "2026-06-16T10:04:59.029650Z",
       "text": "Anthony Albanese attended the Australia-New Zealand Leaders' Meeting and signaled a possible extension of the fuel excise cut."
+    },
+    {
+      "date": "2026-07-19T07:26:34.250604Z",
+      "text": "Anthony Albanese met with Christopher Luxon to discuss bilateral relations and announced a crackdown on hate speech."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-30T07:37:54.951981Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-05-31T08:11:06.383321Z",
       "notes": "No results",
@@ -536,15 +535,14 @@
       "date": "2026-07-18T06:57:02.337938Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-19T07:26:34.250604Z",
+      "notes": "No significant lies or social post discrepancies found.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-25T08:19:15.481206Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-06-29T09:23:40.665280Z",
       "sources": [
@@ -679,7 +677,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-19T07:26:34.250691Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-18T06:57:02.337979Z"
+  "last_updated": "2026-07-19T07:26:34.250711Z"
 }
