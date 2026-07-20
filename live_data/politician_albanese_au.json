@@ -292,11 +292,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-31T08:11:06.383321Z",
-      "notes": "No results",
-      "new_items": false
-    },
-    {
       "date": "2026-06-01T10:13:56.231436Z",
       "notes": "New events and a potential lie from Anthony Albanese",
       "new_items": true
@@ -540,15 +535,14 @@
       "date": "2026-07-19T07:26:34.250604Z",
       "notes": "No significant lies or social post discrepancies found.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-20T07:55:21.030752Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-29T09:23:40.665280Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-07-01T08:48:33.496065Z",
       "sources": [
@@ -684,7 +678,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-20T07:55:21.030767Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-19T07:26:34.250711Z"
+  "last_updated": "2026-07-20T07:55:21.030787Z"
 }

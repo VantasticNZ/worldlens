@@ -1325,13 +1325,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's statement about focusing on what he can control contains a contradiction, which may indicate a lack of integrity"
+    },
+    "2026-07-20T07:51:45.678985Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's contradiction on his control as Prime Minister may indicate a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-09T08:29:08.553408Z",
-      "text": "Christopher Luxon faces challenges to his leadership and policy decisions, including a party leadership vote and coalition fractures on climate change."
-    },
     {
       "date": "2026-07-10T08:15:37.666355Z",
       "text": "PM Modi's visit to New Zealand marks a significant event in international relations, with potential implications for Luxon's government and its handling of trade ties with China"
@@ -1367,14 +1368,13 @@
     {
       "date": "2026-07-19T07:22:45.360951Z",
       "text": "Christopher Luxon survived a party leadership vote and announced a cabinet reshuffle, but his statement about focusing on what he can control contains a contradiction"
+    },
+    {
+      "date": "2026-07-20T07:51:45.678985Z",
+      "text": "Luxon's leadership and integrity have been called into question following a party leadership vote and controversy over climate change policy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-31T08:09:07.624903Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-06-01T10:11:21.555703Z",
       "notes": "Reviewed articles from NZ Herald, AP News, and other sources",
@@ -1619,15 +1619,14 @@
       "date": "2026-07-19T07:22:45.360951Z",
       "notes": "Reviewed sources from apnews.com, newsroom.co.nz, and thespinoff.co.nz",
       "new_items": true
+    },
+    {
+      "date": "2026-07-20T07:51:45.678985Z",
+      "notes": "Reviewed RNZ News, thespinoff.co.nz, and apnews.com for updates on Christopher Luxon",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-29T09:21:52.787738Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-07-01T08:44:04.690657Z",
       "sources": [
@@ -1772,7 +1771,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-20T07:51:45.679122Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-19T07:22:45.361102Z"
+  "last_updated": "2026-07-20T07:51:45.679144Z"
 }

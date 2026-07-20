@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 18,
+  "lie_count": 19,
   "lies": [
     {
       "date": "May 2026",
@@ -182,6 +182,16 @@
       "platform": "interview",
       "_id": "9528162f",
       "_crawled": "2026-07-16T07:18:05.671425Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Labour hasn't promised undeliverable policies",
+      "reality": "Chris Hipkins regrets Labour promising ‘undeliverable’ policies",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "92db84d2",
+      "_crawled": "2026-07-20T07:54:15.780379Z"
     }
   ],
   "social_posts": [
@@ -604,13 +614,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Hipkins' claim about the cost-of-living policy helping farmers was contradicted by his own statement"
+    },
+    "2026-07-20T07:54:15.780379Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Hipkins' admission of promising undeliverable policies affects his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-08T07:25:34.080917Z",
-      "text": "Chris Hipkins' recent statements and actions have raised concerns about his integrity and transparency, particularly regarding Labour's policies and their impact on various groups"
-    },
     {
       "date": "2026-07-09T08:32:01.272220Z",
       "text": "Chris Hipkins faces challenges to his integrity due to his cost-of-living policy and personal life"
@@ -646,14 +657,13 @@
     {
       "date": "2026-07-19T07:25:26.328517Z",
       "text": "Chris Hipkins' integrity score takes a hit due to contradictory statements about the cost-of-living policy"
+    },
+    {
+      "date": "2026-07-20T07:54:15.780379Z",
+      "text": "Chris Hipkins admits to promising undeliverable policies, affecting his integrity score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-31T08:10:24.711855Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-06-01T10:13:11.225950Z",
       "notes": "Reviewed Tavily sources from NZ Herald, Labour.org.nz, and RNZ",
@@ -898,15 +908,14 @@
       "date": "2026-07-19T07:25:26.328517Z",
       "notes": "Contradictory statements found, integrity score adjusted accordingly",
       "new_items": true
+    },
+    {
+      "date": "2026-07-20T07:54:15.780379Z",
+      "notes": "Reviewed NZ Herald and Labour Party sources for updates on Chris Hipkins",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-29T09:23:00.666439Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-07-01T08:46:48.799495Z",
       "sources": [
@@ -1044,7 +1053,15 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-20T07:54:15.780464Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-19T07:25:26.328630Z"
+  "last_updated": "2026-07-20T07:54:15.780482Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 79,
+  "lie_count": 81,
   "lies": [
     {
       "date": "January 2026",
@@ -792,6 +792,26 @@
       "platform": "speech",
       "_id": "f9418508",
       "_crawled": "2026-07-19T07:26:14.822399Z"
+    },
+    {
+      "date": "June 2026",
+      "claim": "In the past 13 months, 'The typical 401(k) … is up almost $30'",
+      "reality": "The statement is not fully verified",
+      "source": "PolitiFact, June 23, 2026",
+      "severity": "low",
+      "platform": "speech",
+      "_id": "e052c7d5",
+      "_crawled": "2026-07-20T07:55:01.183898Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Religion is back in our country, bigger and stronger than it has been in many, many years",
+      "reality": "The statement is misleading, as multiple surveys show lower religious affiliation and engagement than in past years",
+      "source": "FactCheck.org, July 15, 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "f699f9c9",
+      "_crawled": "2026-07-20T07:55:01.183898Z"
     }
   ],
   "social_posts": [
@@ -1439,13 +1459,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "repeated false claims and contradictory statements"
+    },
+    "2026-07-20T07:55:01.183898Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Repeated misleading statements and half-truths"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-10T08:19:02.721075Z",
-      "text": "Trump's recent statements have been fact-checked and found to be inaccurate, further eroding his credibility."
-    },
     {
       "date": "2026-07-11T07:10:31.797426Z",
       "text": "Donald Trump's administration has rolled back a key protection for imperiled wildlife, and he has made several misleading statements, including a claim about the Biden and Obama administrations' spending on the Lincoln Memorial Reflecting Pool."
@@ -1481,14 +1502,13 @@
     {
       "date": "2026-07-19T07:26:14.822399Z",
       "text": "Trump continues to make false claims and contradictory statements, including on religion and the 2020 election."
+    },
+    {
+      "date": "2026-07-20T07:55:01.183898Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity and policy consistency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-31T08:10:54.143580Z",
-      "notes": "New events and updates related to Trump's activities and statements",
-      "new_items": true
-    },
     {
       "date": "2026-06-01T10:13:41.821901Z",
       "notes": "Reviewed 4 BBC World articles and multiple Tavily sources",
@@ -1733,15 +1753,14 @@
       "date": "2026-07-19T07:26:14.822399Z",
       "notes": "Multiple sources confirm Trump's repeated false claims and contradictory statements.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-20T07:55:01.183898Z",
+      "notes": "Multiple sources confirm Trump's pattern of misleading statements and half-truths",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-30T08:26:09.614209Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-07-01T08:48:05.240032Z",
       "sources": [
@@ -1896,7 +1915,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-20T07:55:01.184193Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-19T07:26:14.822712Z"
+  "last_updated": "2026-07-20T07:55:01.184212Z"
 }

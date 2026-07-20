@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 33,
+  "lie_count": 34,
   "lies": [
     {
       "date": "April 2026",
@@ -332,6 +332,16 @@
       "platform": "press_release",
       "_id": "b5566d85",
       "_crawled": "2026-07-19T07:25:01.114592Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Social housing overhaul with potential duration limits",
+      "reality": "No clear details on implementation or effects on current social housing residents",
+      "source": "NZ Herald, July 2026",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "2ef33e3a",
+      "_crawled": "2026-07-20T07:53:49.726321Z"
     }
   ],
   "social_posts": [
@@ -474,6 +484,20 @@
       },
       "_id": "8be663a8",
       "_crawled": "2026-07-19T07:25:01.114592Z"
+    },
+    {
+      "platform": "speech",
+      "date": "July 2026",
+      "text": "Speech to the Property Council",
+      "verified_by": "Beehive.govt.nz",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Previous statements on social housing contradict current overhaul plans",
+        "source": "NZ Herald, July 2026",
+        "severity": "med"
+      },
+      "_id": "2f202e97",
+      "_crawled": "2026-07-20T07:53:49.726321Z"
     }
   ],
   "votes": [],
@@ -994,13 +1018,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The admission of the housing system being broken and the lack of action to fix it may impact the integrity score"
+    },
+    "2026-07-20T07:53:49.726321Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Minister Bishop's involvement in the City Link bridge funding decision and lack of transparency in social housing overhaul plans raise concerns about integrity and corruption risk"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-09T08:31:30.387914Z",
-      "text": "Chris Bishop's claim of building 7,000 homes has been contradicted, and the Government's housing plan has been reduced, leading to a net loss of homes in Auckland."
-    },
     {
       "date": "2026-07-10T08:17:49.518403Z",
       "text": "Housing Minister Chris Bishop's credibility has taken a hit due to broken election promises and lack of progress in addressing housing shortage"
@@ -1036,14 +1061,13 @@
     {
       "date": "2026-07-19T07:25:01.114592Z",
       "text": "Housing Minister Chris Bishop has announced changes to the social housing system, but his admission of the system being broken and lack of action to fix it may raise concerns about his integrity."
+    },
+    {
+      "date": "2026-07-20T07:53:49.726321Z",
+      "text": "Minister Chris Bishop's social housing overhaul plans and involvement in the City Link bridge funding decision have raised concerns about his integrity and transparency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-05-31T08:10:10.827527Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-06-01T10:12:54.358039Z",
       "notes": "Minister's statement on social housing funding may be misleading, and the shake-up has been criticized for its potential impact on low-income households.",
@@ -1288,15 +1312,14 @@
       "date": "2026-07-19T07:25:01.114592Z",
       "notes": "Multiple sources indicate a pattern of contradictory statements and inaction on the housing crisis",
       "new_items": true
+    },
+    {
+      "date": "2026-07-20T07:53:49.726321Z",
+      "notes": "Further investigation into Minister Bishop's conflicts of interest and social housing policies recommended",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-28T08:17:07.787495Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-07-01T08:46:05.016642Z",
       "sources": [
@@ -1437,7 +1460,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-20T07:53:49.726434Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-19T07:25:01.114792Z"
+  "last_updated": "2026-07-20T07:53:49.726452Z"
 }

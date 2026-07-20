@@ -647,11 +647,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-05-31T08:09:56.741506Z",
-      "notes": "No results",
-      "new_items": false
-    },
-    {
       "date": "2026-06-01T10:12:38.674834Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to Budget 2026 and Barbara Edmonds' apology",
       "new_items": true
@@ -895,16 +890,14 @@
       "date": "2026-07-19T07:24:40.338685Z",
       "notes": "Reviewed RNZ and NZ Herald articles for updates on Nicola Willis' activities and statements.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-20T07:53:25.920449Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-06-23T08:24:56.954400Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-07-01T08:45:27.519895Z",
       "sources": [
@@ -1045,7 +1038,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-20T07:53:25.920463Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-19T07:24:40.338803Z"
+  "last_updated": "2026-07-20T07:53:25.920482Z"
 }
