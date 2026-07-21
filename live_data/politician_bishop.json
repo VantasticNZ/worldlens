@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 34,
+  "lie_count": 35,
   "lies": [
     {
       "date": "April 2026",
@@ -342,6 +342,16 @@
       "platform": "press_release",
       "_id": "2ef33e3a",
       "_crawled": "2026-07-20T07:53:49.726321Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Housing Minister Chris Bishop wants to overhaul the social housing system, including changing how it assesses who gets homes and exploring ways to encourage people to eventually leave – potentially with duration limits.",
+      "reality": "The overhaul may cut the average support for those in social housing, potentially leaving them without sufficient assistance.",
+      "source": "NZ Herald, July 2026",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "d14cd5b0",
+      "_crawled": "2026-07-21T07:29:31.253896Z"
     }
   ],
   "social_posts": [
@@ -1023,13 +1033,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Minister Bishop's involvement in the City Link bridge funding decision and lack of transparency in social housing overhaul plans raise concerns about integrity and corruption risk"
+    },
+    "2026-07-21T07:29:31.253896Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "The overhaul of the social housing system and the inquiry into the City Link bridge may indicate a lack of transparency and potential conflicts of interest."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-10T08:17:49.518403Z",
-      "text": "Housing Minister Chris Bishop's credibility has taken a hit due to broken election promises and lack of progress in addressing housing shortage"
-    },
     {
       "date": "2026-07-11T07:09:16.531194Z",
       "text": "Housing Minister Chris Bishop has announced an overhaul of the social housing system, but has also broken a promise on building additional public homes in Auckland."
@@ -1065,14 +1076,13 @@
     {
       "date": "2026-07-20T07:53:49.726321Z",
       "text": "Minister Chris Bishop's social housing overhaul plans and involvement in the City Link bridge funding decision have raised concerns about his integrity and transparency"
+    },
+    {
+      "date": "2026-07-21T07:29:31.253896Z",
+      "text": "Housing Minister Chris Bishop's overhaul of the social housing system and the Audit Office's inquiry into the City Link bridge have raised concerns about transparency and potential conflicts of interest."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-01T10:12:54.358039Z",
-      "notes": "Minister's statement on social housing funding may be misleading, and the shake-up has been criticized for its potential impact on low-income households.",
-      "new_items": true
-    },
     {
       "date": "2026-06-02T09:03:06.306124Z",
       "notes": "Minister's statements and actions on social housing have been contradictory and misleading",
@@ -1317,16 +1327,14 @@
       "date": "2026-07-20T07:53:49.726321Z",
       "notes": "Further investigation into Minister Bishop's conflicts of interest and social housing policies recommended",
       "new_items": true
+    },
+    {
+      "date": "2026-07-21T07:29:31.253896Z",
+      "notes": "Further investigation into the social housing overhaul and the City Link bridge inquiry is recommended.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-01T08:46:05.016642Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-02T08:01:54.907328Z",
       "sources": [
@@ -1467,7 +1475,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-21T07:29:31.254025Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-20T07:53:49.726452Z"
+  "last_updated": "2026-07-21T07:29:31.254041Z"
 }

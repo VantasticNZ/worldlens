@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 41,
+  "lie_count": 42,
   "lies": [
     {
       "date": "2026",
@@ -412,6 +412,16 @@
       "platform": "interview",
       "_id": "285f5670",
       "_crawled": "2026-07-18T06:53:27.949173Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Winston Peters is lying about the India FTA",
+      "reality": "Winston Peters' account corrects Christopher Luxon's tweet about trade deal",
+      "source": "RNZ, 2026",
+      "severity": "high",
+      "platform": "twitter",
+      "_id": "ee08b4e5",
+      "_crawled": "2026-07-21T07:27:30.908008Z"
     }
   ],
   "social_posts": [
@@ -834,6 +844,20 @@
       },
       "_id": "7d8b704d",
       "_crawled": "2026-07-17T07:10:58.836299Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "July 2026",
+      "text": "In challenging times, close friends matter more than ever.",
+      "verified_by": "Tavily: Christopher Luxon statement tweet social",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Luxon's statement on friendship contradicts his 'tough love' budget approach",
+        "source": "The Spinoff, 28-05-2026",
+        "severity": "med"
+      },
+      "_id": "09ebea97",
+      "_crawled": "2026-07-21T07:27:30.908008Z"
     }
   ],
   "votes": [
@@ -1330,13 +1354,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's contradiction on his control as Prime Minister may indicate a lack of integrity"
+    },
+    "2026-07-21T07:27:30.908008Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's lie about Winston Peters and his contradictory social post on friendship vs. 'tough love' budget approach"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-10T08:15:37.666355Z",
-      "text": "PM Modi's visit to New Zealand marks a significant event in international relations, with potential implications for Luxon's government and its handling of trade ties with China"
-    },
     {
       "date": "2026-07-11T07:06:34.371055Z",
       "text": "Luxon agrees on partnership with Modi, potentially contradicting previous trade and security ambitions statements"
@@ -1372,14 +1397,13 @@
     {
       "date": "2026-07-20T07:51:45.678985Z",
       "text": "Luxon's leadership and integrity have been called into question following a party leadership vote and controversy over climate change policy"
+    },
+    {
+      "date": "2026-07-21T07:27:30.908008Z",
+      "text": "Christopher Luxon's integrity score takes a hit due to his recent lie and contradictory social post."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-01T10:11:21.555703Z",
-      "notes": "Reviewed articles from NZ Herald, AP News, and other sources",
-      "new_items": true
-    },
     {
       "date": "2026-06-02T09:01:22.267247Z",
       "notes": "Multiple sources suggest Luxon's government is facing challenges on climate change and nuclear-free stance",
@@ -1624,17 +1648,14 @@
       "date": "2026-07-20T07:51:45.678985Z",
       "notes": "Reviewed RNZ News, thespinoff.co.nz, and apnews.com for updates on Christopher Luxon",
       "new_items": true
+    },
+    {
+      "date": "2026-07-21T07:27:30.908008Z",
+      "notes": "Luxon's coalition is fracturing, and his leadership is being criticized by Labour.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-01T08:44:04.690657Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-02T07:59:51.995178Z",
       "sources": [
@@ -1779,7 +1800,14 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-21T07:27:30.908169Z",
+      "sources": [
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-20T07:51:45.679144Z"
+  "last_updated": "2026-07-21T07:27:30.908190Z"
 }

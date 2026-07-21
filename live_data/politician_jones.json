@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 20,
+  "lie_count": 21,
   "lies": [
     {
       "date": "March 2026",
@@ -202,6 +202,16 @@
       "platform": "interview",
       "_id": "bb03fadb",
       "_crawled": "2026-07-20T07:53:01.144342Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Shane Jones denies 'knee pads' remark was oral sex reference",
+      "reality": "The context of the remark suggests it could be interpreted as such",
+      "source": "RNZ News",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "b18e04d9",
+      "_crawled": "2026-07-21T07:28:39.804255Z"
     }
   ],
   "social_posts": [
@@ -724,13 +734,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' recent comments and actions have raised concerns about his integrity"
+    },
+    "2026-07-21T07:28:39.804255Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Repeated controversial statements and actions"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-11T07:08:27.372452Z",
-      "text": "Shane Jones is facing investigation over a passport scandal and has defended his $63k travel bill, raising concerns about his integrity and corruption risk."
-    },
     {
       "date": "2026-07-12T07:25:29.661417Z",
       "text": "Shane Jones has faced criticism and controversy over his travel bill and comments, leading to demands for apology and concerns about his integrity and corruption risk."
@@ -766,14 +777,13 @@
     {
       "date": "2026-07-20T07:53:01.144342Z",
       "text": "Shane Jones faces criticism over India FTA comments and nationalist stance"
+    },
+    {
+      "date": "2026-07-21T07:28:39.804255Z",
+      "text": "Shane Jones faces ongoing criticism for his comments and actions, including his 'butter chicken' remarks and travel bill."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-01T10:12:20.347461Z",
-      "notes": "Multiple sources confirm Shane Jones' controversial comments, with RNZ News and The Spinoff providing detailed coverage",
-      "new_items": true
-    },
     {
       "date": "2026-06-02T09:02:28.488262Z",
       "notes": "Reviewed Tavily sources from NZ Herald, The Spinoff, and RNZ News.",
@@ -1018,16 +1028,14 @@
       "date": "2026-07-20T07:53:01.144342Z",
       "notes": "Reviewed RNZ News, NZ Herald, and Tavily articles",
       "new_items": true
+    },
+    {
+      "date": "2026-07-21T07:28:39.804255Z",
+      "notes": "Multiple sources indicate a pattern of controversial behavior from Shane Jones",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-01T08:45:04.540387Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-02T08:01:06.514473Z",
       "sources": [
@@ -1165,7 +1173,15 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-21T07:28:39.804403Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-20T07:53:01.144472Z"
+  "last_updated": "2026-07-21T07:28:39.804422Z"
 }

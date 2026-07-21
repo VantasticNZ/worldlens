@@ -451,11 +451,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-01T10:13:28.571009Z",
-      "notes": "Reviewed recent statements and articles from Chloe Swarbrick and the Green Party regarding Budget 2026.",
-      "new_items": true
-    },
-    {
       "date": "2026-06-02T09:03:49.093290Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -699,16 +694,14 @@
       "date": "2026-07-20T07:54:41.883358Z",
       "notes": "Reviewed recent news articles and statements from Chloe Swarbrick and the Green Party.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-21T07:30:15.892738Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-01T08:47:37.343764Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-07-02T08:03:00.578185Z",
       "sources": [
@@ -841,7 +834,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-21T07:30:15.892751Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-20T07:54:41.883456Z"
+  "last_updated": "2026-07-21T07:30:15.892770Z"
 }

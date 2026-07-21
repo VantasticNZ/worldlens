@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 14,
+  "lie_count": 15,
   "lies": [
     {
       "date": "February 2026",
@@ -142,6 +142,16 @@
       "platform": "speech",
       "_id": "64997dc3",
       "_crawled": "2026-06-07T08:19:23.105169Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Nicola Willis blames 'Trump spike' for high inflation",
+      "reality": "Inflation is a complex issue with multiple causes, and blaming a single factor like the 'Trump spike' is an oversimplification",
+      "source": "RNZ News",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "81d91931",
+      "_crawled": "2026-07-21T07:29:02.880171Z"
     }
   ],
   "social_posts": [
@@ -605,10 +615,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-05-25T08:52:12.412735Z",
-      "text": "Nicola Willis faced criticism and controversy over her comments on social housing and her handling of New Zealand's economy."
-    },
-    {
       "date": "2026-05-28T08:39:08.031916Z",
       "text": "Nicola Willis delivers Budget 2026, but faces criticism for her superannuation comments"
     },
@@ -643,14 +649,13 @@
     {
       "date": "2026-07-19T07:24:40.338685Z",
       "text": "Nicola Willis faced criticism for her handling of the budget and her claims about NZ's fiscal situation."
+    },
+    {
+      "date": "2026-07-21T07:29:02.880171Z",
+      "text": "Nicola Willis delivered Budget 2026, which includes significant cuts to public sector jobs and a focus on economic growth"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-01T10:12:38.674834Z",
-      "notes": "No significant new findings related to lies, social posts, or votes, but new events related to Budget 2026 and Barbara Edmonds' apology",
-      "new_items": true
-    },
     {
       "date": "2026-06-02T09:02:47.433571Z",
       "notes": "No significant new findings",
@@ -895,17 +900,14 @@
       "date": "2026-07-20T07:53:25.920449Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-21T07:29:02.880171Z",
+      "notes": "Reviewed RNZ News article and Tavily sources for updates on Nicola Willis",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-01T08:45:27.519895Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-07-02T08:01:32.678224Z",
       "sources": [
@@ -1045,7 +1047,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-21T07:29:02.880246Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-20T07:53:25.920482Z"
+  "last_updated": "2026-07-21T07:29:02.880263Z"
 }

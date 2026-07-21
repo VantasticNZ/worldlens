@@ -975,10 +975,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-11T07:11:15.209479Z",
-      "text": "Keir Starmer's resignation as Prime Minister has significant implications for UK politics, following criticism of his actions and policies"
-    },
-    {
       "date": "2026-07-12T07:29:06.786535Z",
       "text": "Keir Starmer's resignation as UK Prime Minister has significant implications for his leadership and the Labour party"
     },
@@ -1013,14 +1009,13 @@
     {
       "date": "2026-07-20T07:55:44.102097Z",
       "text": "Keir Starmer's resignation as UK Prime Minister marks a significant turning point in his leadership, with criticism of his policies and actions mounting."
+    },
+    {
+      "date": "2026-07-21T07:31:31.736961Z",
+      "text": "Keir Starmer has resigned as Prime Minister and been replaced by Andy Burnham"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-01T10:14:08.304339Z",
-      "notes": "Reviewed BBC and Reuters articles for updates on Keir Starmer's leadership and policies",
-      "new_items": true
-    },
     {
       "date": "2026-06-02T09:04:40.283285Z",
       "notes": "No significant new lies or social posts found, but new events related to Keir Starmer's leadership challenges and policy defenses.",
@@ -1265,16 +1260,14 @@
       "date": "2026-07-20T07:55:44.102097Z",
       "notes": "Resignation announcement and criticism of Starmer's leadership and policies",
       "new_items": true
+    },
+    {
+      "date": "2026-07-21T07:31:31.736961Z",
+      "notes": "Resignation of Keir Starmer and appointment of Andy Burnham as Prime Minister",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-01T08:48:52.085922Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-02T08:04:11.012499Z",
       "sources": [
@@ -1411,7 +1404,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-21T07:31:31.737025Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-20T07:55:44.102226Z"
+  "last_updated": "2026-07-21T07:31:31.737043Z"
 }
