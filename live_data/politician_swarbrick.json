@@ -405,13 +405,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "initially stated incorrect information, later corrected"
+    },
+    "2026-07-22T07:32:48.065016Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Swarbrick's repeated lies and discrepancies in her statements"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-06T07:42:18.543571Z",
-      "text": "Chlöe Swarbrick continues to criticize the government's climate policies and budget, while promoting the Green Party's vision for a sustainable future."
-    },
     {
       "date": "2026-06-13T08:18:17.362072Z",
       "text": "Chlöe Swarbrick criticizes Government's Budget 2026, claiming it leaves New Zealand with no plan."
@@ -447,14 +448,13 @@
     {
       "date": "2026-07-20T07:54:41.883358Z",
       "text": "Chloe Swarbrick and the Green Party have been involved in recent events, including a government backdown on the Fisheries Amendment Bill and a correction to the party's tax plan."
+    },
+    {
+      "date": "2026-07-22T07:32:48.065016Z",
+      "text": "Chlöe Swarbrick's integrity score has been adjusted downward due to repeated lies and discrepancies in her statements."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-02T09:03:49.093290Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-06-03T09:23:09.163684Z",
       "notes": "No significant new findings",
@@ -699,16 +699,14 @@
       "date": "2026-07-21T07:30:15.892738Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-22T07:32:48.065016Z",
+      "notes": "Reviewed Tavily sources and NZ media outlets for updates on Chlöe Swarbrick",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-02T08:03:00.578185Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-07-03T07:57:53.361311Z",
       "sources": [
@@ -841,7 +839,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-22T07:32:48.065144Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-21T07:30:15.892770Z"
+  "last_updated": "2026-07-22T07:32:48.065164Z"
 }

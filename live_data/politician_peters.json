@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 33,
+  "lie_count": 34,
   "lies": [
     {
       "date": "March 2026",
@@ -332,6 +332,16 @@
       "platform": "speech",
       "_id": "62fb907a",
       "_crawled": "2026-07-21T07:27:54.600949Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Nothing has changed. In fact, they are even worse. No, we won’t do a deal with Labour or their Marxist and separatist mates.",
+      "reality": "NZ First has not ruled out working with Labour entirely, as they have formed coalitions in the past",
+      "source": "NZ Herald, April 2026",
+      "severity": "med",
+      "platform": "twitter",
+      "_id": "52210ce7",
+      "_crawled": "2026-07-22T07:29:49.410831Z"
     }
   ],
   "social_posts": [
@@ -1141,10 +1151,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-12T07:24:39.809152Z",
-      "text": "Winston Peters' recent statements and policies suggest inconsistency and potential for future coalition with Labour, despite claims otherwise"
-    },
-    {
       "date": "2026-07-13T08:10:01.668856Z",
       "text": "Winston Peters continues to make contradictory statements and announcements, further eroding his integrity score"
     },
@@ -1179,14 +1185,13 @@
     {
       "date": "2026-07-21T07:27:54.600949Z",
       "text": "Winston Peters continues to make statements that contradict his previous policies and actions, while also unveiling new proposals for the 2026 election."
+    },
+    {
+      "date": "2026-07-22T07:29:49.410831Z",
+      "text": "Winston Peters continues to make statements that contradict his past actions and policies, and has proposed various new policies in the lead-up to the 2026 election"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-02T09:01:44.973274Z",
-      "notes": "Peters' Twitter activity and interviews with media outlets have been inconsistent and contradictory at times",
-      "new_items": true
-    },
     {
       "date": "2026-06-03T09:21:28.675395Z",
       "notes": "Peters' energy sector proposal and immigration comments are notable, but his contradictory statements are a concern",
@@ -1431,16 +1436,14 @@
       "date": "2026-07-21T07:27:54.600949Z",
       "notes": "Peters' statements and actions continue to be scrutinized as the 2026 election approaches",
       "new_items": true
+    },
+    {
+      "date": "2026-07-22T07:29:49.410831Z",
+      "notes": "Peters' statements and proposals should be closely monitored for consistency and accuracy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-02T08:00:14.306019Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-07-03T07:55:46.899607Z",
       "sources": [
@@ -1583,7 +1586,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-22T07:29:49.410996Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-21T07:27:54.601140Z"
+  "last_updated": "2026-07-22T07:29:49.411019Z"
 }

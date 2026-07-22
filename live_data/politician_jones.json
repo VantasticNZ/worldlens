@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 21,
+  "lie_count": 22,
   "lies": [
     {
       "date": "March 2026",
@@ -212,6 +212,16 @@
       "platform": "speech",
       "_id": "b18e04d9",
       "_crawled": "2026-07-21T07:28:39.804255Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Shane Jones positions ACT as 'nationalist', continues swipes at migrants",
+      "reality": "Shane Jones positions NZ First as 'nationalist', continues swipes at migrants",
+      "source": "RNZ, July 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "d4738e53",
+      "_crawled": "2026-07-22T07:30:46.701845Z"
     }
   ],
   "social_posts": [
@@ -739,13 +749,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Repeated controversial statements and actions"
+    },
+    "2026-07-22T07:30:46.701845Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' continued swipes at migrants and his labeling of critics as 'noisy voices' suggest a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-12T07:25:29.661417Z",
-      "text": "Shane Jones has faced criticism and controversy over his travel bill and comments, leading to demands for apology and concerns about his integrity and corruption risk."
-    },
     {
       "date": "2026-07-13T08:10:50.659936Z",
       "text": "Shane Jones has faced criticism for his $63k travel bill and for shunning a UN meeting on bottom trawling"
@@ -781,14 +792,13 @@
     {
       "date": "2026-07-21T07:28:39.804255Z",
       "text": "Shane Jones faces ongoing criticism for his comments and actions, including his 'butter chicken' remarks and travel bill."
+    },
+    {
+      "date": "2026-07-22T07:30:46.701845Z",
+      "text": "Shane Jones continues to make controversial statements and face criticism for his actions"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-02T09:02:28.488262Z",
-      "notes": "Reviewed Tavily sources from NZ Herald, The Spinoff, and RNZ News.",
-      "new_items": true
-    },
     {
       "date": "2026-06-03T09:22:06.473273Z",
       "notes": "Reviewed Tavily sources for Shane Jones, found new events related to fisheries bill and Ngāti Ruanui comments.",
@@ -1033,16 +1043,14 @@
       "date": "2026-07-21T07:28:39.804255Z",
       "notes": "Multiple sources indicate a pattern of controversial behavior from Shane Jones",
       "new_items": true
+    },
+    {
+      "date": "2026-07-22T07:30:46.701845Z",
+      "notes": "Multiple sources confirm Shane Jones' controversial statements and actions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-02T08:01:06.514473Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-03T07:56:28.610937Z",
       "sources": [
@@ -1181,7 +1189,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-07-22T07:30:46.701992Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-21T07:28:39.804422Z"
+  "last_updated": "2026-07-22T07:30:46.702013Z"
 }

@@ -1038,13 +1038,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "The overhaul of the social housing system and the inquiry into the City Link bridge may indicate a lack of transparency and potential conflicts of interest."
+    },
+    "2026-07-22T07:31:49.456453Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The minister's statement on social housing reform raises concerns about the potential negative impact on vulnerable populations"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-11T07:09:16.531194Z",
-      "text": "Housing Minister Chris Bishop has announced an overhaul of the social housing system, but has also broken a promise on building additional public homes in Auckland."
-    },
     {
       "date": "2026-07-13T08:11:41.490467Z",
       "text": "Housing Minister Chris Bishop announces social housing overhaul with potential duration limits, raising concerns about support for those in need."
@@ -1080,14 +1081,13 @@
     {
       "date": "2026-07-21T07:29:31.253896Z",
       "text": "Housing Minister Chris Bishop's overhaul of the social housing system and the Audit Office's inquiry into the City Link bridge have raised concerns about transparency and potential conflicts of interest."
+    },
+    {
+      "date": "2026-07-22T07:31:49.456453Z",
+      "text": "Housing Minister Chris Bishop's announcement on social housing overhaul raises concerns about the potential negative impact on vulnerable populations"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-02T09:03:06.306124Z",
-      "notes": "Minister's statements and actions on social housing have been contradictory and misleading",
-      "new_items": true
-    },
     {
       "date": "2026-06-03T09:22:39.918378Z",
       "notes": "Contradiction found between Minister's statement and officials' warnings on social housing delivery",
@@ -1332,17 +1332,14 @@
       "date": "2026-07-21T07:29:31.253896Z",
       "notes": "Further investigation into the social housing overhaul and the City Link bridge inquiry is recommended.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-22T07:31:49.456453Z",
+      "notes": "Minister's statement on social housing reform may be misleading or incomplete",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-02T08:01:54.907328Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-03T07:57:12.310624Z",
       "sources": [
@@ -1482,7 +1479,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-22T07:31:49.456574Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-21T07:29:31.254041Z"
+  "last_updated": "2026-07-22T07:31:49.456592Z"
 }

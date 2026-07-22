@@ -858,6 +858,20 @@
       },
       "_id": "09ebea97",
       "_crawled": "2026-07-21T07:27:30.908008Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "2026",
+      "text": "Christopher Luxon's tweet about trade deal",
+      "verified_by": "RNZ, 2026",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Winston Peters' account corrects Christopher Luxon's tweet",
+        "source": "RNZ, 2026",
+        "severity": "med"
+      },
+      "_id": "361debf0",
+      "_crawled": "2026-07-22T07:29:28.559263Z"
     }
   ],
   "votes": [
@@ -1359,13 +1373,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's lie about Winston Peters and his contradictory social post on friendship vs. 'tough love' budget approach"
+    },
+    "2026-07-22T07:29:28.559263Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's claim about Winston Peters and the India FTA was contradicted by Peters' account"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-11T07:06:34.371055Z",
-      "text": "Luxon agrees on partnership with Modi, potentially contradicting previous trade and security ambitions statements"
-    },
     {
       "date": "2026-07-13T08:09:38.150292Z",
       "text": "Luxon agrees on partnership with India and survives party leadership vote"
@@ -1401,14 +1416,13 @@
     {
       "date": "2026-07-21T07:27:30.908008Z",
       "text": "Christopher Luxon's integrity score takes a hit due to his recent lie and contradictory social post."
+    },
+    {
+      "date": "2026-07-22T07:29:28.559263Z",
+      "text": "Christopher Luxon's coalition fractures on climate, and his claim about Winston Peters and the India FTA was contradicted by Peters' account"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-02T09:01:22.267247Z",
-      "notes": "Multiple sources suggest Luxon's government is facing challenges on climate change and nuclear-free stance",
-      "new_items": true
-    },
     {
       "date": "2026-06-03T09:21:11.553658Z",
       "notes": "Accusation of a 'demonstrable lie' by Chloe Swarbrick in Parliament",
@@ -1653,16 +1667,14 @@
       "date": "2026-07-21T07:27:30.908008Z",
       "notes": "Luxon's coalition is fracturing, and his leadership is being criticized by Labour.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-22T07:29:28.559263Z",
+      "notes": "Reviewed RNZ News, Labour.org.nz, and other sources for updates on Christopher Luxon",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-02T07:59:51.995178Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-03T07:55:24.937985Z",
       "sources": [
@@ -1807,7 +1819,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-22T07:29:28.559471Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-07-21T07:27:30.908190Z"
+  "last_updated": "2026-07-22T07:29:28.559497Z"
 }

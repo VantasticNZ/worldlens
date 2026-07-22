@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-21T07:31:32.738726Z",
+  "generated": "2026-07-22T07:34:00.576688Z",
   "files": {
     "politician_bishop": {
-      "last_updated": "2026-07-21T07:29:31.254041Z",
+      "last_updated": "2026-07-22T07:31:49.456592Z",
       "lie_count": 35,
       "event_count": 20,
       "post_count": 11,
@@ -15,34 +15,35 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-07-21T07:27:30.908190Z",
+      "last_updated": "2026-07-22T07:29:28.559497Z",
       "lie_count": 42,
       "event_count": 20,
-      "post_count": 31,
+      "post_count": 32,
       "vote_count": 1,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-07-21T07:29:52.500165Z",
+      "last_updated": "2026-07-22T07:32:19.097184Z",
       "lie_count": 19,
       "event_count": 20,
       "post_count": 10,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Chris Hipkins Labour statement 2026",
           "Tavily: Chris Hipkins contradiction 2026"
         ]
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-07-21T07:28:15.905209Z",
+      "last_updated": "2026-07-22T07:30:13.207435Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
@@ -55,7 +56,7 @@
       ]
     },
     "politician_starmer_uk": {
-      "last_updated": "2026-07-21T07:31:31.737043Z",
+      "last_updated": "2026-07-22T07:33:59.574959Z",
       "lie_count": 28,
       "event_count": 20,
       "post_count": 13,
@@ -69,8 +70,8 @@
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-07-21T07:27:54.601140Z",
-      "lie_count": 33,
+      "last_updated": "2026-07-22T07:29:49.411019Z",
+      "lie_count": 34,
       "event_count": 20,
       "post_count": 22,
       "vote_count": 0,
@@ -82,7 +83,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-07-21T07:30:15.892770Z",
+      "last_updated": "2026-07-22T07:32:48.065164Z",
       "lie_count": 3,
       "event_count": 20,
       "post_count": 14,
@@ -95,35 +96,33 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-07-21T07:29:02.880263Z",
-      "lie_count": 15,
+      "last_updated": "2026-07-22T07:31:14.306676Z",
+      "lie_count": 16,
       "event_count": 20,
       "post_count": 13,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Nicola Willis finance minister contradic",
           "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-07-21T07:28:39.804422Z",
-      "lie_count": 21,
+      "last_updated": "2026-07-22T07:30:46.702013Z",
+      "lie_count": 22,
       "event_count": 20,
       "post_count": 5,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)",
           "Tavily: Shane Jones NZ First controversy 2026",
           "Tavily: Shane Jones statement tweet 2026"
         ]
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-07-21T07:31:05.243904Z",
+      "last_updated": "2026-07-22T07:33:37.818025Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
@@ -136,14 +135,15 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-07-21T07:30:42.468422Z",
-      "lie_count": 82,
+      "last_updated": "2026-07-22T07:33:14.849887Z",
+      "lie_count": 83,
       "event_count": 20,
-      "post_count": 6,
+      "post_count": 7,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (4 articles from NZ/intl media)",
+          "RSS (2 articles from NZ/intl media)",
+          "GDELT global news database",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]

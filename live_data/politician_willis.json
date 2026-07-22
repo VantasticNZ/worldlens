@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 15,
+  "lie_count": 16,
   "lies": [
     {
       "date": "February 2026",
@@ -152,6 +152,16 @@
       "platform": "interview",
       "_id": "81d91931",
       "_crawled": "2026-07-21T07:29:02.880171Z"
+    },
+    {
+      "date": "2026",
+      "claim": "return books to surplus by 2027",
+      "reality": "walked back on promise due to tax take underwhelming",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "aafe457d",
+      "_crawled": "2026-07-22T07:31:14.306553Z"
     }
   ],
   "social_posts": [
@@ -611,13 +621,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis' claim about NZ being on a path to surplus was contradicted by Treasury's long term fiscal forecasts."
+    },
+    "2026-07-22T07:31:14.306553Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "walking back on a promise may indicate a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-05-28T08:39:08.031916Z",
-      "text": "Nicola Willis delivers Budget 2026, but faces criticism for her superannuation comments"
-    },
     {
       "date": "2026-06-05T08:39:31.730907Z",
       "text": "Nicola Willis delivers Budget 2026 and expresses regret over a comment about social housing"
@@ -653,14 +664,13 @@
     {
       "date": "2026-07-21T07:29:02.880171Z",
       "text": "Nicola Willis delivered Budget 2026, which includes significant cuts to public sector jobs and a focus on economic growth"
+    },
+    {
+      "date": "2026-07-22T07:31:14.306553Z",
+      "text": "Nicola Willis walked back on the promise to return the government's books to surplus by 2027."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-02T09:02:47.433571Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-06-03T09:22:21.643013Z",
       "notes": "No significant new findings",
@@ -905,16 +915,14 @@
       "date": "2026-07-21T07:29:02.880171Z",
       "notes": "Reviewed RNZ News article and Tavily sources for updates on Nicola Willis",
       "new_items": true
+    },
+    {
+      "date": "2026-07-22T07:31:14.306553Z",
+      "notes": "Found a notable event where Nicola Willis walked back on a promise",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-02T08:01:32.678224Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-07-03T07:56:51.644740Z",
       "sources": [
@@ -1055,7 +1063,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-22T07:31:14.306655Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-21T07:29:02.880263Z"
+  "last_updated": "2026-07-22T07:31:14.306676Z"
 }
