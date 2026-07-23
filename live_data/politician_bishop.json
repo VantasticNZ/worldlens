@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 35,
+  "lie_count": 36,
   "lies": [
     {
       "date": "April 2026",
@@ -352,6 +352,16 @@
       "platform": "press_release",
       "_id": "d14cd5b0",
       "_crawled": "2026-07-21T07:29:31.253896Z"
+    },
+    {
+      "date": "2026",
+      "claim": "The Budget invests a further $69.2 million into the Flexible Fund to deliver between 1800 and 2250 additional social homes over three years starting from 2028/29",
+      "reality": "The claim does not specify the actual number of homes that will be delivered, only a range",
+      "source": "Beehive.govt.nz",
+      "severity": "low",
+      "platform": "press_release",
+      "_id": "d03bd267",
+      "_crawled": "2026-07-23T07:28:57.005893Z"
     }
   ],
   "social_posts": [
@@ -508,6 +518,20 @@
       },
       "_id": "2f202e97",
       "_crawled": "2026-07-20T07:53:49.726321Z"
+    },
+    {
+      "platform": "press",
+      "date": "2026",
+      "text": "Housing Minister Chris Bishop wants to overhaul the social housing system, including changing how it assesses who gets homes and exploring ways to encourage people to eventually leave – potentially with duration limits",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "The proposed overhaul may contradict the government's previous policy of providing long-term social housing",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "d14cd5b0",
+      "_crawled": "2026-07-23T07:28:57.005893Z"
     }
   ],
   "votes": [],
@@ -1043,13 +1067,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The minister's statement on social housing reform raises concerns about the potential negative impact on vulnerable populations"
+    },
+    "2026-07-23T07:28:57.005893Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The proposed overhaul of the social housing system and the reduction of the Auckland housing plan may indicate a lack of integrity in the government's approach to housing policy"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-13T08:11:41.490467Z",
-      "text": "Housing Minister Chris Bishop announces social housing overhaul with potential duration limits, raising concerns about support for those in need."
-    },
     {
       "date": "2026-07-14T07:05:42.153991Z",
       "text": "Chris Bishop faces criticism for conflict of interest management and broken promises on housing"
@@ -1085,14 +1110,13 @@
     {
       "date": "2026-07-22T07:31:49.456453Z",
       "text": "Housing Minister Chris Bishop's announcement on social housing overhaul raises concerns about the potential negative impact on vulnerable populations"
+    },
+    {
+      "date": "2026-07-23T07:28:57.005893Z",
+      "text": "The government has announced an overhaul of the social housing system and reduced the Auckland housing plan, potentially indicating a lack of integrity in their approach to housing policy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-03T09:22:39.918378Z",
-      "notes": "Contradiction found between Minister's statement and officials' warnings on social housing delivery",
-      "new_items": true
-    },
     {
       "date": "2026-06-04T08:44:15.800529Z",
       "notes": "Reviewed recent statements and announcements from Chris Bishop regarding social housing",
@@ -1337,16 +1361,14 @@
       "date": "2026-07-22T07:31:49.456453Z",
       "notes": "Minister's statement on social housing reform may be misleading or incomplete",
       "new_items": true
+    },
+    {
+      "date": "2026-07-23T07:28:57.005893Z",
+      "notes": "The government's approach to social housing and the Auckland housing plan may require further scrutiny",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-03T07:57:12.310624Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-04T07:38:31.232942Z",
       "sources": [
@@ -1486,7 +1508,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-23T07:28:57.006065Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-22T07:31:49.456592Z"
+  "last_updated": "2026-07-23T07:28:57.006085Z"
 }

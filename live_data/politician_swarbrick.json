@@ -205,6 +205,15 @@
       },
       "_id": "4d4c49ac",
       "_crawled": "2026-07-18T06:56:18.236823Z"
+    },
+    {
+      "platform": "instagram",
+      "date": "July 2026",
+      "text": "Photos by Chloe Swarbrick",
+      "verified_by": "www.instagram.com",
+      "discrepancy": null,
+      "_id": "36d8496f",
+      "_crawled": "2026-07-23T07:29:43.048766Z"
     }
   ],
   "votes": [],
@@ -456,11 +465,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-03T09:23:09.163684Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-06-04T08:44:42.713828Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -704,16 +708,14 @@
       "date": "2026-07-22T07:32:48.065016Z",
       "notes": "Reviewed Tavily sources and NZ media outlets for updates on Chlöe Swarbrick",
       "new_items": true
+    },
+    {
+      "date": "2026-07-23T07:29:43.048766Z",
+      "notes": "No significant new findings related to lies, votes, or score adjustments",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-03T07:57:53.361311Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-07-04T07:39:08.257988Z",
       "sources": [
@@ -846,7 +848,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-07-23T07:29:43.048954Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-22T07:32:48.065164Z"
+  "last_updated": "2026-07-23T07:29:43.048979Z"
 }

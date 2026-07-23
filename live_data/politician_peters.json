@@ -1193,11 +1193,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-03T09:21:28.675395Z",
-      "notes": "Peters' energy sector proposal and immigration comments are notable, but his contradictory statements are a concern",
-      "new_items": true
-    },
-    {
       "date": "2026-06-04T08:43:17.754697Z",
       "notes": "Reviewed RNZ News, BBC World, and various Tavily sources for updates on Winston Peters",
       "new_items": true
@@ -1441,16 +1436,14 @@
       "date": "2026-07-22T07:29:49.410831Z",
       "notes": "Peters' statements and proposals should be closely monitored for consistency and accuracy",
       "new_items": true
+    },
+    {
+      "date": "2026-07-23T07:27:07.670424Z",
+      "notes": "No significant new lies or social posts found, but several new events were discovered.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-03T07:55:46.899607Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-07-04T07:37:16.704713Z",
       "sources": [
@@ -1593,7 +1586,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-23T07:27:07.670558Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-22T07:29:49.411019Z"
+  "last_updated": "2026-07-23T07:27:07.670583Z"
 }

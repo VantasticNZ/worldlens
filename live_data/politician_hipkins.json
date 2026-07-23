@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 19,
+  "lie_count": 20,
   "lies": [
     {
       "date": "May 2026",
@@ -192,6 +192,16 @@
       "platform": "interview",
       "_id": "92db84d2",
       "_crawled": "2026-07-20T07:54:15.780379Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Labour will have a policy on state housing support that is different from the Government’s approach",
+      "reality": "No clear policy details provided",
+      "source": "NZ Herald, July 2026",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "384f0340",
+      "_crawled": "2026-07-23T07:29:19.988263Z"
     }
   ],
   "social_posts": [
@@ -633,10 +643,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-11T07:09:39.535847Z",
-      "text": "Chris Hipkins faces scrutiny over personal scandal and contradictory statements on rental support"
-    },
-    {
       "date": "2026-07-13T08:12:05.441647Z",
       "text": "Chris Hipkins' recent statements and events continue to raise questions about his integrity and policy consistency."
     },
@@ -671,14 +677,13 @@
     {
       "date": "2026-07-22T07:32:19.097058Z",
       "text": "Chris Hipkins' integrity score takes a hit due to contradiction on cost-of-living policy"
+    },
+    {
+      "date": "2026-07-23T07:29:19.988263Z",
+      "text": "Labour leader Chris Hipkins provided limited details on state housing support policy and confirmed a cost-of-living relief policy announcement"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-03T09:22:54.731786Z",
-      "notes": "Reviewed Tavily sources for new information on Chris Hipkins",
-      "new_items": true
-    },
     {
       "date": "2026-06-04T08:44:29.680207Z",
       "notes": "Reviewed Labour Party website and NZ Herald articles for updates on Chris Hipkins' statements and events",
@@ -923,16 +928,14 @@
       "date": "2026-07-22T07:32:19.097058Z",
       "notes": "Contradiction found in Chris Hipkins' statements on cost-of-living policy",
       "new_items": true
+    },
+    {
+      "date": "2026-07-23T07:29:19.988263Z",
+      "notes": "Reviewed Tavily sources for Chris Hipkins, no major discrepancies found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-03T07:57:32.656745Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-04T07:38:50.246828Z",
       "sources": [
@@ -1072,7 +1075,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-23T07:29:19.988396Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-22T07:32:19.097184Z"
+  "last_updated": "2026-07-23T07:29:19.988415Z"
 }

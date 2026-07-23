@@ -1512,10 +1512,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-13T08:12:54.784286Z",
-      "text": "New lies and discrepancies were found, and the US-Iran conflict is escalating."
-    },
-    {
       "date": "2026-07-14T07:07:05.437578Z",
       "text": "New findings of lies and discrepancies in Trump's statements and actions have decreased his integrity score and increased his corruption risk score"
     },
@@ -1550,14 +1546,13 @@
     {
       "date": "2026-07-22T07:33:14.849602Z",
       "text": "Trump's recent actions and statements have raised tensions with Iran and Canada, and have sparked concerns about his integrity"
+    },
+    {
+      "date": "2026-07-23T07:30:02.510801Z",
+      "text": "The US has struck Iran and Trump's trade policies are targeting Canada's dairy sector."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-03T09:23:24.873818Z",
-      "notes": "Reviewed 5 articles from BBC World and 5 articles from Tavily sources, including PolitiFact and FactCheck.org",
-      "new_items": true
-    },
     {
       "date": "2026-06-04T08:44:58.526460Z",
       "notes": "Multiple sources confirm Trump's lies and controversies, with PolitiFact and BBC World providing key evidence",
@@ -1802,17 +1797,14 @@
       "date": "2026-07-22T07:33:14.849602Z",
       "notes": "Trump's threats against Iran and tariffs on Canada are significant developments",
       "new_items": true
+    },
+    {
+      "date": "2026-07-23T07:30:02.510801Z",
+      "notes": "No significant new lies or social posts found, but new events related to US-Iran conflict and trade policies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-03T07:58:11.831919Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-04T07:39:27.756505Z",
       "sources": [
@@ -1968,7 +1960,14 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-07-23T07:30:02.510942Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-07-22T07:33:14.849887Z"
+  "last_updated": "2026-07-23T07:30:02.510961Z"
 }
