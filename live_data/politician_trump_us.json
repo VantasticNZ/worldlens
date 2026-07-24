@@ -1512,10 +1512,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-14T07:07:05.437578Z",
-      "text": "New findings of lies and discrepancies in Trump's statements and actions have decreased his integrity score and increased his corruption risk score"
-    },
-    {
       "date": "2026-07-15T07:10:19.021720Z",
       "text": "Trump's recent lies and social posts continue to raise concerns about his integrity, while the voiding of his settlement with the IRS increases his corruption risk."
     },
@@ -1550,14 +1546,13 @@
     {
       "date": "2026-07-23T07:30:02.510801Z",
       "text": "The US has struck Iran and Trump's trade policies are targeting Canada's dairy sector."
+    },
+    {
+      "date": "2026-07-24T07:27:35.208827Z",
+      "text": "Trump's recent statements on nuclear deals with Saudis and Israel recognition have raised concerns"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-04T08:44:58.526460Z",
-      "notes": "Multiple sources confirm Trump's lies and controversies, with PolitiFact and BBC World providing key evidence",
-      "new_items": true
-    },
     {
       "date": "2026-06-05T08:40:31.212464Z",
       "notes": "Reviewed 7 articles from NZ and international media, as well as Tavily fact-checking reports.",
@@ -1802,17 +1797,14 @@
       "date": "2026-07-23T07:30:02.510801Z",
       "notes": "No significant new lies or social posts found, but new events related to US-Iran conflict and trade policies",
       "new_items": true
+    },
+    {
+      "date": "2026-07-24T07:27:35.208827Z",
+      "notes": "BBC World RSS articles reviewed, no direct quotes or social posts found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-04T07:39:27.756505Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-05T07:54:21.226538Z",
       "sources": [
@@ -1967,7 +1959,13 @@
         "RSS (1 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-07-24T07:27:35.208900Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-23T07:30:02.510961Z"
+  "last_updated": "2026-07-24T07:27:35.208921Z"
 }

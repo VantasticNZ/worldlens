@@ -248,11 +248,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-04T08:43:31.989847Z",
-      "notes": "No significant new lies or social posts found, but new events and summary update added.",
-      "new_items": true
-    },
-    {
       "date": "2026-06-05T08:39:05.309933Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -496,16 +491,14 @@
       "date": "2026-07-23T07:27:37.249002Z",
       "notes": "New events and statements from David Seymour found, including defense of Paul Henry and criticism of Green Party's tax policy.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-24T07:26:05.507999Z",
+      "notes": "RNZ News article reviewed, no significant lies or social posts found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-04T07:37:32.899591Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-07-05T07:52:34.162477Z",
       "sources": [
@@ -646,7 +639,13 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-24T07:26:05.508066Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-23T07:27:37.249134Z"
+  "last_updated": "2026-07-24T07:26:05.508092Z"
 }

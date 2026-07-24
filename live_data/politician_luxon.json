@@ -1429,11 +1429,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-04T08:43:03.066088Z",
-      "notes": "Reviewed 9 sources, including RNZ News and The Spinoff",
-      "new_items": true
-    },
-    {
       "date": "2026-06-05T08:38:37.257682Z",
       "notes": "Multiple sources indicate potential inconsistencies in Luxon's statements and policies.",
       "new_items": true
@@ -1677,16 +1672,14 @@
       "date": "2026-07-23T07:26:44.921622Z",
       "notes": "Luxon's statements and actions show inconsistencies and potential integrity issues",
       "new_items": true
+    },
+    {
+      "date": "2026-07-24T07:25:26.684060Z",
+      "notes": "No significant new findings except for a recent news article on PM Luxon being tight-lipped on 'grey-zone' advice",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-04T07:36:58.155825Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-05T07:51:56.822271Z",
       "sources": [
@@ -1833,7 +1826,13 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-07-24T07:25:26.684131Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-23T07:26:44.921773Z"
+  "last_updated": "2026-07-24T07:25:26.684157Z"
 }

@@ -1366,6 +1366,11 @@
       "date": "2026-07-23T07:28:57.005893Z",
       "notes": "The government's approach to social housing and the Auckland housing plan may require further scrutiny",
       "new_items": true
+    },
+    {
+      "date": "2026-07-24T07:26:51.708928Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1517,5 +1522,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-23T07:28:57.006085Z"
+  "last_updated": "2026-07-24T07:26:51.708975Z"
 }
