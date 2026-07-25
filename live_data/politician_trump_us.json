@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 83,
+  "lie_count": 84,
   "lies": [
     {
       "date": "January 2026",
@@ -832,6 +832,16 @@
       "platform": "speech",
       "_id": "45aa1f06",
       "_crawled": "2026-07-22T07:33:14.849602Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Maybe he's a racist",
+      "reality": "No evidence to support the claim",
+      "source": "Florida Statesman, 20260725",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "2bfe42a7",
+      "_crawled": "2026-07-25T07:12:09.452728Z"
     }
   ],
   "social_posts": [
@@ -932,6 +942,20 @@
       },
       "_id": "a812f681",
       "_crawled": "2026-07-22T07:33:14.849602Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Trump vows to investigate EU over fining of US tech companies",
+      "verified_by": "BBC World",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "No evidence of EU fining US tech companies unfairly",
+        "source": "BBC World",
+        "severity": "med"
+      },
+      "_id": "edb10c06",
+      "_crawled": "2026-07-25T07:12:09.452728Z"
     }
   ],
   "votes": [
@@ -1508,13 +1532,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's recent lies and contradictory statements have raised concerns about his integrity"
+    },
+    "2026-07-25T07:12:09.452728Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's claim about LeBron James and his orders to the Smithsonian raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-15T07:10:19.021720Z",
-      "text": "Trump's recent lies and social posts continue to raise concerns about his integrity, while the voiding of his settlement with the IRS increases his corruption risk."
-    },
     {
       "date": "2026-07-16T07:18:54.599604Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and ability to accurately represent facts."
@@ -1550,14 +1575,13 @@
     {
       "date": "2026-07-24T07:27:35.208827Z",
       "text": "Trump's recent statements on nuclear deals with Saudis and Israel recognition have raised concerns"
+    },
+    {
+      "date": "2026-07-25T07:12:09.452728Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity and relationship with the press"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-05T08:40:31.212464Z",
-      "notes": "Reviewed 7 articles from NZ and international media, as well as Tavily fact-checking reports.",
-      "new_items": true
-    },
     {
       "date": "2026-06-06T07:42:32.159823Z",
       "notes": "Multiple sources confirm Trump's lies and contradictory statements",
@@ -1802,18 +1826,14 @@
       "date": "2026-07-24T07:27:35.208827Z",
       "notes": "BBC World RSS articles reviewed, no direct quotes or social posts found",
       "new_items": true
+    },
+    {
+      "date": "2026-07-25T07:12:09.452728Z",
+      "notes": "Trump's statements and actions continue to be controversial and divisive",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-05T07:54:21.226538Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-06T08:58:34.269538Z",
       "sources": [
@@ -1965,7 +1985,14 @@
       "sources": [
         "RSS (3 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-25T07:12:09.452941Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-07-24T07:27:35.208921Z"
+  "last_updated": "2026-07-25T07:12:09.452960Z"
 }

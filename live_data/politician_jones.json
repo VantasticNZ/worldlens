@@ -764,13 +764,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Prime Minister's lack of condemnation for Shane Jones' derogatory words may indicate a lack of accountability"
+    },
+    "2026-07-25T07:10:44.720271Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Prime Minister's lack of condemnation for Shane Jones' derogatory words may indicate a lack of accountability"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-15T07:08:15.057774Z",
-      "text": "Shane Jones has faced criticism over his comments on India FTA and critics of fisheries bill, as well as his $63k travel bill, which has raised concerns about his integrity and corruption risk"
-    },
     {
       "date": "2026-07-16T07:16:53.231381Z",
       "text": "Shane Jones faces criticism over his handling of the fisheries bill and his travel expenses, raising concerns about his integrity"
@@ -806,14 +807,13 @@
     {
       "date": "2026-07-24T07:26:21.284466Z",
       "text": "Shane Jones' derogatory words have sparked controversy, with the Prime Minister stopping short of condemnation"
+    },
+    {
+      "date": "2026-07-25T07:10:44.720271Z",
+      "text": "Shane Jones' derogatory words have sparked controversy, with the Prime Minister stopping short of condemnation"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-05T08:39:18.886048Z",
-      "notes": "No significant new lies or social posts found, but new events related to Shane Jones' controversies",
-      "new_items": true
-    },
     {
       "date": "2026-06-06T07:41:12.603366Z",
       "notes": "multiple sources confirm pattern of dishonest or misleading comments",
@@ -1058,16 +1058,14 @@
       "date": "2026-07-24T07:26:21.284466Z",
       "notes": "RNZ News article highlights Prime Minister's response to derogatory comments",
       "new_items": true
+    },
+    {
+      "date": "2026-07-25T07:10:44.720271Z",
+      "notes": "RNZ News article suggests potential integrity issue with Shane Jones' comments",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-05T07:52:55.316661Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-06T08:56:03.989120Z",
       "sources": [
@@ -1206,7 +1204,13 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-25T07:10:44.720382Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-24T07:26:21.284594Z"
+  "last_updated": "2026-07-25T07:10:44.720407Z"
 }

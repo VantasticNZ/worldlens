@@ -1677,6 +1677,11 @@
       "date": "2026-07-24T07:25:26.684060Z",
       "notes": "No significant new findings except for a recent news article on PM Luxon being tight-lipped on 'grey-zone' advice",
       "new_items": true
+    },
+    {
+      "date": "2026-07-25T07:09:49.878587Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1834,5 +1839,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-24T07:25:26.684157Z"
+  "last_updated": "2026-07-25T07:09:49.878635Z"
 }
