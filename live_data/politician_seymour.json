@@ -496,6 +496,11 @@
       "date": "2026-07-25T07:10:29.591649Z",
       "notes": "RNZ News article reviewed, no significant lies or social posts found",
       "new_items": true
+    },
+    {
+      "date": "2026-07-26T07:31:15.404397Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -646,5 +651,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-25T07:10:29.591754Z"
+  "last_updated": "2026-07-26T07:31:15.404448Z"
 }

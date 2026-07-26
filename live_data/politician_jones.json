@@ -1063,6 +1063,11 @@
       "date": "2026-07-25T07:10:44.720271Z",
       "notes": "RNZ News article suggests potential integrity issue with Shane Jones' comments",
       "new_items": true
+    },
+    {
+      "date": "2026-07-26T07:31:32.833727Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1212,5 +1217,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-25T07:10:44.720407Z"
+  "last_updated": "2026-07-26T07:31:32.833767Z"
 }

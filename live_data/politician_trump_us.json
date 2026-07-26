@@ -1541,10 +1541,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-16T07:18:54.599604Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and ability to accurately represent facts."
-    },
-    {
       "date": "2026-07-17T07:14:31.879638Z",
       "text": "Trump made allegations about US election security and was found to have exaggerated claims about the Lincoln Memorial Reflecting Pool spending."
     },
@@ -1579,14 +1575,13 @@
     {
       "date": "2026-07-25T07:12:09.452728Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and relationship with the press"
+    },
+    {
+      "date": "2026-07-26T07:32:57.644052Z",
+      "text": "Trump's recent actions and statements have raised concerns about his relationship with the media and his views on US history."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-06T07:42:32.159823Z",
-      "notes": "Multiple sources confirm Trump's lies and contradictory statements",
-      "new_items": true
-    },
     {
       "date": "2026-06-07T08:20:16.345763Z",
       "notes": "Multiple sources confirm Trump's pattern of dishonesty and contradictory statements",
@@ -1831,17 +1826,14 @@
       "date": "2026-07-25T07:12:09.452728Z",
       "notes": "Trump's statements and actions continue to be controversial and divisive",
       "new_items": true
+    },
+    {
+      "date": "2026-07-26T07:32:57.644052Z",
+      "notes": "BBC World articles reviewed, no new social posts or votes found.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-06T08:58:34.269538Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-07T08:18:24.404734Z",
       "sources": [
@@ -1992,7 +1984,13 @@
         "RSS (4 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-07-26T07:32:57.644153Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-25T07:12:09.452960Z"
+  "last_updated": "2026-07-26T07:32:57.644172Z"
 }
