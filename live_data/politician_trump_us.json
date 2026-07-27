@@ -1583,11 +1583,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-07T08:20:16.345763Z",
-      "notes": "Multiple sources confirm Trump's pattern of dishonesty and contradictory statements",
-      "new_items": true
-    },
-    {
       "date": "2026-06-08T09:19:46.893173Z",
       "notes": "Reviewed RSS and GDELT sources, as well as Tavily fact-checking reports",
       "new_items": true
@@ -1831,17 +1826,14 @@
       "date": "2026-07-26T07:32:57.644052Z",
       "notes": "BBC World articles reviewed, no new social posts or votes found.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-27T08:23:55.317630Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-07T08:18:24.404734Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-08T07:26:44.250824Z",
       "sources": [
@@ -1990,7 +1982,13 @@
       "sources": [
         "RSS (4 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-27T08:23:55.317645Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-26T07:32:57.644172Z"
+  "last_updated": "2026-07-27T08:23:55.317665Z"
 }

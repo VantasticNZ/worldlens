@@ -1429,11 +1429,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-07T08:18:31.643851Z",
-      "notes": "Reviewed 5 RSS articles and 5 Tavily sources",
-      "new_items": true
-    },
-    {
       "date": "2026-06-08T09:17:46.487590Z",
       "notes": "RNZ News articles provide updates on Luxon's recent activities and statements",
       "new_items": true
@@ -1677,17 +1672,14 @@
       "date": "2026-07-26T07:30:40.719320Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-27T08:21:44.671701Z",
+      "notes": "No significant new findings, only a neutral event update",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-06T08:54:35.025825Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-07T08:15:24.037565Z",
       "sources": [
@@ -1831,7 +1823,13 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-07-27T08:21:44.671768Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-26T07:30:40.719360Z"
+  "last_updated": "2026-07-27T08:21:44.671790Z"
 }

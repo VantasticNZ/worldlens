@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-26T07:33:29.263269Z",
+  "generated": "2026-07-27T08:24:25.680719Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-07-26T07:33:28.261193Z",
+      "last_updated": "2026-07-27T08:24:24.678761Z",
       "lie_count": 28,
       "event_count": 20,
       "post_count": 13,
@@ -16,19 +16,19 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-07-26T07:32:57.644172Z",
+      "last_updated": "2026-07-27T08:23:55.317665Z",
       "lie_count": 84,
       "event_count": 20,
       "post_count": 8,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (4 articles from NZ/intl media)"
+          "RSS (1 articles from NZ/intl media)"
         ]
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-07-26T07:31:32.833767Z",
+      "last_updated": "2026-07-27T08:22:34.340620Z",
       "lie_count": 22,
       "event_count": 20,
       "post_count": 5,
@@ -40,20 +40,19 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-07-26T07:31:51.638563Z",
+      "last_updated": "2026-07-27T08:22:51.041914Z",
       "lie_count": 16,
       "event_count": 20,
       "post_count": 13,
       "vote_count": 0,
       "sources": [
         [
-          "Tavily: Nicola Willis finance minister contradic",
-          "Tavily: Nicola Willis statement 2026"
+          "RSS (1 articles from NZ/intl media)"
         ]
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-07-26T07:33:13.475015Z",
+      "last_updated": "2026-07-27T08:24:09.572480Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
@@ -66,20 +65,19 @@
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-07-26T07:30:58.442209Z",
+      "last_updated": "2026-07-27T08:22:01.951119Z",
       "lie_count": 34,
       "event_count": 20,
       "post_count": 22,
       "vote_count": 0,
       "sources": [
         [
-          "Tavily: Winston Peters NZ First contradiction 20",
-          "Tavily: Winston Peters tweet statement 2026"
+          "RSS (2 articles from NZ/intl media)"
         ]
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-07-26T07:32:42.904544Z",
+      "last_updated": "2026-07-27T08:23:41.640938Z",
       "lie_count": 3,
       "event_count": 20,
       "post_count": 15,
@@ -92,19 +90,19 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-07-26T07:30:40.719360Z",
+      "last_updated": "2026-07-27T08:21:44.671790Z",
       "lie_count": 42,
       "event_count": 20,
       "post_count": 32,
       "vote_count": 1,
       "sources": [
         [
-          "GDELT global news database"
+          "RSS (1 articles from NZ/intl media)"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-07-26T07:32:27.661822Z",
+      "last_updated": "2026-07-27T08:23:26.804801Z",
       "lie_count": 20,
       "event_count": 20,
       "post_count": 10,
@@ -117,7 +115,7 @@
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-07-26T07:32:10.922574Z",
+      "last_updated": "2026-07-27T08:23:10.190502Z",
       "lie_count": 36,
       "event_count": 20,
       "post_count": 12,
@@ -130,7 +128,7 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-07-26T07:31:15.404448Z",
+      "last_updated": "2026-07-27T08:22:18.985663Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,

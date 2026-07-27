@@ -677,26 +677,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-04T08:44:01.569179Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-05T08:39:31.730907Z",
-      "notes": "Reviewed sources from NZ Herald and RNZ News",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-06T07:41:28.287564Z",
-      "notes": "No significant new findings related to lies, social posts, or votes, but new events related to Budget 2026 and Australia PM's response to Nicola Willis' tax attacks",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-07T08:19:23.105169Z",
-      "notes": "Reviewed Tavily sources from May 2026, focusing on Nicola Willis's statements and actions related to Budget 2026",
-      "new_items": true
-    },
-    {
       "date": "2026-06-08T09:18:46.186402Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -940,17 +920,14 @@
       "date": "2026-07-26T07:31:51.638520Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-07-27T08:22:51.041871Z",
+      "notes": "Nicola Willis hints at potentially keeping the $50 cost of living payment despite fuel prices reaching a milestone that would normally trigger its abolition, as reported by NZ Herald on July 27, 2026.",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-04T07:38:09.042165Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-07-05T07:53:11.309824Z",
       "sources": [
@@ -1089,7 +1066,13 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-27T08:22:51.041890Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-26T07:31:51.638563Z"
+  "last_updated": "2026-07-27T08:22:51.041914Z"
 }
