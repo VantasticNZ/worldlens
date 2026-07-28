@@ -1541,10 +1541,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-17T07:14:31.879638Z",
-      "text": "Trump made allegations about US election security and was found to have exaggerated claims about the Lincoln Memorial Reflecting Pool spending."
-    },
-    {
       "date": "2026-07-18T06:56:38.868713Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and truthfulness."
     },
@@ -1579,14 +1575,13 @@
     {
       "date": "2026-07-26T07:32:57.644052Z",
       "text": "Trump's recent actions and statements have raised concerns about his relationship with the media and his views on US history."
+    },
+    {
+      "date": "2026-07-28T07:35:21.751668Z",
+      "text": "New event related to Donald Trump: IRGC-linked media calls for harm to US first lady"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-08T09:19:46.893173Z",
-      "notes": "Reviewed RSS and GDELT sources, as well as Tavily fact-checking reports",
-      "new_items": true
-    },
     {
       "date": "2026-06-09T08:28:13.801890Z",
       "notes": "PolitiFact and BBC World sources used to update Trump's lie count and event list",
@@ -1831,17 +1826,14 @@
       "date": "2026-07-27T08:23:55.317630Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-28T07:35:21.751668Z",
+      "notes": "No direct quotes or social posts from Donald Trump found in the search results",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-08T07:26:44.250824Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-09T08:33:17.599928Z",
       "sources": [
@@ -1988,7 +1980,14 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-28T07:35:21.751733Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-07-27T08:23:55.317665Z"
+  "last_updated": "2026-07-28T07:35:21.751754Z"
 }

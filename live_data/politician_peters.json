@@ -1441,6 +1441,11 @@
       "date": "2026-07-27T08:22:01.951033Z",
       "notes": "Two RNZ News articles report on the same event, with no additional notable findings",
       "new_items": true
+    },
+    {
+      "date": "2026-07-28T07:33:05.312875Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1594,5 +1599,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-27T08:22:01.951119Z"
+  "last_updated": "2026-07-28T07:33:05.312905Z"
 }
