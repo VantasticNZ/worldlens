@@ -1583,11 +1583,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-09T08:28:13.801890Z",
-      "notes": "PolitiFact and BBC World sources used to update Trump's lie count and event list",
-      "new_items": true
-    },
-    {
       "date": "2026-06-10T08:45:02.094172Z",
       "notes": "Multiple fact-checking sources confirm new lies, US-Iran tensions escalate",
       "new_items": true
@@ -1831,18 +1826,14 @@
       "date": "2026-07-28T07:35:21.751668Z",
       "notes": "No direct quotes or social posts from Donald Trump found in the search results",
       "new_items": true
+    },
+    {
+      "date": "2026-07-29T07:39:41.285938Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-09T08:33:17.599928Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-10T08:19:02.721308Z",
       "sources": [
@@ -1987,7 +1978,13 @@
         "RSS (2 articles from NZ/intl media)",
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-07-29T07:39:41.285954Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-28T07:35:21.751754Z"
+  "last_updated": "2026-07-29T07:39:41.285975Z"
 }
