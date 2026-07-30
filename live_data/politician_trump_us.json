@@ -1583,11 +1583,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-10T08:45:02.094172Z",
-      "notes": "Multiple fact-checking sources confirm new lies, US-Iran tensions escalate",
-      "new_items": true
-    },
-    {
       "date": "2026-06-11T09:10:11.608629Z",
       "notes": "Multiple sources confirm Trump's false claims and controversial statements",
       "new_items": true
@@ -1831,16 +1826,14 @@
       "date": "2026-07-29T07:39:41.285938Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-30T07:29:54.294206Z",
+      "notes": "No significant new findings on lies, social posts, or votes, but two new events related to Trump's considerations on AI controls and Netanyahu's visit.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-10T08:19:02.721308Z",
-      "sources": [
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-11T07:10:31.797605Z",
       "sources": [
@@ -1984,7 +1977,13 @@
       "sources": [
         "RSS (3 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-30T07:29:54.294318Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-29T07:39:41.285975Z"
+  "last_updated": "2026-07-30T07:29:54.294338Z"
 }

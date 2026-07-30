@@ -1147,13 +1147,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Repeated contradictory statements on dealing with Labour"
+    },
+    "2026-07-30T07:27:52.831517Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Winston Peters' recent comments have sparked widespread criticism and concerns from the Chinese Embassy, Asian community leaders, and the National Party leader, suggesting a potential integrity issue."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-14T07:03:59.680445Z",
-      "text": "Winston Peters has made contradictory statements about dealing with Labour and has announced a proposal to overhaul the energy sector"
-    },
     {
       "date": "2026-07-15T07:07:24.314420Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
@@ -1189,24 +1190,13 @@
     {
       "date": "2026-07-27T08:22:01.951033Z",
       "text": "Winston Peters is involved in a dispute over a document that allegedly proves discrimination against Indians, which Erica Stanford refuses to release"
+    },
+    {
+      "date": "2026-07-30T07:27:52.831517Z",
+      "text": "Winston Peters has faced criticism for his recent comments, which have been labelled as 'inappropriate' and 'racist', sparking concerns from the Chinese Embassy and Asian community leaders."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-08T09:18:00.706044Z",
-      "notes": "Reviewed Tavily and RSS sources for updates on Winston Peters",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-09T08:26:33.235518Z",
-      "notes": "Reviewed articles from The Spinoff, NZ Herald, and RNZ News",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-10T08:43:09.574438Z",
-      "notes": "Reviewed articles from The Spinoff, RNZ News, and NZ Herald",
-      "new_items": true
-    },
     {
       "date": "2026-06-11T09:07:57.464185Z",
       "notes": "Peters' statements and actions continue to be scrutinized for inconsistencies and potential dishonesty",
@@ -1451,17 +1441,14 @@
       "date": "2026-07-29T07:37:36.990460Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-07-30T07:27:52.831517Z",
+      "notes": "Multiple sources report on Winston Peters' controversial comments, which have sparked criticism and concerns from various groups.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-05T07:52:18.553214Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-07-06T08:55:01.635593Z",
       "sources": [
@@ -1602,7 +1589,13 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-30T07:27:52.831667Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-29T07:37:36.990506Z"
+  "last_updated": "2026-07-30T07:27:52.831692Z"
 }

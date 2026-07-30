@@ -1429,11 +1429,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-10T08:42:53.795342Z",
-      "notes": "No significant new lies or social posts found, but new events related to confidence vote and document disappearance",
-      "new_items": true
-    },
-    {
       "date": "2026-06-11T09:07:39.766301Z",
       "notes": "Lobbying controversy and potential corruption concerns noted, further investigation recommended",
       "new_items": true
@@ -1677,16 +1672,14 @@
       "date": "2026-07-29T07:37:19.338453Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-07-30T07:27:34.979454Z",
+      "notes": "No significant new findings beyond a new event",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-09T08:29:08.553523Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-10T08:15:37.666508Z",
       "sources": [
@@ -1824,7 +1817,13 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-07-30T07:27:34.979520Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-29T07:37:19.338490Z"
+  "last_updated": "2026-07-30T07:27:34.979542Z"
 }

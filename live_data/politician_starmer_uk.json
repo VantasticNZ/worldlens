@@ -1017,46 +1017,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-03T09:23:53.473726Z",
-      "notes": "Starmer's leadership challenges and promises of positive change without evidence",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-04T08:45:34.942062Z",
-      "notes": "leadership challenges and unfulfilled promises",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-05T08:41:03.541954Z",
-      "notes": "Starmer's statements on migration and leadership have raised concerns about his integrity and ability to lead",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-06T07:42:57.080131Z",
-      "notes": "Multiple sources indicate a potential leadership challenge and discrepancies in Starmer's statements.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-07T08:20:43.200458Z",
-      "notes": "Reviewed Tavily sources from BBC and The Guardian, focusing on Starmer's statements and actions in 2026",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-08T09:20:17.239014Z",
-      "notes": "New social media ban announcement found",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-09T08:28:40.707872Z",
-      "notes": "Leadership challenge and declining poll ratings are significant concerns for Keir Starmer's premiership.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-10T08:45:38.810029Z",
-      "notes": "reviewed BBC and Guardian articles for updates on Keir Starmer's leadership",
-      "new_items": true
-    },
-    {
       "date": "2026-06-11T09:10:51.824593Z",
       "notes": "Reviewed BBC News and The Guardian articles",
       "new_items": true
@@ -1300,16 +1260,14 @@
       "date": "2026-07-29T07:40:14.345988Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-07-30T07:30:35.385488Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-03T07:58:47.814198Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-04T07:40:02.180887Z",
       "sources": [
@@ -1448,7 +1406,13 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-07-30T07:30:35.385509Z",
+      "sources": [
+        "GDELT global news database"
+      ]
     }
   ],
-  "last_updated": "2026-07-29T07:40:14.346030Z"
+  "last_updated": "2026-07-30T07:30:35.385530Z"
 }
