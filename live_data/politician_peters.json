@@ -1152,13 +1152,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Winston Peters' recent comments have sparked widespread criticism and concerns from the Chinese Embassy, Asian community leaders, and the National Party leader, suggesting a potential integrity issue."
+    },
+    "2026-07-31T07:45:24.034769Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Winston Peters' comments on a Chinese-born MP have been widely criticized, suggesting a potential integrity issue."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-15T07:07:24.314420Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
-    },
     {
       "date": "2026-07-16T07:15:57.962953Z",
       "text": "Winston Peters' recent statements and actions suggest potential contradictions and inconsistencies, particularly regarding his stance on dealing with Labour"
@@ -1194,14 +1195,13 @@
     {
       "date": "2026-07-30T07:27:52.831517Z",
       "text": "Winston Peters has faced criticism for his recent comments, which have been labelled as 'inappropriate' and 'racist', sparking concerns from the Chinese Embassy and Asian community leaders."
+    },
+    {
+      "date": "2026-07-31T07:45:24.034769Z",
+      "text": "Winston Peters' recent comments on a Chinese-born MP have sparked controversy and criticism, potentially impacting his integrity score."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-11T09:07:57.464185Z",
-      "notes": "Peters' statements and actions continue to be scrutinized for inconsistencies and potential dishonesty",
-      "new_items": true
-    },
     {
       "date": "2026-06-12T08:53:52.826116Z",
       "notes": "Peters' statements on Labour and coalition negotiations appear to be contradictory",
@@ -1446,18 +1446,14 @@
       "date": "2026-07-30T07:27:52.831517Z",
       "notes": "Multiple sources report on Winston Peters' controversial comments, which have sparked criticism and concerns from various groups.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-31T07:45:24.034769Z",
+      "notes": "Multiple sources report on Winston Peters' controversial comments, with criticism from Prime Minister Christopher Luxon and the Chinese Embassy.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-06T08:55:01.635593Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-07-07T08:15:46.075944Z",
       "sources": [
@@ -1595,7 +1591,13 @@
       "sources": [
         "RSS (5 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-31T07:45:24.034856Z",
+      "sources": [
+        "RSS (10 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-30T07:27:52.831692Z"
+  "last_updated": "2026-07-31T07:45:24.034880Z"
 }

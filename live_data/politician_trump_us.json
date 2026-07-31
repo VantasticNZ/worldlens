@@ -1541,10 +1541,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-18T06:56:38.868713Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and truthfulness."
-    },
-    {
       "date": "2026-07-19T07:26:14.822399Z",
       "text": "Trump continues to make false claims and contradictory statements, including on religion and the 2020 election."
     },
@@ -1579,14 +1575,13 @@
     {
       "date": "2026-07-28T07:35:21.751668Z",
       "text": "New event related to Donald Trump: IRGC-linked media calls for harm to US first lady"
+    },
+    {
+      "date": "2026-07-31T07:47:27.646134Z",
+      "text": "Trump announces Board of Peace plan, leading to Hamas' agreement to disarm, and considers AI controls after OpenAI hacking incidents"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-11T09:10:11.608629Z",
-      "notes": "Multiple sources confirm Trump's false claims and controversial statements",
-      "new_items": true
-    },
     {
       "date": "2026-06-12T08:55:55.534039Z",
       "notes": "Multiple sources confirm Trump's pattern of making false claims and contradictory statements",
@@ -1831,17 +1826,14 @@
       "date": "2026-07-30T07:29:54.294206Z",
       "notes": "No significant new findings on lies, social posts, or votes, but two new events related to Trump's considerations on AI controls and Netanyahu's visit.",
       "new_items": true
+    },
+    {
+      "date": "2026-07-31T07:47:27.646134Z",
+      "notes": "BBC World RSS articles reviewed, no direct quotes or social posts found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-11T07:10:31.797605Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-12T07:28:16.806672Z",
       "sources": [
@@ -1983,7 +1975,13 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-31T07:47:27.646241Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-30T07:29:54.294338Z"
+  "last_updated": "2026-07-31T07:47:27.646263Z"
 }

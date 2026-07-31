@@ -1387,10 +1387,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-15T07:07:00.465320Z",
-      "text": "Luxon's leadership is under scrutiny as National Party's popularity slumps to a new low"
-    },
-    {
       "date": "2026-07-16T07:15:30.143522Z",
       "text": "Prime Minister Christopher Luxon announced an investigation into banning social media for young people and survived a party leadership vote."
     },
@@ -1425,14 +1421,13 @@
     {
       "date": "2026-07-28T07:32:47.357655Z",
       "text": "Christopher Luxon has ruled out working with the Opportunity Party, and Labour has called for an explanation on New Zealand's vote on the UN human rights chief."
+    },
+    {
+      "date": "2026-07-31T07:45:06.138815Z",
+      "text": "Christopher Luxon responded to Winston Peters' comments about immigrants and criticized him for racist comments about a Chinese-born MP."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-11T09:07:39.766301Z",
-      "notes": "Lobbying controversy and potential corruption concerns noted, further investigation recommended",
-      "new_items": true
-    },
     {
       "date": "2026-06-12T08:53:36.721002Z",
       "notes": "RNZ article on Luxon's tweet and Winston Peters' correction",
@@ -1677,17 +1672,14 @@
       "date": "2026-07-30T07:27:34.979454Z",
       "notes": "No significant new findings beyond a new event",
       "new_items": true
+    },
+    {
+      "date": "2026-07-31T07:45:06.138815Z",
+      "notes": "RNZ News and NZ Herald articles reviewed",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-10T08:15:37.666508Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-11T07:06:34.371185Z",
       "sources": [
@@ -1823,7 +1815,13 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-07-31T07:45:06.138897Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)"
+      ]
     }
   ],
-  "last_updated": "2026-07-30T07:27:34.979542Z"
+  "last_updated": "2026-07-31T07:45:06.138920Z"
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-30T07:30:36.387363Z",
+  "generated": "2026-07-31T07:47:57.998712Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-07-30T07:30:35.385530Z",
+      "last_updated": "2026-07-31T07:47:56.997165Z",
       "lie_count": 28,
       "event_count": 20,
       "post_count": 13,
@@ -14,7 +14,7 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-07-30T07:29:54.294338Z",
+      "last_updated": "2026-07-31T07:47:27.646263Z",
       "lie_count": 84,
       "event_count": 20,
       "post_count": 8,
@@ -26,7 +26,7 @@
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-07-30T07:28:32.613939Z",
+      "last_updated": "2026-07-31T07:46:01.485634Z",
       "lie_count": 22,
       "event_count": 20,
       "post_count": 5,
@@ -38,7 +38,7 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-07-30T07:28:49.673022Z",
+      "last_updated": "2026-07-31T07:46:18.754908Z",
       "lie_count": 16,
       "event_count": 20,
       "post_count": 13,
@@ -50,7 +50,7 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-07-30T07:30:10.824287Z",
+      "last_updated": "2026-07-31T07:47:42.217418Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
@@ -63,19 +63,19 @@
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-07-30T07:27:52.831692Z",
+      "last_updated": "2026-07-31T07:45:24.034880Z",
       "lie_count": 34,
       "event_count": 20,
       "post_count": 22,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (5 articles from NZ/intl media)"
+          "RSS (10 articles from NZ/intl media)"
         ]
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-07-30T07:29:38.177303Z",
+      "last_updated": "2026-07-31T07:47:12.072872Z",
       "lie_count": 3,
       "event_count": 20,
       "post_count": 15,
@@ -88,19 +88,19 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-07-30T07:27:34.979542Z",
+      "last_updated": "2026-07-31T07:45:06.138920Z",
       "lie_count": 42,
       "event_count": 20,
       "post_count": 32,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (1 articles from NZ/intl media)"
+          "RSS (5 articles from NZ/intl media)"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-07-30T07:29:23.142577Z",
+      "last_updated": "2026-07-31T07:46:53.526369Z",
       "lie_count": 20,
       "event_count": 20,
       "post_count": 10,
@@ -113,7 +113,7 @@
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-07-30T07:29:07.154596Z",
+      "last_updated": "2026-07-31T07:46:35.992790Z",
       "lie_count": 36,
       "event_count": 20,
       "post_count": 12,
@@ -126,7 +126,7 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-07-30T07:28:15.246997Z",
+      "last_updated": "2026-07-31T07:45:44.346442Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
