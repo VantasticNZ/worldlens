@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 84,
+  "lie_count": 85,
   "lies": [
     {
       "date": "January 2026",
@@ -842,6 +842,16 @@
       "platform": "speech",
       "_id": "2bfe42a7",
       "_crawled": "2026-07-25T07:12:09.452728Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Says his cognitive test results showed he has 'extreme intelligence'",
+      "reality": "This claim is false",
+      "source": "PolitiFact, June 3, 2026",
+      "severity": "high",
+      "platform": "Truth Social",
+      "_id": "762756d6",
+      "_crawled": "2026-08-01T07:26:56.700799Z"
     }
   ],
   "social_posts": [
@@ -1537,13 +1547,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's claim about LeBron James and his orders to the Smithsonian raise concerns about his integrity"
+    },
+    "2026-08-01T07:26:56.700799Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Additional lies and controversial events have been discovered, affecting the integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-19T07:26:14.822399Z",
-      "text": "Trump continues to make false claims and contradictory statements, including on religion and the 2020 election."
-    },
     {
       "date": "2026-07-20T07:55:01.183898Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and policy consistency"
@@ -1579,14 +1590,13 @@
     {
       "date": "2026-07-31T07:47:27.646134Z",
       "text": "Trump announces Board of Peace plan, leading to Hamas' agreement to disarm, and considers AI controls after OpenAI hacking incidents"
+    },
+    {
+      "date": "2026-08-01T07:26:56.700799Z",
+      "text": "New lies and events have been discovered, affecting Donald Trump's integrity score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-12T08:55:55.534039Z",
-      "notes": "Multiple sources confirm Trump's pattern of making false claims and contradictory statements",
-      "new_items": true
-    },
     {
       "date": "2026-06-13T08:18:33.606777Z",
       "notes": "Trump's absence from the World Cup and his strategy on Iran are notable events, while his continued exaggerations and inaccuracies are a concern",
@@ -1831,18 +1841,14 @@
       "date": "2026-07-31T07:47:27.646134Z",
       "notes": "BBC World RSS articles reviewed, no direct quotes or social posts found",
       "new_items": true
+    },
+    {
+      "date": "2026-08-01T07:26:56.700799Z",
+      "notes": "PolitiFact and BBC sources used to update lies and events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-12T07:28:16.806672Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-13T08:12:54.784504Z",
       "sources": [
@@ -1981,7 +1987,15 @@
       "sources": [
         "RSS (2 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-08-01T07:26:56.701102Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-31T07:47:27.646263Z"
+  "last_updated": "2026-08-01T07:26:56.701120Z"
 }

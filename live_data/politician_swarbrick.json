@@ -214,6 +214,20 @@
       "discrepancy": null,
       "_id": "36d8496f",
       "_crawled": "2026-07-23T07:29:43.048766Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Green Party AGM 2026 Speeches",
+      "verified_by": "www.greens.org.nz",
+      "discrepancy": {
+        "type": "none",
+        "detail": "",
+        "source": "",
+        "severity": ""
+      },
+      "_id": "676de81c",
+      "_crawled": "2026-08-01T07:26:33.421286Z"
     }
   ],
   "votes": [],
@@ -465,51 +479,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-04T08:44:42.713828Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-05T08:40:15.391098Z",
-      "notes": "No significant new lies or social posts found, but new events related to Budget 2026 and climate policy",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-06T07:42:18.543571Z",
-      "notes": "No significant new lies or social posts found, but new events and summary update reflect ongoing political activity.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-07T08:19:59.214633Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-08T09:19:31.189596Z",
-      "notes": "No significant new findings, but some updates on recent events and social posts.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-09T08:28:00.817216Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-10T08:44:48.252092Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-11T09:09:51.856330Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-12T08:55:39.142624Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-06-13T08:18:17.362072Z",
       "notes": "Reviewed Green Party press releases and speeches",
       "new_items": true
@@ -753,16 +722,14 @@
       "date": "2026-07-31T07:47:12.072817Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-08-01T07:26:33.421286Z",
+      "notes": "No significant new findings on lies, votes, or score adjustments",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-04T07:39:08.257988Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-07-05T07:54:01.683122Z",
       "sources": [
@@ -895,7 +862,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-08-01T07:26:33.421490Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-31T07:47:12.072872Z"
+  "last_updated": "2026-08-01T07:26:33.421520Z"
 }

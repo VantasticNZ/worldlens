@@ -677,31 +677,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-08T09:18:46.186402Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-09T08:27:15.259876Z",
-      "notes": "No significant new findings, but Budget 2026 announcement is a notable event",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-10T08:43:52.988221Z",
-      "notes": "No significant new findings beyond existing data, but Budget 2026 and social housing comment regret are notable events.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-11T09:08:56.033372Z",
-      "notes": "Budget 2026 and social housing comment regret",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-12T08:54:41.019407Z",
-      "notes": "No significant new findings on lies, social posts, or votes, but new events related to Budget 2026 delivery and speech.",
-      "new_items": true
-    },
-    {
       "date": "2026-06-13T08:17:29.421931Z",
       "notes": "Budget 2026 and social housing comment regret statement found",
       "new_items": true
@@ -945,17 +920,14 @@
       "date": "2026-07-31T07:46:18.754855Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-08-01T07:25:11.668201Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-05T07:53:11.309824Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-07-06T08:56:57.539880Z",
       "sources": [
@@ -1092,7 +1064,14 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-08-01T07:25:11.668215Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-31T07:46:18.754908Z"
+  "last_updated": "2026-08-01T07:25:11.668234Z"
 }

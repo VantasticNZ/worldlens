@@ -292,56 +292,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-03T09:23:39.106454Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-04T08:45:16.925557Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-05T08:40:46.382572Z",
-      "notes": "New events and meetings added",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-06T07:42:46.578646Z",
-      "notes": "Reviewed 5 RSS articles and 7 Tavily sources, with a focus on recent events and statements from Anthony Albanese.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-07T08:20:30.151974Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-08T09:19:59.001468Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-09T08:28:25.181376Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-10T08:45:21.661975Z",
-      "notes": "No significant new findings related to lies, social posts, or votes, but new events were found.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-11T09:10:32.628626Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
-      "date": "2026-06-12T08:56:09.865201Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-06-13T08:18:50.408811Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -585,16 +535,14 @@
       "date": "2026-07-31T07:47:42.217373Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-08-01T07:27:16.612526Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-03T07:58:28.653697Z",
-      "sources": [
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-07-04T07:39:45.159555Z",
       "sources": [
@@ -730,7 +678,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-01T07:27:16.612542Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-31T07:47:42.217418Z"
+  "last_updated": "2026-08-01T07:27:16.612561Z"
 }

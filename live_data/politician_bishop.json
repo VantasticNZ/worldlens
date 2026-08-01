@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 36,
+  "lie_count": 37,
   "lies": [
     {
       "date": "April 2026",
@@ -362,6 +362,16 @@
       "platform": "press_release",
       "_id": "d03bd267",
       "_crawled": "2026-07-23T07:28:57.005893Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "1000 additional public homes in Auckland each year",
+      "reality": "net loss of 285 Kāinga Ora homes in 2026",
+      "source": "labour.org.nz, Release: Govt breaks Auckland housing promise",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "1d6c6d54",
+      "_crawled": "2026-08-01T07:25:38.808260Z"
     }
   ],
   "social_posts": [
@@ -532,9 +542,34 @@
       },
       "_id": "d14cd5b0",
       "_crawled": "2026-07-23T07:28:57.005893Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Bishop’s spin can’t hide National’s failure to build",
+      "verified_by": "labour.org.nz",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "contradicts election promise",
+        "source": "labour.org.nz",
+        "severity": "high"
+      },
+      "_id": "c3586fe4",
+      "_crawled": "2026-08-01T07:25:38.808260Z"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "bill": "Infrastructure Funding and Financing Amendment Bill",
+      "vote": "for",
+      "year": 2026,
+      "significance": "med",
+      "note": "passed by Parliament",
+      "source": "national.org.nz",
+      "_id": "e5738285",
+      "_crawled": "2026-08-01T07:25:38.808260Z"
+    }
+  ],
   "recent_events": [
     {
       "year": 2026,
@@ -1072,13 +1107,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The proposed overhaul of the social housing system and the reduction of the Auckland housing plan may indicate a lack of integrity in the government's approach to housing policy"
+    },
+    "2026-08-01T07:25:38.808260Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "broken election promise"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-14T07:05:42.153991Z",
-      "text": "Chris Bishop faces criticism for conflict of interest management and broken promises on housing"
-    },
     {
       "date": "2026-07-15T07:09:03.005711Z",
       "text": "Housing Minister Chris Bishop's claim about building 1000 additional public homes in Auckland each year was found to be false, and the Government plans to reduce the minimum housing capacity required for Auckland Council’s Plan Change 120"
@@ -1114,54 +1150,13 @@
     {
       "date": "2026-07-23T07:28:57.005893Z",
       "text": "The government has announced an overhaul of the social housing system and reduced the Auckland housing plan, potentially indicating a lack of integrity in their approach to housing policy"
+    },
+    {
+      "date": "2026-08-01T07:25:38.808260Z",
+      "text": "Housing Minister Chris Bishop breaks election promise to build 1000 additional public homes in Auckland each year"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-04T08:44:15.800529Z",
-      "notes": "Reviewed recent statements and announcements from Chris Bishop regarding social housing",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-05T08:39:46.408220Z",
-      "notes": "Minister's statements require closer scrutiny due to inconsistencies and potential biases.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-06T07:41:47.403612Z",
-      "notes": "Reviewed sources from NZ Herald and Beehive.govt.nz.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-07T08:19:35.534524Z",
-      "notes": "Reviewed Tavily sources for Chris Bishop, focusing on social housing and recent announcements.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-08T09:19:00.846724Z",
-      "notes": "Contradiction found between Minister's statement and reality, potential impact on integrity score",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-09T08:27:34.349422Z",
-      "notes": "Multiple sources confirm contradictions between Minister's claims and reality",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-10T08:44:22.045483Z",
-      "notes": "Multiple sources indicate a pattern of disputed claims and broken promises from the Minister",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-11T09:09:13.202036Z",
-      "notes": "Multiple sources confirm contradictions in Chris Bishop's statements on housing",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-12T08:54:54.249323Z",
-      "notes": "Contradiction found between Chris Bishop's statement and official warnings on social housing delivery",
-      "new_items": true
-    },
     {
       "date": "2026-06-13T08:17:44.405156Z",
       "notes": "Further review of the minister's statements and policies is needed to fully assess the implications of the social housing shake-up",
@@ -1406,17 +1401,14 @@
       "date": "2026-07-31T07:46:35.992740Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-08-01T07:25:38.808260Z",
+      "notes": "Broken election promise and contradictory statements found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-04T07:38:31.232942Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-05T07:53:27.267662Z",
       "sources": [
@@ -1555,7 +1547,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-01T07:25:38.808476Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-31T07:46:35.992790Z"
+  "last_updated": "2026-08-01T07:25:38.808499Z"
 }

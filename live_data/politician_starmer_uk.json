@@ -1017,16 +1017,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-11T09:10:51.824593Z",
-      "notes": "Reviewed BBC News and The Guardian articles",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-12T08:56:24.122937Z",
-      "notes": "Healey's resignation and Starmer's unfulfilled promises are significant events that impact his leadership",
-      "new_items": true
-    },
-    {
       "date": "2026-06-13T08:19:03.540260Z",
       "notes": "No significant new lies or social posts found, but new events and summary update added.",
       "new_items": true
@@ -1270,16 +1260,14 @@
       "date": "2026-07-31T07:47:56.997112Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-08-01T07:27:38.325089Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-04T07:40:02.180887Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-05T07:54:49.545502Z",
       "sources": [
@@ -1417,7 +1405,14 @@
       "sources": [
         "GDELT global news database"
       ]
+    },
+    {
+      "date": "2026-08-01T07:27:38.325103Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-31T07:47:56.997165Z"
+  "last_updated": "2026-08-01T07:27:38.325124Z"
 }

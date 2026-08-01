@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 22,
+  "lie_count": 24,
   "lies": [
     {
       "date": "March 2026",
@@ -222,6 +222,26 @@
       "platform": "speech",
       "_id": "d4738e53",
       "_crawled": "2026-07-22T07:30:46.701845Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "Stuart Nash resignation 'sensible'",
+      "reality": "No clear evidence of Nash's resignation being directly related to Jones' statement",
+      "source": "NZ Herald",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "8db4e6f8",
+      "_crawled": "2026-08-01T07:24:46.367200Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "Media 'wokeism' responsible for backlash over 'kneepads' remark",
+      "reality": "Criticism came from various sources, including politicians and the public",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "89628409",
+      "_crawled": "2026-08-01T07:24:46.367200Z"
     }
   ],
   "social_posts": [
@@ -769,13 +789,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Prime Minister's lack of condemnation for Shane Jones' derogatory words may indicate a lack of accountability"
+    },
+    "2026-08-01T07:24:46.367200Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Jones' recent statements and actions have raised concerns about his integrity and judgment"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-16T07:16:53.231381Z",
-      "text": "Shane Jones faces criticism over his handling of the fisheries bill and his travel expenses, raising concerns about his integrity"
-    },
     {
       "date": "2026-07-17T07:12:21.596058Z",
       "text": "Shane Jones has faced criticism for his recent statements and actions, including his defense of a $63k travel bill and his comparison of critics to 'noisy voices'"
@@ -811,44 +832,13 @@
     {
       "date": "2026-07-25T07:10:44.720271Z",
       "text": "Shane Jones' derogatory words have sparked controversy, with the Prime Minister stopping short of condemnation"
+    },
+    {
+      "date": "2026-08-01T07:24:46.367200Z",
+      "text": "Shane Jones faces ongoing criticism for his comments and actions, with some calling for an apology and others questioning his integrity"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-06T07:41:12.603366Z",
-      "notes": "multiple sources confirm pattern of dishonest or misleading comments",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-07T08:19:10.581255Z",
-      "notes": "Shane Jones' recent comments have sparked controversy and criticism",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-08T09:18:32.705726Z",
-      "notes": "Multiple sources report on Shane Jones' controversial comments, but no new lies or social posts were found.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-09T08:27:01.548944Z",
-      "notes": "Multiple sources report on Shane Jones' controversial comments, but no new social posts or votes were found",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-10T08:43:38.084695Z",
-      "notes": "Multiple sources report on Shane Jones' controversial comments and actions.",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-11T09:08:34.266490Z",
-      "notes": "Reviewed Tavily sources and RNZ articles",
-      "new_items": true
-    },
-    {
-      "date": "2026-06-12T08:54:25.729034Z",
-      "notes": "Reviewed sources from RNZ News and The Spinoff",
-      "new_items": true
-    },
     {
       "date": "2026-06-13T08:17:13.579077Z",
       "notes": "Reviewed articles from The Spinoff and RNZ News",
@@ -1093,16 +1083,14 @@
       "date": "2026-07-31T07:46:01.485580Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-08-01T07:24:46.367200Z",
+      "notes": "Multiple sources confirm Jones' controversial statements and the subsequent backlash",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-06T08:56:03.989120Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-07T08:16:27.583817Z",
       "sources": [
@@ -1240,7 +1228,14 @@
       "sources": [
         "RSS (1 articles from NZ/intl media)"
       ]
+    },
+    {
+      "date": "2026-08-01T07:24:46.367425Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-07-31T07:46:01.485634Z"
+  "last_updated": "2026-08-01T07:24:46.367446Z"
 }
