@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 24,
+  "lie_count": 25,
   "lies": [
     {
       "date": "March 2026",
@@ -242,6 +242,16 @@
       "platform": "interview",
       "_id": "89628409",
       "_crawled": "2026-08-01T07:24:46.367200Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "Media 'wokeism' is responsible for backlash over 'kneepads' remark",
+      "reality": "The backlash was due to the offensive nature of the remark",
+      "source": "NZ Herald, August 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "44857ed3",
+      "_crawled": "2026-08-02T07:27:56.996342Z"
     }
   ],
   "social_posts": [
@@ -794,13 +804,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Jones' recent statements and actions have raised concerns about his integrity and judgment"
+    },
+    "2026-08-02T07:27:56.996342Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' recent lies and discrepancies have decreased his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-17T07:12:21.596058Z",
-      "text": "Shane Jones has faced criticism for his recent statements and actions, including his defense of a $63k travel bill and his comparison of critics to 'noisy voices'"
-    },
     {
       "date": "2026-07-18T06:54:36.858561Z",
       "text": "Shane Jones continues to make divisive comments and personal attacks, raising concerns about his integrity"
@@ -836,14 +847,13 @@
     {
       "date": "2026-08-01T07:24:46.367200Z",
       "text": "Shane Jones faces ongoing criticism for his comments and actions, with some calling for an apology and others questioning his integrity"
+    },
+    {
+      "date": "2026-08-02T07:27:56.996342Z",
+      "text": "Shane Jones faces ongoing backlash for his recent comments and lies, further decreasing his integrity score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-13T08:17:13.579077Z",
-      "notes": "Reviewed articles from The Spinoff and RNZ News",
-      "new_items": true
-    },
     {
       "date": "2026-06-14T08:37:29.969850Z",
       "notes": "Multiple sources confirm Shane Jones' controversial comments",
@@ -1088,16 +1098,14 @@
       "date": "2026-08-01T07:24:46.367200Z",
       "notes": "Multiple sources confirm Jones' controversial statements and the subsequent backlash",
       "new_items": true
+    },
+    {
+      "date": "2026-08-02T07:27:56.996342Z",
+      "notes": "Shane Jones' recent activities have been largely negative, with multiple instances of lies and discrepancies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-07T08:16:27.583817Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-08T07:24:25.835253Z",
       "sources": [
@@ -1235,7 +1243,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-08-02T07:27:56.996521Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-01T07:24:46.367446Z"
+  "last_updated": "2026-08-02T07:27:56.996545Z"
 }

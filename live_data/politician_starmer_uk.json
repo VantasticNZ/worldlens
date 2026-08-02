@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 28,
+  "lie_count": 29,
   "lies": [
     {
       "date": "2026",
@@ -282,6 +282,16 @@
       "platform": "interview",
       "_id": "e7e96246",
       "_crawled": "2026-07-02T08:04:11.012363Z"
+    },
+    {
+      "date": "2025",
+      "claim": "the budget had done it in a fair way",
+      "reality": "income tax threshold freeze will hit poorer households harder",
+      "source": "The Guardian, 27 November 2025",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "6b61e1a1",
+      "_crawled": "2026-08-02T07:30:40.793948Z"
     }
   ],
   "social_posts": [
@@ -971,13 +981,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Starmer's resignation and criticism of his leadership and policies suggest a decline in integrity"
+    },
+    "2026-08-02T07:30:40.793948Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "broken tax promises and U-turns"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-13T08:13:40.345710Z",
-      "text": "Keir Starmer's resignation and contradictory statements on economic growth have raised concerns about his integrity and leadership"
-    },
     {
       "date": "2026-07-14T07:07:50.407311Z",
       "text": "Keir Starmer resigned as Prime Minister amidst criticism for broken promises and perceived dishonesty"
@@ -1013,14 +1024,13 @@
     {
       "date": "2026-07-22T07:33:59.574869Z",
       "text": "Keir Starmer resigns as UK Prime Minister."
+    },
+    {
+      "date": "2026-08-02T07:30:40.793948Z",
+      "text": "Keir Starmer's resignation and broken tax promises have raised concerns about his integrity"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-13T08:19:03.540260Z",
-      "notes": "No significant new lies or social posts found, but new events and summary update added.",
-      "new_items": true
-    },
     {
       "date": "2026-06-14T08:39:04.128059Z",
       "notes": "Multiple sources indicate increased pressure on Keir Starmer",
@@ -1265,16 +1275,14 @@
       "date": "2026-08-01T07:27:38.325089Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-08-02T07:30:40.793948Z",
+      "notes": "Resignation and broken promises found, score adjustments made",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-05T07:54:49.545502Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-06T08:59:11.867640Z",
       "sources": [
@@ -1412,7 +1420,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-02T07:30:40.794114Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-01T07:27:38.325124Z"
+  "last_updated": "2026-08-02T07:30:40.794137Z"
 }

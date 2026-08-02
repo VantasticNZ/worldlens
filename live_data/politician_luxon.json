@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 43,
+  "lie_count": 44,
   "lies": [
     {
       "date": "2026",
@@ -432,6 +432,16 @@
       "platform": "speech",
       "_id": "aa68da79",
       "_crawled": "2026-08-01T07:23:22.510547Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Prime Minister Christopher Luxon says the reforms will make building infrastructure easier, faster and more affordable",
+      "reality": "Critics argue that the reforms may not necessarily lead to easier, faster, and more affordable infrastructure building",
+      "source": "RNZ News",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "60ea10f2",
+      "_crawled": "2026-08-02T07:26:54.938129Z"
     }
   ],
   "social_posts": [
@@ -896,6 +906,20 @@
       },
       "_id": "60ea10f2",
       "_crawled": "2026-08-01T07:23:22.510547Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "July 2026",
+      "text": "Prime Minister Christopher Luxon speaking at the Kia ora Modi event on Saturday",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Luxon's statement on infrastructure reforms contradicts his previous policy stance",
+        "source": "Labour Party Congress 2026 - Chris Hipkins",
+        "severity": "med"
+      },
+      "_id": "e817f197",
+      "_crawled": "2026-08-02T07:26:54.938129Z"
     }
   ],
   "votes": [
@@ -1407,13 +1431,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's lack of transparency on 'grey-zone' advice and his coalition's fracture on climate change policy raise concerns about his integrity"
+    },
+    "2026-08-02T07:26:54.938129Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's claim about infrastructure reforms may be misleading"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-17T07:10:58.836299Z",
-      "text": "Christopher Luxon's integrity score adjusted downward due to repeated unsubstantiated claims."
-    },
     {
       "date": "2026-07-18T06:53:27.949173Z",
       "text": "Christopher Luxon faced criticism from Shane Jones over his visit with Modi and was found to have made a contradictory statement about his role as Prime Minister"
@@ -1449,14 +1474,13 @@
     {
       "date": "2026-08-01T07:23:22.510547Z",
       "text": "Luxon's leadership and policy positions continue to be scrutinized, with some discrepancies and contradictions noted."
+    },
+    {
+      "date": "2026-08-02T07:26:54.938129Z",
+      "text": "Prime Minister Christopher Luxon's leadership and policy stances have been under scrutiny"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-13T08:16:22.794748Z",
-      "notes": "Reviewed sources from The Spinoff, NZ Herald, and other publications",
-      "new_items": true
-    },
     {
       "date": "2026-06-14T08:36:42.069444Z",
       "notes": "Luxon's social media posts and public statements have been reviewed for discrepancies and lies",
@@ -1701,17 +1725,14 @@
       "date": "2026-08-01T07:23:22.510547Z",
       "notes": "Multiple sources indicate ongoing controversy and scrutiny of Luxon's leadership and policy positions.",
       "new_items": true
+    },
+    {
+      "date": "2026-08-02T07:26:54.938129Z",
+      "notes": "Reviewed RNZ News, AP News, and Labour Party Congress 2026 - Chris Hipkins",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-12T07:24:14.336883Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-13T08:09:38.150455Z",
       "sources": [
@@ -1845,7 +1866,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-02T07:26:54.938324Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-01T07:23:22.510752Z"
+  "last_updated": "2026-08-02T07:26:54.938351Z"
 }

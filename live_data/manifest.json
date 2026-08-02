@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-01T07:27:39.326842Z",
+  "generated": "2026-08-02T07:30:41.796032Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-08-01T07:27:38.325124Z",
-      "lie_count": 28,
+      "last_updated": "2026-08-02T07:30:40.794137Z",
+      "lie_count": 29,
       "event_count": 20,
       "post_count": 13,
       "vote_count": 0,
@@ -15,8 +15,8 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-08-01T07:26:56.701120Z",
-      "lie_count": 85,
+      "last_updated": "2026-08-02T07:29:56.350739Z",
+      "lie_count": 86,
       "event_count": 20,
       "post_count": 8,
       "vote_count": 1,
@@ -29,8 +29,8 @@
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-08-01T07:24:46.367446Z",
-      "lie_count": 24,
+      "last_updated": "2026-08-02T07:27:56.996545Z",
+      "lie_count": 25,
       "event_count": 20,
       "post_count": 5,
       "vote_count": 0,
@@ -42,7 +42,7 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-08-01T07:25:11.668234Z",
+      "last_updated": "2026-08-02T07:28:19.732567Z",
       "lie_count": 16,
       "event_count": 20,
       "post_count": 13,
@@ -55,7 +55,7 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-08-01T07:27:16.612561Z",
+      "last_updated": "2026-08-02T07:30:16.087069Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
@@ -68,22 +68,21 @@
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-08-01T07:23:49.537138Z",
+      "last_updated": "2026-08-02T07:27:14.487555Z",
       "lie_count": 34,
       "event_count": 20,
       "post_count": 22,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (5 articles from NZ/intl media)",
-          "GDELT global news database",
+          "RSS (3 articles from NZ/intl media)",
           "Tavily: Winston Peters NZ First contradiction 20",
           "Tavily: Winston Peters tweet statement 2026"
         ]
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-08-01T07:26:33.421520Z",
+      "last_updated": "2026-08-02T07:29:34.981733Z",
       "lie_count": 3,
       "event_count": 20,
       "post_count": 16,
@@ -96,10 +95,10 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-08-01T07:23:22.510752Z",
-      "lie_count": 43,
+      "last_updated": "2026-08-02T07:26:54.938351Z",
+      "lie_count": 44,
       "event_count": 20,
-      "post_count": 33,
+      "post_count": 34,
       "vote_count": 1,
       "sources": [
         [
@@ -110,7 +109,7 @@
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-08-01T07:26:04.495699Z",
+      "last_updated": "2026-08-02T07:29:11.537511Z",
       "lie_count": 20,
       "event_count": 20,
       "post_count": 10,
@@ -123,10 +122,10 @@
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-08-01T07:25:38.808499Z",
+      "last_updated": "2026-08-02T07:28:45.212957Z",
       "lie_count": 37,
       "event_count": 20,
-      "post_count": 13,
+      "post_count": 14,
       "vote_count": 1,
       "sources": [
         [
@@ -136,13 +135,14 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-08-01T07:24:15.232477Z",
+      "last_updated": "2026-08-02T07:27:36.818301Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
       "vote_count": 0,
       "sources": [
         [
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: David Seymour ACT contradiction fact che",
           "Tavily: David Seymour statement 2026"
         ]
