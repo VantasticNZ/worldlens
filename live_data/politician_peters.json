@@ -1167,13 +1167,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' contradictory statements on dealing with Labour"
+    },
+    "2026-08-03T08:20:54.515714Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' inconsistent statements and potential contradictions with NZ First's policy have led to a decrease in his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-18T06:53:49.952146Z",
-      "text": "Winston Peters' recent statements and actions continue to raise concerns about his integrity and transparency."
-    },
     {
       "date": "2026-07-19T07:23:15.086831Z",
       "text": "Winston Peters' statements on working with Labour have been inconsistent, and he has been harassed by protestors at the NZ First Conference"
@@ -1209,14 +1210,13 @@
     {
       "date": "2026-08-02T07:27:14.487304Z",
       "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
+    },
+    {
+      "date": "2026-08-03T08:20:54.515714Z",
+      "text": "Winston Peters' recent comments have sparked controversy and led to a re-evaluation of his integrity score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-14T08:37:01.733404Z",
-      "notes": "Peters' statements and actions continue to be scrutinized for inconsistencies and contradictions",
-      "new_items": true
-    },
     {
       "date": "2026-06-15T10:50:04.889607Z",
       "notes": "Peters' tweets and interviews continue to be a source of controversy and insight into his political views",
@@ -1461,16 +1461,14 @@
       "date": "2026-08-02T07:27:14.487304Z",
       "notes": "Peters' tweets and public statements require close monitoring for potential discrepancies",
       "new_items": true
+    },
+    {
+      "date": "2026-08-03T08:20:54.515714Z",
+      "notes": "Peters' tweets and statements have been inconsistent with NZ First's policy, and his comments have been criticized as racist",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-09T08:29:30.675254Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-07-10T08:16:00.999085Z",
       "sources": [
@@ -1609,7 +1607,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-03T08:20:54.515925Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-02T07:27:14.487555Z"
+  "last_updated": "2026-08-03T08:20:54.515951Z"
 }

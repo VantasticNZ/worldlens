@@ -636,13 +636,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "walking back on a promise may indicate a lack of integrity"
+    },
+    "2026-08-03T08:22:10.899144Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "walking back on a promise can indicate a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-11T09:08:56.033372Z",
-      "text": "Nicola Willis delivered Budget 2026 and expressed regret over a previous social housing comment."
-    },
     {
       "date": "2026-06-13T08:17:29.421931Z",
       "text": "Nicola Willis delivers Budget 2026 and expresses regret over social housing comment."
@@ -678,14 +679,13 @@
     {
       "date": "2026-08-02T07:28:19.732415Z",
       "text": "Nicola Willis walked back on her promise to return the books to surplus by 2027 due to underwhelming tax take."
+    },
+    {
+      "date": "2026-08-03T08:22:10.899144Z",
+      "text": "Nicola Willis walked back on her promise to return the books to surplus by 2027 due to a tax take underwhelming."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-14T08:37:42.099667Z",
-      "notes": "Reviewed RNZ News and NZ Herald articles",
-      "new_items": true
-    },
     {
       "date": "2026-06-15T10:51:02.543686Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but new events related to Nicola Willis's recent activities.",
@@ -930,16 +930,14 @@
       "date": "2026-08-02T07:28:19.732415Z",
       "notes": "Found a significant update on Nicola Willis' promise to return the books to surplus by 2027",
       "new_items": true
+    },
+    {
+      "date": "2026-08-03T08:22:10.899144Z",
+      "notes": "Found a significant update on Nicola Willis' promise to return the books to surplus",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-07T08:16:46.077374Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-07-08T07:24:51.563663Z",
       "sources": [
@@ -1076,7 +1074,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-03T08:22:10.899241Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-02T07:28:19.732567Z"
+  "last_updated": "2026-08-03T08:22:10.899263Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 29,
+  "lie_count": 30,
   "lies": [
     {
       "date": "2026",
@@ -292,6 +292,16 @@
       "platform": "press_release",
       "_id": "6b61e1a1",
       "_crawled": "2026-08-02T07:30:40.793948Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "complete break with the decision-making of the past",
+      "reality": "continuity with past decisions",
+      "source": "Reuters, May 10, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "006773fc",
+      "_crawled": "2026-08-03T08:24:31.248963Z"
     }
   ],
   "social_posts": [
@@ -986,13 +996,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "broken tax promises and U-turns"
+    },
+    "2026-08-03T08:24:31.248963Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "contradictions between statements and actions"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-14T07:07:50.407311Z",
-      "text": "Keir Starmer resigned as Prime Minister amidst criticism for broken promises and perceived dishonesty"
-    },
     {
       "date": "2026-07-15T07:11:00.082637Z",
       "text": "Keir Starmer resigned as UK Prime Minister, planning for a new PM by September."
@@ -1028,14 +1039,13 @@
     {
       "date": "2026-08-02T07:30:40.793948Z",
       "text": "Keir Starmer's resignation and broken tax promises have raised concerns about his integrity"
+    },
+    {
+      "date": "2026-08-03T08:24:31.248963Z",
+      "text": "Keir Starmer's tenure as Prime Minister marked by contradictions and controversy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-14T08:39:04.128059Z",
-      "notes": "Multiple sources indicate increased pressure on Keir Starmer",
-      "new_items": true
-    },
     {
       "date": "2026-06-15T10:52:31.422652Z",
       "notes": "Multiple sources report Starmer's declining popularity and lack of progress on key issues",
@@ -1280,16 +1290,14 @@
       "date": "2026-08-02T07:30:40.793948Z",
       "notes": "Resignation and broken promises found, score adjustments made",
       "new_items": true
+    },
+    {
+      "date": "2026-08-03T08:24:31.248963Z",
+      "notes": "Reviewed sources from Reuters, BBC, The Guardian, and AP News",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-06T08:59:11.867640Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-07T08:19:07.332931Z",
       "sources": [
@@ -1427,7 +1435,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-03T08:24:31.249109Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-02T07:30:40.794137Z"
+  "last_updated": "2026-08-03T08:24:31.249128Z"
 }

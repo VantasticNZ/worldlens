@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 44,
+  "lie_count": 45,
   "lies": [
     {
       "date": "2026",
@@ -442,6 +442,16 @@
       "platform": "speech",
       "_id": "60ea10f2",
       "_crawled": "2026-08-02T07:26:54.938129Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Luxon stopped short of saying 'new world order'",
+      "reality": "Luxon's statement had a similar emphasis to Mark Carney's 'new world order' phrase",
+      "source": "The Spinoff, April 2026",
+      "severity": "low",
+      "platform": "speech",
+      "_id": "b1e938b7",
+      "_crawled": "2026-08-03T08:20:31.426951Z"
     }
   ],
   "social_posts": [
@@ -920,6 +930,20 @@
       },
       "_id": "e817f197",
       "_crawled": "2026-08-02T07:26:54.938129Z"
+    },
+    {
+      "platform": "press",
+      "date": "April 2026",
+      "text": "Luxon announces cabinet reshuffle",
+      "verified_by": "AP News",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "Luxon's cabinet reshuffle contradicts his previous statements on government stability",
+        "source": "AP News",
+        "severity": "med"
+      },
+      "_id": "5911adfd",
+      "_crawled": "2026-08-03T08:20:31.426951Z"
     }
   ],
   "votes": [
@@ -1436,13 +1460,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's claim about infrastructure reforms may be misleading"
+    },
+    "2026-08-03T08:20:31.426951Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's actions and statements have raised concerns about his integrity and transparency"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-18T06:53:27.949173Z",
-      "text": "Christopher Luxon faced criticism from Shane Jones over his visit with Modi and was found to have made a contradictory statement about his role as Prime Minister"
-    },
     {
       "date": "2026-07-19T07:22:45.360951Z",
       "text": "Christopher Luxon survived a party leadership vote and announced a cabinet reshuffle, but his statement about focusing on what he can control contains a contradiction"
@@ -1478,14 +1503,13 @@
     {
       "date": "2026-08-02T07:26:54.938129Z",
       "text": "Prime Minister Christopher Luxon's leadership and policy stances have been under scrutiny"
+    },
+    {
+      "date": "2026-08-03T08:20:31.426951Z",
+      "text": "Luxon's leadership and actions have been under scrutiny, with concerns about his integrity and transparency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-14T08:36:42.069444Z",
-      "notes": "Luxon's social media posts and public statements have been reviewed for discrepancies and lies",
-      "new_items": true
-    },
     {
       "date": "2026-06-15T10:49:50.855577Z",
       "notes": "No significant new findings",
@@ -1730,17 +1754,14 @@
       "date": "2026-08-02T07:26:54.938129Z",
       "notes": "Reviewed RNZ News, AP News, and Labour Party Congress 2026 - Chris Hipkins",
       "new_items": true
+    },
+    {
+      "date": "2026-08-03T08:20:31.426951Z",
+      "notes": "Luxon's recent statements and actions have been contradictory and misleading",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-13T08:09:38.150455Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-14T07:03:35.944529Z",
       "sources": [
@@ -1874,7 +1895,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-03T08:20:31.427140Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-02T07:26:54.938351Z"
+  "last_updated": "2026-08-03T08:20:31.427164Z"
 }

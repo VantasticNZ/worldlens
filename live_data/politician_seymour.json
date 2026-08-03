@@ -248,11 +248,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-14T08:37:16.031296Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-06-15T10:50:23.701241Z",
       "notes": "Apology from David Seymour for using violent rhetoric, potential impact on integrity score",
       "new_items": true
@@ -496,17 +491,14 @@
       "date": "2026-08-02T07:27:36.818254Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-08-03T08:21:19.501616Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but a new event was found.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-08T07:24:03.647853Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-07-09T08:29:52.610681Z",
       "sources": [
@@ -644,7 +636,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-03T08:21:19.501688Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-02T07:27:36.818301Z"
+  "last_updated": "2026-08-03T08:21:19.501717Z"
 }
