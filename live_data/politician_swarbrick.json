@@ -437,10 +437,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-06-13T08:18:17.362072Z",
-      "text": "Chlöe Swarbrick criticizes Government's Budget 2026, claiming it leaves New Zealand with no plan."
-    },
-    {
       "date": "2026-07-02T08:03:00.578060Z",
       "text": "Chlöe Swarbrick and the Green Party have announced their tax plan, which aims to tackle inequality and corporate greed."
     },
@@ -475,14 +471,13 @@
     {
       "date": "2026-07-22T07:32:48.065016Z",
       "text": "Chlöe Swarbrick's integrity score has been adjusted downward due to repeated lies and discrepancies in her statements."
+    },
+    {
+      "date": "2026-08-04T07:33:32.922786Z",
+      "text": "Chlöe Swarbrick was kicked out of the House after challenging the Speaker's 'double standards'."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-15T10:51:49.360028Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-06-16T10:04:23.869227Z",
       "notes": "No significant new findings",
@@ -727,16 +722,14 @@
       "date": "2026-08-03T08:23:25.732323Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-08-04T07:33:32.922786Z",
+      "notes": "New event added: Chlöe Swarbrick kicked out of House",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-07T08:18:02.039114Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-07-08T07:26:08.873866Z",
       "sources": [
@@ -869,7 +862,15 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-08-04T07:33:32.922844Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-03T08:23:25.732356Z"
+  "last_updated": "2026-08-04T07:33:32.922864Z"
 }

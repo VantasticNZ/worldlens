@@ -944,6 +944,20 @@
       },
       "_id": "5911adfd",
       "_crawled": "2026-08-03T08:20:31.426951Z"
+    },
+    {
+      "platform": "press",
+      "date": "August 2026",
+      "text": "Luxon delivers 2026 State of the Nation speech",
+      "verified_by": "thespinoff.co.nz",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Luxon stopped short of saying 'new world order', despite similar remarks by Mark Carney",
+        "source": "thespinoff.co.nz",
+        "severity": "med"
+      },
+      "_id": "827ea271",
+      "_crawled": "2026-08-04T07:30:17.455795Z"
     }
   ],
   "votes": [
@@ -1469,10 +1483,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-19T07:22:45.360951Z",
-      "text": "Christopher Luxon survived a party leadership vote and announced a cabinet reshuffle, but his statement about focusing on what he can control contains a contradiction"
-    },
-    {
       "date": "2026-07-20T07:51:45.678985Z",
       "text": "Luxon's leadership and integrity have been called into question following a party leadership vote and controversy over climate change policy"
     },
@@ -1507,14 +1517,13 @@
     {
       "date": "2026-08-03T08:20:31.426951Z",
       "text": "Luxon's leadership and actions have been under scrutiny, with concerns about his integrity and transparency"
+    },
+    {
+      "date": "2026-08-04T07:30:17.455795Z",
+      "text": "Luxon survives leadership battle and declares new war on media, while agreeing on partnership with India"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-15T10:49:50.855577Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-06-16T10:01:56.959748Z",
       "notes": "Multiple sources indicate Luxon's leadership is under scrutiny, with concerns about his integrity and transparency",
@@ -1759,17 +1768,14 @@
       "date": "2026-08-03T08:20:31.426951Z",
       "notes": "Luxon's recent statements and actions have been contradictory and misleading",
       "new_items": true
+    },
+    {
+      "date": "2026-08-04T07:30:17.455795Z",
+      "notes": "Reviewed 6 RSS articles and 7 Tavily sources",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-14T07:03:35.944529Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-15T07:07:00.465488Z",
       "sources": [
@@ -1903,7 +1909,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-04T07:30:17.455901Z",
+      "sources": [
+        "RSS (6 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-03T08:20:31.427164Z"
+  "last_updated": "2026-08-04T07:30:17.455923Z"
 }

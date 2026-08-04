@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 30,
+  "lie_count": 31,
   "lies": [
     {
       "date": "2026",
@@ -302,6 +302,16 @@
       "platform": "speech",
       "_id": "006773fc",
       "_crawled": "2026-08-03T08:24:31.248963Z"
+    },
+    {
+      "date": "2026",
+      "claim": "positive change in people's lives",
+      "reality": "voters express dissatisfaction and perception of indecisiveness",
+      "source": "Reuters",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "8442d374",
+      "_crawled": "2026-08-04T07:34:44.196200Z"
     }
   ],
   "social_posts": [
@@ -1001,13 +1011,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "contradictions between statements and actions"
+    },
+    "2026-08-04T07:34:44.196200Z": {
+      "integrity_delta": -2,
+      "corruption_risk_delta": 1,
+      "reasoning": "resignation and election losses indicate decreased integrity and increased corruption risk"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-15T07:11:00.082637Z",
-      "text": "Keir Starmer resigned as UK Prime Minister, planning for a new PM by September."
-    },
     {
       "date": "2026-07-16T07:19:38.679013Z",
       "text": "Keir Starmer's resignation announcement and contradiction with previous statements raise concerns about his integrity"
@@ -1043,14 +1054,13 @@
     {
       "date": "2026-08-03T08:24:31.248963Z",
       "text": "Keir Starmer's tenure as Prime Minister marked by contradictions and controversy"
+    },
+    {
+      "date": "2026-08-04T07:34:44.196200Z",
+      "text": "Keir Starmer resigns as Prime Minister amidst criticism and election losses, facing accusations of broken promises and indecisiveness."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-15T10:52:31.422652Z",
-      "notes": "Multiple sources report Starmer's declining popularity and lack of progress on key issues",
-      "new_items": true
-    },
     {
       "date": "2026-06-16T10:05:20.050462Z",
       "notes": "Multiple sources indicate growing criticism and minister resignations, contradicting Keir Starmer's claims",
@@ -1295,16 +1305,14 @@
       "date": "2026-08-03T08:24:31.248963Z",
       "notes": "Reviewed sources from Reuters, BBC, The Guardian, and AP News",
       "new_items": true
+    },
+    {
+      "date": "2026-08-04T07:34:44.196200Z",
+      "notes": "Resignation and election losses indicate significant decline in public trust and support for Keir Starmer",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-07T08:19:07.332931Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-08T07:27:44.728842Z",
       "sources": [
@@ -1442,7 +1450,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-04T07:34:44.196313Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-03T08:24:31.249128Z"
+  "last_updated": "2026-08-04T07:34:44.196331Z"
 }

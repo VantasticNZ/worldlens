@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 38,
+  "lie_count": 39,
   "lies": [
     {
       "date": "April 2026",
@@ -382,6 +382,16 @@
       "platform": "press_release",
       "_id": "83f3a1b5",
       "_crawled": "2026-08-03T08:22:36.206687Z"
+    },
+    {
+      "date": "2026",
+      "claim": "everything was 'on track'",
+      "reality": "officials had been warning him since at least August that it wasn’t",
+      "source": "labour.org.nz",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "80f6eea1",
+      "_crawled": "2026-08-04T07:32:41.084443Z"
     }
   ],
   "social_posts": [
@@ -1160,13 +1170,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Bishop's statements on social housing delivery contradict reality"
+    },
+    "2026-08-04T07:32:41.084443Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "broken election promise on Auckland housing"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-17T07:13:21.711868Z",
-      "text": "Housing Minister Chris Bishop's claims about housing numbers and plans have been contradicted by facts, raising concerns about his integrity"
-    },
     {
       "date": "2026-07-18T06:55:28.802597Z",
       "text": "Chris Bishop's housing policies and statements have been contradicted by his own admissions and actions, further eroding trust in his leadership."
@@ -1202,14 +1213,13 @@
     {
       "date": "2026-08-03T08:22:36.206687Z",
       "text": "Chris Bishop's statements on social housing delivery have been found to contradict reality, further eroding trust in his integrity"
+    },
+    {
+      "date": "2026-08-04T07:32:41.084443Z",
+      "text": "Housing Minister Chris Bishop has broken another election promise, this time on Auckland housing, resulting in a net loss of homes"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-15T10:51:20.332445Z",
-      "notes": "Reviewed sources from Beehive.govt.nz, NZ Herald, and Newsroom.co.nz",
-      "new_items": true
-    },
     {
       "date": "2026-06-16T10:03:41.363029Z",
       "notes": "Contradictions found between Chris Bishop's statements and official warnings on social housing delivery",
@@ -1454,16 +1464,14 @@
       "date": "2026-08-03T08:22:36.206687Z",
       "notes": "Multiple sources confirm Chris Bishop's statements on social housing delivery are inconsistent with actual events",
       "new_items": true
+    },
+    {
+      "date": "2026-08-04T07:32:41.084443Z",
+      "notes": "New findings on Chris Bishop's broken election promises and discrepancies in his statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-07T08:17:17.768794Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-08T07:25:13.551536Z",
       "sources": [
@@ -1601,7 +1609,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-04T07:32:41.084595Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-03T08:22:36.206911Z"
+  "last_updated": "2026-08-04T07:32:41.084613Z"
 }

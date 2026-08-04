@@ -1172,13 +1172,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Peters' inconsistent statements and potential contradictions with NZ First's policy have led to a decrease in his integrity score"
+    },
+    "2026-08-04T07:30:44.949873Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Refusal to apologise for 'racist' comments and contradictory statements on Labour deal"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-19T07:23:15.086831Z",
-      "text": "Winston Peters' statements on working with Labour have been inconsistent, and he has been harassed by protestors at the NZ First Conference"
-    },
     {
       "date": "2026-07-20T07:52:11.410378Z",
       "text": "Winston Peters' recent statements and actions suggest a continued pattern of contradictory claims and criticism of other parties"
@@ -1214,14 +1215,13 @@
     {
       "date": "2026-08-03T08:20:54.515714Z",
       "text": "Winston Peters' recent comments have sparked controversy and led to a re-evaluation of his integrity score"
+    },
+    {
+      "date": "2026-08-04T07:30:44.949873Z",
+      "text": "Winston Peters faces criticism for 'racist' comments and contradictory statements on Labour deal"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-15T10:50:04.889607Z",
-      "notes": "Peters' tweets and interviews continue to be a source of controversy and insight into his political views",
-      "new_items": true
-    },
     {
       "date": "2026-06-16T10:02:20.631085Z",
       "notes": "Peters' statements and actions continue to be contradictory and inconsistent",
@@ -1466,16 +1466,14 @@
       "date": "2026-08-03T08:20:54.515714Z",
       "notes": "Peters' tweets and statements have been inconsistent with NZ First's policy, and his comments have been criticized as racist",
       "new_items": true
+    },
+    {
+      "date": "2026-08-04T07:30:44.949873Z",
+      "notes": "Reviewed 9 articles from RNZ News, NZ Herald, and The Spinoff",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-10T08:16:00.999085Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-07-11T07:07:11.470170Z",
       "sources": [
@@ -1615,7 +1613,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-04T07:30:44.949997Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-03T08:20:54.515951Z"
+  "last_updated": "2026-08-04T07:30:44.950021Z"
 }

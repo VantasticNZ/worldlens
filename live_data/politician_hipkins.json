@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 20,
+  "lie_count": 21,
   "lies": [
     {
       "date": "May 2026",
@@ -202,6 +202,16 @@
       "platform": "interview",
       "_id": "384f0340",
       "_crawled": "2026-07-23T07:29:19.988263Z"
+    },
+    {
+      "date": "2026",
+      "claim": "Labour's new cost-of-living policy will help everyone",
+      "reality": "The policy won't help farmers",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "2f196d8c",
+      "_crawled": "2026-08-04T07:33:06.500952Z"
     }
   ],
   "social_posts": [
@@ -653,10 +663,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-16T07:18:05.671425Z",
-      "text": "Chris Hipkins' recent statements and policies have raised concerns about Labour's transparency and consistency"
-    },
-    {
       "date": "2026-07-18T06:55:56.361159Z",
       "text": "Chris Hipkins' recent statements and policy clarifications have raised questions about his integrity and the Labour party's transparency"
     },
@@ -691,14 +697,13 @@
     {
       "date": "2026-08-03T08:23:01.447217Z",
       "text": "Chris Hipkins' recent statements and events have raised concerns about his integrity and policy consistency."
+    },
+    {
+      "date": "2026-08-04T07:33:06.500952Z",
+      "text": "Chris Hipkins faces challenges with his cost-of-living policy and personal life"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-15T10:51:35.433252Z",
-      "notes": "No significant new findings on lies, social posts, or votes, but new events related to Chris Hipkins' speeches and policies.",
-      "new_items": true
-    },
     {
       "date": "2026-06-16T10:04:01.305782Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but some new events were found.",
@@ -943,16 +948,14 @@
       "date": "2026-08-03T08:23:01.447217Z",
       "notes": "Reviewed sources include labour.org.nz, NZ Herald, and Stuff.",
       "new_items": true
+    },
+    {
+      "date": "2026-08-04T07:33:06.500952Z",
+      "notes": "Multiple sources indicate potential discrepancies in Hipkins' policy and personal life",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-07T08:17:38.324666Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-08T07:25:34.081031Z",
       "sources": [
@@ -1092,7 +1095,15 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-04T07:33:06.501059Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-03T08:23:01.447364Z"
+  "last_updated": "2026-08-04T07:33:06.501077Z"
 }
