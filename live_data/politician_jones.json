@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 25,
+  "lie_count": 26,
   "lies": [
     {
       "date": "March 2026",
@@ -252,6 +252,16 @@
       "platform": "interview",
       "_id": "44857ed3",
       "_crawled": "2026-08-02T07:27:56.996342Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "knee pads remark was not an oral sex reference",
+      "reality": "remark was widely interpreted as an oral sex reference",
+      "source": "RNZ, August 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "d9e03900",
+      "_crawled": "2026-08-05T07:34:05.593518Z"
     }
   ],
   "social_posts": [
@@ -819,13 +829,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' attempt to shift blame for his offensive remark to the media's 'wokeism' suggests a lack of integrity"
+    },
+    "2026-08-05T07:34:05.593518Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' denial of the 'knee pads' remark being an oral sex reference despite widespread interpretation to the contrary"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-20T07:53:01.144342Z",
-      "text": "Shane Jones faces criticism over India FTA comments and nationalist stance"
-    },
     {
       "date": "2026-07-21T07:28:39.804255Z",
       "text": "Shane Jones faces ongoing criticism for his comments and actions, including his 'butter chicken' remarks and travel bill."
@@ -861,14 +872,13 @@
     {
       "date": "2026-08-04T07:31:46.006290Z",
       "text": "Shane Jones continues to face backlash for his offensive remarks, and his attempts to shift blame have raised concerns about his integrity"
+    },
+    {
+      "date": "2026-08-05T07:34:05.593518Z",
+      "text": "Shane Jones faced criticism for his 'knee pads' remark and defended his fisheries bill"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-16T10:02:59.584842Z",
-      "notes": "Proposal to strip fast-track powers from environmental regulator may impact Shane Jones' reputation",
-      "new_items": true
-    },
     {
       "date": "2026-06-17T09:26:32.847869Z",
       "notes": "Multiple sources report on Shane Jones' controversial comments and actions.",
@@ -1113,16 +1123,14 @@
       "date": "2026-08-04T07:31:46.006290Z",
       "notes": "Shane Jones' recent statements and actions have contributed to his ongoing controversy",
       "new_items": true
+    },
+    {
+      "date": "2026-08-05T07:34:05.593518Z",
+      "notes": "Shane Jones' recent statements and events have raised concerns about his integrity",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-10T08:16:58.399065Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-11T07:08:27.372537Z",
       "sources": [
@@ -1260,7 +1268,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-08-05T07:34:05.593686Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-04T07:31:46.006392Z"
+  "last_updated": "2026-08-05T07:34:05.593710Z"
 }

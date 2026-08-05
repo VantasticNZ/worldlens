@@ -437,10 +437,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-02T08:03:00.578060Z",
-      "text": "Chlöe Swarbrick and the Green Party have announced their tax plan, which aims to tackle inequality and corporate greed."
-    },
-    {
       "date": "2026-07-03T07:57:53.361209Z",
       "text": "Chlöe Swarbrick and the Green Party have been actively promoting their 2026 tax policy and calling on New Zealanders to join their movement."
     },
@@ -475,14 +471,13 @@
     {
       "date": "2026-08-04T07:33:32.922786Z",
       "text": "Chlöe Swarbrick was kicked out of the House after challenging the Speaker's 'double standards'."
+    },
+    {
+      "date": "2026-08-05T07:35:51.373091Z",
+      "text": "Chlöe Swarbrick was kicked out of the House after challenging the Speaker's 'double standards'."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-16T10:04:23.869227Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-06-17T09:27:37.180702Z",
       "notes": "No significant new findings",
@@ -727,16 +722,14 @@
       "date": "2026-08-04T07:33:32.922786Z",
       "notes": "New event added: Chlöe Swarbrick kicked out of House",
       "new_items": true
+    },
+    {
+      "date": "2026-08-05T07:35:51.373091Z",
+      "notes": "New event added: Chlöe Swarbrick kicked out of House",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-08T07:26:08.873866Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-07-09T08:32:43.152771Z",
       "sources": [
@@ -870,7 +863,15 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-08-05T07:35:51.373163Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-04T07:33:32.922864Z"
+  "last_updated": "2026-08-05T07:35:51.373186Z"
 }

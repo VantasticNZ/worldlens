@@ -692,11 +692,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-16T10:03:22.374452Z",
-      "notes": "No significant new lies or social posts found, but new events related to Budget 2026 announcement",
-      "new_items": true
-    },
-    {
       "date": "2026-06-17T09:26:48.518060Z",
       "notes": "No significant new lies or social posts found.",
       "new_items": true
@@ -940,17 +935,14 @@
       "date": "2026-08-04T07:32:15.310787Z",
       "notes": "Notable findings include Nicola Willis walking back on her surplus promise and facing criticism from a former finance minister",
       "new_items": true
+    },
+    {
+      "date": "2026-08-05T07:34:29.422814Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-09T08:30:48.629948Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-07-10T08:17:25.913742Z",
       "sources": [
@@ -1084,7 +1076,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-05T07:34:29.422831Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-04T07:32:15.310897Z"
+  "last_updated": "2026-08-05T07:34:29.422852Z"
 }

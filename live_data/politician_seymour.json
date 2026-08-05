@@ -248,11 +248,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-16T10:02:40.420245Z",
-      "notes": "RNZ News article reports on David Seymour's apology for using violent rhetoric",
-      "new_items": true
-    },
-    {
       "date": "2026-06-17T09:26:18.276378Z",
       "notes": "New events and policies announced by David Seymour",
       "new_items": true
@@ -496,16 +491,14 @@
       "date": "2026-08-04T07:31:19.143708Z",
       "notes": "New events and speeches added, no notable lies or discrepancies found",
       "new_items": true
+    },
+    {
+      "date": "2026-08-05T07:33:37.900851Z",
+      "notes": "New events and statements from David Seymour, including the announcement of Paul Henry as an Act Party candidate and criticism of the Green Party's tax policy.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-10T08:16:32.337383Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-07-11T07:07:48.263217Z",
       "sources": [
@@ -643,7 +636,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-05T07:33:37.900968Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-04T07:31:19.143807Z"
+  "last_updated": "2026-08-05T07:33:37.900994Z"
 }

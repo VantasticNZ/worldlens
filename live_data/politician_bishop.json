@@ -604,6 +604,20 @@
       },
       "_id": "40a1ecdb",
       "_crawled": "2026-08-03T08:22:36.206687Z"
+    },
+    {
+      "platform": "press",
+      "date": "February 2026",
+      "text": "Housing Minister Chris Bishop grants Auckland Council one-year extension to work on new intensification rules",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "The Coalition For More Homes is opposed to the council being granted an extension",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "ba718e02",
+      "_crawled": "2026-08-05T07:34:58.893592Z"
     }
   ],
   "votes": [
@@ -1175,13 +1189,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "broken election promise on Auckland housing"
+    },
+    "2026-08-05T07:34:58.893592Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Housing Minister Chris Bishop's claim that everything was 'on track' despite advice showing officials had been warning him since at least August that it wasn’t"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-18T06:55:28.802597Z",
-      "text": "Chris Bishop's housing policies and statements have been contradicted by his own admissions and actions, further eroding trust in his leadership."
-    },
     {
       "date": "2026-07-19T07:25:01.114592Z",
       "text": "Housing Minister Chris Bishop has announced changes to the social housing system, but his admission of the system being broken and lack of action to fix it may raise concerns about his integrity."
@@ -1217,14 +1232,13 @@
     {
       "date": "2026-08-04T07:32:41.084443Z",
       "text": "Housing Minister Chris Bishop has broken another election promise, this time on Auckland housing, resulting in a net loss of homes"
+    },
+    {
+      "date": "2026-08-05T07:34:58.893592Z",
+      "text": "Housing Minister Chris Bishop's integrity score has been adjusted due to his claim that everything was 'on track' despite advice showing officials had been warning him since at least August that it wasn’t"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-16T10:03:41.363029Z",
-      "notes": "Contradictions found between Chris Bishop's statements and official warnings on social housing delivery",
-      "new_items": true
-    },
     {
       "date": "2026-06-17T09:27:04.671933Z",
       "notes": "The Minister's statements and announcements have been inconsistent and have raised concerns about the social housing system",
@@ -1469,16 +1483,14 @@
       "date": "2026-08-04T07:32:41.084443Z",
       "notes": "New findings on Chris Bishop's broken election promises and discrepancies in his statements",
       "new_items": true
+    },
+    {
+      "date": "2026-08-05T07:34:58.893592Z",
+      "notes": "New lies and social posts found, score adjustments made",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-08T07:25:13.551536Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-09T08:31:30.388076Z",
       "sources": [
@@ -1616,7 +1628,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-05T07:34:58.893806Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-04T07:32:41.084613Z"
+  "last_updated": "2026-08-05T07:34:58.893829Z"
 }

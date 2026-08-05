@@ -958,6 +958,20 @@
       },
       "_id": "827ea271",
       "_crawled": "2026-08-04T07:30:17.455795Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "unknown",
+      "text": "tweet about trade deal",
+      "verified_by": "Winston Peters' account",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Luxon's tweet was corrected by Winston Peters",
+        "source": "RNZ, unknown date",
+        "severity": "med"
+      },
+      "_id": "af3c28fe",
+      "_crawled": "2026-08-05T07:32:49.484872Z"
     }
   ],
   "votes": [
@@ -1479,13 +1493,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's actions and statements have raised concerns about his integrity and transparency"
+    },
+    "2026-08-05T07:32:49.484872Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's claim about supporting the Crusaders and his tweet about the trade deal being corrected by Winston Peters raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-20T07:51:45.678985Z",
-      "text": "Luxon's leadership and integrity have been called into question following a party leadership vote and controversy over climate change policy"
-    },
     {
       "date": "2026-07-21T07:27:30.908008Z",
       "text": "Christopher Luxon's integrity score takes a hit due to his recent lie and contradictory social post."
@@ -1521,14 +1536,13 @@
     {
       "date": "2026-08-04T07:30:17.455795Z",
       "text": "Luxon survives leadership battle and declares new war on media, while agreeing on partnership with India"
+    },
+    {
+      "date": "2026-08-05T07:32:49.484872Z",
+      "text": "Luxon faces controversy over Defence Force flights and his statement about the trade deal is corrected by Winston Peters"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-16T10:01:56.959748Z",
-      "notes": "Multiple sources indicate Luxon's leadership is under scrutiny, with concerns about his integrity and transparency",
-      "new_items": true
-    },
     {
       "date": "2026-06-17T09:25:43.622805Z",
       "notes": "Luxon's statements and actions on climate policies and his leadership are under scrutiny",
@@ -1773,17 +1787,14 @@
       "date": "2026-08-04T07:30:17.455795Z",
       "notes": "Reviewed 6 RSS articles and 7 Tavily sources",
       "new_items": true
+    },
+    {
+      "date": "2026-08-05T07:32:49.484872Z",
+      "notes": "Multiple sources indicate Luxon's integrity is questionable",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-15T07:07:00.465488Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-16T07:15:30.143678Z",
       "sources": [
@@ -1917,7 +1928,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-05T07:32:49.485023Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-04T07:30:17.455923Z"
+  "last_updated": "2026-08-05T07:32:49.485050Z"
 }

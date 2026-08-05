@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-04T07:34:45.197651Z",
+  "generated": "2026-08-05T07:37:01.629029Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-08-04T07:34:44.196331Z",
-      "lie_count": 31,
+      "last_updated": "2026-08-05T07:37:00.627132Z",
+      "lie_count": 32,
       "event_count": 20,
       "post_count": 13,
       "vote_count": 0,
@@ -15,22 +15,22 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-08-04T07:33:54.327137Z",
-      "lie_count": 86,
+      "last_updated": "2026-08-05T07:36:12.785103Z",
+      "lie_count": 87,
       "event_count": 20,
       "post_count": 8,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (4 articles from NZ/intl media)",
+          "RSS (5 articles from NZ/intl media)",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-08-04T07:31:46.006392Z",
-      "lie_count": 25,
+      "last_updated": "2026-08-05T07:34:05.593710Z",
+      "lie_count": 26,
       "event_count": 20,
       "post_count": 5,
       "vote_count": 0,
@@ -42,7 +42,7 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-08-04T07:32:15.310897Z",
+      "last_updated": "2026-08-05T07:34:29.422852Z",
       "lie_count": 16,
       "event_count": 20,
       "post_count": 13,
@@ -55,7 +55,7 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-08-04T07:34:19.665922Z",
+      "last_updated": "2026-08-05T07:36:38.541219Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
@@ -68,21 +68,21 @@
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-08-04T07:30:44.950021Z",
+      "last_updated": "2026-08-05T07:33:15.457492Z",
       "lie_count": 34,
       "event_count": 20,
       "post_count": 22,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (4 articles from NZ/intl media)",
+          "RSS (2 articles from NZ/intl media)",
           "Tavily: Winston Peters NZ First contradiction 20",
           "Tavily: Winston Peters tweet statement 2026"
         ]
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-08-04T07:33:32.922864Z",
+      "last_updated": "2026-08-05T07:35:51.373186Z",
       "lie_count": 3,
       "event_count": 20,
       "post_count": 16,
@@ -96,38 +96,38 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-08-04T07:30:17.455923Z",
+      "last_updated": "2026-08-05T07:32:49.485050Z",
       "lie_count": 45,
       "event_count": 20,
-      "post_count": 36,
+      "post_count": 37,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (6 articles from NZ/intl media)",
+          "RSS (3 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-08-04T07:33:06.501077Z",
+      "last_updated": "2026-08-05T07:35:27.672272Z",
       "lie_count": 21,
       "event_count": 20,
       "post_count": 10,
       "vote_count": 0,
       "sources": [
         [
-          "RSS (3 articles from NZ/intl media)",
+          "RSS (1 articles from NZ/intl media)",
           "Tavily: Chris Hipkins Labour statement 2026",
           "Tavily: Chris Hipkins contradiction 2026"
         ]
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-08-04T07:32:41.084613Z",
+      "last_updated": "2026-08-05T07:34:58.893829Z",
       "lie_count": 39,
       "event_count": 20,
-      "post_count": 15,
+      "post_count": 16,
       "vote_count": 1,
       "sources": [
         [
@@ -137,7 +137,7 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-08-04T07:31:19.143807Z",
+      "last_updated": "2026-08-05T07:33:37.900994Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 0,
