@@ -659,13 +659,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Hipkins' acceptance that the new cost-of-living policy won't help farmers contradicts his previous statements, affecting his integrity score."
+    },
+    "2026-08-06T07:36:17.910292Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Hipkins' claim that Labour's new cost-of-living policy will help everyone was contradicted by his later statement that it won't help farmers"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-19T07:25:26.328517Z",
-      "text": "Chris Hipkins' integrity score takes a hit due to contradictory statements about the cost-of-living policy"
-    },
     {
       "date": "2026-07-20T07:54:15.780379Z",
       "text": "Chris Hipkins admits to promising undeliverable policies, affecting his integrity score"
@@ -701,14 +702,13 @@
     {
       "date": "2026-08-05T07:35:27.672174Z",
       "text": "Chris Hipkins acknowledged that the new cost-of-living policy won't help farmers and denied that Labour is writing off the rural vote"
+    },
+    {
+      "date": "2026-08-06T07:36:17.910292Z",
+      "text": "Chris Hipkins' integrity score has been adjusted due to a contradiction in his statements about Labour's cost-of-living policy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-17T09:27:22.547974Z",
-      "notes": "Chris Hipkins' comments on the NZ Future Fund policy and cost-of-living policy may indicate a lack of transparency and accountability",
-      "new_items": true
-    },
     {
       "date": "2026-06-18T09:10:46.079353Z",
       "notes": "Sources include NZ Herald, RNZ News, and Labour.org.nz",
@@ -953,16 +953,14 @@
       "date": "2026-08-05T07:35:27.672174Z",
       "notes": "New cost-of-living policy details and Chris Hipkins' comments on the NZ Future Fund policy",
       "new_items": true
+    },
+    {
+      "date": "2026-08-06T07:36:17.910292Z",
+      "notes": "Contradiction found in Chris Hipkins' statements about Labour's cost-of-living policy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-09T08:32:01.272326Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-10T08:18:15.817438Z",
       "sources": [
@@ -1104,7 +1102,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-06T07:36:17.910416Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-05T07:35:27.672272Z"
+  "last_updated": "2026-08-06T07:36:17.910463Z"
 }

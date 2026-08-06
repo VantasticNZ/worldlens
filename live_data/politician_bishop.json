@@ -618,6 +618,20 @@
       },
       "_id": "ba718e02",
       "_crawled": "2026-08-05T07:34:58.893592Z"
+    },
+    {
+      "platform": "press",
+      "date": "August 2026",
+      "text": "Housing Minister Chris Bishop welcomes the opening of seven new social homes in Tauranga designed specifically for autistic people",
+      "verified_by": "Beehive.govt.nz",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "The government's housing policy has been criticized for not providing enough support for autistic individuals",
+        "source": "NZ Herald",
+        "severity": "low"
+      },
+      "_id": "8acb1490",
+      "_crawled": "2026-08-06T07:35:52.693062Z"
     }
   ],
   "votes": [
@@ -1198,10 +1212,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-19T07:25:01.114592Z",
-      "text": "Housing Minister Chris Bishop has announced changes to the social housing system, but his admission of the system being broken and lack of action to fix it may raise concerns about his integrity."
-    },
-    {
       "date": "2026-07-20T07:53:49.726321Z",
       "text": "Minister Chris Bishop's social housing overhaul plans and involvement in the City Link bridge funding decision have raised concerns about his integrity and transparency"
     },
@@ -1236,14 +1246,13 @@
     {
       "date": "2026-08-05T07:34:58.893592Z",
       "text": "Housing Minister Chris Bishop's integrity score has been adjusted due to his claim that everything was 'on track' despite advice showing officials had been warning him since at least August that it wasn’t"
+    },
+    {
+      "date": "2026-08-06T07:35:52.693062Z",
+      "text": "Housing Minister Chris Bishop announced a further investment into the Flexible Fund to deliver additional social homes, but the effectiveness of this investment is uncertain"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-17T09:27:04.671933Z",
-      "notes": "The Minister's statements and announcements have been inconsistent and have raised concerns about the social housing system",
-      "new_items": true
-    },
     {
       "date": "2026-06-18T09:10:27.197481Z",
       "notes": "Reviewed RNZ News and Beehive.govt.nz articles",
@@ -1488,17 +1497,14 @@
       "date": "2026-08-05T07:34:58.893592Z",
       "notes": "New lies and social posts found, score adjustments made",
       "new_items": true
+    },
+    {
+      "date": "2026-08-06T07:35:52.693062Z",
+      "notes": "Reviewed recent press releases and articles related to Chris Bishop and housing policy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-09T08:31:30.388076Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-10T08:17:49.518520Z",
       "sources": [
@@ -1635,7 +1641,15 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-06T07:35:52.693203Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-05T07:34:58.893829Z"
+  "last_updated": "2026-08-06T07:35:52.693224Z"
 }

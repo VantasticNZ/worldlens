@@ -248,11 +248,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-17T09:26:18.276378Z",
-      "notes": "New events and policies announced by David Seymour",
-      "new_items": true
-    },
-    {
       "date": "2026-06-18T09:09:27.312177Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -496,16 +491,14 @@
       "date": "2026-08-05T07:33:37.900851Z",
       "notes": "New events and statements from David Seymour, including the announcement of Paul Henry as an Act Party candidate and criticism of the Green Party's tax policy.",
       "new_items": true
+    },
+    {
+      "date": "2026-08-06T07:34:16.648779Z",
+      "notes": "New events and speeches from David Seymour, focusing on the ACT Party's campaign and policies.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-11T07:07:48.263217Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-07-12T07:24:59.512676Z",
       "sources": [
@@ -643,7 +636,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-06T07:34:16.648890Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-05T07:33:37.900994Z"
+  "last_updated": "2026-08-06T07:34:16.648915Z"
 }

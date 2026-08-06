@@ -1502,10 +1502,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-21T07:27:30.908008Z",
-      "text": "Christopher Luxon's integrity score takes a hit due to his recent lie and contradictory social post."
-    },
-    {
       "date": "2026-07-22T07:29:28.559263Z",
       "text": "Christopher Luxon's coalition fractures on climate, and his claim about Winston Peters and the India FTA was contradicted by Peters' account"
     },
@@ -1540,14 +1536,13 @@
     {
       "date": "2026-08-05T07:32:49.484872Z",
       "text": "Luxon faces controversy over Defence Force flights and his statement about the trade deal is corrected by Winston Peters"
+    },
+    {
+      "date": "2026-08-06T07:33:25.259158Z",
+      "text": "Christopher Luxon's promise to hold a referendum on MMP if re-elected has sparked controversy and debate."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-17T09:25:43.622805Z",
-      "notes": "Luxon's statements and actions on climate policies and his leadership are under scrutiny",
-      "new_items": true
-    },
     {
       "date": "2026-06-18T09:08:51.399563Z",
       "notes": "Luxon's statements and actions continue to be scrutinized, with a focus on his integrity and the coalition's stability",
@@ -1792,16 +1787,14 @@
       "date": "2026-08-05T07:32:49.484872Z",
       "notes": "Multiple sources indicate Luxon's integrity is questionable",
       "new_items": true
+    },
+    {
+      "date": "2026-08-06T07:33:25.259158Z",
+      "notes": "Multiple sources report on Luxon's MMP referendum promise, with some criticizing it as a 'power grab'.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-16T07:15:30.143678Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-17T07:10:58.836433Z",
       "sources": [
@@ -1936,7 +1929,16 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-06T07:33:25.259254Z",
+      "sources": [
+        "RSS (6 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-05T07:32:49.485050Z"
+  "last_updated": "2026-08-06T07:33:25.259277Z"
 }

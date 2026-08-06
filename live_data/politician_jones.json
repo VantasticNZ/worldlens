@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 26,
+  "lie_count": 27,
   "lies": [
     {
       "date": "March 2026",
@@ -262,6 +262,16 @@
       "platform": "interview",
       "_id": "d9e03900",
       "_crawled": "2026-08-05T07:34:05.593518Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "knee pads remark was not an oral sex reference, could have been to do with gardening or volleyball",
+      "reality": "remark was widely interpreted as an oral sex reference",
+      "source": "RNZ, August 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "0438e1ef",
+      "_crawled": "2026-08-06T07:34:43.192191Z"
     }
   ],
   "social_posts": [
@@ -834,13 +844,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' denial of the 'knee pads' remark being an oral sex reference despite widespread interpretation to the contrary"
+    },
+    "2026-08-06T07:34:43.192191Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' denial of the oral sex reference and blame of media 'wokeism' suggests a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-21T07:28:39.804255Z",
-      "text": "Shane Jones faces ongoing criticism for his comments and actions, including his 'butter chicken' remarks and travel bill."
-    },
     {
       "date": "2026-07-22T07:30:46.701845Z",
       "text": "Shane Jones continues to make controversial statements and face criticism for his actions"
@@ -876,14 +887,13 @@
     {
       "date": "2026-08-05T07:34:05.593518Z",
       "text": "Shane Jones faced criticism for his 'knee pads' remark and defended his fisheries bill"
+    },
+    {
+      "date": "2026-08-06T07:34:43.192191Z",
+      "text": "Shane Jones has faced criticism for his 'kneepads' remark and has denied it was an oral sex reference, blaming media 'wokeism' for the backlash"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-17T09:26:32.847869Z",
-      "notes": "Multiple sources report on Shane Jones' controversial comments and actions.",
-      "new_items": true
-    },
     {
       "date": "2026-06-18T09:09:46.134557Z",
       "notes": "New events related to Shane Jones' travel bill and fisheries amendment Bill",
@@ -1128,16 +1138,14 @@
       "date": "2026-08-05T07:34:05.593518Z",
       "notes": "Shane Jones' recent statements and events have raised concerns about his integrity",
       "new_items": true
+    },
+    {
+      "date": "2026-08-06T07:34:43.192191Z",
+      "notes": "Shane Jones' recent comments have sparked controversy and criticism",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-11T07:08:27.372537Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-12T07:25:29.661573Z",
       "sources": [
@@ -1275,7 +1283,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-08-06T07:34:43.192348Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-05T07:34:05.593710Z"
+  "last_updated": "2026-08-06T07:34:43.192371Z"
 }

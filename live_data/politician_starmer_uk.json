@@ -1031,13 +1031,14 @@
       "integrity_delta": -2,
       "corruption_risk_delta": 0,
       "reasoning": "Keir Starmer's claims about the economy and his government's priorities were contradicted by reality, indicating a lack of integrity"
+    },
+    "2026-08-06T07:37:48.721206Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "claims of positive change contradict economic reality"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-17T07:15:18.212093Z",
-      "text": "Keir Starmer's resignation and contradictions in his statements have raised concerns about his integrity"
-    },
     {
       "date": "2026-07-18T06:57:22.941656Z",
       "text": "Keir Starmer has resigned as UK prime minister amid criticism and unpopularity, with concerns raised about his integrity and handling of the economy and migration"
@@ -1073,14 +1074,13 @@
     {
       "date": "2026-08-05T07:37:00.626931Z",
       "text": "Keir Starmer's resignation as Prime Minister follows a series of controversies and contradictions, including broken promises and policy U-turns"
+    },
+    {
+      "date": "2026-08-06T07:37:48.721206Z",
+      "text": "Keir Starmer's claims of positive change in 2026 contradict economic reality, and his leadership is under speculation."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-17T09:28:33.161562Z",
-      "notes": "inconsistencies in statements and lack of evidence for positive change",
-      "new_items": true
-    },
     {
       "date": "2026-06-18T09:12:05.474408Z",
       "notes": "Multiple sources indicate inconsistencies in Keir Starmer's policy statements and actions, with potential implications for his integrity score.",
@@ -1325,17 +1325,14 @@
       "date": "2026-08-05T07:37:00.626931Z",
       "notes": "Resignation and economic contradictions are significant updates",
       "new_items": true
+    },
+    {
+      "date": "2026-08-06T07:37:48.721206Z",
+      "notes": "Reviewed BBC and The Guardian articles for Keir Starmer's statements and events in 2026.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-09T08:34:01.875150Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-10T08:19:44.868329Z",
       "sources": [
@@ -1472,7 +1469,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-06T07:37:48.721358Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-05T07:37:00.627132Z"
+  "last_updated": "2026-08-06T07:37:48.721378Z"
 }

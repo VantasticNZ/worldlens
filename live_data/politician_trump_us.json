@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 87,
+  "lie_count": 88,
   "lies": [
     {
       "date": "January 2026",
@@ -872,6 +872,16 @@
       "platform": "speech",
       "_id": "9cded948",
       "_crawled": "2026-08-05T07:36:12.784801Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "There was vandalism at the Reflecting Pool",
+      "reality": "No vandalism occurred",
+      "source": "PolitiFact, August 4, 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "65cbc16d",
+      "_crawled": "2026-08-06T07:37:06.568733Z"
     }
   ],
   "social_posts": [
@@ -986,6 +996,20 @@
       },
       "_id": "edb10c06",
       "_crawled": "2026-07-25T07:12:09.452728Z"
+    },
+    {
+      "platform": "press",
+      "date": "August 2026",
+      "text": "I Shouldnt Be at 42 % Approval : Trump Claims US Has Greatest Economy in World History",
+      "verified_by": "jp.ibtimes.com, August 6, 2026",
+      "discrepancy": {
+        "type": "misleading_stat",
+        "detail": "The claim is misleading as it does not provide context for the economy's performance",
+        "source": "jp.ibtimes.com, August 6, 2026",
+        "severity": "med"
+      },
+      "_id": "fd6fc726",
+      "_crawled": "2026-08-06T07:37:06.568733Z"
     }
   ],
   "votes": [
@@ -1592,13 +1616,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Additional lies and controversial events have been discovered"
+    },
+    "2026-08-06T07:37:06.568733Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "The new lies and discrepancies found in Trump's statements and actions have decreased his integrity score and increased his corruption risk score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-24T07:27:35.208827Z",
-      "text": "Trump's recent statements on nuclear deals with Saudis and Israel recognition have raised concerns"
-    },
     {
       "date": "2026-07-25T07:12:09.452728Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and relationship with the press"
@@ -1634,14 +1659,13 @@
     {
       "date": "2026-08-05T07:36:12.784801Z",
       "text": "Donald Trump has been found to have made additional false claims and has been involved in further controversial events"
+    },
+    {
+      "date": "2026-08-06T07:37:06.568733Z",
+      "text": "New lies and discrepancies have been found in Trump's statements and actions, decreasing his integrity score and increasing his corruption risk score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-17T09:27:52.763371Z",
-      "notes": "Multiple sources confirm Trump's lies and exaggerations, with a focus on his recent statements about gasoline prices, consumer confidence, and the Lincoln Memorial Reflecting Pool",
-      "new_items": true
-    },
     {
       "date": "2026-06-18T09:11:34.206029Z",
       "notes": "Trump's US-Iran agreement and Israel's strikes on Lebanon are notable events, but do not directly impact his integrity score",
@@ -1886,17 +1910,14 @@
       "date": "2026-08-05T07:36:12.784801Z",
       "notes": "New lies and events discovered, score adjustments made accordingly",
       "new_items": true
+    },
+    {
+      "date": "2026-08-06T07:37:06.568733Z",
+      "notes": "New lies and events have been added, and score adjustments have been made accordingly",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-17T07:14:31.879832Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-18T06:56:38.868987Z",
       "sources": [
@@ -2034,7 +2055,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-06T07:37:06.569032Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-05T07:36:12.785103Z"
+  "last_updated": "2026-08-06T07:37:06.569051Z"
 }
