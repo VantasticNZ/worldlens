@@ -1544,11 +1544,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-18T09:08:51.399563Z",
-      "notes": "Luxon's statements and actions continue to be scrutinized, with a focus on his integrity and the coalition's stability",
-      "new_items": true
-    },
-    {
       "date": "2026-06-19T09:24:24.673072Z",
       "notes": "The Spinoff articles provided new information on Luxon's statements and events",
       "new_items": true
@@ -1792,16 +1787,14 @@
       "date": "2026-08-06T07:33:25.259158Z",
       "notes": "Multiple sources report on Luxon's MMP referendum promise, with some criticizing it as a 'power grab'.",
       "new_items": true
+    },
+    {
+      "date": "2026-08-07T06:04:47.706438Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-17T07:10:58.836433Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-18T06:53:27.949308Z",
       "sources": [
@@ -1938,7 +1931,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-07T06:04:47.706455Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-06T07:33:25.259277Z"
+  "last_updated": "2026-08-07T06:04:47.706480Z"
 }

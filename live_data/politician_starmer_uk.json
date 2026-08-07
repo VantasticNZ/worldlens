@@ -1036,13 +1036,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "claims of positive change contradict economic reality"
+    },
+    "2026-08-07T06:09:20.851451Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Starmer's claims of positive change and defeating decline and division are contradicted by reality, indicating a potential integrity issue"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-18T06:57:22.941656Z",
-      "text": "Keir Starmer has resigned as UK prime minister amid criticism and unpopularity, with concerns raised about his integrity and handling of the economy and migration"
-    },
     {
       "date": "2026-07-19T07:26:57.130132Z",
       "text": "Keir Starmer's resignation as UK Prime Minister has raised questions about his leadership and integrity"
@@ -1078,14 +1079,13 @@
     {
       "date": "2026-08-06T07:37:48.721206Z",
       "text": "Keir Starmer's claims of positive change in 2026 contradict economic reality, and his leadership is under speculation."
+    },
+    {
+      "date": "2026-08-07T06:09:20.851451Z",
+      "text": "Keir Starmer's job is at risk due to voter dissatisfaction and he has since resigned as Prime Minister."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-18T09:12:05.474408Z",
-      "notes": "Multiple sources indicate inconsistencies in Keir Starmer's policy statements and actions, with potential implications for his integrity score.",
-      "new_items": true
-    },
     {
       "date": "2026-06-19T09:27:16.718012Z",
       "notes": "Multiple sources report on Keir Starmer's struggles with his leadership and policy decisions.",
@@ -1330,17 +1330,14 @@
       "date": "2026-08-06T07:37:48.721206Z",
       "notes": "Reviewed BBC and The Guardian articles for Keir Starmer's statements and events in 2026.",
       "new_items": true
+    },
+    {
+      "date": "2026-08-07T06:09:20.851451Z",
+      "notes": "Multiple sources indicate Starmer's unpopularity and potential job loss, with a recent resignation",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-10T08:19:44.868329Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-11T07:11:15.209596Z",
       "sources": [
@@ -1476,7 +1473,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-07T06:09:20.851632Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-06T07:37:48.721378Z"
+  "last_updated": "2026-08-07T06:09:20.851654Z"
 }

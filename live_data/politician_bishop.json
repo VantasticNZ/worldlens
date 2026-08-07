@@ -632,6 +632,20 @@
       },
       "_id": "8acb1490",
       "_crawled": "2026-08-06T07:35:52.693062Z"
+    },
+    {
+      "platform": "press",
+      "date": "2026",
+      "text": "Chris Bishop downplays scaling down of Auckland housing plans",
+      "verified_by": "RNZ",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "contradicts his previous statement that everything was 'on track'",
+        "source": "RNZ, 2026",
+        "severity": "med"
+      },
+      "_id": "ba5b660e",
+      "_crawled": "2026-08-07T06:07:09.481003Z"
     }
   ],
   "votes": [
@@ -1208,13 +1222,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Housing Minister Chris Bishop's claim that everything was 'on track' despite advice showing officials had been warning him since at least August that it wasn’t"
+    },
+    "2026-08-07T06:07:09.481003Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Chris Bishop's claim that everything was 'on track' despite advice showing officials had been warning him since at least August that it wasn’t, and his downplaying of the scaling down of Auckland housing plans"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-20T07:53:49.726321Z",
-      "text": "Minister Chris Bishop's social housing overhaul plans and involvement in the City Link bridge funding decision have raised concerns about his integrity and transparency"
-    },
     {
       "date": "2026-07-21T07:29:31.253896Z",
       "text": "Housing Minister Chris Bishop's overhaul of the social housing system and the Audit Office's inquiry into the City Link bridge have raised concerns about transparency and potential conflicts of interest."
@@ -1250,14 +1265,13 @@
     {
       "date": "2026-08-06T07:35:52.693062Z",
       "text": "Housing Minister Chris Bishop announced a further investment into the Flexible Fund to deliver additional social homes, but the effectiveness of this investment is uncertain"
+    },
+    {
+      "date": "2026-08-07T06:07:09.481003Z",
+      "text": "Chris Bishop's integrity score has been adjusted downward due to his misleading claims about the Auckland housing plans."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-18T09:10:27.197481Z",
-      "notes": "Reviewed RNZ News and Beehive.govt.nz articles",
-      "new_items": true
-    },
     {
       "date": "2026-06-19T09:25:47.997850Z",
       "notes": "Minister's statements and actions on social housing have been controversial",
@@ -1502,17 +1516,14 @@
       "date": "2026-08-06T07:35:52.693062Z",
       "notes": "Reviewed recent press releases and articles related to Chris Bishop and housing policy",
       "new_items": true
+    },
+    {
+      "date": "2026-08-07T06:07:09.481003Z",
+      "notes": "Reviewed RNZ and Labour Party releases for updates on Chris Bishop's statements and actions regarding Auckland housing plans.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-10T08:17:49.518520Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-11T07:09:16.531311Z",
       "sources": [
@@ -1649,7 +1660,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-07T06:07:09.481144Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-06T07:35:52.693224Z"
+  "last_updated": "2026-08-07T06:07:09.481166Z"
 }

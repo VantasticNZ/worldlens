@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 88,
+  "lie_count": 89,
   "lies": [
     {
       "date": "January 2026",
@@ -882,6 +882,16 @@
       "platform": "speech",
       "_id": "65cbc16d",
       "_crawled": "2026-08-06T07:37:06.568733Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "We had nobody coming through, zero, zero people, at the border in the last 14 months",
+      "reality": "There have been no releases at the border over the last 14 months, but people have still been caught crossing the border",
+      "source": "factcheck.org, July 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "78e71942",
+      "_crawled": "2026-08-07T06:08:34.901747Z"
     }
   ],
   "social_posts": [
@@ -1621,13 +1631,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "The new lies and discrepancies found in Trump's statements and actions have decreased his integrity score and increased his corruption risk score"
+    },
+    "2026-08-07T06:08:34.901747Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Repeated lies and misinformation about various topics, including the Reflecting Pool and border control"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-25T07:12:09.452728Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and relationship with the press"
-    },
     {
       "date": "2026-07-26T07:32:57.644052Z",
       "text": "Trump's recent actions and statements have raised concerns about his relationship with the media and his views on US history."
@@ -1663,14 +1674,13 @@
     {
       "date": "2026-08-06T07:37:06.568733Z",
       "text": "New lies and discrepancies have been found in Trump's statements and actions, decreasing his integrity score and increasing his corruption risk score"
+    },
+    {
+      "date": "2026-08-07T06:08:34.901747Z",
+      "text": "Donald Trump has continued to spread misinformation and introduce policies that have been met with criticism, further eroding his integrity score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-18T09:11:34.206029Z",
-      "notes": "Trump's US-Iran agreement and Israel's strikes on Lebanon are notable events, but do not directly impact his integrity score",
-      "new_items": true
-    },
     {
       "date": "2026-06-19T09:26:38.366781Z",
       "notes": "PolitiFact and FactCheck.org were used to verify the claims.",
@@ -1915,17 +1925,14 @@
       "date": "2026-08-06T07:37:06.568733Z",
       "notes": "New lies and events have been added, and score adjustments have been made accordingly",
       "new_items": true
+    },
+    {
+      "date": "2026-08-07T06:08:34.901747Z",
+      "notes": "Multiple sources confirm Trump's repeated lies and controversial policies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-18T06:56:38.868987Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-19T07:26:14.822691Z",
       "sources": [
@@ -2063,7 +2070,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-07T06:08:34.902125Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-06T07:37:06.569051Z"
+  "last_updated": "2026-08-07T06:08:34.902148Z"
 }

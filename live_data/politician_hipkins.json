@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 21,
+  "lie_count": 22,
   "lies": [
     {
       "date": "May 2026",
@@ -212,6 +212,16 @@
       "platform": "interview",
       "_id": "2f196d8c",
       "_crawled": "2026-08-04T07:33:06.500952Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "Labour won't advance the Government's changes to subsidies for social housing tenants if elected in November",
+      "reality": "Chris Hipkins previously refused to confirm this policy",
+      "source": "NZ Herald",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "426af011",
+      "_crawled": "2026-08-07T06:07:43.366727Z"
     }
   ],
   "social_posts": [
@@ -668,10 +678,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-20T07:54:15.780379Z",
-      "text": "Chris Hipkins admits to promising undeliverable policies, affecting his integrity score"
-    },
-    {
       "date": "2026-07-21T07:29:52.500051Z",
       "text": "Chris Hipkins admits to promising undeliverable policies, affecting his integrity score"
     },
@@ -706,14 +712,13 @@
     {
       "date": "2026-08-06T07:36:17.910292Z",
       "text": "Chris Hipkins' integrity score has been adjusted due to a contradiction in his statements about Labour's cost-of-living policy"
+    },
+    {
+      "date": "2026-08-07T06:07:43.366727Z",
+      "text": "Chris Hipkins calls for Labour to change to win the 2026 election and clarifies the party's state housing support policy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-18T09:10:46.079353Z",
-      "notes": "Sources include NZ Herald, RNZ News, and Labour.org.nz",
-      "new_items": true
-    },
     {
       "date": "2026-06-19T09:26:05.449805Z",
       "notes": "Reviewed sources from NZ Herald, RNZ News, and Labour Party website",
@@ -958,16 +963,14 @@
       "date": "2026-08-06T07:36:17.910292Z",
       "notes": "Contradiction found in Chris Hipkins' statements about Labour's cost-of-living policy",
       "new_items": true
+    },
+    {
+      "date": "2026-08-07T06:07:43.366727Z",
+      "notes": "New statements from Chris Hipkins on Labour's policies and election strategy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-10T08:18:15.817438Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-11T07:09:39.535937Z",
       "sources": [
@@ -1109,7 +1112,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-07T06:07:43.366852Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-06T07:36:17.910463Z"
+  "last_updated": "2026-08-07T06:07:43.366874Z"
 }
