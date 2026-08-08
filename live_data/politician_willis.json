@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 16,
+  "lie_count": 17,
   "lies": [
     {
       "date": "February 2026",
@@ -162,6 +162,16 @@
       "platform": "interview",
       "_id": "aafe457d",
       "_crawled": "2026-07-22T07:31:14.306553Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "social housing tenants are like Lotto winners",
+      "reality": "social housing tenants are not comparable to Lotto winners",
+      "source": "The Spinoff, 22 May 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "1db68ef3",
+      "_crawled": "2026-08-08T05:36:44.740973Z"
     }
   ],
   "social_posts": [
@@ -646,13 +656,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis walked back on a promise, which may indicate a lack of integrity"
+    },
+    "2026-08-08T05:36:44.740973Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Nicola Willis's comparison of social housing tenants to Lotto winners is a significant integrity concern"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-14T08:37:42.099667Z",
-      "text": "Nicola Willis delivered Budget 2026 and issued a statement expressing regret about a social housing comment."
-    },
     {
       "date": "2026-06-16T10:03:22.374452Z",
       "text": "Nicola Willis announced significant changes in the Budget 2026, including job cuts and government agency mergers."
@@ -688,14 +699,13 @@
     {
       "date": "2026-08-04T07:32:15.310787Z",
       "text": "Nicola Willis walked back on her promise to return the books to surplus by 2027, citing an underwhelming tax take."
+    },
+    {
+      "date": "2026-08-08T05:36:44.740973Z",
+      "text": "Nicola Willis's recent statements and actions have raised concerns about her integrity and commitment to public services"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-19T09:25:30.047967Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-06-20T08:18:22.207185Z",
       "notes": "No significant new findings",
@@ -940,16 +950,14 @@
       "date": "2026-08-07T06:06:41.240446Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-08-08T05:36:44.740973Z",
+      "notes": "Reviewed Tavily sources, found notable discrepancies and events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-12T07:25:51.679313Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-07-13T08:11:18.006798Z",
       "sources": [
@@ -1084,7 +1092,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-08T05:36:44.741175Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-07T06:06:41.240605Z"
+  "last_updated": "2026-08-08T05:36:44.741199Z"
 }

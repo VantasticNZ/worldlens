@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 89,
+  "lie_count": 90,
   "lies": [
     {
       "date": "January 2026",
@@ -892,6 +892,16 @@
       "platform": "speech",
       "_id": "78e71942",
       "_crawled": "2026-08-07T06:08:34.901747Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "En Venezuela, \"Estamos ganando cientos de miles de millones de dólares (en ingresos petroleros), y ellos también\"",
+      "reality": "False, no evidence to support claim",
+      "source": "PolitiFact, August 4, 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "9386f7a4",
+      "_crawled": "2026-08-08T05:38:17.718773Z"
     }
   ],
   "social_posts": [
@@ -1636,13 +1646,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Repeated lies and misinformation about various topics, including the Reflecting Pool and border control"
+    },
+    "2026-08-08T05:38:17.718773Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "Repeated lies and contradictory statements have decreased Trump's integrity score, while the payment to a German firm to halt US wind projects has increased his corruption risk score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-26T07:32:57.644052Z",
-      "text": "Trump's recent actions and statements have raised concerns about his relationship with the media and his views on US history."
-    },
     {
       "date": "2026-07-28T07:35:21.751668Z",
       "text": "New event related to Donald Trump: IRGC-linked media calls for harm to US first lady"
@@ -1678,14 +1689,13 @@
     {
       "date": "2026-08-07T06:08:34.901747Z",
       "text": "Donald Trump has continued to spread misinformation and introduce policies that have been met with criticism, further eroding his integrity score"
+    },
+    {
+      "date": "2026-08-08T05:38:17.718773Z",
+      "text": "Trump's repeated lies and contradictory statements have further eroded his integrity, while his administration's actions have raised concerns about corruption and cronyism"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-19T09:26:38.366781Z",
-      "notes": "PolitiFact and FactCheck.org were used to verify the claims.",
-      "new_items": true
-    },
     {
       "date": "2026-06-20T08:19:35.040687Z",
       "notes": "Multiple sources confirm Trump's false claims and contradictory statements, highlighting the need for continued monitoring of his actions and statements",
@@ -1930,17 +1940,14 @@
       "date": "2026-08-07T06:08:34.901747Z",
       "notes": "Multiple sources confirm Trump's repeated lies and controversial policies",
       "new_items": true
+    },
+    {
+      "date": "2026-08-08T05:38:17.718773Z",
+      "notes": "Multiple sources confirm Trump's lies and contradictory statements, while his administration's actions have significant implications for US policy and international relations",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-19T07:26:14.822691Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-20T07:55:01.184193Z",
       "sources": [
@@ -2078,7 +2085,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-08T05:38:17.719173Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-07T06:08:34.902148Z"
+  "last_updated": "2026-08-08T05:38:17.719192Z"
 }

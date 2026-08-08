@@ -972,6 +972,20 @@
       },
       "_id": "af3c28fe",
       "_crawled": "2026-08-05T07:32:49.484872Z"
+    },
+    {
+      "platform": "press",
+      "date": "August 2026",
+      "text": "Election 2026: National leader Christopher Luxon reveals party list, MPs reflect on new rankings",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Luxon's party list reveal contradicts his previous statements on party leadership",
+        "source": "NZ Herald, August 2026",
+        "severity": "med"
+      },
+      "_id": "f7633239",
+      "_crawled": "2026-08-08T05:35:03.018432Z"
     }
   ],
   "votes": [
@@ -1502,10 +1516,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-22T07:29:28.559263Z",
-      "text": "Christopher Luxon's coalition fractures on climate, and his claim about Winston Peters and the India FTA was contradicted by Peters' account"
-    },
-    {
       "date": "2026-07-23T07:26:44.921622Z",
       "text": "Luxon's leadership faces challenges as his coalition fractures on climate change policy and his economic plans are dimmed by economic battle"
     },
@@ -1540,14 +1550,13 @@
     {
       "date": "2026-08-06T07:33:25.259158Z",
       "text": "Christopher Luxon's promise to hold a referendum on MMP if re-elected has sparked controversy and debate."
+    },
+    {
+      "date": "2026-08-08T05:35:03.018432Z",
+      "text": "Luxon's leadership and policy statements continue to be scrutinized"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-19T09:24:24.673072Z",
-      "notes": "The Spinoff articles provided new information on Luxon's statements and events",
-      "new_items": true
-    },
     {
       "date": "2026-06-20T08:17:12.066228Z",
       "notes": "Reviewed articles from NZ Herald, The Spinoff, and Labour.org.nz",
@@ -1792,17 +1801,14 @@
       "date": "2026-08-07T06:04:47.706438Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-08-08T05:35:03.018432Z",
+      "notes": "Reviewed 8 sources, including NZ Herald, The Spinoff, and AP News",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-18T06:53:27.949308Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-19T07:22:45.361079Z",
       "sources": [
@@ -1939,7 +1945,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-08T05:35:03.018588Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-07T06:04:47.706480Z"
+  "last_updated": "2026-08-08T05:35:03.018610Z"
 }

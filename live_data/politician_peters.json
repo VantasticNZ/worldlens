@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 34,
+  "lie_count": 35,
   "lies": [
     {
       "date": "March 2026",
@@ -342,6 +342,16 @@
       "platform": "twitter",
       "_id": "52210ce7",
       "_crawled": "2026-07-22T07:29:49.410831Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "Pacific missed chance to issue statement after Chinese missile test",
+      "reality": "No evidence of Pacific countries being unable to issue a statement",
+      "source": "RNZ News",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "efa672ac",
+      "_crawled": "2026-08-08T05:35:30.398071Z"
     }
   ],
   "social_posts": [
@@ -1187,13 +1197,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The repeated use of misleading and inflammatory language has decreased Winston Peters' integrity score."
+    },
+    "2026-08-08T05:35:30.398071Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Repeated contradictory statements on working with Labour"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-27T08:22:01.951033Z",
-      "text": "Winston Peters is involved in a dispute over a document that allegedly proves discrimination against Indians, which Erica Stanford refuses to release"
-    },
     {
       "date": "2026-07-30T07:27:52.831517Z",
       "text": "Winston Peters has faced criticism for his recent comments, which have been labelled as 'inappropriate' and 'racist', sparking concerns from the Chinese Embassy and Asian community leaders."
@@ -1229,14 +1240,13 @@
     {
       "date": "2026-08-07T06:05:20.927835Z",
       "text": "Winston Peters' recent actions and statements have sparked controversy and criticism, particularly regarding his handling of the Chinese missile test issue."
+    },
+    {
+      "date": "2026-08-08T05:35:30.398071Z",
+      "text": "Winston Peters' contradictory statements on working with Labour continue, with a recent statement reiterating NZ First's refusal to work with the party."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-19T09:24:40.082427Z",
-      "notes": "Winston Peters' social media posts and public statements have been inconsistent and contradictory",
-      "new_items": true
-    },
     {
       "date": "2026-06-20T08:17:33.054463Z",
       "notes": "Reviewed RNZ News, The Spinoff, and RNZ NZ articles",
@@ -1481,16 +1491,14 @@
       "date": "2026-08-07T06:05:20.927835Z",
       "notes": "Reviewed 4 RSS articles and 6 Tavily articles, focusing on Winston Peters' recent activities and statements.",
       "new_items": true
+    },
+    {
+      "date": "2026-08-08T05:35:30.398071Z",
+      "notes": "Multiple sources indicate continued contradictory statements from Winston Peters",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-14T07:03:59.680593Z",
-      "sources": [
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-07-15T07:07:24.314572Z",
       "sources": [
@@ -1633,7 +1641,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-08T05:35:30.398264Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-07T06:05:20.927997Z"
+  "last_updated": "2026-08-08T05:35:30.398287Z"
 }

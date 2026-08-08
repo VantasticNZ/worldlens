@@ -854,13 +854,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' continued denial of the offensive nature of his 'kneepads' remark and blaming of media 'wokeism' suggests a lack of integrity"
+    },
+    "2026-08-08T05:36:20.543670Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' continued denial of the offensive nature of his 'kneepads' remark and his attempt to shift blame to the media"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-23T07:28:01.578291Z",
-      "text": "Shane Jones faces criticism for his derogatory words and lack of apology, leading to a decrease in integrity score"
-    },
     {
       "date": "2026-07-24T07:26:21.284466Z",
       "text": "Shane Jones' derogatory words have sparked controversy, with the Prime Minister stopping short of condemnation"
@@ -896,14 +897,13 @@
     {
       "date": "2026-08-07T06:06:13.580534Z",
       "text": "Shane Jones has continued to face backlash for his comments, including the 'kneepads' remark, and has denied any wrongdoing"
+    },
+    {
+      "date": "2026-08-08T05:36:20.543670Z",
+      "text": "Shane Jones continues to face backlash for his 'kneepads' remark and has attempted to shift blame to the media"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-19T09:25:13.263613Z",
-      "notes": "New events related to Shane Jones' travel bill and fisheries reform",
-      "new_items": true
-    },
     {
       "date": "2026-06-20T08:18:05.880583Z",
       "notes": "Several articles mention Shane Jones' controversies, but no new significant lies or social posts were found.",
@@ -1148,17 +1148,14 @@
       "date": "2026-08-07T06:06:13.580534Z",
       "notes": "Shane Jones' comments and behavior continue to be a source of controversy",
       "new_items": true
+    },
+    {
+      "date": "2026-08-08T05:36:20.543670Z",
+      "notes": "Shane Jones' comments on Stuart Nash resignation and his blame of media 'wokeism' for the backlash against his 'kneepads' remark",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-13T08:10:50.660031Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-14T07:04:54.043993Z",
       "sources": [
@@ -1295,7 +1292,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-08-08T05:36:20.543813Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-07T06:06:13.580697Z"
+  "last_updated": "2026-08-08T05:36:20.543833Z"
 }

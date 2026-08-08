@@ -506,6 +506,20 @@
       },
       "_id": "b34625fa",
       "_crawled": "2026-07-11T07:11:15.209479Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "leaving the United Kingdom in 'better shape than I found it'",
+      "verified_by": "AP News, July 2026",
+      "discrepancy": {
+        "type": "contradicts_reality",
+        "detail": "economy and division issues persist",
+        "source": "The Guardian, June 2026",
+        "severity": "high"
+      },
+      "_id": "54470536",
+      "_crawled": "2026-08-08T05:39:00.664076Z"
     }
   ],
   "votes": [],
@@ -1041,13 +1055,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Starmer's claims of positive change and defeating decline and division are contradicted by reality, indicating a potential integrity issue"
+    },
+    "2026-08-08T05:39:00.664076Z": {
+      "integrity_delta": -2,
+      "corruption_risk_delta": 1,
+      "reasoning": "broken promises and U-turns, along with potential misleading statements"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-19T07:26:57.130132Z",
-      "text": "Keir Starmer's resignation as UK Prime Minister has raised questions about his leadership and integrity"
-    },
     {
       "date": "2026-07-20T07:55:44.102097Z",
       "text": "Keir Starmer's resignation as UK Prime Minister marks a significant turning point in his leadership, with criticism of his policies and actions mounting."
@@ -1083,14 +1098,13 @@
     {
       "date": "2026-08-07T06:09:20.851451Z",
       "text": "Keir Starmer's job is at risk due to voter dissatisfaction and he has since resigned as Prime Minister."
+    },
+    {
+      "date": "2026-08-08T05:39:00.664076Z",
+      "text": "Keir Starmer's resignation and broken promises have raised concerns about his integrity and the state of the UK"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-19T09:27:16.718012Z",
-      "notes": "Multiple sources report on Keir Starmer's struggles with his leadership and policy decisions.",
-      "new_items": true
-    },
     {
       "date": "2026-06-20T08:20:03.764790Z",
       "notes": "Reviewed BBC and The Guardian articles for Keir Starmer's recent statements and events",
@@ -1335,16 +1349,14 @@
       "date": "2026-08-07T06:09:20.851451Z",
       "notes": "Multiple sources indicate Starmer's unpopularity and potential job loss, with a recent resignation",
       "new_items": true
+    },
+    {
+      "date": "2026-08-08T05:39:00.664076Z",
+      "notes": "review of recent news articles and statements from Keir Starmer",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-11T07:11:15.209596Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-12T07:29:06.786724Z",
       "sources": [
@@ -1480,7 +1492,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-08T05:39:00.664327Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-07T06:09:20.851654Z"
+  "last_updated": "2026-08-08T05:39:00.664350Z"
 }
