@@ -292,11 +292,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-20T08:19:48.595677Z",
-      "notes": "New events and meetings attended by Anthony Albanese",
-      "new_items": true
-    },
-    {
       "date": "2026-06-21T08:56:14.567486Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -540,16 +535,14 @@
       "date": "2026-08-08T05:38:39.234346Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-08-09T05:44:35.943667Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-11T07:10:53.438646Z",
-      "sources": [
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-07-12T07:28:46.337570Z",
       "sources": [
@@ -685,7 +678,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-09T05:44:35.943681Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-08T05:38:39.234372Z"
+  "last_updated": "2026-08-09T05:44:35.943700Z"
 }

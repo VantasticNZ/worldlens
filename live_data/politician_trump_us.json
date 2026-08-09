@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 90,
+  "lie_count": 91,
   "lies": [
     {
       "date": "January 2026",
@@ -902,6 +902,16 @@
       "platform": "interview",
       "_id": "9386f7a4",
       "_crawled": "2026-08-08T05:38:17.718773Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Damage to the Lincoln Memorial Reflecting Pool was the result of vandalism",
+      "reality": "False, according to a Department of Justice motion",
+      "source": "www.factcheck.org, August 3, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "d6ac724b",
+      "_crawled": "2026-08-09T05:44:16.211603Z"
     }
   ],
   "social_posts": [
@@ -1651,13 +1661,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "Repeated lies and contradictory statements have decreased Trump's integrity score, while the payment to a German firm to halt US wind projects has increased his corruption risk score"
+    },
+    "2026-08-09T05:44:16.211603Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Additional lies and controversial events"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-28T07:35:21.751668Z",
-      "text": "New event related to Donald Trump: IRGC-linked media calls for harm to US first lady"
-    },
     {
       "date": "2026-07-31T07:47:27.646134Z",
       "text": "Trump announces Board of Peace plan, leading to Hamas' agreement to disarm, and considers AI controls after OpenAI hacking incidents"
@@ -1693,14 +1704,13 @@
     {
       "date": "2026-08-08T05:38:17.718773Z",
       "text": "Trump's repeated lies and contradictory statements have further eroded his integrity, while his administration's actions have raised concerns about corruption and cronyism"
+    },
+    {
+      "date": "2026-08-09T05:44:16.211603Z",
+      "text": "Trump's recent lies and controversial events continue to raise concerns about his integrity"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-20T08:19:35.040687Z",
-      "notes": "Multiple sources confirm Trump's false claims and contradictory statements, highlighting the need for continued monitoring of his actions and statements",
-      "new_items": true
-    },
     {
       "date": "2026-06-21T08:56:01.541515Z",
       "notes": "Multiple new lies and events found, including a new agreement with Iran and a row with Meloni",
@@ -1945,17 +1955,14 @@
       "date": "2026-08-08T05:38:17.718773Z",
       "notes": "Multiple sources confirm Trump's lies and contradictory statements, while his administration's actions have significant implications for US policy and international relations",
       "new_items": true
+    },
+    {
+      "date": "2026-08-09T05:44:16.211603Z",
+      "notes": "Reviewed RSS and Tavily sources for new information on Donald Trump",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-20T07:55:01.184193Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-21T07:30:42.468407Z",
       "sources": [
@@ -2093,7 +2100,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-09T05:44:16.211892Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-08T05:38:17.719192Z"
+  "last_updated": "2026-08-09T05:44:16.211912Z"
 }

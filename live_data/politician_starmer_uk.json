@@ -1,7 +1,7 @@
 {
   "id": "starmer_uk",
   "type": "politician",
-  "lie_count": 32,
+  "lie_count": 33,
   "lies": [
     {
       "date": "2026",
@@ -322,6 +322,16 @@
       "platform": "speech",
       "_id": "52b8cd85",
       "_crawled": "2026-08-05T07:37:00.626931Z"
+    },
+    {
+      "date": "2026",
+      "claim": "leaving the United Kingdom in 'better shape than I found it'",
+      "reality": "no evidence of improvement",
+      "source": "AP News, 2026",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "54470536",
+      "_crawled": "2026-08-09T05:45:01.524286Z"
     }
   ],
   "social_posts": [
@@ -520,6 +530,20 @@
       },
       "_id": "54470536",
       "_crawled": "2026-08-08T05:39:00.664076Z"
+    },
+    {
+      "platform": "press",
+      "date": "2026",
+      "text": "Prime Minister Keir Starmer has promised to 'defeat the decline and division offered by others'",
+      "verified_by": "BBC",
+      "discrepancy": {
+        "type": "contradicts_reality",
+        "detail": "no evidence of decline and division being addressed",
+        "source": "BBC, 2026",
+        "severity": "high"
+      },
+      "_id": "c9a399f4",
+      "_crawled": "2026-08-09T05:45:01.524286Z"
     }
   ],
   "votes": [],
@@ -1060,13 +1084,14 @@
       "integrity_delta": -2,
       "corruption_risk_delta": 1,
       "reasoning": "broken promises and U-turns, along with potential misleading statements"
+    },
+    "2026-08-09T05:45:01.524286Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "repeated claims of positive change without evidence"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-20T07:55:44.102097Z",
-      "text": "Keir Starmer's resignation as UK Prime Minister marks a significant turning point in his leadership, with criticism of his policies and actions mounting."
-    },
     {
       "date": "2026-07-21T07:31:31.736961Z",
       "text": "Keir Starmer has resigned as Prime Minister and been replaced by Andy Burnham"
@@ -1102,14 +1127,13 @@
     {
       "date": "2026-08-08T05:39:00.664076Z",
       "text": "Keir Starmer's resignation and broken promises have raised concerns about his integrity and the state of the UK"
+    },
+    {
+      "date": "2026-08-09T05:45:01.524286Z",
+      "text": "Keir Starmer's integrity score has decreased due to repeated claims of positive change without evidence."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-20T08:20:03.764790Z",
-      "notes": "Reviewed BBC and The Guardian articles for Keir Starmer's recent statements and events",
-      "new_items": true
-    },
     {
       "date": "2026-06-21T08:56:28.433179Z",
       "notes": "Reviewed BBC and Guardian articles for updates on Keir Starmer's leadership",
@@ -1354,16 +1378,14 @@
       "date": "2026-08-08T05:39:00.664076Z",
       "notes": "review of recent news articles and statements from Keir Starmer",
       "new_items": true
+    },
+    {
+      "date": "2026-08-09T05:45:01.524286Z",
+      "notes": "Multiple sources indicate a pattern of dishonesty from Keir Starmer.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-12T07:29:06.786724Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-13T08:13:40.345844Z",
       "sources": [
@@ -1499,7 +1521,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-09T05:45:01.524491Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-08T05:39:00.664350Z"
+  "last_updated": "2026-08-09T05:45:01.524510Z"
 }

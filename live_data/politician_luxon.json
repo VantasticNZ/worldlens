@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 45,
+  "lie_count": 46,
   "lies": [
     {
       "date": "2026",
@@ -452,6 +452,16 @@
       "platform": "speech",
       "_id": "b1e938b7",
       "_crawled": "2026-08-03T08:20:31.426951Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Luxon wants a referendum on New Zealand’s electoral system, Mixed-Member Proportional, if re-elected",
+      "reality": "The National Party appears to be in disarray over this comment",
+      "source": "NZ Herald, April 2026",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "1d6397a0",
+      "_crawled": "2026-08-09T05:40:52.196361Z"
     }
   ],
   "social_posts": [
@@ -1516,10 +1526,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-07-23T07:26:44.921622Z",
-      "text": "Luxon's leadership faces challenges as his coalition fractures on climate change policy and his economic plans are dimmed by economic battle"
-    },
-    {
       "date": "2026-07-28T07:32:47.357655Z",
       "text": "Christopher Luxon has ruled out working with the Opportunity Party, and Labour has called for an explanation on New Zealand's vote on the UN human rights chief."
     },
@@ -1554,14 +1560,13 @@
     {
       "date": "2026-08-08T05:35:03.018432Z",
       "text": "Luxon's leadership and policy statements continue to be scrutinized"
+    },
+    {
+      "date": "2026-08-09T05:40:52.196361Z",
+      "text": "Christopher Luxon's leadership is under scrutiny due to recent comments and events"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-20T08:17:12.066228Z",
-      "notes": "Reviewed articles from NZ Herald, The Spinoff, and Labour.org.nz",
-      "new_items": true
-    },
     {
       "date": "2026-06-21T08:53:48.093197Z",
       "notes": "Multiple sources indicate Luxon's coalition is fracturing, and he is facing criticism for his handling of documents and social media policy",
@@ -1806,16 +1811,14 @@
       "date": "2026-08-08T05:35:03.018432Z",
       "notes": "Reviewed 8 sources, including NZ Herald, The Spinoff, and AP News",
       "new_items": true
+    },
+    {
+      "date": "2026-08-09T05:40:52.196361Z",
+      "notes": "Multiple sources indicate potential issues with Luxon's leadership and statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-19T07:22:45.361079Z",
-      "sources": [
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-20T07:51:45.679122Z",
       "sources": [
@@ -1953,7 +1956,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-09T05:40:52.196538Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-08T05:35:03.018610Z"
+  "last_updated": "2026-08-09T05:40:52.196562Z"
 }
