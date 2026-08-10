@@ -646,6 +646,20 @@
       },
       "_id": "ba5b660e",
       "_crawled": "2026-08-07T06:07:09.481003Z"
+    },
+    {
+      "platform": "press",
+      "date": "July 2026",
+      "text": "Better tools to fund and finance new infrastructure",
+      "verified_by": "National Party website",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Previous promises of increased public housing",
+        "source": "Labour Party release",
+        "severity": "med"
+      },
+      "_id": "03688729",
+      "_crawled": "2026-08-10T06:08:48.674716Z"
     }
   ],
   "votes": [
@@ -1237,13 +1251,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Broken election promise on Auckland housing"
+    },
+    "2026-08-10T06:08:48.674716Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Housing Minister's claim of 1000 additional public homes in Auckland each year contradicts reality"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-23T07:28:57.005893Z",
-      "text": "The government has announced an overhaul of the social housing system and reduced the Auckland housing plan, potentially indicating a lack of integrity in their approach to housing policy"
-    },
     {
       "date": "2026-08-01T07:25:38.808260Z",
       "text": "Housing Minister Chris Bishop breaks election promise to build 1000 additional public homes in Auckland each year"
@@ -1279,14 +1294,13 @@
     {
       "date": "2026-08-09T05:43:08.198898Z",
       "text": "Housing Minister Chris Bishop has broken National's election promise on Auckland housing, resulting in a net loss of homes"
+    },
+    {
+      "date": "2026-08-10T06:08:48.674716Z",
+      "text": "Housing Minister Chris Bishop's claim of 1000 additional public homes in Auckland each year found to be false, with Auckland expected to experience a net loss of 285 Kāinga Ora homes in 2026."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-21T08:55:10.283782Z",
-      "notes": "Further investigation into the government's social housing policies and their impact on vulnerable populations is recommended",
-      "new_items": true
-    },
     {
       "date": "2026-06-22T10:34:03.272146Z",
       "notes": "Contradictions between Chris Bishop and other National ministers on house prices and social housing policies",
@@ -1531,16 +1545,14 @@
       "date": "2026-08-09T05:43:08.198898Z",
       "notes": "Labour.org.nz and NZ Herald sources used",
       "new_items": true
+    },
+    {
+      "date": "2026-08-10T06:08:48.674716Z",
+      "notes": "Labour Party release and NZ Herald articles provided significant updates",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-13T08:11:41.490618Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-14T07:05:42.154157Z",
       "sources": [
@@ -1675,7 +1687,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-10T06:08:48.674888Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-09T05:43:08.199086Z"
+  "last_updated": "2026-08-10T06:08:48.674909Z"
 }

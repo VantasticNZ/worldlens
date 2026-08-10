@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 46,
+  "lie_count": 47,
   "lies": [
     {
       "date": "2026",
@@ -462,6 +462,16 @@
       "platform": "press_release",
       "_id": "1d6397a0",
       "_crawled": "2026-08-09T05:40:52.196361Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "fuel excise tax rise and accommodation levy if National re-elected",
+      "reality": "no clear evidence of Luxon's actual intentions",
+      "source": "RNZ News",
+      "severity": "low",
+      "platform": "interview",
+      "_id": "8e940d33",
+      "_crawled": "2026-08-10T06:06:26.957497Z"
     }
   ],
   "social_posts": [
@@ -996,6 +1006,20 @@
       },
       "_id": "f7633239",
       "_crawled": "2026-08-08T05:35:03.018432Z"
+    },
+    {
+      "platform": "press",
+      "date": "August 2026",
+      "text": "Luxon suggests fuel excise tax rise, accommodation levy if National re-elected",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "previous statements on tax policy",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "8ac8722a",
+      "_crawled": "2026-08-10T06:06:26.957497Z"
     }
   ],
   "votes": [
@@ -1522,13 +1546,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's claim about supporting the Crusaders and his tweet about the trade deal being corrected by Winston Peters raise concerns about his integrity"
+    },
+    "2026-08-10T06:06:26.957497Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's inconsistent statements on tax policy and MMP system raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-28T07:32:47.357655Z",
-      "text": "Christopher Luxon has ruled out working with the Opportunity Party, and Labour has called for an explanation on New Zealand's vote on the UN human rights chief."
-    },
     {
       "date": "2026-07-31T07:45:06.138815Z",
       "text": "Christopher Luxon responded to Winston Peters' comments about immigrants and criticized him for racist comments about a Chinese-born MP."
@@ -1564,14 +1589,13 @@
     {
       "date": "2026-08-09T05:40:52.196361Z",
       "text": "Christopher Luxon's leadership is under scrutiny due to recent comments and events"
+    },
+    {
+      "date": "2026-08-10T06:06:26.957497Z",
+      "text": "Luxon's recent comments on fuel excise tax rise and accommodation levy spark controversy, while his party remains in disarray over MMP comments"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-21T08:53:48.093197Z",
-      "notes": "Multiple sources indicate Luxon's coalition is fracturing, and he is facing criticism for his handling of documents and social media policy",
-      "new_items": true
-    },
     {
       "date": "2026-06-22T10:32:24.552284Z",
       "notes": "The search results included several articles about Christopher Luxon's statements and actions, but only a few notable findings were extracted",
@@ -1816,17 +1840,14 @@
       "date": "2026-08-09T05:40:52.196361Z",
       "notes": "Multiple sources indicate potential issues with Luxon's leadership and statements",
       "new_items": true
+    },
+    {
+      "date": "2026-08-10T06:06:26.957497Z",
+      "notes": "Luxon's statements and actions continue to raise concerns about his integrity and policy consistency",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-20T07:51:45.679122Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-21T07:27:30.908169Z",
       "sources": [
@@ -1964,7 +1985,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-10T06:06:26.957688Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-09T05:40:52.196562Z"
+  "last_updated": "2026-08-10T06:06:26.957711Z"
 }

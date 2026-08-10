@@ -3,7 +3,22 @@
   "type": "politician",
   "lie_count": 0,
   "lies": [],
-  "social_posts": [],
+  "social_posts": [
+    {
+      "platform": "press",
+      "date": "August 2026",
+      "text": "ACT will reveal its fiscal plan before the election, showing a faster return to surplus without imposing new taxes.",
+      "verified_by": "ACT New Zealand",
+      "discrepancy": {
+        "type": "none",
+        "detail": "",
+        "source": "",
+        "severity": "low"
+      },
+      "_id": "d7674f46",
+      "_crawled": "2026-08-10T06:07:24.321359Z"
+    }
+  ],
   "votes": [],
   "recent_events": [
     {
@@ -248,11 +263,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-21T08:54:15.745611Z",
-      "notes": "David Seymour's recent statements and actions reviewed, one new event added.",
-      "new_items": true
-    },
-    {
       "date": "2026-06-22T10:33:04.904765Z",
       "notes": "No significant new findings",
       "new_items": false
@@ -496,17 +506,14 @@
       "date": "2026-08-09T05:41:49.758794Z",
       "notes": "New events and speeches from David Seymour, no significant lies or discrepancies found.",
       "new_items": true
+    },
+    {
+      "date": "2026-08-10T06:07:24.321359Z",
+      "notes": "New events and social posts added, no notable lies or score adjustments found",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-15T07:07:49.517701Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-07-16T07:16:26.559984Z",
       "sources": [
@@ -642,7 +649,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-10T06:07:24.321461Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-09T05:41:49.758925Z"
+  "last_updated": "2026-08-10T06:07:24.321485Z"
 }

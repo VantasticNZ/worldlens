@@ -1,7 +1,7 @@
 {
   "id": "peters",
   "type": "politician",
-  "lie_count": 35,
+  "lie_count": 36,
   "lies": [
     {
       "date": "March 2026",
@@ -352,6 +352,16 @@
       "platform": "interview",
       "_id": "efa672ac",
       "_crawled": "2026-08-08T05:35:30.398071Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "NZ First will campaign on common sense and against wokeism",
+      "reality": "Many of the remits suggested by his most loyal voter base are 'socialist' themselves",
+      "source": "newsroom.co.nz, September 2025",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "f5c85ba3",
+      "_crawled": "2026-08-10T06:07:01.729196Z"
     }
   ],
   "social_posts": [
@@ -1202,13 +1212,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Repeated contradictory statements on working with Labour"
+    },
+    "2026-08-10T06:07:01.729196Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Peters' contradictory statements and actions have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-31T07:45:24.034769Z",
-      "text": "Winston Peters' recent comments on a Chinese-born MP have sparked controversy and criticism, potentially impacting his integrity score."
-    },
     {
       "date": "2026-08-01T07:23:49.536923Z",
       "text": "Winston Peters' recent comments and actions have sparked controversy and raised questions about his integrity and policy consistency"
@@ -1244,14 +1255,13 @@
     {
       "date": "2026-08-09T05:41:20.243421Z",
       "text": "Winston Peters continues to make statements that contradict his previous actions and statements, including his claim that NZ First won't do a deal with Labour."
+    },
+    {
+      "date": "2026-08-10T06:07:01.729196Z",
+      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-21T08:54:02.770553Z",
-      "notes": "Peters' social media posts and public statements have been inconsistent, and his actions have been criticized by other parties",
-      "new_items": true
-    },
     {
       "date": "2026-06-22T10:32:46.335423Z",
       "notes": "Peters' energy sector proposal and Fieldays speech notable, but contradictory statements and actions raise red flags",
@@ -1496,18 +1506,14 @@
       "date": "2026-08-09T05:41:20.243421Z",
       "notes": "Reviewed RNZ, The Spinoff, and NZ Herald articles for updates on Winston Peters and NZ First",
       "new_items": true
+    },
+    {
+      "date": "2026-08-10T06:07:01.729196Z",
+      "notes": "Peters' campaign launch and comments to Lawrence Xu-Nan have garnered significant attention",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-16T07:15:57.963111Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-07-17T07:11:25.103797Z",
       "sources": [
@@ -1650,7 +1656,14 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-10T06:07:01.729356Z",
+      "sources": [
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-09T05:41:20.243578Z"
+  "last_updated": "2026-08-10T06:07:01.729378Z"
 }

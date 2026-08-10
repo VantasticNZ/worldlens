@@ -1666,13 +1666,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Additional lies and controversial events"
+    },
+    "2026-08-10T06:10:21.877103Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 1,
+      "reasoning": "The new lies and events suggest a continued pattern of dishonesty and controversy surrounding Trump"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-31T07:47:27.646134Z",
-      "text": "Trump announces Board of Peace plan, leading to Hamas' agreement to disarm, and considers AI controls after OpenAI hacking incidents"
-    },
     {
       "date": "2026-08-01T07:26:56.700799Z",
       "text": "New lies and events have been discovered, affecting Donald Trump's integrity score"
@@ -1708,14 +1709,13 @@
     {
       "date": "2026-08-09T05:44:16.211603Z",
       "text": "Trump's recent lies and controversial events continue to raise concerns about his integrity"
+    },
+    {
+      "date": "2026-08-10T06:10:21.877103Z",
+      "text": "Trump's 15-point plan for Gaza has been rejected by Israel, and he has been caught in another lie about Venezuela"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-21T08:56:01.541515Z",
-      "notes": "Multiple new lies and events found, including a new agreement with Iran and a row with Meloni",
-      "new_items": true
-    },
     {
       "date": "2026-06-22T10:34:56.514107Z",
       "notes": "Multiple sources confirm Trump's false claims and election win",
@@ -1960,17 +1960,14 @@
       "date": "2026-08-09T05:44:16.211603Z",
       "notes": "Reviewed RSS and Tavily sources for new information on Donald Trump",
       "new_items": true
+    },
+    {
+      "date": "2026-08-10T06:10:21.877103Z",
+      "notes": "Multiple sources confirm Trump's ongoing controversies and dishonesty",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-21T07:30:42.468407Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-22T07:33:14.849869Z",
       "sources": [
@@ -2108,7 +2105,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-10T06:10:21.877366Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-09T05:44:16.211912Z"
+  "last_updated": "2026-08-10T06:10:21.877385Z"
 }

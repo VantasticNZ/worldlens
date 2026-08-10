@@ -354,6 +354,20 @@
       },
       "_id": "7b1e57ca",
       "_crawled": "2026-07-18T06:54:36.858561Z"
+    },
+    {
+      "platform": "press",
+      "date": "August 2026",
+      "text": "Stuart Nash resignation 'sensible' amid controversial comments",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Jones previously defended Nash's comments",
+        "source": "NZ Herald, August 2026",
+        "severity": "med"
+      },
+      "_id": "783a8896",
+      "_crawled": "2026-08-10T06:07:53.898109Z"
     }
   ],
   "votes": [],
@@ -874,13 +888,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' repeated denials and attempts to shift blame for his offensive remarks have further eroded his integrity score"
+    },
+    "2026-08-10T06:07:53.898109Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Jones' repeated denials and downplaying of his 'kneepads' remark suggest a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-07-25T07:10:44.720271Z",
-      "text": "Shane Jones' derogatory words have sparked controversy, with the Prime Minister stopping short of condemnation"
-    },
     {
       "date": "2026-08-01T07:24:46.367200Z",
       "text": "Shane Jones faces ongoing criticism for his comments and actions, with some calling for an apology and others questioning his integrity"
@@ -916,14 +931,13 @@
     {
       "date": "2026-08-09T05:42:13.121764Z",
       "text": "Shane Jones continues to face backlash for his offensive remarks, and his attempts to shift blame have damaged his integrity score"
+    },
+    {
+      "date": "2026-08-10T06:07:53.898109Z",
+      "text": "Shane Jones faces criticism for his 'kneepads' remark and his response to the controversy"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-21T08:54:34.005041Z",
-      "notes": "Multiple sources report on Shane Jones' controversies, including delayed fisheries bill and apologies for comments",
-      "new_items": true
-    },
     {
       "date": "2026-06-22T10:33:24.477940Z",
       "notes": "Shane Jones' recent activities have been marked by controversy and criticism",
@@ -1168,16 +1182,14 @@
       "date": "2026-08-09T05:42:13.121764Z",
       "notes": "Shane Jones' comments on Stuart Nash resignation and media 'wokeism' have been added to the events and lies sections",
       "new_items": true
+    },
+    {
+      "date": "2026-08-10T06:07:53.898109Z",
+      "notes": "Multiple sources report on Jones' 'kneepads' remark and his subsequent comments on the matter",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-15T07:08:15.057915Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-16T07:16:53.231525Z",
       "sources": [
@@ -1314,7 +1326,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-08-10T06:07:53.898249Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-09T05:42:13.121946Z"
+  "last_updated": "2026-08-10T06:07:53.898268Z"
 }
