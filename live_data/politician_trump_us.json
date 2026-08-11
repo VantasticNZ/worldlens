@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 91,
+  "lie_count": 92,
   "lies": [
     {
       "date": "January 2026",
@@ -912,6 +912,16 @@
       "platform": "speech",
       "_id": "d6ac724b",
       "_crawled": "2026-08-09T05:44:16.211603Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "so-called Trump accounts, new federal investment and savings accounts for children, \"could grow to hundreds of thousands of dollars\" by the time children turn 18",
+      "reality": "This claim is only true if parents or other donors contribute thousands of dollars per year, per child, assuming that future returns are close to the historic stock market averages",
+      "source": "FactCheck.org, July 20, 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "f6ac0608",
+      "_crawled": "2026-08-11T05:51:21.686890Z"
     }
   ],
   "social_posts": [
@@ -1040,6 +1050,20 @@
       },
       "_id": "fd6fc726",
       "_crawled": "2026-08-06T07:37:06.568733Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "August 2026",
+      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "verified_by": "BBC News",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "This policy contradicts previous statements by Trump on vaccine safety",
+        "source": "BBC News",
+        "severity": "high"
+      },
+      "_id": "3e4418b6",
+      "_crawled": "2026-08-11T05:51:21.686890Z"
     }
   ],
   "votes": [
@@ -1671,13 +1695,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 1,
       "reasoning": "The new lies and events suggest a continued pattern of dishonesty and controversy surrounding Trump"
+    },
+    "2026-08-11T05:51:21.686890Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The new lies and discrepancies found in this crawl have negatively impacted Trump's integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-01T07:26:56.700799Z",
-      "text": "New lies and events have been discovered, affecting Donald Trump's integrity score"
-    },
     {
       "date": "2026-08-02T07:29:56.350383Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and policy consistency"
@@ -1713,14 +1738,13 @@
     {
       "date": "2026-08-10T06:10:21.877103Z",
       "text": "Trump's 15-point plan for Gaza has been rejected by Israel, and he has been caught in another lie about Venezuela"
+    },
+    {
+      "date": "2026-08-11T05:51:21.686890Z",
+      "text": "Trump's recent actions and statements have sparked controversy and debate, including his order to limit childhood vaccines and his 15-point Gaza plan"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-22T10:34:56.514107Z",
-      "notes": "Multiple sources confirm Trump's false claims and election win",
-      "new_items": true
-    },
     {
       "date": "2026-06-23T08:26:13.498731Z",
       "notes": "Two new events related to Trump's influence and actions",
@@ -1965,18 +1989,14 @@
       "date": "2026-08-10T06:10:21.877103Z",
       "notes": "Multiple sources confirm Trump's ongoing controversies and dishonesty",
       "new_items": true
+    },
+    {
+      "date": "2026-08-11T05:51:21.686890Z",
+      "notes": "Multiple sources confirm Trump's pattern of contradictory statements and policies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-22T07:33:14.849869Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Donald Trump lie fact check 2026",
-        "Tavily: Donald Trump policy contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-23T07:30:02.510942Z",
       "sources": [
@@ -2114,7 +2134,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-11T05:51:21.687225Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-10T06:10:21.877385Z"
+  "last_updated": "2026-08-11T05:51:21.687244Z"
 }

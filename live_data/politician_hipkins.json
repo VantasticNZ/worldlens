@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 23,
+  "lie_count": 24,
   "lies": [
     {
       "date": "May 2026",
@@ -232,6 +232,16 @@
       "platform": "interview",
       "_id": "2d74155c",
       "_crawled": "2026-08-09T05:43:34.470558Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "New cost-of-living policy will help everyone",
+      "reality": "Policy won't help farmers",
+      "source": "NZ Herald, August 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "5bc7a573",
+      "_crawled": "2026-08-11T05:50:29.192760Z"
     }
   ],
   "social_posts": [
@@ -388,6 +398,20 @@
       },
       "_id": "add9b535",
       "_crawled": "2026-08-10T06:09:28.814749Z"
+    },
+    {
+      "platform": "press",
+      "date": "August 2026",
+      "text": "Labour leader Chris Hipkins defends his performance after drop in recent poll",
+      "verified_by": "RNZ News",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Hipkins' previous statement that the new cost-of-living policy will help everyone contradicts his recent admission that it won't help farmers",
+        "source": "NZ Herald, August 2026",
+        "severity": "med"
+      },
+      "_id": "f3bb9d9e",
+      "_crawled": "2026-08-11T05:50:29.192760Z"
     }
   ],
   "votes": [],
@@ -713,13 +737,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Hipkins' claim that the cost-of-living policy will help everyone was contradicted by his later statement that it won't help farmers"
+    },
+    "2026-08-11T05:50:29.192760Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Hipkins' contradiction on the cost-of-living policy affects his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-01T07:26:04.495574Z",
-      "text": "Chris Hipkins delivered a speech at the Labour Party Congress, outlining the party's vision for New Zealand."
-    },
     {
       "date": "2026-08-02T07:29:11.537318Z",
       "text": "Chris Hipkins' integrity score has been adjusted due to a contradiction in his statements regarding the new cost-of-living policy."
@@ -755,14 +780,13 @@
     {
       "date": "2026-08-10T06:09:28.814749Z",
       "text": "Chris Hipkins' integrity score takes a hit due to contradictory statements on the cost-of-living policy"
+    },
+    {
+      "date": "2026-08-11T05:50:29.192760Z",
+      "text": "Chris Hipkins' recent statements and actions have raised concerns about his integrity and policy consistency"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-22T10:34:22.660133Z",
-      "notes": "No significant new findings related to lies, social posts, or votes, but new events related to the Labour Party and Chris Hipkins' statements",
-      "new_items": true
-    },
     {
       "date": "2026-06-23T08:25:41.517646Z",
       "notes": "Labour's cost-of-living policy and Chris Hipkins' comments on the rural vote were notable findings",
@@ -1007,17 +1031,14 @@
       "date": "2026-08-10T06:09:28.814749Z",
       "notes": "Reviewed RNZ News, NZ Herald, and Stuff articles from 2026",
       "new_items": true
+    },
+    {
+      "date": "2026-08-11T05:50:29.192760Z",
+      "notes": "Reviewed RNZ News, NZ Herald, and Tavily sources for updates on Chris Hipkins",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-14T07:06:19.511356Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-15T07:09:31.530763Z",
       "sources": [
@@ -1157,7 +1178,15 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-11T05:50:29.192943Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-10T06:09:28.814922Z"
+  "last_updated": "2026-08-11T05:50:29.192964Z"
 }

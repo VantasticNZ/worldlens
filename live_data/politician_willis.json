@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 17,
+  "lie_count": 18,
   "lies": [
     {
       "date": "February 2026",
@@ -172,6 +172,16 @@
       "platform": "speech",
       "_id": "1db68ef3",
       "_crawled": "2026-08-08T05:36:44.740973Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "return to surplus could be slowed",
+      "reality": "Treasury's long term fiscal forecasts show out-of-control deficits due to pensions and health-care spending from an ageing population",
+      "source": "RNZ",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "6ee20fa2",
+      "_crawled": "2026-08-11T05:49:30.415687Z"
     }
   ],
   "social_posts": [
@@ -356,6 +366,20 @@
       },
       "_id": "8126644c",
       "_crawled": "2026-05-24T07:46:55.479241Z"
+    },
+    {
+      "platform": "press",
+      "date": "August 2026",
+      "text": "Budget 2026 would demonstrate tight control of discretionary government spending while funding a limited number of priority commitments",
+      "verified_by": "RNZ",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "contradicts previous statement on return to surplus",
+        "source": "RNZ",
+        "severity": "med"
+      },
+      "_id": "89bb4cf3",
+      "_crawled": "2026-08-11T05:49:30.415687Z"
     }
   ],
   "votes": [],
@@ -661,13 +685,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis's comparison of social housing tenants to Lotto winners is a significant integrity concern"
+    },
+    "2026-08-11T05:49:30.415687Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Nicola Willis' claim on return to surplus contradicts Treasury's forecasts"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-16T10:03:22.374452Z",
-      "text": "Nicola Willis announced significant changes in the Budget 2026, including job cuts and government agency mergers."
-    },
     {
       "date": "2026-06-17T09:26:48.518060Z",
       "text": "Nicola Willis announces Budget 2026 and expresses regret over social housing comment."
@@ -703,14 +728,13 @@
     {
       "date": "2026-08-08T05:36:44.740973Z",
       "text": "Nicola Willis's recent statements and actions have raised concerns about her integrity and commitment to public services"
+    },
+    {
+      "date": "2026-08-11T05:49:30.415687Z",
+      "text": "Nicola Willis' handling of economy and return to surplus claim contradicted by Treasury's forecasts"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-22T10:33:41.692707Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-06-23T08:24:56.954339Z",
       "notes": "No significant new findings related to lies, social posts, or votes, but a notable event was found related to the Budget 2026 announcement.",
@@ -955,16 +979,14 @@
       "date": "2026-08-10T06:08:19.429590Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-08-11T05:49:30.415687Z",
+      "notes": "Reviewed RNZ and Newsroom articles for updates on Nicola Willis",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-15T07:08:39.043136Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-07-16T07:17:17.759130Z",
       "sources": [
@@ -1100,7 +1122,15 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-11T05:49:30.415819Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-10T06:08:19.429628Z"
+  "last_updated": "2026-08-11T05:49:30.415838Z"
 }

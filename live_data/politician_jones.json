@@ -1,7 +1,7 @@
 {
   "id": "jones",
   "type": "politician",
-  "lie_count": 28,
+  "lie_count": 29,
   "lies": [
     {
       "date": "March 2026",
@@ -282,6 +282,16 @@
       "platform": "interview",
       "_id": "48acbf3a",
       "_crawled": "2026-08-09T05:42:13.121764Z"
+    },
+    {
+      "date": "2026",
+      "claim": "kneepads remark was not an oral sex reference, could have been to do with gardening or volleyball",
+      "reality": "the remark was widely interpreted as an oral sex reference",
+      "source": "RNZ, NZ Herald",
+      "severity": "high",
+      "platform": "interview",
+      "_id": "913c47ce",
+      "_crawled": "2026-08-11T05:49:02.250112Z"
     }
   ],
   "social_posts": [
@@ -893,13 +903,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Jones' repeated denials and downplaying of his 'kneepads' remark suggest a lack of integrity"
+    },
+    "2026-08-11T05:49:02.250112Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' repeated denials and downplaying of his 'kneepads' remark suggest a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-01T07:24:46.367200Z",
-      "text": "Shane Jones faces ongoing criticism for his comments and actions, with some calling for an apology and others questioning his integrity"
-    },
     {
       "date": "2026-08-02T07:27:56.996342Z",
       "text": "Shane Jones faces ongoing backlash for his recent comments and lies, further decreasing his integrity score"
@@ -935,14 +946,13 @@
     {
       "date": "2026-08-10T06:07:53.898109Z",
       "text": "Shane Jones faces criticism for his 'kneepads' remark and his response to the controversy"
+    },
+    {
+      "date": "2026-08-11T05:49:02.250112Z",
+      "text": "Shane Jones continues to face controversy over his comments, including his 'kneepads' remark and his response to Stuart Nash's resignation"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-22T10:33:24.477940Z",
-      "notes": "Shane Jones' recent activities have been marked by controversy and criticism",
-      "new_items": true
-    },
     {
       "date": "2026-06-23T08:24:42.175079Z",
       "notes": "No significant new findings except for new events",
@@ -1187,16 +1197,14 @@
       "date": "2026-08-10T06:07:53.898109Z",
       "notes": "Multiple sources report on Jones' 'kneepads' remark and his subsequent comments on the matter",
       "new_items": true
+    },
+    {
+      "date": "2026-08-11T05:49:02.250112Z",
+      "notes": "Shane Jones' statements and actions continue to be scrutinized by the media and the public",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-16T07:16:53.231525Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-17T07:12:21.596173Z",
       "sources": [
@@ -1333,7 +1341,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-08-11T05:49:02.250261Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-10T06:07:53.898268Z"
+  "last_updated": "2026-08-11T05:49:02.250280Z"
 }
