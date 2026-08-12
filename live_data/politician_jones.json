@@ -908,13 +908,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' repeated denials and downplaying of his 'kneepads' remark suggest a lack of integrity"
+    },
+    "2026-08-12T06:09:29.787787Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' recent lies and discrepancies have negatively impacted his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-02T07:27:56.996342Z",
-      "text": "Shane Jones faces ongoing backlash for his recent comments and lies, further decreasing his integrity score"
-    },
     {
       "date": "2026-08-03T08:21:45.771301Z",
       "text": "Shane Jones faces criticism for his comments and denial of the 'knee pads' remark, and is demanded to apologize by Ngāti Ruanui"
@@ -950,14 +951,13 @@
     {
       "date": "2026-08-11T05:49:02.250112Z",
       "text": "Shane Jones continues to face controversy over his comments, including his 'kneepads' remark and his response to Stuart Nash's resignation"
+    },
+    {
+      "date": "2026-08-12T06:09:29.787787Z",
+      "text": "Shane Jones has been appointed as NZ First deputy leader, but has faced criticism for his recent comments and lies"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-23T08:24:42.175079Z",
-      "notes": "No significant new findings except for new events",
-      "new_items": true
-    },
     {
       "date": "2026-06-24T08:18:43.577945Z",
       "notes": "Shane Jones' statement on Kaitāia mill owners not seeking Government help",
@@ -1202,16 +1202,14 @@
       "date": "2026-08-11T05:49:02.250112Z",
       "notes": "Shane Jones' statements and actions continue to be scrutinized by the media and the public",
       "new_items": true
+    },
+    {
+      "date": "2026-08-12T06:09:29.787787Z",
+      "notes": "Shane Jones' recent activities have been marked by controversy and discrepancies",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-17T07:12:21.596173Z",
-      "sources": [
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-18T06:54:36.858702Z",
       "sources": [
@@ -1348,7 +1346,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-08-12T06:09:29.787926Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-11T05:49:02.250280Z"
+  "last_updated": "2026-08-12T06:09:29.787948Z"
 }

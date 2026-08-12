@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 92,
+  "lie_count": 94,
   "lies": [
     {
       "date": "January 2026",
@@ -922,6 +922,26 @@
       "platform": "speech",
       "_id": "f6ac0608",
       "_crawled": "2026-08-11T05:51:21.686890Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "Prices are \"all coming down now. The food, the groceries, it's all coming down.\"",
+      "reality": "Prices are not coming down",
+      "source": "PolitiFact, August 10, 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "24a35378",
+      "_crawled": "2026-08-12T06:11:55.727241Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "The MMR vaccine is unsafe and splitting up the combination shot would reduce the number of children with autism",
+      "reality": "There is no evidence to support this claim",
+      "source": "FactCheck.org, August 11, 2026",
+      "severity": "high",
+      "platform": "executive order",
+      "_id": "20c30f65",
+      "_crawled": "2026-08-12T06:11:55.727241Z"
     }
   ],
   "social_posts": [
@@ -1700,13 +1720,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "The new lies and discrepancies found in this crawl have negatively impacted Trump's integrity score"
+    },
+    "2026-08-12T06:11:55.727241Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Repeated false claims and contradictory statements"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-02T07:29:56.350383Z",
-      "text": "Trump's recent statements and actions have raised concerns about his integrity and policy consistency"
-    },
     {
       "date": "2026-08-03T08:23:48.825951Z",
       "text": "Donald Trump has made additional false or misleading claims, including statements about the AI industry and Trump accounts for children"
@@ -1742,14 +1763,13 @@
     {
       "date": "2026-08-11T05:51:21.686890Z",
       "text": "Trump's recent actions and statements have sparked controversy and debate, including his order to limit childhood vaccines and his 15-point Gaza plan"
+    },
+    {
+      "date": "2026-08-12T06:11:55.727241Z",
+      "text": "Donald Trump has made several false claims in recent weeks, including statements about prices, the MMR vaccine, and damage to the Lincoln Memorial Reflecting Pool."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-23T08:26:13.498731Z",
-      "notes": "Two new events related to Trump's influence and actions",
-      "new_items": true
-    },
     {
       "date": "2026-06-24T08:19:50.336764Z",
       "notes": "Congress breaks with Trump over Iran, Trump comments on Colombia",
@@ -1994,16 +2014,14 @@
       "date": "2026-08-11T05:51:21.686890Z",
       "notes": "Multiple sources confirm Trump's pattern of contradictory statements and policies",
       "new_items": true
+    },
+    {
+      "date": "2026-08-12T06:11:55.727241Z",
+      "notes": "Multiple sources confirm Trump's false claims and contradictory statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-23T07:30:02.510942Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-07-24T07:27:35.208900Z",
       "sources": [
@@ -2142,7 +2160,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-12T06:11:55.727613Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-11T05:51:21.687244Z"
+  "last_updated": "2026-08-12T06:11:55.727635Z"
 }

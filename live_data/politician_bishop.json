@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 39,
+  "lie_count": 40,
   "lies": [
     {
       "date": "April 2026",
@@ -392,6 +392,16 @@
       "platform": "press_release",
       "_id": "80f6eea1",
       "_crawled": "2026-08-04T07:32:41.084443Z"
+    },
+    {
+      "date": "February 2026",
+      "claim": "Auckland will have 1000 additional public homes each year",
+      "reality": "Auckland will have a net loss of 285 Kāinga Ora homes in 2026",
+      "source": "Labour.org.nz",
+      "severity": "high",
+      "platform": "press_release",
+      "_id": "672ba34b",
+      "_crawled": "2026-08-12T06:10:32.163809Z"
     }
   ],
   "social_posts": [
@@ -660,6 +670,20 @@
       },
       "_id": "03688729",
       "_crawled": "2026-08-10T06:08:48.674716Z"
+    },
+    {
+      "platform": "press",
+      "date": "May 2026",
+      "text": "Increase in accommodation supplement",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Increase in accommodation supplement is mostly paid for by hiking the minimum contribution social housing tenants have to make to their rent",
+        "source": "NZ Herald",
+        "severity": "med"
+      },
+      "_id": "5abfc473",
+      "_crawled": "2026-08-12T06:10:32.163809Z"
     }
   ],
   "votes": [
@@ -1261,13 +1285,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Housing Minister Chris Bishop's announcement of social housing overhaul and previous broken promise of 1000 additional public homes in Auckland each year"
+    },
+    "2026-08-12T06:10:32.163809Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Housing Minister Chris Bishop's claim about 1000 additional public homes in Auckland each year was found to be false"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-02T07:28:45.212787Z",
-      "text": "Housing Minister Chris Bishop has broken a promise on Auckland housing, resulting in a net loss of homes"
-    },
     {
       "date": "2026-08-03T08:22:36.206687Z",
       "text": "Chris Bishop's statements on social housing delivery have been found to contradict reality, further eroding trust in his integrity"
@@ -1303,14 +1328,13 @@
     {
       "date": "2026-08-11T05:49:59.367781Z",
       "text": "Housing Minister Chris Bishop announces social housing overhaul and breaks previous promise of 1000 additional public homes in Auckland each year"
+    },
+    {
+      "date": "2026-08-12T06:10:32.163809Z",
+      "text": "Housing Minister Chris Bishop's credibility has taken a hit due to his false claim about 1000 additional public homes in Auckland each year"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-23T08:25:15.894732Z",
-      "notes": "Inconsistencies in Minister Bishop's statements on social housing warrant further review",
-      "new_items": true
-    },
     {
       "date": "2026-06-24T08:19:12.855302Z",
       "notes": "No results",
@@ -1555,16 +1579,14 @@
       "date": "2026-08-11T05:49:59.367781Z",
       "notes": "Reviewed sources from nzherald.co.nz, beehive.govt.nz, and labour.org.nz",
       "new_items": true
+    },
+    {
+      "date": "2026-08-12T06:10:32.163809Z",
+      "notes": "Multiple sources confirm Chris Bishop's false claim about Auckland housing",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-15T07:09:03.005868Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-16T07:17:41.851816Z",
       "sources": [
@@ -1698,7 +1720,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-12T06:10:32.163963Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-11T05:49:59.367988Z"
+  "last_updated": "2026-08-12T06:10:32.163984Z"
 }

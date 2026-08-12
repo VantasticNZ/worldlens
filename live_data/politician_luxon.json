@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 47,
+  "lie_count": 48,
   "lies": [
     {
       "date": "2026",
@@ -472,6 +472,16 @@
       "platform": "interview",
       "_id": "8e940d33",
       "_crawled": "2026-08-10T06:06:26.957497Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "Luxon ruled out working with the Opportunity Party, saying he “wouldn’t want to be in business with people who want to increase taxes”",
+      "reality": "No evidence of Opportunity Party's tax plans provided",
+      "source": "NZ Herald",
+      "severity": "low",
+      "platform": "speech",
+      "_id": "1cc5d709",
+      "_crawled": "2026-08-12T06:07:38.053900Z"
     }
   ],
   "social_posts": [
@@ -1020,6 +1030,20 @@
       },
       "_id": "8ac8722a",
       "_crawled": "2026-08-10T06:06:26.957497Z"
+    },
+    {
+      "platform": "facebook",
+      "date": "July 2026",
+      "text": "National leader Christopher Luxon calls urgent caucus meeting amid ‘speculation about my leadership’",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "Luxon's leadership under pressure despite confidence vote win",
+        "source": "RNZ News",
+        "severity": "med"
+      },
+      "_id": "7e229c66",
+      "_crawled": "2026-08-12T06:07:38.053900Z"
     }
   ],
   "votes": [
@@ -1555,10 +1579,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-08-01T07:23:22.510547Z",
-      "text": "Luxon's leadership and policy positions continue to be scrutinized, with some discrepancies and contradictions noted."
-    },
-    {
       "date": "2026-08-02T07:26:54.938129Z",
       "text": "Prime Minister Christopher Luxon's leadership and policy stances have been under scrutiny"
     },
@@ -1593,14 +1613,13 @@
     {
       "date": "2026-08-11T05:47:40.737189Z",
       "text": "Christopher Luxon's leadership is under speculation, with an urgent caucus meeting called to resolve the issue"
+    },
+    {
+      "date": "2026-08-12T06:07:38.053900Z",
+      "text": "Luxon's leadership under pressure despite confidence vote win"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-23T08:23:52.899772Z",
-      "notes": "No significant new findings except for a neutral event",
-      "new_items": true
-    },
     {
       "date": "2026-06-24T08:17:53.661547Z",
       "notes": "Two new events related to Christopher Luxon's recent activities",
@@ -1845,17 +1864,14 @@
       "date": "2026-08-11T05:47:40.737189Z",
       "notes": "Multiple sources report on Luxon's leadership speculation, but no new lies or social posts found",
       "new_items": true
+    },
+    {
+      "date": "2026-08-12T06:07:38.053900Z",
+      "notes": "Multiple sources indicate Luxon's leadership is under pressure",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-22T07:29:28.559471Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-23T07:26:44.921749Z",
       "sources": [
@@ -1994,7 +2010,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-12T06:07:38.054111Z",
+      "sources": [
+        "RSS (10 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-11T05:47:40.737310Z"
+  "last_updated": "2026-08-12T06:07:38.054136Z"
 }

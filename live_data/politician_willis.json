@@ -1,7 +1,7 @@
 {
   "id": "willis",
   "type": "politician",
-  "lie_count": 18,
+  "lie_count": 19,
   "lies": [
     {
       "date": "February 2026",
@@ -182,6 +182,16 @@
       "platform": "interview",
       "_id": "6ee20fa2",
       "_crawled": "2026-08-11T05:49:30.415687Z"
+    },
+    {
+      "date": "May 2026",
+      "claim": "Budget 2026 would demonstrate tight control of discretionary government spending",
+      "reality": "The operating allowance has been trimmed, but the budget still allows for significant spending",
+      "source": "newsroom.co.nz, 19 May 2026",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "89bb4cf3",
+      "_crawled": "2026-08-12T06:09:59.280467Z"
     }
   ],
   "social_posts": [
@@ -690,13 +700,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Nicola Willis' claim on return to surplus contradicts Treasury's forecasts"
+    },
+    "2026-08-12T06:09:59.280467Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Nicola Willis's claims about the budget and the economy have been contradicted by Treasury's forecasts and former finance minister Sir Roger Douglas"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-06-17T09:26:48.518060Z",
-      "text": "Nicola Willis announces Budget 2026 and expresses regret over social housing comment."
-    },
     {
       "date": "2026-07-19T07:24:40.338685Z",
       "text": "Nicola Willis faced criticism for her handling of the budget and her claims about NZ's fiscal situation."
@@ -732,14 +743,13 @@
     {
       "date": "2026-08-11T05:49:30.415687Z",
       "text": "Nicola Willis' handling of economy and return to surplus claim contradicted by Treasury's forecasts"
+    },
+    {
+      "date": "2026-08-12T06:09:59.280467Z",
+      "text": "Nicola Willis's credibility has taken a hit due to contradictions and criticism from former finance minister Sir Roger Douglas"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-23T08:24:56.954339Z",
-      "notes": "No significant new findings related to lies, social posts, or votes, but a notable event was found related to the Budget 2026 announcement.",
-      "new_items": true
-    },
     {
       "date": "2026-06-24T08:18:59.192024Z",
       "notes": "No results",
@@ -984,16 +994,14 @@
       "date": "2026-08-11T05:49:30.415687Z",
       "notes": "Reviewed RNZ and Newsroom articles for updates on Nicola Willis",
       "new_items": true
+    },
+    {
+      "date": "2026-08-12T06:09:59.280467Z",
+      "notes": "Reviewed sources from rnz.co.nz, newsroom.co.nz, and beehive.govt.nz",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-16T07:17:17.759130Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-07-17T07:12:44.564100Z",
       "sources": [
@@ -1130,7 +1138,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-12T06:09:59.280588Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-11T05:49:30.415838Z"
+  "last_updated": "2026-08-12T06:09:59.280610Z"
 }

@@ -1226,10 +1226,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-08-02T07:27:14.487304Z",
-      "text": "Winston Peters' recent statements and actions have raised concerns about his integrity and consistency"
-    },
-    {
       "date": "2026-08-03T08:20:54.515714Z",
       "text": "Winston Peters' recent comments have sparked controversy and led to a re-evaluation of his integrity score"
     },
@@ -1264,14 +1260,13 @@
     {
       "date": "2026-08-11T05:48:06.571220Z",
       "text": "Winston Peters' recent comments and actions have sparked controversy and raised questions about his integrity"
+    },
+    {
+      "date": "2026-08-12T06:08:19.472961Z",
+      "text": "Winston Peters launches NZ First election campaign and Ron Mark returns to the party"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-23T08:24:10.013255Z",
-      "notes": "Peters' recent statements and events suggest a continued aggressive approach to National and potential contradictions in his statements",
-      "new_items": true
-    },
     {
       "date": "2026-06-24T08:18:06.593886Z",
       "notes": "RNZ News article found, but no significant new lies, social posts, or votes",
@@ -1516,17 +1511,14 @@
       "date": "2026-08-11T05:48:06.571220Z",
       "notes": "Peters' election campaign launch and comments to Lawrence Xu-Nan were notable events",
       "new_items": true
+    },
+    {
+      "date": "2026-08-12T06:08:19.472961Z",
+      "notes": "No significant new lies or contradictions found, but new events and social posts added",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-18T06:53:49.952323Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-07-19T07:23:15.086988Z",
       "sources": [
@@ -1667,7 +1659,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-12T06:08:19.473114Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-11T05:48:06.571404Z"
+  "last_updated": "2026-08-12T06:08:19.473146Z"
 }
