@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 24,
+  "lie_count": 25,
   "lies": [
     {
       "date": "May 2026",
@@ -242,6 +242,16 @@
       "platform": "interview",
       "_id": "5bc7a573",
       "_crawled": "2026-08-11T05:50:29.192760Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "Labour will deliver the Kiwi Dream for everyone",
+      "reality": "Previous statements and actions by Labour have not consistently supported this claim",
+      "source": "labour.org.nz",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "55b92a4b",
+      "_crawled": "2026-08-13T06:12:37.857166Z"
     }
   ],
   "social_posts": [
@@ -412,6 +422,20 @@
       },
       "_id": "f3bb9d9e",
       "_crawled": "2026-08-11T05:50:29.192760Z"
+    },
+    {
+      "platform": "press",
+      "date": "August 2026",
+      "text": "Chris Hipkins calls for Labour to change to win 2026 election",
+      "verified_by": "rnz.co.nz",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Previous statements emphasized stability and experience",
+        "source": "rnz.co.nz",
+        "severity": "med"
+      },
+      "_id": "59db0a83",
+      "_crawled": "2026-08-13T06:12:37.857166Z"
     }
   ],
   "votes": [],
@@ -747,13 +771,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Hipkins' recent statements and actions have raised concerns about his integrity, particularly regarding his claims about the NZ Future Fund policy and rental support"
+    },
+    "2026-08-13T06:12:37.857166Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Inconsistent statements and actions by Chris Hipkins and Labour"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-03T08:23:01.447217Z",
-      "text": "Chris Hipkins' recent statements and events have raised concerns about his integrity and policy consistency."
-    },
     {
       "date": "2026-08-04T07:33:06.500952Z",
       "text": "Chris Hipkins faces challenges with his cost-of-living policy and personal life"
@@ -789,14 +814,13 @@
     {
       "date": "2026-08-12T06:11:00.884042Z",
       "text": "Chris Hipkins' recent statements have raised concerns about his integrity, and he has officially ruled out working with New Zealand First"
+    },
+    {
+      "date": "2026-08-13T06:12:37.857166Z",
+      "text": "Chris Hipkins and Labour face challenges in regaining public trust and consistency in their messaging"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-24T08:19:24.918401Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-06-25T08:18:33.386182Z",
       "notes": "No results",
@@ -1041,16 +1065,14 @@
       "date": "2026-08-12T06:11:00.884042Z",
       "notes": "Reviewed recent articles and interviews with Chris Hipkins, found potential lies and inconsistencies in his statements",
       "new_items": true
+    },
+    {
+      "date": "2026-08-13T06:12:37.857166Z",
+      "notes": "Multiple sources indicate a shift in Labour's strategy and messaging, but consistency and integrity remain concerns",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-16T07:18:05.671546Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-17T07:13:43.912372Z",
       "sources": [
@@ -1190,7 +1212,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-13T06:12:37.857323Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-12T06:11:00.884204Z"
+  "last_updated": "2026-08-13T06:12:37.857346Z"
 }

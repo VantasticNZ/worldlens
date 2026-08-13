@@ -1170,11 +1170,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-24T08:20:17.209701Z",
-      "notes": "No results",
-      "new_items": false
-    },
-    {
       "date": "2026-06-25T08:19:27.819307Z",
       "notes": "No results",
       "new_items": false
@@ -1418,16 +1413,14 @@
       "date": "2026-08-12T06:12:43.120173Z",
       "notes": "Resignation and final speeches/articles reviewed for notable statements and events",
       "new_items": true
+    },
+    {
+      "date": "2026-08-13T06:14:20.899175Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-16T07:19:38.679129Z",
-      "sources": [
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-17T07:15:18.212280Z",
       "sources": [
@@ -1562,7 +1555,15 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-13T06:14:20.899191Z",
+      "sources": [
+        "GDELT global news database",
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-12T06:12:43.120331Z"
+  "last_updated": "2026-08-13T06:14:20.899212Z"
 }

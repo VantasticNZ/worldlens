@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 48,
+  "lie_count": 49,
   "lies": [
     {
       "date": "2026",
@@ -482,6 +482,16 @@
       "platform": "speech",
       "_id": "1cc5d709",
       "_crawled": "2026-08-12T06:07:38.053900Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "Christopher Luxon took 'decisive action' with Chris Penk's leadership challenge",
+      "reality": "Luxon's leadership was challenged, but the details of his response are unclear",
+      "source": "RNZ News, August 2026",
+      "severity": "med",
+      "platform": "interview",
+      "_id": "e5446c92",
+      "_crawled": "2026-08-13T06:09:27.680162Z"
     }
   ],
   "social_posts": [
@@ -1575,13 +1585,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's inconsistent statements on tax policy and MMP system raise concerns about his integrity"
+    },
+    "2026-08-13T06:09:27.680162Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's handling of the leadership challenge and his statements about having the 'full support of his caucus' raise concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-02T07:26:54.938129Z",
-      "text": "Prime Minister Christopher Luxon's leadership and policy stances have been under scrutiny"
-    },
     {
       "date": "2026-08-03T08:20:31.426951Z",
       "text": "Luxon's leadership and actions have been under scrutiny, with concerns about his integrity and transparency"
@@ -1617,14 +1628,13 @@
     {
       "date": "2026-08-12T06:07:38.053900Z",
       "text": "Luxon's leadership under pressure despite confidence vote win"
+    },
+    {
+      "date": "2026-08-13T06:09:27.680162Z",
+      "text": "Christopher Luxon survived a second confidence vote, but his leadership and integrity are under scrutiny"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-24T08:17:53.661547Z",
-      "notes": "Two new events related to Christopher Luxon's recent activities",
-      "new_items": true
-    },
     {
       "date": "2026-06-25T08:17:11.140922Z",
       "notes": "Two new events related to Christopher Luxon's statements on AI and trade with China",
@@ -1869,17 +1879,14 @@
       "date": "2026-08-12T06:07:38.053900Z",
       "notes": "Multiple sources indicate Luxon's leadership is under pressure",
       "new_items": true
+    },
+    {
+      "date": "2026-08-13T06:09:27.680162Z",
+      "notes": "Multiple sources report on Luxon's leadership challenge and his response to speculation about his leadership",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-23T07:26:44.921749Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)",
-        "Tavily: Christopher Luxon lie contradiction 2026",
-        "Tavily: Christopher Luxon statement tweet social"
-      ]
-    },
     {
       "date": "2026-07-24T07:25:26.684131Z",
       "sources": [
@@ -2018,7 +2025,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-13T06:09:27.680365Z",
+      "sources": [
+        "RSS (8 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-12T06:07:38.054136Z"
+  "last_updated": "2026-08-13T06:09:27.680388Z"
 }
