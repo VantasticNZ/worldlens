@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 49,
+  "lie_count": 50,
   "lies": [
     {
       "date": "2026",
@@ -492,6 +492,16 @@
       "platform": "interview",
       "_id": "e5446c92",
       "_crawled": "2026-08-13T06:09:27.680162Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "Luxon declared the matter of his leadership challenge closed and decried the speculation as a 'media soap opera'",
+      "reality": "The fundamental issues are still there, and Luxon's leadership is still under scrutiny",
+      "source": "RNZ News, August 2026",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "8d8a3428",
+      "_crawled": "2026-08-14T06:07:27.143147Z"
     }
   ],
   "social_posts": [
@@ -1054,6 +1064,20 @@
       },
       "_id": "7e229c66",
       "_crawled": "2026-08-12T06:07:38.053900Z"
+    },
+    {
+      "platform": "social media",
+      "date": "August 2026",
+      "text": "Luxon posted about increased speculation about his leadership and called for unity",
+      "verified_by": "NZ Herald, August 2026",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "Luxon's call for unity contradicts his history of divisive comments",
+        "source": "The Spinoff, August 2026",
+        "severity": "med"
+      },
+      "_id": "ccee3997",
+      "_crawled": "2026-08-14T06:07:27.143147Z"
     }
   ],
   "votes": [
@@ -1590,13 +1614,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's handling of the leadership challenge and his statements about having the 'full support of his caucus' raise concerns about his integrity"
+    },
+    "2026-08-14T06:07:27.143147Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's handling of the leadership challenge and his comments on business have raised concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-03T08:20:31.426951Z",
-      "text": "Luxon's leadership and actions have been under scrutiny, with concerns about his integrity and transparency"
-    },
     {
       "date": "2026-08-04T07:30:17.455795Z",
       "text": "Luxon survives leadership battle and declares new war on media, while agreeing on partnership with India"
@@ -1632,14 +1657,13 @@
     {
       "date": "2026-08-13T06:09:27.680162Z",
       "text": "Christopher Luxon survived a second confidence vote, but his leadership and integrity are under scrutiny"
+    },
+    {
+      "date": "2026-08-14T06:07:27.143147Z",
+      "text": "Luxon survives leadership challenge, but his integrity and leadership remain under scrutiny"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-25T08:17:11.140922Z",
-      "notes": "Two new events related to Christopher Luxon's statements on AI and trade with China",
-      "new_items": true
-    },
     {
       "date": "2026-06-26T08:25:36.784853Z",
       "notes": "Article from RNZ NZ regarding Luxon's comments on AI uptake",
@@ -1884,15 +1908,14 @@
       "date": "2026-08-13T06:09:27.680162Z",
       "notes": "Multiple sources report on Luxon's leadership challenge and his response to speculation about his leadership",
       "new_items": true
+    },
+    {
+      "date": "2026-08-14T06:07:27.143147Z",
+      "notes": "Multiple sources indicate ongoing issues with Luxon's leadership and integrity",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-24T07:25:26.684131Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-07-26T07:30:40.719336Z",
       "sources": [
@@ -2033,7 +2056,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-14T06:07:27.143348Z",
+      "sources": [
+        "RSS (8 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-13T06:09:27.680388Z"
+  "last_updated": "2026-08-14T06:07:27.143370Z"
 }

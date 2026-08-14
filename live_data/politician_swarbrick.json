@@ -507,11 +507,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-25T08:18:47.532265Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
-    {
       "date": "2026-06-26T08:27:30.860258Z",
       "notes": "No results",
       "new_items": false
@@ -755,16 +750,14 @@
       "date": "2026-08-13T06:13:07.096086Z",
       "notes": "No significant new findings on lies, social posts, or votes, but new events related to the Green Party's 2026 election campaign",
       "new_items": true
+    },
+    {
+      "date": "2026-08-14T06:10:54.574056Z",
+      "notes": "No significant new findings related to lies, social posts, or votes, but several new events related to Chlöe Swarbrick's activities and statements.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-17T07:14:08.394062Z",
-      "sources": [
-        "Tavily: Chloe Swarbrick Green Party statement 20",
-        "Tavily: Chloe Swarbrick social media 2026"
-      ]
-    },
     {
       "date": "2026-07-18T06:56:18.236953Z",
       "sources": [
@@ -899,7 +892,14 @@
         "Tavily: Chloe Swarbrick Green Party statement 20",
         "Tavily: Chloe Swarbrick social media 2026"
       ]
+    },
+    {
+      "date": "2026-08-14T06:10:54.574190Z",
+      "sources": [
+        "Tavily: Chloe Swarbrick Green Party statement 20",
+        "Tavily: Chloe Swarbrick social media 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-13T06:13:07.096204Z"
+  "last_updated": "2026-08-14T06:10:54.574210Z"
 }

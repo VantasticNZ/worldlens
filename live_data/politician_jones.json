@@ -952,13 +952,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' recent comments and actions have raised concerns about his integrity and judgment"
+    },
+    "2026-08-14T06:08:54.504399Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' denial of the oral sex reference and blame of media 'wokeism' suggests a lack of integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-04T07:31:46.006290Z",
-      "text": "Shane Jones continues to face backlash for his offensive remarks, and his attempts to shift blame have raised concerns about his integrity"
-    },
     {
       "date": "2026-08-05T07:34:05.593518Z",
       "text": "Shane Jones faced criticism for his 'knee pads' remark and defended his fisheries bill"
@@ -994,14 +995,13 @@
     {
       "date": "2026-08-13T06:10:58.839867Z",
       "text": "Shane Jones faces criticism for his recent comments and actions, including his 'kneepads' remark and 'butter chicken' comments"
+    },
+    {
+      "date": "2026-08-14T06:08:54.504399Z",
+      "text": "Shane Jones faced criticism for his 'kneepads' comment and blamed media 'wokeism' for the response"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-25T08:17:50.962178Z",
-      "notes": "New event found related to Shane Jones",
-      "new_items": true
-    },
     {
       "date": "2026-06-26T08:26:21.137453Z",
       "notes": "New event found related to Shane Jones",
@@ -1246,18 +1246,14 @@
       "date": "2026-08-13T06:10:58.839867Z",
       "notes": "Shane Jones' recent activities have generated significant controversy and criticism",
       "new_items": true
+    },
+    {
+      "date": "2026-08-14T06:08:54.504399Z",
+      "notes": "Shane Jones' comments and responses continue to attract controversy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-19T07:24:15.770660Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "GDELT global news database",
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-20T07:53:01.144454Z",
       "sources": [
@@ -1391,7 +1387,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-08-14T06:08:54.504536Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-13T06:10:58.840080Z"
+  "last_updated": "2026-08-14T06:08:54.504556Z"
 }

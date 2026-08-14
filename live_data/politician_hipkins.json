@@ -1,7 +1,7 @@
 {
   "id": "hipkins",
   "type": "politician",
-  "lie_count": 25,
+  "lie_count": 26,
   "lies": [
     {
       "date": "May 2026",
@@ -252,6 +252,16 @@
       "platform": "speech",
       "_id": "55b92a4b",
       "_crawled": "2026-08-13T06:12:37.857166Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "Under Labour, the Kiwi Dream won’t be reserved for a few, it will be delivered for everyone.",
+      "reality": "Previous statements and actions by Labour have not consistently supported this claim.",
+      "source": "Labour Party Congress 2026 speech",
+      "severity": "med",
+      "platform": "speech",
+      "_id": "526803fb",
+      "_crawled": "2026-08-14T06:10:17.505669Z"
     }
   ],
   "social_posts": [
@@ -780,10 +790,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-08-04T07:33:06.500952Z",
-      "text": "Chris Hipkins faces challenges with his cost-of-living policy and personal life"
-    },
-    {
       "date": "2026-08-05T07:35:27.672174Z",
       "text": "Chris Hipkins acknowledged that the new cost-of-living policy won't help farmers and denied that Labour is writing off the rural vote"
     },
@@ -818,14 +824,13 @@
     {
       "date": "2026-08-13T06:12:37.857166Z",
       "text": "Chris Hipkins and Labour face challenges in regaining public trust and consistency in their messaging"
+    },
+    {
+      "date": "2026-08-14T06:10:17.505669Z",
+      "text": "Chris Hipkins has made statements and taken actions that may impact his and Labour's credibility."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-25T08:18:33.386182Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-06-26T08:27:18.036591Z",
       "notes": "No results",
@@ -1070,16 +1075,14 @@
       "date": "2026-08-13T06:12:37.857166Z",
       "notes": "Multiple sources indicate a shift in Labour's strategy and messaging, but consistency and integrity remain concerns",
       "new_items": true
+    },
+    {
+      "date": "2026-08-14T06:10:17.505669Z",
+      "notes": "Reviewed Tavily sources for updates on Chris Hipkins and Labour Party.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-17T07:13:43.912372Z",
-      "sources": [
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-18T06:55:56.361341Z",
       "sources": [
@@ -1219,7 +1222,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-14T06:10:17.505815Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-13T06:12:37.857346Z"
+  "last_updated": "2026-08-14T06:10:17.505856Z"
 }

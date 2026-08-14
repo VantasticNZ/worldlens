@@ -1740,13 +1740,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Additional lies and controversial events have been discovered"
+    },
+    "2026-08-14T06:11:24.028032Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Additional lies and questionable actions have been discovered"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-04T07:33:54.326921Z",
-      "text": "New lies and events have been found, affecting Trump's integrity score"
-    },
     {
       "date": "2026-08-05T07:36:12.784801Z",
       "text": "Donald Trump has been found to have made additional false claims and has been involved in further controversial events"
@@ -1782,14 +1783,13 @@
     {
       "date": "2026-08-13T06:13:32.729213Z",
       "text": "New lies and events have been discovered, including false claims about prices and oil revenue in Venezuela"
+    },
+    {
+      "date": "2026-08-14T06:11:24.028032Z",
+      "text": "New lies and events have been discovered, further eroding Trump's integrity score"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-25T08:19:01.365976Z",
-      "notes": "New event found related to Trump's request for funding",
-      "new_items": true
-    },
     {
       "date": "2026-06-26T08:27:44.728921Z",
       "notes": "Two new events related to Trump's actions on immigrant status and request for war funding.",
@@ -2034,16 +2034,14 @@
       "date": "2026-08-13T06:13:32.729213Z",
       "notes": "PolitiFact and BBC World were the main sources for this update",
       "new_items": true
+    },
+    {
+      "date": "2026-08-14T06:11:24.028032Z",
+      "notes": "Multiple sources confirm new lies and events, score adjustments reflect this",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-25T07:12:09.452941Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)",
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-07-26T07:32:57.644153Z",
       "sources": [
@@ -2185,7 +2183,16 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-14T06:11:24.028309Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "GDELT global news database",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-13T06:13:32.729526Z"
+  "last_updated": "2026-08-14T06:11:24.028327Z"
 }

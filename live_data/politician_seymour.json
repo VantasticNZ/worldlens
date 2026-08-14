@@ -263,11 +263,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-25T08:17:38.901621Z",
-      "notes": "No results",
-      "new_items": false
-    },
-    {
       "date": "2026-06-26T08:26:05.827843Z",
       "notes": "New event added regarding Associate Health Minister David Seymour's proposal for Pharmac to use AI",
       "new_items": true
@@ -511,16 +506,14 @@
       "date": "2026-08-13T06:10:26.431759Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-08-14T06:08:26.817019Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-19T07:23:40.808195Z",
-      "sources": [
-        "Tavily: David Seymour ACT contradiction fact che",
-        "Tavily: David Seymour statement 2026"
-      ]
-    },
     {
       "date": "2026-07-20T07:52:34.749993Z",
       "sources": [
@@ -655,7 +648,14 @@
         "Tavily: David Seymour ACT contradiction fact che",
         "Tavily: David Seymour statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-14T06:08:26.817036Z",
+      "sources": [
+        "Tavily: David Seymour ACT contradiction fact che",
+        "Tavily: David Seymour statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-13T06:10:26.431804Z"
+  "last_updated": "2026-08-14T06:08:26.817060Z"
 }

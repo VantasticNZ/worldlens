@@ -1268,11 +1268,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-25T08:17:25.741217Z",
-      "notes": "RNZ News article reviewed, one new lie and one new event added",
-      "new_items": true
-    },
-    {
       "date": "2026-06-26T08:25:51.449974Z",
       "notes": "Reviewed RNZ News article from June 2026",
       "new_items": true
@@ -1516,17 +1511,14 @@
       "date": "2026-08-13T06:09:55.327945Z",
       "notes": "No significant new lies or votes found, but several new events and social posts",
       "new_items": true
+    },
+    {
+      "date": "2026-08-14T06:07:59.188803Z",
+      "notes": "No significant new lies or votes found, some new social posts and events",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-20T07:52:11.410510Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Winston Peters NZ First contradiction 20",
-        "Tavily: Winston Peters tweet statement 2026"
-      ]
-    },
     {
       "date": "2026-07-21T07:27:54.601119Z",
       "sources": [
@@ -1667,7 +1659,15 @@
         "Tavily: Winston Peters NZ First contradiction 20",
         "Tavily: Winston Peters tweet statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-14T06:07:59.188990Z",
+      "sources": [
+        "RSS (1 articles from NZ/intl media)",
+        "Tavily: Winston Peters NZ First contradiction 20",
+        "Tavily: Winston Peters tweet statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-13T06:09:55.328164Z"
+  "last_updated": "2026-08-14T06:07:59.189017Z"
 }

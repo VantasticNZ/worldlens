@@ -1124,13 +1124,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Keir Starmer's claim of leaving the UK in 'better shape' is contradicted by his controversial tenure and resignation"
+    },
+    "2026-08-14T06:12:15.781449Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Resignation amidst controversy and criticism of policy failures"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-03T08:24:31.248963Z",
-      "text": "Keir Starmer's tenure as Prime Minister marked by contradictions and controversy"
-    },
     {
       "date": "2026-08-04T07:34:44.196200Z",
       "text": "Keir Starmer resigns as Prime Minister amidst criticism and election losses, facing accusations of broken promises and indecisiveness."
@@ -1166,14 +1167,13 @@
     {
       "date": "2026-08-12T06:12:43.120173Z",
       "text": "Keir Starmer's resignation and controversial claims have raised concerns about his integrity"
+    },
+    {
+      "date": "2026-08-14T06:12:15.781449Z",
+      "text": "Keir Starmer resigned as Prime Minister amidst controversy and criticism of policy failures."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-25T08:19:27.819307Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-06-26T08:28:17.138199Z",
       "notes": "No significant new findings",
@@ -1418,17 +1418,14 @@
       "date": "2026-08-13T06:14:20.899175Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-08-14T06:12:15.781449Z",
+      "notes": "Resignation speech and surrounding events indicate a significant shift in the political landscape.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-17T07:15:18.212280Z",
-      "sources": [
-        "GDELT global news database",
-        "Tavily: Keir Starmer contradiction promise broke",
-        "Tavily: Keir Starmer statement 2026"
-      ]
-    },
     {
       "date": "2026-07-18T06:57:22.941789Z",
       "sources": [
@@ -1563,7 +1560,14 @@
         "Tavily: Keir Starmer contradiction promise broke",
         "Tavily: Keir Starmer statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-14T06:12:15.781557Z",
+      "sources": [
+        "Tavily: Keir Starmer contradiction promise broke",
+        "Tavily: Keir Starmer statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-13T06:14:20.899212Z"
+  "last_updated": "2026-08-14T06:12:15.781574Z"
 }

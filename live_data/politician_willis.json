@@ -756,11 +756,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-25T08:18:02.184423Z",
-      "notes": "No results",
-      "new_items": false
-    },
-    {
       "date": "2026-06-26T08:26:35.044818Z",
       "notes": "No results",
       "new_items": false
@@ -1004,16 +999,14 @@
       "date": "2026-08-13T06:11:38.703756Z",
       "notes": "Reviewed RNZ articles and found contradictions and criticisms of Nicola Willis's statements and actions",
       "new_items": true
+    },
+    {
+      "date": "2026-08-14T06:09:22.813267Z",
+      "notes": "No significant new findings",
+      "new_items": false
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-18T06:55:00.878497Z",
-      "sources": [
-        "Tavily: Nicola Willis finance minister contradic",
-        "Tavily: Nicola Willis statement 2026"
-      ]
-    },
     {
       "date": "2026-07-19T07:24:40.338781Z",
       "sources": [
@@ -1150,7 +1143,14 @@
         "Tavily: Nicola Willis finance minister contradic",
         "Tavily: Nicola Willis statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-14T06:09:22.813282Z",
+      "sources": [
+        "Tavily: Nicola Willis finance minister contradic",
+        "Tavily: Nicola Willis statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-13T06:11:38.703877Z"
+  "last_updated": "2026-08-14T06:09:22.813304Z"
 }
