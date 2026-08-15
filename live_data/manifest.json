@@ -1,49 +1,49 @@
 {
-  "generated": "2026-08-14T06:12:16.783457Z",
+  "generated": "2026-08-15T05:20:44.675162Z",
   "files": {
-    "politician_starmer_uk": {
-      "last_updated": "2026-08-14T06:12:15.781574Z",
-      "lie_count": 35,
+    "politician_hipkins": {
+      "last_updated": "2026-08-15T05:19:04.395524Z",
+      "lie_count": 26,
       "event_count": 20,
-      "post_count": 15,
+      "post_count": 13,
       "vote_count": 0,
       "sources": [
         [
-          "Tavily: Keir Starmer contradiction promise broke",
-          "Tavily: Keir Starmer statement 2026"
+          "GDELT global news database",
+          "Tavily: Chris Hipkins Labour statement 2026",
+          "Tavily: Chris Hipkins contradiction 2026"
+        ]
+      ]
+    },
+    "politician_bishop": {
+      "last_updated": "2026-08-15T05:18:35.795686Z",
+      "lie_count": 41,
+      "event_count": 20,
+      "post_count": 21,
+      "vote_count": 1,
+      "sources": [
+        [
+          "Tavily: Chris Bishop housing minister statement ",
+          "Tavily: Chris Bishop housing contradiction 2026"
         ]
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-08-14T06:11:24.028327Z",
-      "lie_count": 95,
+      "last_updated": "2026-08-15T05:19:55.852620Z",
+      "lie_count": 96,
       "event_count": 20,
       "post_count": 10,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (2 articles from NZ/intl media)",
-          "GDELT global news database",
+          "RSS (3 articles from NZ/intl media)",
           "Tavily: Donald Trump lie fact check 2026",
           "Tavily: Donald Trump policy contradiction 2026"
         ]
       ]
     },
-    "politician_jones": {
-      "last_updated": "2026-08-14T06:08:54.504556Z",
-      "lie_count": 31,
-      "event_count": 20,
-      "post_count": 7,
-      "vote_count": 0,
-      "sources": [
-        [
-          "Tavily: Shane Jones NZ First controversy 2026",
-          "Tavily: Shane Jones statement tweet 2026"
-        ]
-      ]
-    },
     "politician_willis": {
-      "last_updated": "2026-08-14T06:09:22.813304Z",
+      "last_updated": "2026-08-15T05:18:09.631167Z",
       "lie_count": 19,
       "event_count": 20,
       "post_count": 14,
@@ -55,8 +55,34 @@
         ]
       ]
     },
+    "politician_starmer_uk": {
+      "last_updated": "2026-08-15T05:20:43.673173Z",
+      "lie_count": 35,
+      "event_count": 20,
+      "post_count": 15,
+      "vote_count": 0,
+      "sources": [
+        [
+          "Tavily: Keir Starmer contradiction promise broke",
+          "Tavily: Keir Starmer statement 2026"
+        ]
+      ]
+    },
+    "politician_seymour": {
+      "last_updated": "2026-08-15T05:17:15.641778Z",
+      "lie_count": 0,
+      "event_count": 20,
+      "post_count": 1,
+      "vote_count": 0,
+      "sources": [
+        [
+          "Tavily: David Seymour ACT contradiction fact che",
+          "Tavily: David Seymour statement 2026"
+        ]
+      ]
+    },
     "politician_albanese_au": {
-      "last_updated": "2026-08-14T06:11:46.837365Z",
+      "last_updated": "2026-08-15T05:20:20.224816Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
@@ -68,8 +94,21 @@
         ]
       ]
     },
+    "politician_swarbrick": {
+      "last_updated": "2026-08-15T05:19:31.022585Z",
+      "lie_count": 3,
+      "event_count": 20,
+      "post_count": 18,
+      "vote_count": 0,
+      "sources": [
+        [
+          "Tavily: Chloe Swarbrick Green Party statement 20",
+          "Tavily: Chloe Swarbrick social media 2026"
+        ]
+      ]
+    },
     "politician_peters": {
-      "last_updated": "2026-08-14T06:07:59.189017Z",
+      "last_updated": "2026-08-15T05:16:49.049308Z",
       "lie_count": 36,
       "event_count": 20,
       "post_count": 22,
@@ -82,70 +121,30 @@
         ]
       ]
     },
-    "politician_swarbrick": {
-      "last_updated": "2026-08-14T06:10:54.574210Z",
-      "lie_count": 3,
-      "event_count": 20,
-      "post_count": 18,
-      "vote_count": 0,
-      "sources": [
-        [
-          "Tavily: Chloe Swarbrick Green Party statement 20",
-          "Tavily: Chloe Swarbrick social media 2026"
-        ]
-      ]
-    },
     "politician_luxon": {
-      "last_updated": "2026-08-14T06:07:27.143370Z",
+      "last_updated": "2026-08-15T05:16:18.407449Z",
       "lie_count": 50,
       "event_count": 20,
-      "post_count": 41,
+      "post_count": 42,
       "vote_count": 1,
       "sources": [
         [
-          "RSS (8 articles from NZ/intl media)",
+          "RSS (4 articles from NZ/intl media)",
           "Tavily: Christopher Luxon lie contradiction 2026",
           "Tavily: Christopher Luxon statement tweet social"
         ]
       ]
     },
-    "politician_hipkins": {
-      "last_updated": "2026-08-14T06:10:17.505856Z",
-      "lie_count": 26,
+    "politician_jones": {
+      "last_updated": "2026-08-15T05:17:42.077324Z",
+      "lie_count": 31,
       "event_count": 20,
-      "post_count": 13,
+      "post_count": 7,
       "vote_count": 0,
       "sources": [
         [
-          "Tavily: Chris Hipkins Labour statement 2026",
-          "Tavily: Chris Hipkins contradiction 2026"
-        ]
-      ]
-    },
-    "politician_bishop": {
-      "last_updated": "2026-08-14T06:09:53.836090Z",
-      "lie_count": 41,
-      "event_count": 20,
-      "post_count": 21,
-      "vote_count": 1,
-      "sources": [
-        [
-          "GDELT global news database",
-          "Tavily: Chris Bishop housing minister statement ",
-          "Tavily: Chris Bishop housing contradiction 2026"
-        ]
-      ]
-    },
-    "politician_seymour": {
-      "last_updated": "2026-08-14T06:08:26.817060Z",
-      "lie_count": 0,
-      "event_count": 20,
-      "post_count": 1,
-      "vote_count": 0,
-      "sources": [
-        [
-          "Tavily: David Seymour ACT contradiction fact che",
-          "Tavily: David Seymour statement 2026"
+          "Tavily: Shane Jones NZ First controversy 2026",
+          "Tavily: Shane Jones statement tweet 2026"
         ]
       ]
     }

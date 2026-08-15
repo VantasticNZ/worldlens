@@ -292,11 +292,6 @@
   ],
   "crawl_log": [
     {
-      "date": "2026-06-26T08:27:57.226414Z",
-      "notes": "No results",
-      "new_items": false
-    },
-    {
       "date": "2026-06-27T07:44:57.640931Z",
       "notes": "No results",
       "new_items": false
@@ -540,16 +535,14 @@
       "date": "2026-08-14T06:11:46.837333Z",
       "notes": "No significant new findings",
       "new_items": false
+    },
+    {
+      "date": "2026-08-15T05:20:20.224705Z",
+      "notes": "New trade pact and environmental initiative announced",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-17T07:14:53.182170Z",
-      "sources": [
-        "Tavily: Anthony Albanese contradiction fact chec",
-        "Tavily: Anthony Albanese statement 2026"
-      ]
-    },
     {
       "date": "2026-07-18T06:57:02.337957Z",
       "sources": [
@@ -683,7 +676,14 @@
         "Tavily: Anthony Albanese contradiction fact chec",
         "Tavily: Anthony Albanese statement 2026"
       ]
+    },
+    {
+      "date": "2026-08-15T05:20:20.224795Z",
+      "sources": [
+        "Tavily: Anthony Albanese contradiction fact chec",
+        "Tavily: Anthony Albanese statement 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-14T06:11:46.837365Z"
+  "last_updated": "2026-08-15T05:20:20.224816Z"
 }

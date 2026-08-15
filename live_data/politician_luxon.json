@@ -1078,6 +1078,20 @@
       },
       "_id": "ccee3997",
       "_crawled": "2026-08-14T06:07:27.143147Z"
+    },
+    {
+      "platform": "social media",
+      "date": "August 2026",
+      "text": "post about increased speculation about his leadership and calling for unity",
+      "verified_by": "www.nzherald.co.nz",
+      "discrepancy": {
+        "type": "contradicts_statement",
+        "detail": "Luxon previously declared the matter of his leadership challenge closed",
+        "source": "www.nzherald.co.nz",
+        "severity": "med"
+      },
+      "_id": "6cded869",
+      "_crawled": "2026-08-15T05:16:18.407281Z"
     }
   ],
   "votes": [
@@ -1623,10 +1637,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-08-04T07:30:17.455795Z",
-      "text": "Luxon survives leadership battle and declares new war on media, while agreeing on partnership with India"
-    },
-    {
       "date": "2026-08-05T07:32:49.484872Z",
       "text": "Luxon faces controversy over Defence Force flights and his statement about the trade deal is corrected by Winston Peters"
     },
@@ -1661,14 +1671,13 @@
     {
       "date": "2026-08-14T06:07:27.143147Z",
       "text": "Luxon survives leadership challenge, but his integrity and leadership remain under scrutiny"
+    },
+    {
+      "date": "2026-08-15T05:16:18.407281Z",
+      "text": "Christopher Luxon faces ongoing speculation about his leadership and has called for unity among his party."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-26T08:25:36.784853Z",
-      "notes": "Article from RNZ NZ regarding Luxon's comments on AI uptake",
-      "new_items": true
-    },
     {
       "date": "2026-06-27T07:43:34.843571Z",
       "notes": "No results",
@@ -1913,15 +1922,14 @@
       "date": "2026-08-14T06:07:27.143147Z",
       "notes": "Multiple sources indicate ongoing issues with Luxon's leadership and integrity",
       "new_items": true
+    },
+    {
+      "date": "2026-08-15T05:16:18.407281Z",
+      "notes": "Multiple sources report on Luxon's leadership challenges and his responses to speculation.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-26T07:30:40.719336Z",
-      "sources": [
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-07-27T08:21:44.671768Z",
       "sources": [
@@ -2064,7 +2072,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-15T05:16:18.407426Z",
+      "sources": [
+        "RSS (4 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-14T06:07:27.143370Z"
+  "last_updated": "2026-08-15T05:16:18.407449Z"
 }

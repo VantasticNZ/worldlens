@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 95,
+  "lie_count": 96,
   "lies": [
     {
       "date": "January 2026",
@@ -952,6 +952,16 @@
       "platform": "interview",
       "_id": "64a50924",
       "_crawled": "2026-08-13T06:13:32.729213Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "When the measles, mumps and rubella vaccines are given together in the combined MMR vaccine, \"there could be a possibility they're quite lethal.\"",
+      "reality": "There is no evidence to suggest the MMR vaccine is lethal",
+      "source": "PolitiFact, August 12, 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "3a8f5b96",
+      "_crawled": "2026-08-15T05:19:55.852113Z"
     }
   ],
   "social_posts": [
@@ -1745,13 +1755,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Additional lies and questionable actions have been discovered"
+    },
+    "2026-08-15T05:19:55.852113Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Trump's repeated false claims and contradictory statements have raised concerns about his integrity."
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-05T07:36:12.784801Z",
-      "text": "Donald Trump has been found to have made additional false claims and has been involved in further controversial events"
-    },
     {
       "date": "2026-08-06T07:37:06.568733Z",
       "text": "New lies and discrepancies have been found in Trump's statements and actions, decreasing his integrity score and increasing his corruption risk score"
@@ -1787,14 +1798,13 @@
     {
       "date": "2026-08-14T06:11:24.028032Z",
       "text": "New lies and events have been discovered, further eroding Trump's integrity score"
+    },
+    {
+      "date": "2026-08-15T05:19:55.852113Z",
+      "text": "Trump's recent statements and actions have raised concerns about his integrity and honesty."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-26T08:27:44.728921Z",
-      "notes": "Two new events related to Trump's actions on immigrant status and request for war funding.",
-      "new_items": true
-    },
     {
       "date": "2026-06-27T07:44:50.539938Z",
       "notes": "New events added related to Trump's request for war funding, Supreme Court ruling on immigrant protected status, and John Bolton's guilty plea.",
@@ -2039,15 +2049,14 @@
       "date": "2026-08-14T06:11:24.028032Z",
       "notes": "Multiple sources confirm new lies and events, score adjustments reflect this",
       "new_items": true
+    },
+    {
+      "date": "2026-08-15T05:19:55.852113Z",
+      "notes": "Multiple sources have reported on Trump's false claims and contradictory statements, highlighting a pattern of dishonesty.",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-26T07:32:57.644153Z",
-      "sources": [
-        "RSS (4 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-07-27T08:23:55.317645Z",
       "sources": [
@@ -2192,7 +2201,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-15T05:19:55.852598Z",
+      "sources": [
+        "RSS (3 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-14T06:11:24.028327Z"
+  "last_updated": "2026-08-15T05:19:55.852620Z"
 }
