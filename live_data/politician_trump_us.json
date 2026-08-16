@@ -1760,13 +1760,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Trump's repeated false claims and contradictory statements have raised concerns about his integrity."
+    },
+    "2026-08-16T05:22:42.160700Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "repeated false claims on vaccine safety"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-06T07:37:06.568733Z",
-      "text": "New lies and discrepancies have been found in Trump's statements and actions, decreasing his integrity score and increasing his corruption risk score"
-    },
     {
       "date": "2026-08-07T06:08:34.901747Z",
       "text": "Donald Trump has continued to spread misinformation and introduce policies that have been met with criticism, further eroding his integrity score"
@@ -1802,14 +1803,13 @@
     {
       "date": "2026-08-15T05:19:55.852113Z",
       "text": "Trump's recent statements and actions have raised concerns about his integrity and honesty."
+    },
+    {
+      "date": "2026-08-16T05:22:42.160700Z",
+      "text": "Trump made several false claims about vaccine safety, including the MMR vaccine, in recent weeks."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-27T07:44:50.539938Z",
-      "notes": "New events added related to Trump's request for war funding, Supreme Court ruling on immigrant protected status, and John Bolton's guilty plea.",
-      "new_items": true
-    },
     {
       "date": "2026-06-28T08:17:45.929099Z",
       "notes": "BBC World RSS articles reviewed, no new social posts or votes found.",
@@ -2054,15 +2054,14 @@
       "date": "2026-08-15T05:19:55.852113Z",
       "notes": "Multiple sources have reported on Trump's false claims and contradictory statements, highlighting a pattern of dishonesty.",
       "new_items": true
+    },
+    {
+      "date": "2026-08-16T05:22:42.160700Z",
+      "notes": "Multiple sources confirm Trump's false claims on vaccine safety",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-27T08:23:55.317645Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-07-28T07:35:21.751733Z",
       "sources": [
@@ -2209,7 +2208,14 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-16T05:22:42.161122Z",
+      "sources": [
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-15T05:19:55.852620Z"
+  "last_updated": "2026-08-16T05:22:42.161142Z"
 }

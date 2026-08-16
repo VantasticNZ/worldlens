@@ -962,13 +962,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Shane Jones' denial of the 'knee pads' remark being an oral sex reference and his defense of the 'butter chicken tsunami' comment have raised concerns about his integrity"
+    },
+    "2026-08-16T05:20:28.740911Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Shane Jones' denial of the intent behind his 'kneepads' remark and the demand for an apology from Ngāti Ruanui contribute to a decrease in his integrity score"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-06T07:34:43.192191Z",
-      "text": "Shane Jones has faced criticism for his 'kneepads' remark and has denied it was an oral sex reference, blaming media 'wokeism' for the backlash"
-    },
     {
       "date": "2026-08-07T06:06:13.580534Z",
       "text": "Shane Jones has continued to face backlash for his comments, including the 'kneepads' remark, and has denied any wrongdoing"
@@ -1004,14 +1005,13 @@
     {
       "date": "2026-08-15T05:17:42.077170Z",
       "text": "Shane Jones has faced criticism for his recent comments, including his denial of the 'knee pads' remark being an oral sex reference and his defense of the 'butter chicken tsunami' comment"
+    },
+    {
+      "date": "2026-08-16T05:20:28.740911Z",
+      "text": "Shane Jones faces criticism for his 'kneepads' remark and is demanded to apologize for his 'shameful' comments by Ngāti Ruanui"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-27T07:44:06.812576Z",
-      "notes": "New event found related to Shane Jones",
-      "new_items": true
-    },
     {
       "date": "2026-06-28T08:16:40.129414Z",
       "notes": "No results",
@@ -1256,17 +1256,14 @@
       "date": "2026-08-15T05:17:42.077170Z",
       "notes": "Shane Jones' recent comments have sparked controversy and raised concerns about his integrity",
       "new_items": true
+    },
+    {
+      "date": "2026-08-16T05:20:28.740911Z",
+      "notes": "Shane Jones' recent comments have sparked controversy and criticism",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-21T07:28:39.804403Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Shane Jones NZ First controversy 2026",
-        "Tavily: Shane Jones statement tweet 2026"
-      ]
-    },
     {
       "date": "2026-07-22T07:30:46.701992Z",
       "sources": [
@@ -1398,7 +1395,14 @@
         "Tavily: Shane Jones NZ First controversy 2026",
         "Tavily: Shane Jones statement tweet 2026"
       ]
+    },
+    {
+      "date": "2026-08-16T05:20:28.741051Z",
+      "sources": [
+        "Tavily: Shane Jones NZ First controversy 2026",
+        "Tavily: Shane Jones statement tweet 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-15T05:17:42.077324Z"
+  "last_updated": "2026-08-16T05:20:28.741108Z"
 }

@@ -1633,13 +1633,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Luxon's handling of the leadership challenge and his comments on business have raised concerns about his integrity"
+    },
+    "2026-08-16T05:18:52.196911Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "ongoing leadership speculation and internal party divisions raise concerns about Luxon's integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-05T07:32:49.484872Z",
-      "text": "Luxon faces controversy over Defence Force flights and his statement about the trade deal is corrected by Winston Peters"
-    },
     {
       "date": "2026-08-06T07:33:25.259158Z",
       "text": "Christopher Luxon's promise to hold a referendum on MMP if re-elected has sparked controversy and debate."
@@ -1675,14 +1676,13 @@
     {
       "date": "2026-08-15T05:16:18.407281Z",
       "text": "Christopher Luxon faces ongoing speculation about his leadership and has called for unity among his party."
+    },
+    {
+      "date": "2026-08-16T05:18:52.196911Z",
+      "text": "Christopher Luxon faces ongoing leadership speculation and internal party divisions ahead of the 2026 general election"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-27T07:43:34.843571Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-06-28T08:15:54.476295Z",
       "notes": "No significant new findings",
@@ -1927,15 +1927,14 @@
       "date": "2026-08-15T05:16:18.407281Z",
       "notes": "Multiple sources report on Luxon's leadership challenges and his responses to speculation.",
       "new_items": true
+    },
+    {
+      "date": "2026-08-16T05:18:52.196911Z",
+      "notes": "Multiple sources indicate ongoing speculation about Luxon's leadership, with some sources suggesting internal party divisions",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-27T08:21:44.671768Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-07-28T07:32:47.357749Z",
       "sources": [
@@ -2080,7 +2079,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-16T05:18:52.197126Z",
+      "sources": [
+        "RSS (5 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-15T05:16:18.407449Z"
+  "last_updated": "2026-08-16T05:18:52.197151Z"
 }

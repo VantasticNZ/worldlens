@@ -1,7 +1,7 @@
 {
   "id": "bishop",
   "type": "politician",
-  "lie_count": 41,
+  "lie_count": 42,
   "lies": [
     {
       "date": "April 2026",
@@ -412,6 +412,16 @@
       "platform": "press_release",
       "_id": "f9f85060",
       "_crawled": "2026-08-14T06:09:53.835901Z"
+    },
+    {
+      "date": "July 2026",
+      "claim": "The Infrastructure Funding and Financing Amendment Bill will give developers and councils more innovative tools to fund and finance the infrastructure New Zealand needs to grow",
+      "reality": "The bill's impact on infrastructure growth is uncertain and may not provide the expected innovative tools",
+      "source": "National Party, 28 July 2026",
+      "severity": "med",
+      "platform": "press_release",
+      "_id": "631a9a61",
+      "_crawled": "2026-08-16T05:21:20.317780Z"
     }
   ],
   "social_posts": [
@@ -1329,13 +1339,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "Chris Bishop's claim about Auckland having 1000 additional public homes each year was found to be false"
+    },
+    "2026-08-16T05:21:20.317780Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "The discrepancy in social housing policy and the uncertain impact of the Infrastructure Funding and Financing Amendment Bill contribute to the integrity delta"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-06T07:35:52.693062Z",
-      "text": "Housing Minister Chris Bishop announced a further investment into the Flexible Fund to deliver additional social homes, but the effectiveness of this investment is uncertain"
-    },
     {
       "date": "2026-08-07T06:07:09.481003Z",
       "text": "Chris Bishop's integrity score has been adjusted downward due to his misleading claims about the Auckland housing plans."
@@ -1371,14 +1382,13 @@
     {
       "date": "2026-08-15T05:18:35.795490Z",
       "text": "Housing Minister Chris Bishop's credibility has taken a hit due to his false claim about Auckland's public housing"
+    },
+    {
+      "date": "2026-08-16T05:21:20.317780Z",
+      "text": "Housing Minister Chris Bishop announces social housing overhaul and infrastructure funding changes, but discrepancies in policy and uncertain impacts raise concerns"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-27T07:44:23.693306Z",
-      "notes": "New event added regarding Chris Bishop's decision on truck weight restrictions",
-      "new_items": true
-    },
     {
       "date": "2026-06-28T08:17:07.787411Z",
       "notes": "New event added regarding Chris Bishop's decision on truck weight restrictions",
@@ -1623,16 +1633,14 @@
       "date": "2026-08-15T05:18:35.795490Z",
       "notes": "Multiple sources confirm Chris Bishop's contradictory statements on housing",
       "new_items": true
+    },
+    {
+      "date": "2026-08-16T05:21:20.317780Z",
+      "notes": "Reviewed National Party and NZ Herald sources for updates on Chris Bishop's activities and statements",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-19T07:25:01.114772Z",
-      "sources": [
-        "Tavily: Chris Bishop housing minister statement ",
-        "Tavily: Chris Bishop housing contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-20T07:53:49.726434Z",
       "sources": [
@@ -1767,7 +1775,14 @@
         "Tavily: Chris Bishop housing minister statement ",
         "Tavily: Chris Bishop housing contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-16T05:21:20.317921Z",
+      "sources": [
+        "Tavily: Chris Bishop housing minister statement ",
+        "Tavily: Chris Bishop housing contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-15T05:18:35.795686Z"
+  "last_updated": "2026-08-16T05:21:20.317941Z"
 }
