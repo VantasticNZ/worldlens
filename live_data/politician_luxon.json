@@ -1,7 +1,7 @@
 {
   "id": "luxon",
   "type": "politician",
-  "lie_count": 50,
+  "lie_count": 51,
   "lies": [
     {
       "date": "2026",
@@ -502,6 +502,16 @@
       "platform": "speech",
       "_id": "8d8a3428",
       "_crawled": "2026-08-14T06:07:27.143147Z"
+    },
+    {
+      "date": "April 2026",
+      "claim": "Christopher Luxon said he would no longer engage with the media on questions about his leadership",
+      "reality": "He continued to make public statements and engage with the media",
+      "source": "The Guardian, April 23, 2026",
+      "severity": "med",
+      "platform": "press",
+      "_id": "abf08df9",
+      "_crawled": "2026-08-17T05:26:34.303042Z"
     }
   ],
   "social_posts": [
@@ -1092,6 +1102,20 @@
       },
       "_id": "6cded869",
       "_crawled": "2026-08-15T05:16:18.407281Z"
+    },
+    {
+      "platform": "twitter",
+      "date": "August 2026",
+      "text": "Post about increased speculation about his leadership and calling for unity",
+      "verified_by": "NZ Herald",
+      "discrepancy": {
+        "type": "contradicts_action",
+        "detail": "Calling for unity while facing leadership challenges",
+        "source": "NZ Herald",
+        "severity": "low"
+      },
+      "_id": "f17dc9e2",
+      "_crawled": "2026-08-17T05:26:34.303042Z"
     }
   ],
   "votes": [
@@ -1638,13 +1662,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "ongoing leadership speculation and internal party divisions raise concerns about Luxon's integrity"
+    },
+    "2026-08-17T05:26:34.303042Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Luxon's handling of media questions and leadership challenges raises concerns about his integrity"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-06T07:33:25.259158Z",
-      "text": "Christopher Luxon's promise to hold a referendum on MMP if re-elected has sparked controversy and debate."
-    },
     {
       "date": "2026-08-08T05:35:03.018432Z",
       "text": "Luxon's leadership and policy statements continue to be scrutinized"
@@ -1680,14 +1705,13 @@
     {
       "date": "2026-08-16T05:18:52.196911Z",
       "text": "Christopher Luxon faces ongoing leadership speculation and internal party divisions ahead of the 2026 general election"
+    },
+    {
+      "date": "2026-08-17T05:26:34.303042Z",
+      "text": "Christopher Luxon faces ongoing leadership challenges and scrutiny over his media engagement"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-28T08:15:54.476295Z",
-      "notes": "No significant new findings",
-      "new_items": false
-    },
     {
       "date": "2026-06-29T09:21:52.787579Z",
       "notes": "Reviewed RNZ News and NZ Herald articles, found notable admission by Prime Minister Christopher Luxon on homelessness issue",
@@ -1932,15 +1956,14 @@
       "date": "2026-08-16T05:18:52.196911Z",
       "notes": "Multiple sources indicate ongoing speculation about Luxon's leadership, with some sources suggesting internal party divisions",
       "new_items": true
+    },
+    {
+      "date": "2026-08-17T05:26:34.303042Z",
+      "notes": "Multiple sources indicate Luxon's leadership is under pressure, with some criticizing his media strategy",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-28T07:32:47.357749Z",
-      "sources": [
-        "RSS (3 articles from NZ/intl media)"
-      ]
-    },
     {
       "date": "2026-07-29T07:37:19.338467Z",
       "sources": [
@@ -2087,7 +2110,15 @@
         "Tavily: Christopher Luxon lie contradiction 2026",
         "Tavily: Christopher Luxon statement tweet social"
       ]
+    },
+    {
+      "date": "2026-08-17T05:26:34.303283Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Christopher Luxon lie contradiction 2026",
+        "Tavily: Christopher Luxon statement tweet social"
+      ]
     }
   ],
-  "last_updated": "2026-08-16T05:18:52.197151Z"
+  "last_updated": "2026-08-17T05:26:34.303309Z"
 }

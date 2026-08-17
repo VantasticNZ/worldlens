@@ -1,7 +1,7 @@
 {
   "id": "trump_us",
   "type": "politician",
-  "lie_count": 96,
+  "lie_count": 97,
   "lies": [
     {
       "date": "January 2026",
@@ -962,6 +962,16 @@
       "platform": "speech",
       "_id": "3a8f5b96",
       "_crawled": "2026-08-15T05:19:55.852113Z"
+    },
+    {
+      "date": "August 2026",
+      "claim": "The MMR vaccine could be quite lethal when given together",
+      "reality": "There is no evidence to support this claim",
+      "source": "PolitiFact, August 11, 2026",
+      "severity": "high",
+      "platform": "speech",
+      "_id": "dd4f429e",
+      "_crawled": "2026-08-17T05:30:13.553210Z"
     }
   ],
   "social_posts": [
@@ -1765,13 +1775,14 @@
       "integrity_delta": -1,
       "corruption_risk_delta": 0,
       "reasoning": "repeated false claims on vaccine safety"
+    },
+    "2026-08-17T05:30:13.553210Z": {
+      "integrity_delta": -1,
+      "corruption_risk_delta": 0,
+      "reasoning": "Additional lies and misleading claims were found"
     }
   },
   "summary_updates": [
-    {
-      "date": "2026-08-07T06:08:34.901747Z",
-      "text": "Donald Trump has continued to spread misinformation and introduce policies that have been met with criticism, further eroding his integrity score"
-    },
     {
       "date": "2026-08-08T05:38:17.718773Z",
       "text": "Trump's repeated lies and contradictory statements have further eroded his integrity, while his administration's actions have raised concerns about corruption and cronyism"
@@ -1807,14 +1818,13 @@
     {
       "date": "2026-08-16T05:22:42.160700Z",
       "text": "Trump made several false claims about vaccine safety, including the MMR vaccine, in recent weeks."
+    },
+    {
+      "date": "2026-08-17T05:30:13.553210Z",
+      "text": "Donald Trump made additional false claims about the MMR vaccine and Venezuela, and his envoy arrived in Israel to discuss the Gaza peace plan."
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-28T08:17:45.929099Z",
-      "notes": "BBC World RSS articles reviewed, no new social posts or votes found.",
-      "new_items": true
-    },
     {
       "date": "2026-06-29T09:23:27.004870Z",
       "notes": "No direct quotes or claims from Donald Trump found in the provided sources",
@@ -2059,16 +2069,14 @@
       "date": "2026-08-16T05:22:42.160700Z",
       "notes": "Multiple sources confirm Trump's false claims on vaccine safety",
       "new_items": true
+    },
+    {
+      "date": "2026-08-17T05:30:13.553210Z",
+      "notes": "Reviewed RSS feeds and Tavily sources for new information on Donald Trump",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-28T07:35:21.751733Z",
-      "sources": [
-        "RSS (2 articles from NZ/intl media)",
-        "GDELT global news database"
-      ]
-    },
     {
       "date": "2026-07-29T07:39:41.285954Z",
       "sources": [
@@ -2215,7 +2223,15 @@
         "Tavily: Donald Trump lie fact check 2026",
         "Tavily: Donald Trump policy contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-17T05:30:13.553491Z",
+      "sources": [
+        "RSS (2 articles from NZ/intl media)",
+        "Tavily: Donald Trump lie fact check 2026",
+        "Tavily: Donald Trump policy contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-16T05:22:42.161142Z"
+  "last_updated": "2026-08-17T05:30:13.553509Z"
 }

@@ -446,6 +446,20 @@
       },
       "_id": "59db0a83",
       "_crawled": "2026-08-13T06:12:37.857166Z"
+    },
+    {
+      "platform": "press",
+      "date": "August 2026",
+      "text": "Labour to make power bills more affordable with SolarSaver",
+      "verified_by": "Labour Party website",
+      "discrepancy": {
+        "type": "contradicts_policy",
+        "detail": "Previous Labour policies have not prioritized affordable power bills",
+        "source": "Labour Party website",
+        "severity": "low"
+      },
+      "_id": "2ae33d6b",
+      "_crawled": "2026-08-17T05:29:24.304072Z"
     }
   ],
   "votes": [],
@@ -800,10 +814,6 @@
   },
   "summary_updates": [
     {
-      "date": "2026-08-07T06:07:43.366727Z",
-      "text": "Chris Hipkins calls for Labour to change to win the 2026 election and clarifies the party's state housing support policy"
-    },
-    {
       "date": "2026-08-08T05:37:33.574456Z",
       "text": "Chris Hipkins' cost-of-living policy announcement has sparked controversy, and his personal life has been subject to scrutiny"
     },
@@ -838,14 +848,13 @@
     {
       "date": "2026-08-16T05:21:48.005871Z",
       "text": "Chris Hipkins' integrity score has been adjusted due to a contradiction in his statements about the new cost-of-living policy"
+    },
+    {
+      "date": "2026-08-17T05:29:24.304072Z",
+      "text": "Chris Hipkins continues to promote Labour's vision for the future, but previous statements and actions raise questions about the party's ability to deliver"
     }
   ],
   "crawl_log": [
-    {
-      "date": "2026-06-28T08:17:21.166344Z",
-      "notes": "No results",
-      "new_items": false
-    },
     {
       "date": "2026-06-29T09:23:00.666334Z",
       "notes": "Article from Newsroom, June 29, 2026",
@@ -1090,17 +1099,14 @@
       "date": "2026-08-16T05:21:48.005871Z",
       "notes": "Reviewed Tavily sources for Chris Hipkins, found contradictions and new events",
       "new_items": true
+    },
+    {
+      "date": "2026-08-17T05:29:24.304072Z",
+      "notes": "Reviewed Labour Party website, NZ Herald, and The Spinoff for updates on Chris Hipkins and Labour Party activities",
+      "new_items": true
     }
   ],
   "sources_log": [
-    {
-      "date": "2026-07-20T07:54:15.780464Z",
-      "sources": [
-        "RSS (1 articles from NZ/intl media)",
-        "Tavily: Chris Hipkins Labour statement 2026",
-        "Tavily: Chris Hipkins contradiction 2026"
-      ]
-    },
     {
       "date": "2026-07-21T07:29:52.500150Z",
       "sources": [
@@ -1240,7 +1246,14 @@
         "Tavily: Chris Hipkins Labour statement 2026",
         "Tavily: Chris Hipkins contradiction 2026"
       ]
+    },
+    {
+      "date": "2026-08-17T05:29:24.304240Z",
+      "sources": [
+        "Tavily: Chris Hipkins Labour statement 2026",
+        "Tavily: Chris Hipkins contradiction 2026"
+      ]
     }
   ],
-  "last_updated": "2026-08-16T05:21:48.006031Z"
+  "last_updated": "2026-08-17T05:29:24.304260Z"
 }
