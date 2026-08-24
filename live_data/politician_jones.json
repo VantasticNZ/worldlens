@@ -1266,6 +1266,11 @@
       "date": "2026-08-17T05:28:06.916476Z",
       "notes": "Shane Jones' comments have sparked controversy and criticism",
       "new_items": true
+    },
+    {
+      "date": "2026-08-24T05:30:40.733241Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1409,5 +1414,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-23T05:22:06.344345Z"
+  "last_updated": "2026-08-24T05:30:40.733290Z"
 }

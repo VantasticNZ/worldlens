@@ -1653,6 +1653,11 @@
       "date": "2026-08-17T05:28:59.634363Z",
       "notes": "The government's housing policy and actions have been inconsistent, and its broken promises have raised concerns about its integrity",
       "new_items": true
+    },
+    {
+      "date": "2026-08-24T05:31:25.495495Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1800,5 +1805,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-23T05:22:52.719815Z"
+  "last_updated": "2026-08-24T05:31:25.495541Z"
 }

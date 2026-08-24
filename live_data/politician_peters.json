@@ -1516,6 +1516,11 @@
       "date": "2026-08-17T05:27:06.935401Z",
       "notes": "Reviewed 9 sources, including RNZ News and The Spinoff",
       "new_items": true
+    },
+    {
+      "date": "2026-08-24T05:29:57.037722Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1672,5 +1677,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-23T05:21:02.428027Z"
+  "last_updated": "2026-08-24T05:29:57.037769Z"
 }
