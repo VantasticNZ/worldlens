@@ -1104,6 +1104,11 @@
       "date": "2026-08-17T05:29:24.304072Z",
       "notes": "Reviewed Labour Party website, NZ Herald, and The Spinoff for updates on Chris Hipkins and Labour Party activities",
       "new_items": true
+    },
+    {
+      "date": "2026-08-27T16:03:13.891861Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1255,5 +1260,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-26T05:27:12.399865Z"
+  "last_updated": "2026-08-27T16:03:13.891904Z"
 }

@@ -2074,6 +2074,11 @@
       "date": "2026-08-17T05:30:13.553210Z",
       "notes": "Reviewed RSS feeds and Tavily sources for new information on Donald Trump",
       "new_items": true
+    },
+    {
+      "date": "2026-08-27T16:04:15.128746Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -2233,5 +2238,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-26T05:28:10.439551Z"
+  "last_updated": "2026-08-27T16:04:15.128790Z"
 }
