@@ -1033,6 +1033,11 @@
       "date": "2026-08-27T16:01:59.410835Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-08-28T17:02:14.320912Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1180,5 +1185,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-27T16:01:59.410883Z"
+  "last_updated": "2026-08-28T17:02:14.320981Z"
 }

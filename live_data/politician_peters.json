@@ -1531,6 +1531,11 @@
       "date": "2026-08-27T16:00:26.208702Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-08-28T17:00:31.364310Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1687,5 +1692,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-27T16:00:26.208749Z"
+  "last_updated": "2026-08-28T17:00:31.364382Z"
 }
