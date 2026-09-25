@@ -800,6 +800,11 @@
       "date": "2026-09-24T09:40:21.809880Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-09-25T09:57:25.352578Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -946,5 +951,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-24T09:40:21.809943Z"
+  "last_updated": "2026-09-25T09:57:25.352632Z"
 }
