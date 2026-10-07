@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-06T11:40:11.782773Z",
+  "generated": "2026-10-07T11:29:29.003483Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-10-06T11:40:10.780906Z",
+      "last_updated": "2026-10-07T11:29:28.001215Z",
       "lie_count": 35,
       "event_count": 20,
       "post_count": 15,
@@ -15,7 +15,7 @@
       ]
     },
     "politician_peters": {
-      "last_updated": "2026-10-06T11:36:47.378367Z",
+      "last_updated": "2026-10-07T11:26:13.022846Z",
       "lie_count": 36,
       "event_count": 20,
       "post_count": 22,
@@ -29,7 +29,7 @@
       ]
     },
     "politician_bishop": {
-      "last_updated": "2026-10-06T11:38:19.485843Z",
+      "last_updated": "2026-10-07T11:27:41.389934Z",
       "lie_count": 43,
       "event_count": 20,
       "post_count": 21,
@@ -43,7 +43,7 @@
       ]
     },
     "politician_trump_us": {
-      "last_updated": "2026-10-06T11:39:25.442514Z",
+      "last_updated": "2026-10-07T11:28:44.821007Z",
       "lie_count": 97,
       "event_count": 20,
       "post_count": 10,
@@ -57,7 +57,7 @@
       ]
     },
     "politician_willis": {
-      "last_updated": "2026-10-06T11:37:59.168689Z",
+      "last_updated": "2026-10-07T11:27:21.439528Z",
       "lie_count": 19,
       "event_count": 20,
       "post_count": 15,
@@ -70,7 +70,7 @@
       ]
     },
     "politician_luxon": {
-      "last_updated": "2026-10-06T11:36:24.036174Z",
+      "last_updated": "2026-10-07T11:25:50.604731Z",
       "lie_count": 51,
       "event_count": 20,
       "post_count": 43,
@@ -84,7 +84,7 @@
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-10-06T11:37:33.921160Z",
+      "last_updated": "2026-10-07T11:26:59.382673Z",
       "lie_count": 31,
       "event_count": 20,
       "post_count": 7,
@@ -97,7 +97,7 @@
       ]
     },
     "politician_seymour": {
-      "last_updated": "2026-10-06T11:37:11.258198Z",
+      "last_updated": "2026-10-07T11:26:39.558441Z",
       "lie_count": 0,
       "event_count": 20,
       "post_count": 1,
@@ -110,7 +110,7 @@
       ]
     },
     "politician_swarbrick": {
-      "last_updated": "2026-10-06T11:39:04.423674Z",
+      "last_updated": "2026-10-07T11:28:24.073859Z",
       "lie_count": 3,
       "event_count": 20,
       "post_count": 18,
@@ -123,7 +123,7 @@
       ]
     },
     "politician_hipkins": {
-      "last_updated": "2026-10-06T11:38:42.912885Z",
+      "last_updated": "2026-10-07T11:28:01.821544Z",
       "lie_count": 26,
       "event_count": 20,
       "post_count": 14,
@@ -136,7 +136,7 @@
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-10-06T11:39:47.630704Z",
+      "last_updated": "2026-10-07T11:29:07.823428Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
