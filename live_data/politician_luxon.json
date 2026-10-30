@@ -1991,6 +1991,11 @@
       "date": "2026-10-28T10:53:51.258727Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-10-30T11:05:53.658359Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -2150,5 +2155,5 @@
       ]
     }
   ],
-  "last_updated": "2026-10-29T11:11:16.905948Z"
+  "last_updated": "2026-10-30T11:05:53.658408Z"
 }
