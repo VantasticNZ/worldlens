@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-16T13:18:45.144445Z",
+  "generated": "2026-11-17T14:02:57.676481Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-11-16T13:18:44.142268Z",
+      "last_updated": "2026-11-17T14:02:56.674877Z",
       "lie_count": 35,
       "event_count": 20,
       "post_count": 15,
@@ -14,21 +14,8 @@
         ]
       ]
     },
-    "politician_hipkins": {
-      "last_updated": "2026-11-16T13:17:12.826332Z",
-      "lie_count": 26,
-      "event_count": 20,
-      "post_count": 14,
-      "vote_count": 0,
-      "sources": [
-        [
-          "Tavily: Chris Hipkins Labour statement 2026",
-          "Tavily: Chris Hipkins contradiction 2026"
-        ]
-      ]
-    },
     "politician_luxon": {
-      "last_updated": "2026-11-16T13:14:45.391426Z",
+      "last_updated": "2026-11-17T13:58:58.343431Z",
       "lie_count": 51,
       "event_count": 20,
       "post_count": 43,
@@ -41,35 +28,34 @@
         ]
       ]
     },
-    "politician_bishop": {
-      "last_updated": "2026-11-16T13:16:48.934758Z",
-      "lie_count": 43,
+    "politician_swarbrick": {
+      "last_updated": "2026-11-17T14:01:41.730568Z",
+      "lie_count": 3,
       "event_count": 20,
-      "post_count": 21,
-      "vote_count": 1,
-      "sources": [
-        [
-          "RSS (1 articles from NZ/intl media)",
-          "Tavily: Chris Bishop housing minister statement ",
-          "Tavily: Chris Bishop housing contradiction 2026"
-        ]
-      ]
-    },
-    "politician_seymour": {
-      "last_updated": "2026-11-16T13:15:40.821375Z",
-      "lie_count": 0,
-      "event_count": 20,
-      "post_count": 1,
+      "post_count": 18,
       "vote_count": 0,
       "sources": [
         [
-          "Tavily: David Seymour ACT contradiction fact che",
-          "Tavily: David Seymour statement 2026"
+          "Tavily: Chloe Swarbrick Green Party statement 20",
+          "Tavily: Chloe Swarbrick social media 2026"
+        ]
+      ]
+    },
+    "politician_willis": {
+      "last_updated": "2026-11-17T14:00:16.427844Z",
+      "lie_count": 19,
+      "event_count": 20,
+      "post_count": 15,
+      "vote_count": 0,
+      "sources": [
+        [
+          "Tavily: Nicola Willis finance minister contradic",
+          "Tavily: Nicola Willis statement 2026"
         ]
       ]
     },
     "politician_jones": {
-      "last_updated": "2026-11-16T13:16:03.200911Z",
+      "last_updated": "2026-11-17T13:59:56.839405Z",
       "lie_count": 31,
       "event_count": 20,
       "post_count": 7,
@@ -81,8 +67,21 @@
         ]
       ]
     },
+    "politician_seymour": {
+      "last_updated": "2026-11-17T13:59:38.347176Z",
+      "lie_count": 0,
+      "event_count": 20,
+      "post_count": 1,
+      "vote_count": 0,
+      "sources": [
+        [
+          "Tavily: David Seymour ACT contradiction fact che",
+          "Tavily: David Seymour statement 2026"
+        ]
+      ]
+    },
     "politician_peters": {
-      "last_updated": "2026-11-16T13:15:13.240919Z",
+      "last_updated": "2026-11-17T13:59:17.489384Z",
       "lie_count": 36,
       "event_count": 20,
       "post_count": 22,
@@ -95,8 +94,35 @@
         ]
       ]
     },
+    "politician_bishop": {
+      "last_updated": "2026-11-17T14:00:45.860345Z",
+      "lie_count": 43,
+      "event_count": 20,
+      "post_count": 21,
+      "vote_count": 1,
+      "sources": [
+        [
+          "RSS (1 articles from NZ/intl media)",
+          "Tavily: Chris Bishop housing minister statement ",
+          "Tavily: Chris Bishop housing contradiction 2026"
+        ]
+      ]
+    },
+    "politician_hipkins": {
+      "last_updated": "2026-11-17T14:01:12.809427Z",
+      "lie_count": 26,
+      "event_count": 20,
+      "post_count": 14,
+      "vote_count": 0,
+      "sources": [
+        [
+          "Tavily: Chris Hipkins Labour statement 2026",
+          "Tavily: Chris Hipkins contradiction 2026"
+        ]
+      ]
+    },
     "politician_albanese_au": {
-      "last_updated": "2026-11-16T13:18:21.832500Z",
+      "last_updated": "2026-11-17T14:02:33.883819Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
@@ -108,34 +134,8 @@
         ]
       ]
     },
-    "politician_willis": {
-      "last_updated": "2026-11-16T13:16:25.941561Z",
-      "lie_count": 19,
-      "event_count": 20,
-      "post_count": 15,
-      "vote_count": 0,
-      "sources": [
-        [
-          "Tavily: Nicola Willis finance minister contradic",
-          "Tavily: Nicola Willis statement 2026"
-        ]
-      ]
-    },
-    "politician_swarbrick": {
-      "last_updated": "2026-11-16T13:17:34.297527Z",
-      "lie_count": 3,
-      "event_count": 20,
-      "post_count": 18,
-      "vote_count": 0,
-      "sources": [
-        [
-          "Tavily: Chloe Swarbrick Green Party statement 20",
-          "Tavily: Chloe Swarbrick social media 2026"
-        ]
-      ]
-    },
     "politician_trump_us": {
-      "last_updated": "2026-11-16T13:17:56.288687Z",
+      "last_updated": "2026-11-17T14:02:09.916662Z",
       "lie_count": 97,
       "event_count": 20,
       "post_count": 10,
