@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-17T14:02:57.676481Z",
+  "generated": "2026-11-18T13:37:47.995520Z",
   "files": {
     "politician_starmer_uk": {
-      "last_updated": "2026-11-17T14:02:56.674877Z",
+      "last_updated": "2026-11-18T13:37:46.993706Z",
       "lie_count": 35,
       "event_count": 20,
       "post_count": 15,
@@ -14,8 +14,21 @@
         ]
       ]
     },
+    "politician_hipkins": {
+      "last_updated": "2026-11-18T13:36:17.325123Z",
+      "lie_count": 26,
+      "event_count": 20,
+      "post_count": 14,
+      "vote_count": 0,
+      "sources": [
+        [
+          "Tavily: Chris Hipkins Labour statement 2026",
+          "Tavily: Chris Hipkins contradiction 2026"
+        ]
+      ]
+    },
     "politician_luxon": {
-      "last_updated": "2026-11-17T13:58:58.343431Z",
+      "last_updated": "2026-11-18T13:33:58.406348Z",
       "lie_count": 51,
       "event_count": 20,
       "post_count": 43,
@@ -28,74 +41,8 @@
         ]
       ]
     },
-    "politician_swarbrick": {
-      "last_updated": "2026-11-17T14:01:41.730568Z",
-      "lie_count": 3,
-      "event_count": 20,
-      "post_count": 18,
-      "vote_count": 0,
-      "sources": [
-        [
-          "Tavily: Chloe Swarbrick Green Party statement 20",
-          "Tavily: Chloe Swarbrick social media 2026"
-        ]
-      ]
-    },
-    "politician_willis": {
-      "last_updated": "2026-11-17T14:00:16.427844Z",
-      "lie_count": 19,
-      "event_count": 20,
-      "post_count": 15,
-      "vote_count": 0,
-      "sources": [
-        [
-          "Tavily: Nicola Willis finance minister contradic",
-          "Tavily: Nicola Willis statement 2026"
-        ]
-      ]
-    },
-    "politician_jones": {
-      "last_updated": "2026-11-17T13:59:56.839405Z",
-      "lie_count": 31,
-      "event_count": 20,
-      "post_count": 7,
-      "vote_count": 0,
-      "sources": [
-        [
-          "Tavily: Shane Jones NZ First controversy 2026",
-          "Tavily: Shane Jones statement tweet 2026"
-        ]
-      ]
-    },
-    "politician_seymour": {
-      "last_updated": "2026-11-17T13:59:38.347176Z",
-      "lie_count": 0,
-      "event_count": 20,
-      "post_count": 1,
-      "vote_count": 0,
-      "sources": [
-        [
-          "Tavily: David Seymour ACT contradiction fact che",
-          "Tavily: David Seymour statement 2026"
-        ]
-      ]
-    },
-    "politician_peters": {
-      "last_updated": "2026-11-17T13:59:17.489384Z",
-      "lie_count": 36,
-      "event_count": 20,
-      "post_count": 22,
-      "vote_count": 0,
-      "sources": [
-        [
-          "RSS (1 articles from NZ/intl media)",
-          "Tavily: Winston Peters NZ First contradiction 20",
-          "Tavily: Winston Peters tweet statement 2026"
-        ]
-      ]
-    },
     "politician_bishop": {
-      "last_updated": "2026-11-17T14:00:45.860345Z",
+      "last_updated": "2026-11-18T13:35:54.821150Z",
       "lie_count": 43,
       "event_count": 20,
       "post_count": 21,
@@ -108,21 +55,48 @@
         ]
       ]
     },
-    "politician_hipkins": {
-      "last_updated": "2026-11-17T14:01:12.809427Z",
-      "lie_count": 26,
+    "politician_seymour": {
+      "last_updated": "2026-11-18T13:34:47.226323Z",
+      "lie_count": 0,
       "event_count": 20,
-      "post_count": 14,
+      "post_count": 1,
       "vote_count": 0,
       "sources": [
         [
-          "Tavily: Chris Hipkins Labour statement 2026",
-          "Tavily: Chris Hipkins contradiction 2026"
+          "Tavily: David Seymour ACT contradiction fact che",
+          "Tavily: David Seymour statement 2026"
+        ]
+      ]
+    },
+    "politician_jones": {
+      "last_updated": "2026-11-18T13:35:10.133567Z",
+      "lie_count": 31,
+      "event_count": 20,
+      "post_count": 7,
+      "vote_count": 0,
+      "sources": [
+        [
+          "Tavily: Shane Jones NZ First controversy 2026",
+          "Tavily: Shane Jones statement tweet 2026"
+        ]
+      ]
+    },
+    "politician_peters": {
+      "last_updated": "2026-11-18T13:34:21.470335Z",
+      "lie_count": 36,
+      "event_count": 20,
+      "post_count": 22,
+      "vote_count": 0,
+      "sources": [
+        [
+          "RSS (1 articles from NZ/intl media)",
+          "Tavily: Winston Peters NZ First contradiction 20",
+          "Tavily: Winston Peters tweet statement 2026"
         ]
       ]
     },
     "politician_albanese_au": {
-      "last_updated": "2026-11-17T14:02:33.883819Z",
+      "last_updated": "2026-11-18T13:37:23.382843Z",
       "lie_count": 1,
       "event_count": 20,
       "post_count": 4,
@@ -134,8 +108,34 @@
         ]
       ]
     },
+    "politician_willis": {
+      "last_updated": "2026-11-18T13:35:31.741385Z",
+      "lie_count": 19,
+      "event_count": 20,
+      "post_count": 15,
+      "vote_count": 0,
+      "sources": [
+        [
+          "Tavily: Nicola Willis finance minister contradic",
+          "Tavily: Nicola Willis statement 2026"
+        ]
+      ]
+    },
+    "politician_swarbrick": {
+      "last_updated": "2026-11-18T13:36:37.511024Z",
+      "lie_count": 3,
+      "event_count": 20,
+      "post_count": 18,
+      "vote_count": 0,
+      "sources": [
+        [
+          "Tavily: Chloe Swarbrick Green Party statement 20",
+          "Tavily: Chloe Swarbrick social media 2026"
+        ]
+      ]
+    },
     "politician_trump_us": {
-      "last_updated": "2026-11-17T14:02:09.916662Z",
+      "last_updated": "2026-11-18T13:36:59.673770Z",
       "lie_count": 97,
       "event_count": 20,
       "post_count": 10,
