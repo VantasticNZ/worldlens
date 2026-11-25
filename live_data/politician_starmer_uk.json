@@ -1553,6 +1553,11 @@
       "date": "2026-11-24T15:28:36.641310Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-11-25T15:12:25.893396Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1699,5 +1704,5 @@
       ]
     }
   ],
-  "last_updated": "2026-11-24T15:28:36.641351Z"
+  "last_updated": "2026-11-25T15:12:25.893437Z"
 }
