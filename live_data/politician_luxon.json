@@ -1996,6 +1996,11 @@
       "date": "2026-10-30T11:05:53.658359Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-11-26T14:35:51.400729Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -2155,5 +2160,5 @@
       ]
     }
   ],
-  "last_updated": "2026-11-25T15:09:34.277130Z"
+  "last_updated": "2026-11-26T14:35:51.400781Z"
 }

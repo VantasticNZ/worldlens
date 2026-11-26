@@ -1763,6 +1763,11 @@
       "date": "2026-11-25T15:11:05.763758Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-11-26T14:37:24.728768Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -1910,5 +1915,5 @@
       ]
     }
   ],
-  "last_updated": "2026-11-25T15:11:05.763800Z"
+  "last_updated": "2026-11-26T14:37:24.728814Z"
 }
