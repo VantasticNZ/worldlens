@@ -680,6 +680,11 @@
       "date": "2026-11-26T14:38:38.228952Z",
       "notes": "No results",
       "new_items": false
+    },
+    {
+      "date": "2026-11-27T14:33:26.280365Z",
+      "notes": "No results",
+      "new_items": false
     }
   ],
   "sources_log": [
@@ -824,5 +829,5 @@
       ]
     }
   ],
-  "last_updated": "2026-11-26T14:38:38.228999Z"
+  "last_updated": "2026-11-27T14:33:26.280417Z"
 }
